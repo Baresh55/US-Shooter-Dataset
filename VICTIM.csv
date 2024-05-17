@@ -1,0 +1,3094 @@
+incidentid,race,injury,gender,schoolaffiliation,age
+19700105DCHIW,unknown,Fatal,Male,Student,Adolescent
+19700105DCSOW,unknown,Wounded,Male,Student,Teen
+19700105DCUNW,unknown,None,Male,Unknown,Adolescent
+19700206OHJOC,unknown,Wounded,Male,Student,Young Adult
+19700323CADAL,unknown,Wounded,Male,Security Guard,Adult
+19700323CADAL,unknown,Wounded,Male,Student,Adolescent
+19700415ARPIP,Black,Fatal,Male,Student,Young Adult
+19700415ARPIP,Black,Wounded,Unknown,Student,Teen
+19700415ARPIP,Black,Wounded,Unknown,Student,Teen
+19700415ARPIP,Black,Wounded,Unknown,Student,Teen
+19700415ARPIP,Black,Wounded,Unknown,Student,Teen
+19700415ARPIP,Black,Wounded,Unknown,Student,Teen
+19700422DEPIW,Black,Fatal,Male,Student,Young Adult
+19700508FLCAD,unknown,Wounded,Male,Student,Young Adult
+19700515UTBEO,unknown,Wounded,Female,Teacher,Adult
+19700515UTBEO,unknown,Wounded,Male,Student,Adolescent
+19700828TXRIE,Hispanic,Wounded,Male,Student,Adolescent
+19700831FLALM,Hispanic,Fatal,Male,Parent,Adult
+19700914TNHAN,Black,Wounded,Male,Student,Adolescent
+19700914TNHAN,Black,Wounded,Male,Student,Adolescent
+19700914TNHAN,Black,Fatal,Male,Student,Young Adult
+19700924IDMEM,unknown,Fatal,Male,Student,Adolescent
+19700928IACED,unknown,Wounded,Female,Student,Teen
+19701005MIPOD,unknown,Wounded,Male,Student,Teen
+19701005MIPOD,unknown,Wounded,Male,Student,Teen
+19701005MIPOD,unknown,Wounded,Male,Student,Teen
+19701005MIPOD,unknown,Wounded,Male,Student,Teen
+19701019TNBOM,unknown,Fatal,Male,Student,Teen
+19701020TNWAN,unknown,Wounded,Male,Student,Adolescent
+19701027OHAPM,unknown,Wounded,Male,Student,Adolescent
+19701120ILHAC,unknown,Wounded,Female,Student,Adolescent
+19701120ILHAC,unknown,Wounded,Male,Student,Adolescent
+19701212WIXAA,unknown,Fatal,Male,No Relation,Adult
+19710202PAMOP,White,Fatal,Male,Teacher,Adult
+19710205PAJOW,unknown,Wounded,Male,Student,Adolescent
+19710210TXOAD,unknown,Wounded,unknown,Student,Teen
+19710210TXOAD,unknown,Wounded,unknown,Student,Teen
+19710225OHFRC,unknown,Fatal,Male,Student,Adolescent
+19710309AZROT,unknown,Wounded,Female,Student,Adolescent
+19710405PAWIH,unknown,Minor Injuries,Female,Student,Young Adult
+19710527MIBES,unknown,Wounded,Male,Student,Adolescent
+19710602NYEAE,unknown,None,Male,Student,Adolescent
+19710820PAMOM,Black,Wounded,Male,Student,Young Adult
+19710909TXDUL,Black,Fatal,Male,Student,Adolescent
+19710924NYMCB,unknown,Fatal,Male,Student,Young Adult
+19710928MNCEM,unknown,None,unknown,Student,Teen
+19710929VAPEP,Black,Wounded,Female,Student,Adolescent
+19710929VAPEP,White,Fatal,Male,Student,Adolescent
+19710929VAPEP,Black,Wounded,Male,Student,Adolescent
+19711028MDCIB,unknown,Wounded,Male,Student,Adolescent
+19711029MDFOB,unknown,Wounded,Male,Student,Teen
+19711029MDFRB,unknown,Wounded,Male,Student,Teen
+19711029MDFRB,unknown,Wounded,Male,Student,Teen
+19711103NMCAC,unknown,Wounded,Male,Police Officer/SRO,Adult
+19711108OKGRT,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+19711124MDEDB,unknown,Fatal,Male,Student,Adolescent
+19711206CALOL,unknown,Wounded,Male,Student,Adolescent
+19711206CALOL,unknown,Wounded,Male,Student,Adolescent
+19711206CALOL,unknown,Wounded,Female,Student,Adolescent
+19711206CALOL,unknown,Wounded,Female,Student,Adolescent
+19711213MDCAB,unknown,Wounded,Male,Student,Adolescent
+19720105DCPAW,unknown,Fatal,Female,Teacher,Adult
+19720124OHSTS,White,Wounded,Male,Teacher,Adult
+19720126MDGWB,unknown,Wounded,Male,Student,Adolescent
+19720126MDHAB,unknown,Wounded,Male,Student,Adolescent
+19720214ILCAC,unknown,Fatal,Male,Student,Young Adult
+19720215ILKEC,unknown,None,Male,No Relation,Young Adult
+19720228CAMAL,unknown,Wounded,Male,Student,Adolescent
+19720313TXUNH,unknown,Wounded,Male,Student,Adolescent
+19720412LAEAG,unknown,Wounded,Female,Teacher,Adult
+19720504NVLIR,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+19720505INDEI,unknown,Fatal,Male,Student,Adolescent
+19720914TXFRH,unknown,Wounded,Male,Teacher,Adult
+19720915MISAS,unknown,Wounded,Male,Student,Teen
+19720915MISAS,unknown,Wounded,Male,Student,Teen
+19720919TXCUH,unknown,Wounded,Female,Teacher,Adult
+19720921OHTHA,White,Wounded,Female,Teacher,Adult
+19721111CAJEL,unknown,Wounded,Female,Student,Adolescent
+19721111CAJEL,unknown,Wounded,Female,Student,Adolescent
+19721111CAJEL,unknown,Wounded,Male,Student,Adolescent
+19721111CAJEL,unknown,Wounded,Male,Student,Adolescent
+19721111CAJEL,unknown,Wounded,Male,Student,Adolescent
+19721127MIPOP,unknown,Wounded,Female,Student,Adolescent
+19721127MIPOP,unknown,Wounded,Female,Student,Adolescent
+19721127MIPOP,unknown,Wounded,Male,Student,Adolescent
+19721127MIPOP,unknown,Wounded,Male,Student,Adolescent
+19721127MIPOP,unknown,Wounded,Male,Student,Adolescent
+19721129FLMIM,unknown,Wounded,Male,Student,Adolescent
+19730105NCSOS,White,Wounded,Female,Student,Teen
+19730105NCSOS,White,Wounded,Female,Student,Teen
+19730105NCSOS,White,Wounded,Male,Student,Teen
+19730105NCSOS,White,Wounded,Male,Student,Teen
+19730118CAJOL,unknown,Wounded,Male,Other Staff,Young Adult
+19730118CAJOL,unknown,Wounded,Male,Other Staff,Young Adult
+19730131NCCUB,unknown,Wounded,Male,Student,Teen
+19730212ALBOM,unknown,Wounded,Male,Student,Adolescent
+19730226VAARR,unknown,Fatal,Male,Student,Adolescent
+19730226VAARR,unknown,Wounded,Female,Student,Adolescent
+19730405CALOL,unknown,Wounded,Male,Student,Adolescent
+19730405CALOL,unknown,Wounded,Male,Student,Adolescent
+19730501OHRAY,unknown,Wounded,Female,Student,Adolescent
+19730501OHRAY,unknown,Wounded,Male,Student,Adolescent
+19730501OHRAY,unknown,Wounded,Male,Student,Adolescent
+19730928CAWIL,unknown,Wounded,Female,Student,Adolescent
+19730928CAWIL,unknown,Wounded,Male,Student,Teen
+19730928CAWIL,unknown,Wounded,Male,Student,Teen
+19731002ILELA,unknown,Fatal,Female,Student,Adolescent
+19731019MOBES,unknown,Fatal,Male,Student,Adolescent
+19731023MOSUS,unknown,Wounded,Male,Student,Young Adult
+19731023OHBAB,unknown,Wounded,Male,Teacher,Adult
+19731024MNCEM,unknown,Wounded,Male,Student,Adolescent
+19731031MONOS,unknown,Wounded,Male,No Relation,Adolescent
+19731108ILWOC,unknown,Fatal,Male,Student,Young Adult
+19731109CALOL,unknown,Wounded,Female,No Relation,Adolescent
+19731109CALOL,unknown,Fatal,Female,No Relation,Infant
+19731206CAFRL,unknown,Wounded,Male,Student,Adolescent
+19731213OHHUC,unknown,Wounded,Male,Student,Adolescent
+19740117ILBAC,unknown,Wounded,Male,Security Guard,Adult
+19740117ILBAC,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19740117ILBAC,unknown,Minor Injuries,Male,Teacher,Adult
+19740117ILBAC,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+19740122CALOL,unknown,Fatal,Male,Student,Young Adult
+19740207CAJAO,unknown,Fatal,Male,No Relation,Adult
+19740207CAJAO,unknown,Fatal,Male,No Relation,Adult
+19740322INBRB,unknown,Fatal,Male,Teacher,Adult
+19740402CTSTB,unknown,Wounded,Male,Student,Preschooler
+19740402CTSTB,unknown,Wounded,Female,Teacher,Adult
+19740510TNCHR,unknown,Fatal,Male,Student,Young Adult
+19740519FLHIO,unknown,None,unknown,unknown,unknown
+19740923CAJED,unknown,Wounded,Male,Student,Adolescent
+19740925CASAL,unknown,Wounded,Male,Student,Adolescent
+19741007LADEH,White,Wounded,Male,Student,Teen
+19741007LADEH,White,Fatal,Male,Student,Adolescent
+19741021MDDOB,unknown,Wounded,Male,Security Guard,Adult
+19741118SCCAC,unknown,Wounded,Male,No Relation,Young Adult
+19741121ARBOL,unknown,Fatal,Male,Student,Adolescent
+19741121ARBOL,unknown,Wounded,Male,Student,Adolescent
+19741125SCCAC,unknown,None,unknown,unknown,unknown
+19741218CAMAL,unknown,Fatal,Male,Student,Adolescent
+19741218CAMAL,unknown,Wounded,Male,Student,Adolescent
+19741230NYOLO,unknown,Wounded,Male,Police Officer/SRO,Adult
+19741230NYOLO,unknown,Fatal,Female,No Relation,Adult
+19741230NYOLO,unknown,Minor Injuries,Male,Police Officer/SRO,Adult
+19741230NYOLO,unknown,Fatal,Male,Other Staff,Adult
+19741230NYOLO,unknown,Wounded,Male,Police Officer/SRO,Young Adult
+19741230NYOLO,unknown,Minor Injuries,Male,Police Officer/SRO,Adult
+19741230NYOLO,unknown,Wounded,Male,Police Officer/SRO,Adult
+19741230NYOLO,unknown,Wounded,Male,Police Officer/SRO,Adult
+19741230NYOLO,unknown,Minor Injuries,Male,Student,School Age Child
+19741230NYOLO,unknown,Fatal,Male,No Relation,Adult
+19741230NYOLO,unknown,Minor Injuries,Male,Police Officer/SRO,Adult
+19741230NYOLO,unknown,Wounded,Male,No Relation,Child
+19741230NYOLO,unknown,Wounded,Male,No Relation,Adult
+19741230NYOLO,unknown,Wounded,Male,Police Officer/SRO,Adult
+19750207NYBOM,unknown,None,Male,Student,Adolescent
+19750224NJSTP,unknown,Wounded,Female,Teacher,Adult
+19750224NJSTP,unknown,Fatal,Male,Teacher,Adult
+19750312TXJOH,unknown,Wounded,Male,Student,Adolescent
+19750312TXJOH,unknown,Wounded,Male,Student,Adolescent
+19750318MOSUS,unknown,Fatal,Male,Student,Young Adult
+19750321OHPAD,unknown,Wounded,Male,Student,Adult
+19750321VAFAR,unknown,Wounded,Female,Student,School Age Child
+19750515MOROS,unknown,Wounded,Male,Other Staff,Adult
+19750527MIPID,unknown,Fatal,Male,Student,Adolescent
+19750709ILDEC,unknown,Wounded,Female,Teacher,Adult
+19750711MOCES,unknown,Wounded,Female,Student,Adolescent
+19750711MOCES,unknown,Wounded,Female,Student,Young Adult
+19750911OKGRO,White,Fatal,Male,Student,Adolescent
+19750911OKGRO,White,Wounded,Male,Student,Teen
+19750911OKGRO,unknown,Minor Injuries,Male,Student,Teen
+19750911OKGRO,unknown,Minor Injuries,Male,Student,Teen
+19750911OKGRO,unknown,Minor Injuries,Male,Student,Teen
+19750911OKGRO,unknown,Wounded,unknown,Police Officer/SRO,Adult
+19751001NMHEA,unknown,Fatal,Male,Teacher,Adult
+19751024GAMUA,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19751218CAORS,unknown,Wounded,Male,Unknown,Young Adult
+19760101AZCAP,unknown,Wounded,Male,Security Guard,Adult
+19760123OHCOC,unknown,Wounded,Female,Other Staff,Adult
+19760123OHCOC,unknown,Fatal,Male,Teacher,Adult
+19760206FLESP,White,Wounded,Male,Student,Teen
+19760206FLESP,White,Wounded,Male,Student,Teen
+19760206FLESP,White,Wounded,Male,Student,Teen
+19760206FLESP,White,Wounded,Male,Student,Teen
+19760212MIMUD,unknown,Wounded,Male,Student,Teen
+19760212MIMUD,unknown,Wounded,Male,Student,Teen
+19760212MIMUD,unknown,Wounded,Male,Student,Teen
+19760212MIMUD,unknown,Wounded,Male,Student,Teen
+19760212MIMUD,unknown,Wounded,Male,Student,Teen
+19760412TXODF,unknown,Fatal,Male,Student,Adolescent
+19760412TXODF,unknown,Wounded,Male,Student,Adolescent
+19760513MOMAS,unknown,Wounded,Male,Student,School Age Child
+19760514FLPAW,unknown,Wounded,Male,Former Student,Young Adult
+19760602MDMTC,unknown,None,unknown,unknown,unknown
+19760920NCGUG,unknown,Wounded,Female,Bus Driver,Adult
+19761110MIBUD,unknown,Fatal,Female,Teacher,Adult
+19761210MOFRS,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19761210MOFRS,unknown,Wounded,Female,Teacher,Adult
+19770113ILOLB,unknown,Wounded,Male,Student,Adolescent
+19770209ILFEC,unknown,Wounded,Male,Student,Adolescent
+19770209ILFEC,unknown,Wounded,Male,Student,Teen
+19770209ILFEC,unknown,Wounded,Male,Student,Teen
+19770209ILFEC,unknown,Fatal,Female,Student,Teen
+19770228MOROS,unknown,Wounded,Male,Student,Adolescent
+19770228MOROS,unknown,Wounded,Male,Student,Adolescent
+19770228TXHOA,unknown,Wounded,Male,Student,Adolescent
+19770308ILCOE,unknown,Wounded,Female,Student,Adolescent
+19770308ILCOE,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19770321NYPAH,unknown,None,unknown,unknown,unknown
+19770407TXWHW,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+19770418TNPIN,unknown,Fatal,Male,Parent,Adult
+19770517FLSTC,unknown,None,unknown,unknown,unknown
+19770622ILHOC,unknown,Wounded,Male,Student,Young Adult
+19770622ILHOC,unknown,Wounded,Male,Student,Young Adult
+19770711COSOC,unknown,Wounded,Male,Student,Adolescent
+19771129MOHAS,unknown,None,unknown,unknown,unknown
+19771129MOVAS,unknown,Wounded,Male,Student,Adolescent
+19771209CAPES,unknown,None,Female,Teacher,Adult
+19771212FLWEW,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+19771215MABLC,unknown,Wounded,Male,Student,Adolescent
+19771215MABLC,unknown,Wounded,Male,Student,Young Adult
+19780111KYCHH,unknown,Wounded,Male,Student,Teen
+19780209WVHAS,unknown,Fatal,Male,Student,Teen
+19780222MIEVL,unknown,Fatal,Male,Student,Adolescent
+19780222MIEVL,unknown,Wounded,Male,Student,Adolescent
+19780309CAMOS,unknown,Wounded,Male,Student,School Age Child
+19780329TNGAN,White,Wounded,Male,Parent,Adult
+19780414MIFOD,unknown,Wounded,Male,Student,Adolescent
+19780426TXPAD,unknown,Fatal,Male,Other Staff,Adult
+19780428ILRIN,unknown,Wounded,Male,Student,Adolescent
+19780428ILRIN,unknown,Fatal,Male,Student,Adolescent
+19780428ILRIN,unknown,Fatal,Male,Student,Adolescent
+19780428ILRIN,unknown,Wounded,Male,Student,Adolescent
+19780518TXMUA,unknown,Fatal,Male,Teacher,Adult
+19780519PADOP,unknown,Wounded,unknown,Student,School Age Child
+19780519PADOP,unknown,Wounded,unknown,Student,Child
+19780519PADOP,unknown,Wounded,unknown,Student,Child
+19780519PADOP,unknown,Wounded,unknown,Student,Child
+19780519PADOP,unknown,Wounded,unknown,Student,Child
+19780519PADOP,unknown,Wounded,unknown,Student,Child
+19780519PADOP,unknown,Wounded,unknown,Student,Child
+19780519PADOP,unknown,Wounded,unknown,Student,Child
+19780607DEDOD,unknown,Fatal,Male,Student,Young Adult
+19780610MAWEW,unknown,None,Male,Student,Adolescent
+19781017ALLAL,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19781017MOUNU,unknown,Wounded,Male,Student,Teen
+19781017MOUNU,unknown,Wounded,Male,Student,Teen
+19781017MOUNU,unknown,Wounded,Male,Student,Teen
+19781129NYPAN,unknown,Wounded,Male,Student,Adolescent
+19781214CTWIN,unknown,Fatal,Male,Teacher,Adult
+19790129CAGRS,unknown,Fatal,Male,Other Staff,Adult
+19790129CAGRS,unknown,Fatal,Male,Other Staff,Adult
+19790129CAGRS,unknown,Wounded,unknown,Student,Child
+19790129CAGRS,unknown,Wounded,Male,Police Officer/SRO,Adult
+19790129CAGRS,unknown,Wounded,unknown,Student,Child
+19790129CAGRS,unknown,Wounded,unknown,Student,Child
+19790129CAGRS,unknown,Wounded,unknown,Student,Child
+19790129CAGRS,unknown,Wounded,unknown,Student,Child
+19790129CAGRS,unknown,Wounded,unknown,Student,Child
+19790129CAGRS,unknown,Wounded,unknown,Student,Child
+19790129CAGRS,unknown,Wounded,unknown,Student,Child
+19790314FLMCM,unknown,Wounded,Male,Teacher,Adult
+19790328CALOL,unknown,Wounded,Female,Teacher,Adult
+19790416WIWIM,unknown,Wounded,Male,Former Student,Adolescent
+19790425PAMAH,unknown,Wounded,Male,Teacher,Adult
+19790426TXAZA,unknown,Fatal,Male,Student,Adolescent
+19790614OHNEN,unknown,Fatal,Male,unknown,Adolescent
+19790926LACAN,unknown,Wounded,Male,Student,Adolescent
+19790926LACAN,unknown,Wounded,Male,Student,Adolescent
+19790928MACHC,Black,Wounded,Male,Student,Adolescent
+19791023MOOFS,unknown,Wounded,Male,Student,Adolescent
+19791023MOOFS,unknown,Wounded,Male,Student,Young Adult
+19791105INWAI,unknown,Wounded,Male,Student,Adolescent
+19791130TXUNL,unknown,Wounded,Female,Student,School Age Child
+19791203MDEAB,unknown,Wounded,Male,Student,Adolescent
+19791203MDEAB,unknown,Wounded,Male,Student,Teen
+19791203MDEAB,unknown,Wounded,Male,Student,Teen
+19791221MOBLS,unknown,Wounded,Male,Student,Adolescent
+19800107ARSTS,White,Fatal,Male,Student,Young Adult
+19800129VALAW,unknown,None,Male,Student,Adolescent
+19800201DCLAW,unknown,Wounded,Male,Student,School Age Child
+19800207TXVAL,unknown,Wounded,Male,Student,School Age Child
+19800211INARI,unknown,Wounded,Male,Student,Adolescent
+19800215MSHUM,Black,Fatal,Female,Teacher,Adult
+19800320TXJLD,unknown,Fatal,Female,Teacher,Adult
+19800331MDFRB,Black,Wounded,Male,Student,Adolescent
+19800417VACAC,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+19800417VACAC,unknown,Fatal,Female,Other Staff,Adult
+19800530NYCLB,unknown,None,Male,Student,Adolescent
+19800902CAWHL,unknown,Wounded,Male,Student,Teen
+19800902CAWHL,unknown,Wounded,Male,Student,Teen
+19800902CAWHL,unknown,Wounded,Male,Student,Teen
+19800902CAWHL,unknown,Wounded,Male,Student,Teen
+19800902CAWHL,unknown,Wounded,Male,Student,Teen
+19800902CAWHL,unknown,Wounded,Male,Student,Teen
+19800902CAWHL,unknown,Wounded,Male,Student,Teen
+19800902CAWHL,unknown,Wounded,Male,Student,Teen
+19800902CAWHL,unknown,Wounded,Male,Student,Teen
+19800902CAWHL,unknown,Wounded,Male,Student,Teen
+19800908FLFOJ,unknown,Wounded,Male,Teacher,Adult
+19800910DCSPW,unknown,Fatal,Male,Student,Adolescent
+19800911ALJOM,unknown,Fatal,Female,Teacher,Adult
+19800926CTBRB,unknown,Wounded,Male,Student,Adolescent
+19800926CTBRB,unknown,Wounded,Male,Student,Adolescent
+19801013ALCET,unknown,Wounded,Male,Student,Adolescent
+19801031ALHUH,unknown,Wounded,Male,Student,Adolescent
+19801117TXEAF,Black,Wounded,Male,Student,Adolescent
+19801212ALPAB,unknown,Wounded,Female,Student,Adolescent
+19801212OHLOL,unknown,Wounded,Male,Other Staff,Adult
+19810121OHWIB,unknown,Wounded,Male,Teacher,Adult
+19810122MDFRB,unknown,None,Male,Student,Young Adult
+19810210ARLIL,unknown,Wounded,Male,Student,Adolescent
+19810210CAMAL,unknown,Fatal,Male,Student,Adolescent
+19810303INMAI,unknown,Wounded,Male,Student,Adolescent
+19810328FLDIF,unknown,Fatal,Male,Student,Young Adult
+19810402OHALC,unknown,Wounded,Male,Student,Adolescent
+19810407MSPOP,unknown,Wounded,Female,Student,Teen
+19810515LANEN,unknown,Wounded,Female,Teacher,Adult
+19810901PAWIP,unknown,Wounded,Male,Gang Member,Adult
+19810901PAWIP,unknown,Wounded,Male,Gang Member,Adult
+19810901PAWIP,unknown,Wounded,Male,Gang Member,Adult
+19810904NMHOS,unknown,Wounded,Male,Student,Adolescent
+19810904NMHOS,unknown,Wounded,Male,Student,Adolescent
+19810908FLSTW,unknown,None,Male,Student,School Age Child
+19810913MDABA,unknown,Fatal,Male,Unknown,Young Adult
+19811013CTHAH,unknown,Wounded,Male,Student,Teen
+19811209NYGEB,unknown,Fatal,Male,Student,Young Adult
+19811216TXUNH,unknown,Wounded,Male,Student,Young Adult
+19811223NYJAB,unknown,Fatal,Male,Student,Adolescent
+19820205TNHAM,unknown,Fatal,Male,Former Teacher,Adult
+19820208MADOD,Black,Wounded,Female,Student,Adolescent
+19820209LAJON,unknown,Fatal,Male,Student,unknown
+19820315ORSPS,unknown,None,Male,Student,Adolescent
+19820317OHLOL,unknown,None,Male,Student,Adolescent
+19820319NVVAL,unknown,Fatal,Male,Teacher,Adult
+19820319NVVAL,unknown,Wounded,Male,Student,Adolescent
+19820319NVVAL,unknown,Wounded,Male,Student,Adolescent
+19820407CODEL,unknown,Fatal,Male,Student,Adolescent
+19820415MDFOB,unknown,Wounded,Male,Teacher,Adult
+19820429GARUE,unknown,None,Unknown,Student,Teen
+19820430FLANA,unknown,Wounded,Male,Student,Teen
+19820527NVGAL,unknown,Wounded,Female,Student,Adolescent
+19820527NVGAL,unknown,Wounded,Female,Student,Adolescent
+19820910VALAB,unknown,None,Female,Student,Teen
+19820915ARSOP,unknown,None,Male,Student,School Age Child
+19821101NYELE,unknown,Wounded,Male,Student,Adolescent
+19821108MICOD,unknown,Wounded,Male,Student,Adolescent
+19821108MICOD,unknown,Wounded,Male,Student,Adolescent
+19821112MSWIJ,unknown,Fatal,Female,Student,Adolescent
+19821206ALHUH,unknown,None,Male,Student,Adolescent
+19821220MIFID,Black,Wounded,Male,Student,Adolescent
+19830118TXJOH,unknown,Fatal,Female,Student,Adult
+19830120MOPAB,unknown,Fatal,Male,Student,Adolescent
+19830120MOPAB,unknown,Wounded,Male,Student,Adolescent
+19830128MDWIB,unknown,None,Male,Student,Teen
+19830130TXWEC,unknown,Fatal,Male,unknown,Adolescent
+19830131FLDED,unknown,None,Female,Student,Teen
+19830201TNRIM,unknown,None,Male,Student,Adolescent
+19830202NMALA,unknown,Wounded,Female,Student,Adolescent
+19830331ILSAC,unknown,None,Female,Teacher,Young Adult
+19830421MOBES,unknown,Wounded,Male,Student,Teen
+19830516NYBRN,unknown,Wounded,Male,Teacher,Adult
+19830516NYBRN,unknown,Wounded,Male,Student,Adolescent
+19830516TXLAD,unknown,Fatal,Female,Other Staff,Adult
+19830518FLNOM,unknown,Wounded,Male,Student,Teen
+19830523OHMAM,Black,Wounded,Male,Student,Adolescent
+19830526PAGRJ,unknown,None,Male,Student,Adolescent
+19830912CAMAC,unknown,Wounded,Female,Student,Teen
+19830912CAMAC,unknown,Wounded,Female,Student,Teen
+19830912CAMAC,unknown,Wounded,Male,Student,Teen
+19830912CAMAC,unknown,Wounded,Male,Student,Teen
+19830912CAMAC,unknown,Wounded,Male,Student,Teen
+19830912MIHED,unknown,Fatal,Male,Student,Teen
+19830921MDWAB,unknown,None,Male,Student,Teen
+19830930TXTET,unknown,Wounded,Male,Student,Adolescent
+19830930TXTET,unknown,Wounded,Male,Student,Adolescent
+19830930TXTET,unknown,Wounded,Male,Student,Adolescent
+19831007CACOL,unknown,Wounded,Female,Student,Adolescent
+19831022MDCAB,unknown,Fatal,Male,Unknown,Young Adult
+19831108MIHIH,Black,Fatal,Male,Student,Adolescent
+19831117ILJAC,unknown,Wounded,Male,Gang Member,Adolescent
+19831117ILJAC,Hispanic,Fatal,Male,Gang Member,Young Adult
+19831118MDHAB,unknown,Fatal,Male,Student,Adolescent
+19831202INCRC,unknown,Wounded,Male,Student,Teen
+19831216ILBOR,unknown,Wounded,Female,Teacher,Adult
+19840105MDLAB,unknown,Wounded,Male,Student,Adolescent
+19840206KYCEL,unknown,Wounded,Male,Student,Teen
+19840221TXSHH,unknown,Wounded,Male,Teacher,Adult
+19840224CA49L,unknown,Wounded,Male,Other Staff,Adult
+19840224CA49L,unknown,Wounded,Female,Student,School Age Child
+19840224CA49L,unknown,Wounded,Female,Student,School Age Child
+19840224CA49L,Hispanic,Fatal,Male,No Relation,Young Adult
+19840224CA49L,unknown,Minor Injuries,Female,Student,School Age Child
+19840224CA49L,unknown,Wounded,Female,Student,School Age Child
+19840224CA49L,unknown,Minor Injuries,Male,Student,School Age Child
+19840224CA49L,unknown,Minor Injuries,Male,Student,School Age Child
+19840224CA49L,unknown,Wounded,Female,Student,School Age Child
+19840224CA49L,unknown,Minor Injuries,Male,Student,School Age Child
+19840224CA49L,unknown,Wounded,Female,Student,School Age Child
+19840224CA49L,unknown,Fatal,Female,Student,School Age Child
+19840224CA49L,unknown,Wounded,Male,Student,School Age Child
+19840224CA49L,unknown,Wounded,unknown,Student,School Age Child
+19840405LACLC,unknown,Wounded,Male,Student,Teen
+19840420MIPRD,unknown,Fatal,Male,Student,Teen
+19840426NCROW,unknown,None,Male,Student,School Age Child
+19840515MTCMG,unknown,None,Male,Student,Young Adult
+19840517IASOP,unknown,Fatal,Female,Student,Teen
+19840517TXBOH,unknown,Wounded,Female,Student,Adolescent
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840518CANON,unknown,Wounded,unknown,Student,Teen
+19840522OHCLC,unknown,Wounded,Male,Student,Adolescent
+19840710MIMUD,unknown,Wounded,Male,Student,Teen
+19840831LABOS,unknown,Wounded,Male,Student,Teen
+19840928TXMIH,unknown,Wounded,Male,Student,Child
+19840928TXRIN,unknown,Wounded,Male,Student,Teen
+19841021PAWYE,unknown,Wounded,Female,Student,Adolescent
+19841022MICED,unknown,Wounded,Male,Student,Adolescent
+19841022MICED,unknown,Wounded,Female,Student,Adolescent
+19841024MISOD,unknown,Wounded,Male,Student,Adolescent
+19841024OHWEC,unknown,Fatal,Male,Bus Driver,Adult
+19841030SCPEP,unknown,Wounded,Male,Teacher,Adult
+19841030SCPEP,unknown,Wounded,Male,Teacher,Adult
+19841031LAEAG,Black,Fatal,Male,Student,Adolescent
+19841109CTWIN,unknown,Wounded,Male,Student,Adolescent
+19841126MDMIR,unknown,Wounded,Male,Student,Adolescent
+19841207MOEDS,unknown,None,unknown,unknown,unknown
+19850118TXARA,White,None,Male,Student,Adolescent
+19850121KSGOG,unknown,Wounded,Male,Student,Adolescent
+19850121KSGOG,unknown,Wounded,Female,Teacher,Adult
+19850121KSGOG,unknown,Wounded,Male,Teacher,Adult
+19850121KSGOG,unknown,Fatal,Male,Teacher,Adult
+19850126MASTB,unknown,Wounded,unknown,Student,Teen
+19850126MASTB,unknown,Wounded,unknown,Student,Teen
+19850126MASTB,unknown,Wounded,unknown,Student,Teen
+19850126MASTB,unknown,Wounded,unknown,Student,Teen
+19850205CTAIH,unknown,Wounded,Male,Student,Adolescent
+19850416TXMAA,unknown,None,Male,Student,Adolescent
+19850516FLPAB,unknown,None,Female,Student,Adolescent
+19850724TXHIH,unknown,Wounded,Male,Student,Young Adult
+19850904VAEAR,unknown,Wounded,Female,Student,Adolescent
+19850909TXWHH,unknown,Wounded,Male,Teacher,Adult
+19850920TXLAC,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19850920TXLAC,unknown,Wounded,Male,Student,Adolescent
+19850925OHTRT,unknown,Wounded,Male,Student,Adolescent
+19850925OHTRT,unknown,Wounded,Male,Student,Adolescent
+19851008MDLAB,unknown,Fatal,Male,Student,Adolescent
+19851018MIMUD,unknown,Wounded,Male,Student,Adolescent
+19851018MIMUD,unknown,Wounded,Female,Student,Adolescent
+19851018MIMUD,unknown,Wounded,Female,Student,Adolescent
+19851018MIMUD,unknown,Wounded,unknown,Student,Teen
+19851018MIMUD,unknown,Wounded,unknown,Student,Teen
+19851018MIMUD,unknown,Wounded,unknown,Student,Teen
+19851018MIMUD,unknown,Wounded,unknown,Student,Teen
+19851022OHSOG,unknown,Wounded,Female,Student,Adolescent
+19851126WASPS,unknown,Fatal,Male,Student,Adolescent
+19851126WASPS,unknown,Fatal,Male,Student,Adolescent
+19851127ALCHB,unknown,Wounded,Male,Student,Teen
+19851203NHCOC,unknown,None,Male,Student,Teen
+19851209PAARP,unknown,None,unknown,unknown,unknown
+19851210CTPOP,unknown,Fatal,Male,Other Staff,Adult
+19851210CTPOP,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19851210CTPOP,unknown,Wounded,Female,Other Staff,Adult
+19860109NCNOD,unknown,Fatal,Female,Student,Adolescent
+19860117CAVAL,unknown,Fatal,Male,Student,Adolescent
+19860129MDLAB,unknown,Fatal,Male,Student,Adolescent
+19860224LABOS,unknown,None,Male,Student,Adolescent
+19860306ILTHD,unknown,Wounded,Female,Teacher,Adult
+19860423FLCHM,unknown,Wounded,Male,Student,Adolescent
+19860429MOSES,unknown,Fatal,Female,Student,Teen
+19860509NCPIF,unknown,Wounded,Male,Student,Teen
+19860509NCPIF,unknown,Wounded,Male,Student,Teen
+19860509NCPIF,unknown,Wounded,Male,Student,Teen
+19860515GACAA,unknown,Wounded,Female,Student,School Age Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860516WYCOC,unknown,Wounded,unknown,Student,Child
+19860517TNMAN,unknown,Wounded,Male,Teacher,Adult
+19860912CAFAL,unknown,Fatal,Male,Former Student,Young Adult
+19860918CABEB,unknown,Fatal,Female,Student,Adolescent
+19861003CAMOM,unknown,Wounded,Male,Student,Adolescent
+19861003CAMOM,unknown,Wounded,Female,Student,Adolescent
+19861008TXSOD,unknown,Fatal,Male,Student,Adolescent
+19861204MTFEL,unknown,Fatal,Female,Teacher,Adult
+19861204MTFEL,unknown,Wounded,Male,Teacher,Adult
+19861204MTFEL,unknown,Minor Injuries,Female,Student,Teen
+19861204MTFEL,unknown,Minor Injuries,Female,Student,Teen
+19870114CALOL,unknown,None,Male,Student,Young Adult
+19870123MIRED,unknown,Wounded,Male,Student,Adolescent
+19870210ARDAD,unknown,None,Male,Student,Adolescent
+19870213AZORM,unknown,Wounded,Male,Teacher,Adult
+19870213AZORM,unknown,Wounded,Male,Teacher,Adult
+19870213AZORM,unknown,Fatal,Male,Student,Adolescent
+19870213AZORM,unknown,Minor Injuries,Female,Teacher,Adult
+19870224NYMON,unknown,Wounded,Female,Parent,Adult
+19870302MODED,unknown,Fatal,Male,Student,Adolescent
+19870306TXRIE,unknown,Wounded,Female,Student,Adolescent
+19870330CAPAS,unknown,None,Female,No Relation,Adult
+19870416MIMUD,unknown,Fatal,Male,Student,Adolescent
+19870416MIMUD,unknown,Wounded,Male,Student,Adolescent
+19870416MIMUD,unknown,Minor Injuries,Female,Student,Young Adult
+19870430ORGRP,unknown,Fatal,Male,Student,Adolescent
+19870503INPII,unknown,Wounded,Male,Teacher,Adult
+19870506ARMAJ,unknown,None,Male,Student,Adolescent
+19870506FLLET,unknown,None,Male,Student,Adolescent
+19870513ILOAO,unknown,None,Male,Student,Adolescent
+19870928ILILL,unknown,Wounded,Male,Teacher,Adult
+19871014ILDUC,Black,Fatal,Male,Student,Adolescent
+19871030NCSOK,unknown,Wounded,Male,Student,Adolescent
+19871030NCSOK,unknown,Wounded,Male,Student,Adolescent
+19871104MISOD,unknown,Wounded,Male,Student,Adolescent
+19871114FLCLC,unknown,None,Male,Student,Young Adult
+19871130TXPES,unknown,Fatal,Female,Teacher,Adult
+19871202FLENJ,unknown,None,unknown,unknown,unknown
+19871204NYEAN,unknown,Wounded,Female,Teacher,Young Adult
+19871215NYGRB,unknown,Wounded,Male,Student,Adolescent
+19871216TXMAK,unknown,None,Male,Student,Adolescent
+19880105PASPS,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adolescent
+19880106FLGAT,White,None,Female,Student,Adolescent
+19880108PACRM,unknown,Wounded,Male,Student,Adolescent
+19880120LASIR,unknown,Fatal,Female,Student,Adolescent
+19880129TXREA,Black,Fatal,Female,Student,Adolescent
+19880202ALWET,unknown,None,unknown,unknown,unknown
+19880211FLPIL,unknown,Wounded,Female,Teacher,Adult
+19880211FLPIL,unknown,Fatal,Male,Other Staff,Adult
+19880211FLPIL,unknown,Wounded,Male,Other Staff,Young Adult
+19880226RIBRB,unknown,Wounded,Male,Student,Adolescent
+19880304MILED,unknown,Wounded,unknown,Student,School Age Child
+19880323CACAS,unknown,None,unknown,unknown,unknown
+19880324TXTRA,unknown,None,unknown,unknown,unknown
+19880505ILMAC,unknown,Wounded,Male,Student,Young Adult
+19880516FLFOF,unknown,Wounded,Male,Student,Adolescent
+19880520ILHUW,unknown,Fatal,Male,Student,School Age Child
+19880520ILHUW,unknown,Wounded,Male,No Relation,Young Adult
+19880520ILHUW,unknown,Wounded,Female,Student,Child
+19880520ILHUW,unknown,Wounded,Female,Student,Child
+19880520ILHUW,unknown,Wounded,Male,Student,Child
+19880520ILHUW,unknown,Wounded,Male,Student,Child
+19880520ILHUW,unknown,Wounded,Male,Student,Child
+19880531NYPUB,unknown,Wounded,Female,Teacher,Adult
+19880602MSWIJ,unknown,Wounded,Male,Student,Young Adult
+19880602MSWIJ,unknown,Wounded,Male,Student,Adolescent
+19880617MIJOD,unknown,Wounded,Male,Student,Adolescent
+19880630HIAIO,White,Wounded,Female,Teacher,Adult
+19880710WISIM,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+19880711MSLAJ,Black,Wounded,Male,Student,Adolescent
+19880831MICED,unknown,Wounded,Male,Student,Adolescent
+19880831SCWEA,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+19880902GAGLA,unknown,Wounded,Male,Other Staff,Adult
+19880902GAGLA,unknown,Wounded,Male,Other Staff,Adult
+19880902NCGAC,unknown,Wounded,Male,Other Staff,Adult
+19880902NCGAC,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+19880902NCGAC,unknown,Wounded,Male,Student,Young Adult
+19880902NCGAC,unknown,Wounded,Female,Unknown,unknown
+19880903TXLID,unknown,Wounded,Male,Student,Adolescent
+19880903TXLID,unknown,Wounded,Female,Student,Adolescent
+19880922ILMOC,unknown,Fatal,Male,Other Staff,Adult
+19880922ILMOC,unknown,Fatal,Male,No Relation,Adult
+19880922ILMOC,Hispanic,Wounded,Male,Police Officer/SRO,Adult
+19880922ILMOC,unknown,Fatal,Female,Police Officer/SRO,Adult
+19880922ILMOC,unknown,Fatal,Male,No Relation,Adult
+19880922ILMOC,unknown,Wounded,Male,No Relation,Adult
+19880926SCOAG,unknown,Wounded,Female,Teacher,Adult
+19880926SCOAG,unknown,Wounded,Male,Student,School Age Child
+19880926SCOAG,unknown,Wounded,Female,Teacher,Adult
+19880926SCOAG,Black,Wounded,Female,Student,School Age Child
+19880926SCOAG,unknown,Wounded,Female,Student,School Age Child
+19880926SCOAG,White,Wounded,Female,Student,School Age Child
+19880926SCOAG,Black,Fatal,Female,Student,School Age Child
+19880926SCOAG,Black,Fatal,Female,Student,School Age Child
+19880926SCOAG,unknown,Wounded,unknown,Student,School Age Child
+19880926SCOAG,unknown,Wounded,unknown,Student,School Age Child
+19880926SCOAG,unknown,Wounded,unknown,Student,School Age Child
+19881003FLMAM,unknown,Wounded,Female,Student,Teen
+19881004FLJEJ,unknown,Wounded,Female,Student,Teen
+19881004FLJEJ,unknown,Wounded,Female,Student,Teen
+19881004FLJEJ,unknown,Wounded,Female,Student,Teen
+19881004FLJEJ,unknown,Wounded,Female,Student,Teen
+19881004FLJEJ,unknown,Wounded,Female,Student,Teen
+19881004LAISB,unknown,None,unknown,Other Staff,Adult
+19881005MDEDB,unknown,Wounded,Female,Student,Adolescent
+19881006ALMOM,unknown,Wounded,Female,Teacher,Adult
+19881007MDSOB,unknown,Wounded,Male,Student,Adolescent
+19881007TXDIP,unknown,Wounded,Female,Bus Driver,Adult
+19881101FLPAJ,unknown,None,Male,Student,Young Adult
+19881107UTGLS,unknown,Wounded,Male,Student,Teen
+19881122TXABA,unknown,Wounded,Male,Teacher,Adult
+19881216VAATV,unknown,Fatal,Female,Teacher,Adult
+19881216VAATV,unknown,Wounded,Male,Teacher,Adult
+19890105ARHEL,unknown,Fatal,Male,Student,Adolescent
+19890117CACLS,unknown,Wounded,Female,Teacher,Adult
+19890117CACLS,Asian,Fatal,Female,Student,School Age Child
+19890117CACLS,Asian,Wounded,Male,Student,School Age Child
+19890117CACLS,Asian,Fatal,Female,Student,School Age Child
+19890117CACLS,Asian,Fatal,Male,Student,School Age Child
+19890117CACLS,White,Wounded,Male,Student,School Age Child
+19890117CACLS,Asian,Wounded,Female,Student,School Age Child
+19890117CACLS,Asian,Fatal,Female,Student,School Age Child
+19890117CACLS,Asian,Fatal,Female,Student,School Age Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890117CACLS,unknown,Wounded,unknown,Student,Child
+19890126DCWOW,unknown,Wounded,Male,Student,Teen
+19890126DCWOW,unknown,Wounded,Male,Student,Teen
+19890126DCWOW,unknown,Wounded,Male,Student,Teen
+19890126DCWOW,unknown,Wounded,Male,Student,Teen
+19890210UTTHK,unknown,None,Male,Principal/Vice-Principal,Adult
+19890303INWIG,Black,Fatal,Male,Student,Adolescent
+19890426TXAMD,unknown,Wounded,Male,Student,Adolescent
+19890911AZDYE,White,Fatal,Male,Student,Adolescent
+19890918KYJAM,unknown,None,unknown,unknown,unknown
+19891005CALOA,unknown,Wounded,Male,Student,Adolescent
+19891031TXOLD,unknown,Wounded,Male,Student,Adolescent
+19891113NYALN,unknown,Fatal,Male,Student,Adolescent
+19891115TXWOA,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19891122CACHO,Hispanic,Fatal,Male,Gang Member,Young Adult
+19891204LACAS,unknown,Wounded,Male,Student,Teen
+19891205PASEM,unknown,Wounded,Male,Student,Teen
+19891205TXWWD,unknown,Wounded,Male,Teacher,Adult
+19891212SCCHC,unknown,Wounded,Male,Student,Adolescent
+19900116RICEP,unknown,Wounded,Male,Student,Teen
+19900116RICEP,unknown,Wounded,Female,Student,Teen
+19900220OHTAC,unknown,Fatal,Male,Former Student,Young Adult
+19900327NYNEB,unknown,Wounded,Male,Student,Teen
+19900403TXSKD,unknown,Wounded,Male,Student,Adolescent
+19900504CAMOE,White,Fatal,Male,Student,Adolescent
+19900504CAMOE,Black,Wounded,Male,Student,Adolescent
+19900520TNHIC,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+19900531TXSUF,unknown,Wounded,Male,Student,Teen
+19900531TXSUF,unknown,Wounded,Male,Student,Teen
+19900824NCMYC,unknown,Fatal,Male,Student,Teen
+19900827NVELL,unknown,Fatal,Male,Student,Teen
+19900827TXWHD,unknown,None,unknown,Student,Teen
+19900911TXSAS,unknown,Wounded,Male,Student,Teen
+19900911TXSAS,unknown,Wounded,Male,Student,Teen
+19900911TXSAS,unknown,Wounded,Male,Student,Teen
+19900922ALLEB,unknown,Wounded,Male,No Relation,Adolescent
+19900922ALLEB,unknown,Wounded,Male,No Relation,Young Adult
+19901002TXWHD,Hispanic,Wounded,Female,Student,Teen
+19901029INCHC,unknown,None,unknown,unknown,unknown
+19901030TXNAG,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19901213LASAS,unknown,None,unknown,unknown,unknown
+19910108TXRIR,White,None,Male,Student,Adolescent
+19910117TXHOD,unknown,Wounded,Female,Student,Adolescent
+19910219LABON,Black,Fatal,Male,Student,Adolescent
+19910219LABON,Black,Wounded,Female,Student,Young Adult
+19910313ALSES,unknown,Wounded,Male,Student,Young Adult
+19910313ALSES,unknown,Wounded,Male,Student,Adolescent
+19910314SCWOP,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+19910314SCWOP,unknown,Wounded,Female,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+19910314SCWOP,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+19910314SCWOP,unknown,Wounded,Female,Nonstudent Using Athletic Facilities/Attending Game,School Age Child
+19910325NCGAC,unknown,Fatal,Male,Former Student,Young Adult
+19910411SCNOR,unknown,None,Female,Student,Teen
+19910423CARAC,unknown,Fatal,Male,Student,School Age Child
+19910423MSHUB,unknown,Wounded,Male,Student,Adolescent
+19910510OHFRC,unknown,Fatal,Male,Student,Young Adult
+19910516KSCOK,unknown,Wounded,Male,Student,Adolescent
+19910516KSCOK,unknown,Wounded,Female,Student,Adolescent
+19910521CAROS,unknown,Fatal,Male,Student,Teen
+19910521FLSCP,unknown,Wounded,Male,Student,Teen
+19910521FLSCP,unknown,Wounded,Male,Student,Teen
+19910521FLSCP,unknown,Fatal,Female,Student,Adolescent
+19910722CAWEL,unknown,Wounded,Male,Student,Teen
+19910730CAENC,unknown,Wounded,Male,Student,Teen
+19910913TXMAH,unknown,Fatal,Male,Student,Teen
+19910917ILWOC,unknown,Wounded,Male,Student,Teen
+19910918TXCRC,unknown,Fatal,Male,Student,Adolescent
+19911002TXSPH,unknown,Wounded,Male,Student,Teen
+19911004CADOL,unknown,Wounded,Male,Student,Teen
+19911004CADOL,unknown,Wounded,Male,Student,Teen
+19911004CAROL,unknown,None,unknown,unknown,unknown
+19911009NYJAB,Black,Fatal,Male,Student,Teen
+19911011MAMAR,Black,Wounded,Male,Nonstudent,Adolescent
+19911015NHMOS,unknown,Wounded,unknown,Student,Teen
+19911015NHMOS,unknown,Wounded,unknown,Student,Teen
+19911015SCWOW,unknown,None,unknown,unknown,unknown
+19911015TXGEP,unknown,Wounded,Male,Student,Teen
+19911023TXOAD,unknown,Fatal,Male,Student,Teen
+19911106LAWAN,unknown,Fatal,Male,Student,Teen
+19911106LAWAN,unknown,Wounded,Male,Student,Teen
+19911111TXYSE,unknown,Fatal,Male,Student,Adolescent
+19911111TXYSE,unknown,Wounded,Male,Student,Young Adult
+19911114TXMIH,unknown,Wounded,Male,Student,Young Adult
+19911125NYTHB,unknown,Fatal,Male,Student,Adolescent
+19911125NYTHB,unknown,Wounded,Male,Teacher,Adult
+19911226NCWHW,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+19911226NCWHW,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+19920128LAFRG,unknown,Wounded,Male,Student,Adolescent
+19920131LAFRG,unknown,Wounded,Male,Student,Adolescent
+19920206OKDOO,unknown,Fatal,Male,Student,Teen
+19920207VABON,unknown,Fatal,Male,Student,Young Adult
+19920207VABON,unknown,Wounded,Male,Student,Young Adult
+19920226NYTHB,unknown,Fatal,Male,Student,Adolescent
+19920226NYTHB,unknown,Fatal,Male,Student,Adolescent
+19920305OHHAO,unknown,Wounded,Male,Student,Teen
+19920331LAOPA,unknown,Fatal,Male,Student,Teen
+19920409FLFOF,unknown,Wounded,Male,Student,Young Adult
+19920417TXLID,unknown,Fatal,Male,Former Student,Adult
+19920501CALIO,unknown,Fatal,Male,Teacher,Adult
+19920501CALIO,unknown,Wounded,unknown,Student,Teen
+19920501CALIO,unknown,Wounded,unknown,Student,Teen
+19920501CALIO,unknown,Wounded,unknown,Student,Teen
+19920501CALIO,unknown,Wounded,unknown,Student,Teen
+19920501CALIO,unknown,Wounded,unknown,Teacher,Adult
+19920501CALIO,unknown,Fatal,Male,Student,Adolescent
+19920501CALIO,unknown,Fatal,Male,Student,Adolescent
+19920501CALIO,unknown,Fatal,Male,Student,Teen
+19920501CALIO,unknown,Wounded,unknown,Student,Teen
+19920501CALIO,unknown,Wounded,unknown,Student,Teen
+19920501CALIO,unknown,Wounded,unknown,Student,Teen
+19920501CALIO,unknown,Wounded,unknown,Student,Teen
+19920501CALIO,unknown,Wounded,unknown,Student,Teen
+19920514CASIN,unknown,Wounded,Male,Student,Teen
+19920514CASIN,unknown,Wounded,Male,Student,Teen
+19920514TXHUH,unknown,Wounded,Male,Student,Teen
+19920529CAVEL,unknown,Wounded,Male,Student,Teen
+19920529CAVEL,unknown,Wounded,Male,Student,Teen
+19920529CAVEL,unknown,Wounded,Male,Student,Teen
+19920606CAMEM,unknown,Wounded,Male,Former Student,Young Adult
+19920911TXPAA,unknown,Wounded,Male,Student,Teen
+19920911TXPAA,unknown,Wounded,Male,Student,Teen
+19920911TXPAA,unknown,Wounded,Male,Student,Teen
+19920911TXPAA,unknown,Wounded,Male,Student,Teen
+19920911TXPAA,unknown,Wounded,Male,Student,Teen
+19920911TXPAA,unknown,Wounded,Male,Student,Teen
+19920911TXPAA,unknown,Wounded,Male,Student,Teen
+19920928CAHIS,unknown,Wounded,Male,Student,Adolescent
+19920928CAHIS,unknown,Wounded,Male,Student,Young Adult
+19920930TXHOH,unknown,Fatal,Male,Gang Member,unknown
+19920930TXHOH,unknown,Wounded,Male,Gang Member,unknown
+19921013AZDET,unknown,Fatal,Male,Student,Adolescent
+19921019NYEVB,unknown,Wounded,Female,Student,Adolescent
+19921019NYEVB,unknown,Wounded,Female,Student,Adolescent
+19921019NYEVB,unknown,Wounded,Male,Student,Adolescent
+19921104MIFID,unknown,Minor Injuries,unknown,Student,Teen
+19921104MIFID,unknown,Minor Injuries,unknown,Student,Teen
+19921104MIFID,unknown,Minor Injuries,unknown,Student,Teen
+19921104MIFID,unknown,Minor Injuries,unknown,Student,Teen
+19921104MIFID,unknown,Minor Injuries,unknown,Student,Teen
+19921104MIFID,unknown,Minor Injuries,unknown,Student,Teen
+19921104MIFID,unknown,Minor Injuries,unknown,Student,Teen
+19921104MIMAD,unknown,Wounded,Male,Student,Adolescent
+19921104MIMUD,unknown,Wounded,Male,No Relation,Teen
+19921104MIMUD,unknown,Wounded,Male,No Relation,Teen
+19921104MIMUD,unknown,Wounded,Male,No Relation,Teen
+19921110ILSHC,unknown,None,Male,Student,Adolescent
+19921113TXLAC,unknown,Fatal,Female,Teacher,Adult
+19921116ALFAB,unknown,Fatal,Male,Student,Adolescent
+19921120ILTIC,unknown,Fatal,Male,Student,Adolescent
+19921120ILTIC,unknown,Wounded,Male,Student,Adolescent
+19921120ILTIC,unknown,Wounded,Male,Student,Adolescent
+19921124ALROM,unknown,Wounded,Female,Student,Young Adult
+19921130ILORC,unknown,Wounded,Male,Student,Adolescent
+19921203ILWOC,unknown,Fatal,Male,No Relation,Young Adult
+19921203ILWOC,unknown,Wounded,Male,No Relation,Adult
+19921214NYWAW,unknown,Wounded,Female,Teacher,Adult
+19930105NYBRB,unknown,Wounded,Male,Former Student,Young Adult
+19930112FLNOM,Black,Fatal,Male,Student,Young Adult
+19930118KYEAG,unknown,Fatal,Male,Teacher,Adult
+19930118KYEAG,unknown,Fatal,Female,Teacher,Adult
+19930121CAFAL,unknown,Fatal,Male,Student,Adolescent
+19930121CAFAL,unknown,Wounded,Male,Student,Adolescent
+19930201NYAMA,unknown,Fatal,Male,Nonstudent,Adolescent
+19930201NYAMA,unknown,Wounded,Male,Nonstudent,Adolescent
+19930201WARER,unknown,None,Male,Student,Adolescent
+19930204GACLA,unknown,Fatal,Male,Student,Teen
+19930208DCWAW,unknown,Fatal,Male,Student,Young Adult
+19930208MNMIM,unknown,None,Male,Student,Adolescent
+19930222CAREL,unknown,Fatal,Male,Student,Adolescent
+19930226MAGLG,unknown,None,Male,Student,Adolescent
+19930308VADOD,White,Fatal,Female,Teacher,Adult
+19930318GAHAH,unknown,Wounded,Male,Student,Adolescent
+19930318GAHAH,unknown,Fatal,Male,Student,Adolescent
+19930325MOSUS,unknown,Fatal,Male,Student,Adolescent
+19930403CAGRS,unknown,Fatal,Male,Student,Adolescent
+19930403CAGRS,unknown,Wounded,Male,Student,Young Adult
+19930415MAFOA,unknown,Fatal,Female,Other Staff,Adult
+19930416CAGRS,unknown,Fatal,Male,Other Staff,Adult
+19930416WAMOT,unknown,None,Female,No Relation,Adult
+19930514TXNII,unknown,Fatal,Male,Student,Adolescent
+19930524PAUPP,unknown,Fatal,Male,Student,Adolescent
+19930527LAFRN,Black,Fatal,Male,Former Student,Adolescent
+19930707CADOL,unknown,Fatal,Male,Student,Adolescent
+19930803NYTHN,unknown,Wounded,Male,Student,Young Adult
+19930831GAHAA,Black,Fatal,Male,Student,Adolescent
+19930901KSJUJ,unknown,Wounded,Female,Student,Adolescent
+19930902TXROD,Black,Fatal,Male,Student,Adolescent
+19930916ILROC,unknown,Fatal,unknown,unknown,Teen
+19930917ILDOD,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Teen
+19930917WYCES,unknown,Minor Injuries,Male,Student,Teen
+19930917WYCES,unknown,Minor Injuries,Male,Student,Teen
+19930917WYCES,unknown,Minor Injuries,Male,Student,Teen
+19930917WYCES,unknown,Minor Injuries,Female,Student,Teen
+19930925DCWEW,unknown,Fatal,Male,No Relation,Young Adult
+19930925DCWEW,unknown,Fatal,Female,No Relation,Preschooler
+19930928MSCOG,unknown,Fatal,Male,Student,Teen
+19931012DEDON,unknown,None,Female,Student,Adolescent
+19931018DCJHW,unknown,Wounded,Male,Student,Adolescent
+19931101ILSUC,unknown,Fatal,Male,Student,Adolescent
+19931104CTNEN,unknown,Fatal,Male,Student,Young Adult
+19931104FLTEJ,unknown,Fatal,Male,Student,Adolescent
+19931104MSBAB,unknown,Fatal,Male,Student,Adolescent
+19931111ILRIS,unknown,Fatal,Male,No Relation,Adolescent
+19931201WIWAW,unknown,Fatal,Male,Teacher,Adult
+19931202CTNEN,White,Fatal,Male,Student,Young Adult
+19931208GABES,unknown,Fatal,Male,Student,Adolescent
+19931215CACHS,unknown,Fatal,Male,Student,Adolescent
+19931217MICHC,unknown,Fatal,Male,Other Staff,Adult
+19931217MICHC,unknown,Wounded,Male,Teacher,Adult
+19931217MICHC,unknown,Wounded,Male,Teacher,Adult
+19940120CALOH,unknown,Fatal,Male,Student,Adolescent
+19940121TXKEK,unknown,None,Male,Student,Adolescent
+19940124SCEAC,unknown,Fatal,Male,Student,Adolescent
+19940126DCELW,unknown,None,unknown,unknown,unknown
+19940126DCPAW,unknown,None,unknown,unknown,unknown
+19940127CAWAS,Hispanic,Fatal,Male,Parent,Young Adult
+19940131WAWHS,unknown,Fatal,Male,Teacher,Adult
+19940208MIOSD,unknown,Fatal,Male,Student,Young Adult
+19940218SCSPS,unknown,Wounded,Male,No Relation,Young Adult
+19940301MOKEB,unknown,Fatal,Male,Other Staff,Adult
+19940301MOKEB,unknown,Fatal,Male,Other Staff,Adult
+19940303ALENB,unknown,Wounded,Male,Student,Adolescent
+19940309DCEAW,unknown,Fatal,Male,Student,Adolescent
+19940315SCGOC,unknown,Fatal,Male,Student,Young Adult
+19940323WABAS,unknown,Fatal,Male,Student,Adolescent
+19940323WABAS,unknown,Wounded,Female,Student,Teen
+19940325GAETC,unknown,None,Male,Student,Adolescent
+19940405TXMCA,unknown,Wounded,Female,Student,Young Adult
+19940405TXMCA,unknown,Wounded,Female,Student,Adolescent
+19940408MDLAU,unknown,Wounded,Male,Teacher,Adult
+19940412MTMAB,White,Fatal,Male,Student,School Age Child
+19940413CA49L,unknown,None,Male,Student,School Age Child
+19940419DCELW,unknown,Fatal,Male,No Relation,Young Adult
+19940420INDIS,Black,Wounded,Male,Student,Adolescent
+19940421TNJTN,Black,Fatal,Male,Student,Adolescent
+19940502FLNON,unknown,Fatal,Female,Student,Young Adult
+19940525INLAS,unknown,Wounded,Male,Student,Adolescent
+19940525NJLAW,unknown,None,Female,Student,Adolescent
+19940526KYLAU,unknown,None,unknown,unknown,unknown
+19940724PAMAM,unknown,Fatal,Male,No Relation,Young Adult
+19940725IAOTO,unknown,Fatal,Male,Student,Adolescent
+19940907CAHOL,unknown,Fatal,Male,Student,Adolescent
+19940908NYSWA,unknown,Wounded,Male,Student,Adolescent
+19940919CALOL,unknown,Wounded,Female,Student,Adolescent
+19940919CALOL,unknown,Wounded,Male,Student,Adolescent
+19940919CALOL,unknown,Wounded,Male,Student,Adolescent
+19940922ORLEL,unknown,Wounded,Male,Student,Adolescent
+19941012NCGRG,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19941017ILHUC,unknown,Wounded,Female,Student,Adolescent
+19941031CAALA,unknown,None,Male,Student,Teen
+19941105CATHS,unknown,Fatal,Female,No Relation,Teen
+19941107OHWIW,unknown,Fatal,Male,Other Staff,Adult
+19941107OHWIW,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19941107OHWIW,unknown,Wounded,Male,Teacher,Adult
+19941107OHWIW,unknown,Wounded,Male,Teacher,Adult
+19941107OHWIW,unknown,Wounded,Male,Police Officer/SRO,Adult
+19941108IAWEM,unknown,Wounded,Female,Other Staff,Adult
+19941115WASTT,unknown,None,Male,Student,Teen
+19950105DCCAW,unknown,Fatal,Male,Student,Teen
+19950110FLPAP,unknown,None,Male,Student,Teen
+19950112WAGAS,unknown,Wounded,Male,Student,Teen
+19950112WAGAS,unknown,Wounded,Female,Student,Teen
+19950123CASAR,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+19950124DCSPW,unknown,Wounded,Male,Student,Adolescent
+19950202CAJOL,unknown,Fatal,Male,Student,Teen
+19950202CAJOL,unknown,Wounded,Male,Student,Teen
+19950208NECHS,unknown,Wounded,Male,Teacher,Adult
+19950303MIPED,unknown,Wounded,Male,Student,Adolescent
+19950327MIRED,unknown,Wounded,Female,Student,Adolescent
+19950614FLLAL,unknown,Wounded,Male,Former Student,Teen
+19950614FLLAL,unknown,Wounded,Female,Student,Teen
+19950829TXMEL,unknown,Fatal,Female,Student,School Age Child
+19950912TNCYM,unknown,Fatal,Male,Student,Adolescent
+19950914KSOLO,unknown,Fatal,Male,Student,Teen
+19950914KSOLO,unknown,Fatal,Male,Former Student,Teen
+19950914KSOLO,unknown,Wounded,Male,Student,Teen
+19950914KSOLO,unknown,Wounded,Male,Student,Teen
+19950914KSOLO,unknown,Wounded,Male,Student,Teen
+19950914KSOLO,unknown,Wounded,Male,Student,Teen
+19950915KYGEW,unknown,None,unknown,Student,Teen
+19950927ALBLP,unknown,Wounded,Male,Student,Young Adult
+19950929FLTAT,Black,Fatal,Male,Student,Adolescent
+19951012SCBLB,unknown,Wounded,Male,Teacher,Adult
+19951012SCBLB,unknown,Fatal,Male,Teacher,Adult
+19951023FLLAC,unknown,None,Female,Student,Adolescent
+19951030VAJOR,unknown,Wounded,Male,Student,Teen
+19951030VAJOR,unknown,Wounded,Female,Student,Adolescent
+19951030VAJOR,unknown,Wounded,Female,Student,Adolescent
+19951030VAJOR,unknown,Wounded,Female,Student,Adolescent
+19951102FLBLM,unknown,Minor Injuries,unknown,Student,Child
+19951115TNRIL,unknown,Wounded,Female,Teacher,Adult
+19951115TNRIL,unknown,Fatal,Female,Teacher,Adult
+19951115TNRIL,unknown,Fatal,Female,Student,Adolescent
+19951128NYTHN,unknown,Fatal,Male,Student,Adolescent
+19960102PAGIG,unknown,None,Male,Student,Adolescent
+19960119DCWIW,Black,Fatal,Male,Relative,Adolescent
+19960126TNEAM,Black,Fatal,Male,Student,Adolescent
+19960202WAFRM,unknown,Fatal,Male,Student,Adolescent
+19960202WAFRM,unknown,Fatal,Female,Teacher,Adult
+19960202WAFRM,unknown,Fatal,Male,Student,Adolescent
+19960202WAFRM,unknown,Wounded,Female,Student,Adolescent
+19960208CAMIM,unknown,Wounded,Male,Student,Adolescent
+19960222GAJES,Black,Fatal,Male,Student,Adolescent
+19960229MOBES,Black,Fatal,Female,Relative,Infant
+19960229MOBES,Black,Fatal,Female,Student,Adolescent
+19960229MOBES,Black,Wounded,Male,Bus Driver,Adult
+19960311NCNON,White,None,Male,Student,Adolescent
+19960319NVSWL,unknown,Minor Injuries,Male,Student,Teen
+19960319NVSWL,unknown,Minor Injuries,Male,Student,Teen
+19960411ALTAT,unknown,Fatal,Male,Student,Young Adult
+19960415DCMCW,unknown,Fatal,Male,Former Student,Young Adult
+19960514UTBIT,unknown,Wounded,Female,Bus Driver,Adult
+19960522CACOC,unknown,Fatal,Male,Student,Adolescent
+19960604CAWEH,unknown,None,Male,Student,Adolescent
+19960726CAJOL,Hispanic,Wounded,Male,Student,Adolescent
+19960726CAJOL,Hispanic,Wounded,Female,Student,Adolescent
+19960925GADED,unknown,Fatal,Male,Teacher,Adult
+19961002PASMP,unknown,Fatal,Female,Relative,Young Adult
+19961002PASMP,unknown,Fatal,Female,Parent,Adult
+19961004CASTP,unknown,Fatal,Male,Student,Young Adult
+19961004CASTP,unknown,Wounded,Male,Unknown,Teen
+19961009ARJAS,unknown,Fatal,Male,Student,Young Adult
+19961014MOSUS,unknown,Fatal,Male,Student,Adolescent
+19961127CAHIS,unknown,Fatal,Male,Student,Young Adult
+19970108NYCRN,unknown,Fatal,Male,Student,Young Adult
+19970108NYCRN,unknown,Wounded,Male,Student,Adolescent
+19970108NYCRN,unknown,Wounded,Male,Student,Adolescent
+19970108NYCRN,unknown,Wounded,Male,Student,Adolescent
+19970127FLCOW,unknown,Fatal,Male,Student,Adolescent
+19970206MSWIJ,Black,Wounded,Male,Student,Adolescent
+19970213NYMOB,unknown,Wounded,Male,Student,Adolescent
+19970213NYSAB,unknown,Wounded,Male,Student,Adolescent
+19970219AKBEB,unknown,Wounded,Male,Student,Adolescent
+19970219AKBEB,unknown,Fatal,Male,Student,Adolescent
+19970219AKBEB,unknown,Wounded,Male,Student,Adolescent
+19970219AKBEB,unknown,Fatal,Male,Other Staff,Adult
+19970220FLFIJ,unknown,None,Female,Student,Adolescent
+19970221NVRAL,Hispanic,Wounded,Male,Student,Adolescent
+19970317MIPED,unknown,Fatal,Male,Student,Adolescent
+19970403CAMAM,unknown,Fatal,Male,Student,Adolescent
+19970428CAJOL,unknown,Fatal,Male,Student,Adolescent
+19970430NYCIN,unknown,Fatal,Male,Student,Young Adult
+19970513FLNOM,unknown,Wounded,Male,Student,Adolescent
+19970520OHDUD,unknown,Wounded,Male,Student,Adolescent
+19970624ALJEM,unknown,Fatal,Male,Student,Young Adult
+19971001MSPEP,unknown,Fatal,Female,Student,Adolescent
+19971001MSPEP,unknown,Fatal,Female,Student,Adolescent
+19971001MSPEP,unknown,Wounded,unknown,Student,Teen
+19971001MSPEP,unknown,Wounded,unknown,Student,Teen
+19971001MSPEP,unknown,Wounded,unknown,Student,Teen
+19971001MSPEP,unknown,Wounded,unknown,Student,Teen
+19971001MSPEP,unknown,Wounded,unknown,Student,Teen
+19971001MSPEP,unknown,Wounded,unknown,Student,Teen
+19971001MSPEP,unknown,Wounded,unknown,Student,Teen
+19971005OKMOO,unknown,Wounded,Male,Unknown,Adolescent
+19971010INWAG,unknown,Fatal,Female,Student,Teen
+19971010INWAG,unknown,Wounded,Female,Student,Adolescent
+19971010INWAG,unknown,Wounded,Male,Student,Young Adult
+19971014TXLAG,unknown,None,Male,Student,Young Adult
+19971015FLLIP,unknown,Wounded,Male,Student,Adolescent
+19971020CAMCO,unknown,Fatal,Female,Student,Adolescent
+19971020CAMCO,unknown,Wounded,Female,Student,Adolescent
+19971020CAMCO,unknown,Wounded,Male,unknown,Young Adult
+19971022CAJON,unknown,Fatal,Female,Student,Adolescent
+19971107FLRIJ,unknown,Wounded,Male,Student,Adolescent
+19971107FLRIJ,unknown,Fatal,Male,Student,Adolescent
+19971113CACRS,unknown,Fatal,Male,Parent,Adult
+19971201KYHEW,unknown,Fatal,Female,Student,Adolescent
+19971201KYHEW,unknown,Fatal,Female,Student,Adolescent
+19971201KYHEW,unknown,Fatal,Female,Student,Adolescent
+19971201KYHEW,unknown,Wounded,Male,Student,Adolescent
+19971201KYHEW,unknown,Wounded,Female,Student,Adolescent
+19971201KYHEW,unknown,Wounded,Female,Student,Adolescent
+19971201KYHEW,unknown,Wounded,Female,Student,Adolescent
+19971201KYHEW,unknown,Wounded,Female,Student,Adolescent
+19971215ARSTS,unknown,Wounded,Male,Student,Adolescent
+19971215ARSTS,unknown,Wounded,Female,Student,Adolescent
+19980212NJHOH,unknown,Fatal,Male,Teacher,Adult
+19980225MIRER,unknown,None,Male,Student,Adolescent
+19980227VAMAF,unknown,Fatal,Male,Student,Adolescent
+19980324ARWEJ,unknown,Fatal,Female,Student,School Age Child
+19980324ARWEJ,unknown,Wounded,unknown,Student,School Age Child
+19980324ARWEJ,unknown,Wounded,unknown,Student,School Age Child
+19980324ARWEJ,unknown,Wounded,unknown,Student,Adolescent
+19980324ARWEJ,unknown,Wounded,unknown,Student,Adolescent
+19980324ARWEJ,unknown,Wounded,unknown,Student,School Age Child
+19980324ARWEJ,unknown,Wounded,unknown,Teacher,Adult
+19980324ARWEJ,unknown,Fatal,Female,Student,School Age Child
+19980324ARWEJ,unknown,Fatal,Female,Student,School Age Child
+19980324ARWEJ,unknown,Fatal,Female,Student,School Age Child
+19980324ARWEJ,unknown,Fatal,Female,Teacher,Adult
+19980324ARWEJ,unknown,Wounded,unknown,Student,Adolescent
+19980324ARWEJ,unknown,Wounded,unknown,Student,Adolescent
+19980324ARWEJ,unknown,Wounded,unknown,Student,School Age Child
+19980324ARWEJ,unknown,Wounded,unknown,Student,School Age Child
+19980325CAFED,unknown,None,Male,Principal/Vice-Principal,Adult
+19980325MICOC,unknown,None,Male,Student,Young Adult
+19980330NCGRC,unknown,None,Female,Student,Adolescent
+19980331WIOAO,unknown,None,unknown,unknown,unknown
+19980423CACUL,unknown,Wounded,Male,Student,Teen
+19980423CACUL,unknown,Wounded,Male,Student,Teen
+19980424PAPAE,unknown,Fatal,Male,Teacher,Adult
+19980424PAPAE,unknown,Wounded,Male,Student,Adolescent
+19980424PAPAE,unknown,Wounded,Male,Student,Adolescent
+19980424PAPAE,unknown,Wounded,Male,Student,Teen
+19980428CAPHP,unknown,Fatal,Male,No Relation,Adolescent
+19980428CAPHP,unknown,Wounded,Male,No Relation,Adolescent
+19980428CAPHP,unknown,Wounded,Male,No Relation,Adolescent
+19980428WIPAP,unknown,Wounded,Male,Other Staff,Adult
+19980501FLNOM,unknown,Wounded,Male,Student,Adolescent
+19980501NYPUB,unknown,Fatal,Female,Other Staff,Adult
+19980501NYPUB,unknown,Wounded,Female,Teacher,Adult
+19980519TNLIF,unknown,Fatal,Male,Student,Young Adult
+19980521CARIR,unknown,None,Male,Student,Adolescent
+19980521ORTHS,unknown,Fatal,Male,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Young Adult
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Young Adult
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Fatal,Male,Student,Teen
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Teen
+19980521ORTHS,unknown,Wounded,unknown,Student,Teen
+19980521ORTHS,unknown,Wounded,unknown,Student,Teen
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521ORTHS,unknown,Wounded,unknown,Student,Adolescent
+19980521WAONO,unknown,None,Male,Student,Adolescent
+19980527CAWAP,unknown,Fatal,Male,unknown,Adolescent
+19980527CAWAP,unknown,Fatal,Male,unknown,Young Adult
+19980529FLSTF,White,Fatal,Female,Teacher,Adult
+19980615VAARR,unknown,Wounded,Male,Teacher,Adult
+19980615VAARR,unknown,Wounded,Female,Teacher,Adult
+19980911CAHEG,unknown,Wounded,Male,Student,Adolescent
+19980930FLLEL,unknown,None,Male,Student,Adolescent
+19980930FLNOM,unknown,Wounded,Male,Student,Adolescent
+19980930FLNOM,unknown,Wounded,Male,Student,Adolescent
+19980930FLNOM,unknown,Wounded,Male,Teacher,Adult
+19981103PAMAP,unknown,Fatal,Male,Student,Adolescent
+19981130NYHAH,unknown,None,Female,Student,Adolescent
+19981203INERG,unknown,Wounded,Female,Teacher,Adult
+19981211INBEI,unknown,Wounded,Male,Student,Child
+19990108GACEC,unknown,None,unknown,unknown,unknown
+19990114NYHAN,unknown,Wounded,Male,Student,Young Adult
+19990114NYHAN,unknown,Wounded,Male,Student,Adolescent
+19990121TXRIN,unknown,None,Male,Student,Adolescent
+19990211ILOME,unknown,Fatal,Male,Student,Adolescent
+19990211MSJEP,unknown,None,Female,Teacher,Adult
+19990304ILNIS,unknown,Wounded,Male,Police Officer/SRO,Adult
+19990416IDNON,unknown,None,unknown,unknown,unknown
+19990420COCOL,White,Fatal,Female,Student,Adolescent
+19990420COCOL,White,Fatal,Male,Teacher,Adult
+19990420COCOL,White,Fatal,Male,Student,Adolescent
+19990420COCOL,White,Fatal,Female,Student,Young Adult
+19990420COCOL,White,Fatal,Male,Student,Adolescent
+19990420COCOL,unknown,Wounded,unknown,Student,Young Adult
+19990420COCOL,unknown,Wounded,Male,Student,Adolescent
+19990420COCOL,unknown,Wounded,Male,Student,Adolescent
+19990420COCOL,unknown,Wounded,Female,Student,Adolescent
+19990420COCOL,unknown,Wounded,Male,Student,Adolescent
+19990420COCOL,unknown,Wounded,Female,Student,Adolescent
+19990420COCOL,White,Fatal,Male,Student,Adolescent
+19990420COCOL,unknown,Wounded,unknown,Student,Young Adult
+19990420COCOL,unknown,Wounded,Male,Student,Adolescent
+19990420COCOL,unknown,Wounded,Male,Student,Adolescent
+19990420COCOL,unknown,Wounded,unknown,Student,Adolescent
+19990420COCOL,unknown,Wounded,unknown,Student,Teen
+19990420COCOL,unknown,Wounded,unknown,Teacher,Adult
+19990420COCOL,unknown,Wounded,Male,Student,Adolescent
+19990420COCOL,unknown,Wounded,unknown,Student,Adolescent
+19990420COCOL,unknown,Wounded,unknown,Student,Adolescent
+19990420COCOL,unknown,Wounded,unknown,Student,Young Adult
+19990420COCOL,White,Fatal,Female,Student,Adolescent
+19990420COCOL,unknown,Wounded,unknown,Student,Adolescent
+19990420COCOL,unknown,Wounded,unknown,Student,Adolescent
+19990420COCOL,unknown,Wounded,Female,Teacher,Adult
+19990420COCOL,unknown,Wounded,unknown,Student,Adolescent
+19990420COCOL,unknown,Wounded,unknown,Student,Young Adult
+19990420COCOL,unknown,Wounded,unknown,Student,Adolescent
+19990420COCOL,unknown,Wounded,unknown,Student,Teen
+19990420COCOL,unknown,Wounded,unknown,Student,Teen
+19990420COCOL,White,Fatal,Male,Student,Adolescent
+19990420COCOL,Black,Fatal,Male,Student,Young Adult
+19990420COCOL,White,Fatal,Male,Student,Adolescent
+19990420COCOL,White,Fatal,Female,Student,Adolescent
+19990420COCOL,White,Fatal,Male,Student,Adolescent
+19990420COCOL,White,Fatal,Male,Student,Adolescent
+19990422GAMAA,Black,Fatal,Male,Student,Adolescent
+19990422LASCB,unknown,Wounded,Female,Student,Adolescent
+19990520GAHEC,unknown,Wounded,unknown,Student,Adolescent
+19990520GAHEC,unknown,Wounded,unknown,Student,Adolescent
+19990520GAHEC,unknown,Wounded,Female,Student,Adolescent
+19990520GAHEC,unknown,Wounded,unknown,Student,Young Adult
+19990520GAHEC,unknown,Wounded,unknown,Student,Adolescent
+19990520GAHEC,unknown,Wounded,unknown,Student,Young Adult
+19990825GAJAM,unknown,None,Female,Student,Adolescent
+19990909CASAS,unknown,None,Male,Student,Adolescent
+19990927FLEGT,unknown,Wounded,Female,Student,School Age Child
+19991004SDJOP,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+19991011NVCLL,unknown,Wounded,Male,Student,Adolescent
+19991011NVCLL,unknown,Wounded,Male,Student,Adolescent
+19991021CASAP,unknown,Wounded,Male,Student,Adolescent
+19991026PAMAP,unknown,Fatal,Male,Student,Adolescent
+19991026WVGUB,unknown,Fatal,Male,Other Staff,Adult
+19991117TXDID,unknown,Wounded,Male,Student,Adolescent
+19991119NMDED,unknown,Fatal,Male,Student,Adolescent
+19991206OKFOF,unknown,Wounded,unknown,Student,School Age Child
+19991206OKFOF,unknown,Wounded,unknown,Student,Adolescent
+19991206OKFOF,unknown,Wounded,unknown,Student,Adolescent
+19991206OKFOF,unknown,Wounded,unknown,Student,Adolescent
+19991206OKFOF,unknown,Wounded,unknown,Student,Teen
+20000110AKBAA,unknown,None,Male,Student,Adolescent
+20000113NMALA,unknown,None,unknown,unknown,unknown
+20000119FLRIN,unknown,Fatal,Male,Student,Adolescent
+20000120NCERA,unknown,None,unknown,unknown,unknown
+20000126CAALM,unknown,None,Male,No Relation,Adolescent
+20000126NESOO,unknown,Wounded,Female,Student,Adolescent
+20000210PAPEY,unknown,None,Male,Student,Adolescent
+20000214ILDUC,unknown,Wounded,Male,Student,School Age Child
+20000229MIBUF,unknown,Fatal,Female,Student,School Age Child
+20000310GABES,unknown,Fatal,Female,Student,Young Adult
+20000310GABES,unknown,Fatal,Male,Student,Adolescent
+20000310GABES,unknown,Wounded,Male,Student,Adolescent
+20000323OHMCL,unknown,None,unknown,unknown,unknown
+20000406OKHUH,unknown,Wounded,Female,Parent,Adult
+20000410AZLAT,unknown,None,Female,Teacher,Adult
+20000502COTHD,unknown,None,Male,Student,Adolescent
+20000510AZCAS,unknown,Fatal,Female,Teacher,Adult
+20000526FLLAL,Hispanic,Fatal,Male,Teacher,Adult
+20000717WADIR,unknown,None,unknown,unknown,unknown
+20000726OHTIC,unknown,Fatal,Male,Student,Adolescent
+20000905OHBIB,unknown,Fatal,Female,Other Staff,Adult
+20000907ILLOR,Black,Fatal,Male,No Relation,Young Adult
+20000918OHMOM,unknown,None,unknown,unknown,unknown
+20000926LACAN,unknown,Wounded,Male,Student,Adolescent
+20000926LACAN,unknown,Wounded,Male,Student,Adolescent
+20001005MNMIM,unknown,Wounded,Male,No Relation,Young Adult
+20001005MNMIM,unknown,Wounded,Male,No Relation,Adolescent
+20001024AZPIG,unknown,None,unknown,unknown,unknown
+20001101TXNEC,unknown,None,unknown,unknown,unknown
+20001201CAGRL,unknown,None,Male,Student,Adolescent
+20001201CAJUS,unknown,None,Male,Student,Adolescent
+20001207CARIR,unknown,Fatal,Male,Student,Adolescent
+20001221FLNOM,unknown,Fatal,Male,No Relation,Adult
+20010103CABAS,unknown,None,Male,Student,Adolescent
+20010110CAHUO,unknown,None,Female,Student,Adolescent
+20010117MDLAB,unknown,Fatal,Male,Student,Adolescent
+20010202MIOSD,unknown,Wounded,unknown,Student,Teen
+20010202MIOSD,unknown,Wounded,unknown,Student,Teen
+20010202MIOSD,unknown,Wounded,unknown,Teacher,Adult
+20010302CAHOS,unknown,None,Male,Student,Young Adult
+20010305CASAS,unknown,Fatal,Male,Student,Adolescent
+20010305CASAS,unknown,Wounded,Female,Student,Teen
+20010305CASAS,unknown,Wounded,Male,Student,Teen
+20010305CASAS,unknown,Wounded,Male,Student,Teen
+20010305CASAS,unknown,Wounded,Male,Student,Young Adult
+20010305CASAS,unknown,Wounded,Female,Teacher,Adult
+20010305CASAS,unknown,Wounded,Male,Other Staff,Young Adult
+20010305CASAS,unknown,Fatal,Male,Student,Adolescent
+20010305CASAS,unknown,Wounded,Male,Student,Adolescent
+20010305CASAS,unknown,Wounded,Male,Student,Young Adult
+20010305CASAS,unknown,Wounded,Male,Student,Young Adult
+20010305CASAS,unknown,Wounded,Male,Student,Adolescent
+20010305CASAS,unknown,Wounded,Male,Student,Adolescent
+20010305CASAS,unknown,Wounded,Female,Student,Adolescent
+20010305CASAS,unknown,Wounded,Female,Student,Adolescent
+20010306MDLAL,unknown,Wounded,Male,Student,Adolescent
+20010307PABIW,White,Wounded,Female,Student,Adolescent
+20010307WAKEC,unknown,None,unknown,unknown,unknown
+20010322CAGRE,unknown,Wounded,Male,Student,Adolescent
+20010322CAGRE,unknown,Wounded,Male,Student,Adolescent
+20010322CAGRE,unknown,Wounded,Female,Student,Adolescent
+20010322CAGRE,unknown,Wounded,Female,Teacher,Adult
+20010322CAGRE,unknown,Wounded,Female,Teacher,Adult
+20010330INLEG,unknown,Fatal,Male,Student,Adolescent
+20010402TXKLH,unknown,None,Female,Student,Adolescent
+20010410WAWAM,unknown,None,unknown,unknown,unknown
+20010420LAMOM,unknown,None,unknown,unknown,unknown
+20010425OHJOC,unknown,Fatal,Male,Other Staff,Adult
+20010515TXENE,unknown,None,Male,Student,Adolescent
+20010607TXOUA,unknown,Fatal,Male,No Relation,Adult
+20010730CABEL,unknown,Wounded,Male,No Relation,Adult
+20010912KYLAC,White,Fatal,Female,Parent,Adult
+20010921MDLAB,unknown,Wounded,Male,Student,Adolescent
+20011012UTTAT,unknown,None,Male,Student,Adolescent
+20011026CARER,unknown,Wounded,Male,Student,Adolescent
+20011026MIBES,unknown,Wounded,Male,Student,Adolescent
+20011112MICAC,unknown,None,Male,Student,Adolescent
+20011130TXFRF,unknown,None,unknown,unknown,unknown
+20020111MSRAJ,unknown,None,unknown,unknown,unknown
+20020115NYMAN,unknown,Wounded,Male,Student,Adolescent
+20020115NYMAN,unknown,Wounded,Male,Student,Adolescent
+20020124PAOLO,unknown,None,unknown,unknown,unknown
+20020201TXBRB,unknown,Wounded,Female,Intimate Relationship,Adult
+20020201TXBRB,unknown,Wounded,Male,Other Staff,Adult
+20020206CAGAL,unknown,Wounded,Female,Student,Adolescent
+20020206CAGAL,unknown,Wounded,Male,Student,Young Adult
+20020207ILROC,unknown,Wounded,Male,Student,Teen
+20020207ILROC,unknown,Wounded,Male,Student,Teen
+20020207ILROC,unknown,Wounded,Female,Student,Teen
+20020322CAJOC,unknown,None,Female,Teacher,Adult
+20020406MDLEB,Black,Fatal,Male,No Relation,Adolescent
+20020426LAABN,unknown,Fatal,Male,Security Guard,Adult
+20021004MTCMG,unknown,None,Male,Student,Teen
+20021004TXPAS,unknown,None,Female,Student,Adolescent
+20021007MDBEB,unknown,Wounded,Male,Student,Adolescent
+20021029NJLIJ,unknown,Wounded,Male,Student,Adolescent
+20021107MOSTL,unknown,Wounded,Female,Parent,Adult
+20021107MOSTL,unknown,Fatal,Male,Student,School Age Child
+20021115CAAML,unknown,Wounded,Male,Student,School Age Child
+20021115CAAML,unknown,Wounded,Male,No Relation,Young Adult
+20021115TXSCS,unknown,None,unknown,unknown,unknown
+20021202MIOSD,unknown,None,Male,Student,Adolescent
+20021212WAWIC,unknown,Minor Injuries,Male,Student,Teen
+20021212WAWIC,unknown,Minor Injuries,Female,Student,Teen
+20021216ILENC,unknown,Fatal,Male,Student,Young Adult
+20021216ILENC,unknown,Wounded,Female,Student,Adolescent
+20030121KYWEO,unknown,None,Male,Student,Child
+20030130OKJEJ,unknown,None,unknown,unknown,unknown
+20030205CORAW,unknown,None,Male,Student,Adolescent
+20030318IACLG,unknown,None,Male,Student,Adolescent
+20030321MSNOM,unknown,None,Male,Student,Adolescent
+20030330CAROW,Hispanic,Fatal,Male,No Relation,Adult
+20030401DCCAW,unknown,Wounded,Male,Student,Adolescent
+20030414LAFAS,unknown,Wounded,Male,Student,Young Adult
+20030414LAJON,unknown,Fatal,Male,Student,Young Adult
+20030414LAJON,unknown,Wounded,Female,Student,Adolescent
+20030414LAJON,unknown,Wounded,Male,Student,Young Adult
+20030414LAJON,unknown,Wounded,Male,Student,Adolescent
+20030414LAJON,unknown,Wounded,Male,Student,Young Adult
+20030416TXGRA,unknown,None,Female,Student,School Age Child
+20030424PARER,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+20030513PAFOJ,unknown,None,Male,Student,Young Adult
+20030604PAROW,unknown,None,Male,Student,School Age Child
+20030910MSVIV,unknown,Fatal,Male,unknown,Young Adult
+20030917MACHB,unknown,Wounded,Male,Student,Adolescent
+20030917MACHB,unknown,Wounded,Male,Police Officer/SRO,Adult
+20030917MDOKE,unknown,None,unknown,unknown,unknown
+20030922WALES,unknown,Wounded,Male,Student,Adolescent
+20030924MNROC,unknown,Fatal,Male,Student,Adolescent
+20030924MNROC,unknown,Fatal,Male,Student,Adolescent
+20030925NCBUL,unknown,None,unknown,unknown,unknown
+20031001CARIS,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+20031007OHKEA,unknown,Wounded,Male,Student,Adolescent
+20031029LAMAM,unknown,None,Male,Student,School Age Child
+20031030DCANW,unknown,Fatal,Male,Student,Adolescent
+20031030DCANW,unknown,Wounded,Female,Student,Adolescent
+20031108TXHIS,unknown,Fatal,Female,Student,Adolescent
+20031113NCEAC,unknown,Wounded,Male,Student,Teen
+20031113NCEAC,unknown,Wounded,Male,Student,Teen
+20031202ILFEC,unknown,None,Male,Unknown,Young Adult
+20031204OKDOO,unknown,Wounded,Female,Student,Adolescent
+20031205ILCAC,unknown,Wounded,Male,Other Staff,Adult
+20031217MDOLM,unknown,None,unknown,unknown,unknown
+20031222NJCOW,unknown,Wounded,Male,Student,Young Adult
+20031229FLABE,unknown,Wounded,Male,No Relation,Adolescent
+20031229FLABE,unknown,Fatal,Male,No Relation,Young Adult
+20040115CAPOP,unknown,Wounded,Female,Student,Adolescent
+20040121NVFAH,unknown,Fatal,Male,Intimate Relationship,Adult
+20040202DCBAW,unknown,Fatal,Male,Student,Adolescent
+20040203TXYOH,unknown,None,Male,Student,School Age Child
+20040206LAFAS,unknown,None,unknown,unknown,unknown
+20040209NYCOE,unknown,Wounded,Male,Teacher,Adult
+20040211PATMP,unknown,Fatal,Male,Student,School Age Child
+20040211PATMP,unknown,Wounded,Female,Teacher,Adult
+20040213OHCOD,unknown,Wounded,Male,Student,Adolescent
+20040220LAGAS,unknown,Fatal,Female,Teacher,Young Adult
+20040305CASAL,unknown,Wounded,Male,Student,Adolescent
+20040305CASAL,unknown,Wounded,Female,Student,Adolescent
+20040317WACRJ,unknown,None,Male,Student,Adolescent
+20040504TXKAH,unknown,None,unknown,unknown,unknown
+20040507MDRAR,unknown,Wounded,Male,Student,Adolescent
+20040507MDRAR,unknown,Wounded,Male,Student,Adolescent
+20040507MDRAR,unknown,Wounded,Male,Student,Adolescent
+20040507MDRAR,unknown,Wounded,Male,Student,Adolescent
+20040512CAEAM,unknown,Wounded,Male,Student,Young Adult
+20040512CAEAM,unknown,Wounded,Female,Student,Adolescent
+20040524UTWES,unknown,Fatal,Female,Other Staff,Adult
+20040609CACAO,unknown,Wounded,Male,Student,Adolescent
+20040609CACAO,unknown,Wounded,Male,Student,Adolescent
+20040803ALHUB,unknown,Wounded,Male,Student,Adolescent
+20040824TNHAM,unknown,None,Male,Student,Adolescent
+20040830ILPRM,unknown,Fatal,Male,Relative,Young Adult
+20040912LABON,unknown,Wounded,Male,Student,Adolescent
+20040915INWIG,unknown,None,unknown,unknown,unknown
+20041002NEJEG,unknown,Wounded,Female,No Relation,Young Adult
+20041007MANEN,unknown,None,Male,Student,Adolescent
+20041012CALAS,unknown,None,Male,No Relation,Adult
+20041015CABIB,unknown,Wounded,Male,Student,Adolescent
+20041021MDTHB,unknown,Wounded,Male,Student,Young Adult
+20041021MDTHB,unknown,Wounded,Male,Student,Adolescent
+20041022CATYH,unknown,Fatal,Male,No Relation,Adult
+20041115ALPAB,unknown,Wounded,Male,Unknown,Young Adult
+20041115INBRG,unknown,Wounded,Male,Parent,Adult
+20041116SCBAB,unknown,Wounded,Male,Unknown,Young Adult
+20041117FLAPA,unknown,None,unknown,unknown,unknown
+20041119FLTEJ,unknown,Wounded,Male,Student,Teen
+20041209WALAS,unknown,None,Male,Student,Adolescent
+20041213LALAL,unknown,Wounded,Male,Student,Young Adult
+20041231TXRIR,unknown,Wounded,Female,Other Staff,Adult
+20050105PAMUN,unknown,Fatal,Male,Student,Young Adult
+20050126ILWOP,unknown,None,Unknown,Student,Teen
+20050204GAMCA,unknown,Wounded,Female,Student,Adolescent
+20050208ILBOC,unknown,Wounded,Female,Student,Young Adult
+20050302TNSTD,unknown,Fatal,Female,Bus Driver,Adult
+20050309TNMAN,unknown,Wounded,Male,Student,Young Adult
+20050310TXZAD,unknown,Wounded,Male,No Relation,Adult
+20050314OHLEC,unknown,Wounded,Male,Student,School Age Child
+20050316PACAP,unknown,Fatal,Male,Student,Adolescent
+20050316PACAP,unknown,Wounded,Male,Student,Adolescent
+20050316PACAP,unknown,Wounded,Male,Student,Adolescent
+20050317CALOL,unknown,Fatal,Female,Student,Adolescent
+20050317LAOPA,unknown,Wounded,Male,Student,Adolescent
+20050321MNRER,unknown,Fatal,Male,Security Guard,Adult
+20050321MNRER,unknown,Wounded,Unknown,Student,Adolescent
+20050321MNRER,unknown,Wounded,Unknown,Student,Adolescent
+20050321MNRER,unknown,Wounded,Unknown,Student,Adolescent
+20050321MNRER,unknown,Wounded,Unknown,Student,Adolescent
+20050321MNRER,unknown,Fatal,Female,Student,Adolescent
+20050321MNRER,unknown,Fatal,Female,Student,Adolescent
+20050321MNRER,unknown,Fatal,Male,Student,Adolescent
+20050321MNRER,unknown,Fatal,Female,Teacher,Adult
+20050321MNRER,unknown,Fatal,Male,Student,Adolescent
+20050321MNRER,unknown,Fatal,Male,Student,Adolescent
+20050321MNRER,unknown,Fatal,Female,Student,Adolescent
+20050321MNRER,unknown,Wounded,Unknown,Student,Adolescent
+20050321NYNEB,unknown,None,Male,Student,Teen
+20050324TNFAM,unknown,None,Female,Student,Adolescent
+20050330TNEAM,unknown,None,Male,Student,Adolescent
+20050407TXCAC,White,Wounded,Male,Other Staff,Adult
+20050427LALER,unknown,None,unknown,unknown,unknown
+20050429OHDAC,unknown,Wounded,Female,Other Staff,Adult
+20050514TXBER,unknown,Wounded,Male,Student,Young Adult
+20050517PAHIL,unknown,Fatal,Female,Parent,Adult
+20050520ILLOM,unknown,Wounded,Male,Student,Teen
+20050520ILLOM,unknown,Wounded,Male,Student,Teen
+20050524COACD,unknown,Wounded,Female,Teacher,Adult
+20050524COACD,unknown,Wounded,Female,Teacher,Adult
+20050524LABOS,unknown,None,Male,Student,Adolescent
+20050608NYARP,unknown,Wounded,Unknown,Student,Teen
+20050608NYARP,unknown,Wounded,Unknown,Student,Teen
+20050612NJBAA,unknown,Wounded,Male,No Relation,Young Adult
+20050612NJBAA,unknown,Wounded,Male,No Relation,Young Adult
+20050612NJBAA,unknown,Wounded,Male,No Relation,Young Adult
+20050718NJWEN,unknown,Fatal,Male,Police Officer/SRO,Young Adult
+20050718NJWEN,unknown,Fatal,Male,Police Officer/SRO,Adult
+20050816VICOE,unknown,Wounded,Male,Other Staff,Adult
+20050817CAPLB,unknown,Fatal,Male,No Relation,Adolescent
+20050819GAMOM,unknown,Wounded,Male,Student,Young Adult
+20050819GAMOM,unknown,Wounded,Male,Nonstudent,Young Adult
+20050825TNMAD,unknown,Wounded,Male,Student,School Age Child
+20050901AKDIA,unknown,None,Male,Student,Teen
+20050901AKDIA,unknown,None,Male,Student,Teen
+20050902FLSOJ,unknown,Wounded,Male,Student,Adolescent
+20050913ILHAC,unknown,Wounded,Male,Student,Adolescent
+20050924MISAS,unknown,Wounded,Male,Student,Adolescent
+20050924MISAS,unknown,Wounded,Female,Student,Adolescent
+20051011MIFAF,unknown,None,unknown,unknown,unknown
+20051014NYSAN,unknown,Wounded,Male,Student,Adolescent
+20051019CASAS,unknown,Wounded,Male,Student,Adolescent
+20051020MISAS,unknown,Wounded,Male,Student,Adolescent
+20051027CABIF,unknown,Fatal,Male,Parent,Adult
+20051028MDANA,unknown,Wounded,Female,Student,Adolescent
+20051028NYFAF,unknown,None,Male,Security Guard,Adult
+20051108TNCAJ,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+20051108TNCAJ,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+20051108TNCAJ,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+20051115FLPAM,unknown,Wounded,Female,Student,Adolescent
+20051116TXIRS,unknown,Fatal,Male,No Relation,Adult
+20051205MABOR,unknown,None,unknown,unknown,unknown
+20051206CASAG,unknown,Fatal,Male,Student,Adolescent
+20051206MICED,unknown,Wounded,Male,Nonstudent,unknown
+20060103NJLIJ,unknown,Wounded,Male,Student,Teen
+20060103NJLIJ,unknown,Wounded,Female,Student,Teen
+20060110DEMOW,unknown,Wounded,Male,Student,Adolescent
+20060111WIMAM,unknown,Wounded,Female,Student,School Age Child
+20060113ALPIP,unknown,Wounded,Male,Student,Adolescent
+20060113FLMIL,unknown,None,Male,Student,Adolescent
+20060113MIOSD,unknown,None,Unknown,Principal/Vice-Principal,Adult
+20060118MTFRA,unknown,Wounded,Male,Student,Teen
+20060118TXPAA,unknown,Wounded,Male,Student,School Age Child
+20060118VAINC,unknown,None,Unknown,Student,Teen
+20060119OHWIC,unknown,Wounded,Male,No Relation,Adolescent
+20060119OHWIC,unknown,Wounded,Male,No Relation,Young Adult
+20060123CAWIV,unknown,Wounded,Female,Student,Adolescent
+20060127TXLAG,unknown,Wounded,Female,Student,Teen
+20060127TXLAG,unknown,Wounded,Female,Student,Teen
+20060130MTCMG,unknown,None,Male,Student,Adolescent
+20060203CALOC,unknown,Wounded,Male,Student,School Age Child
+20060209DEWIN,unknown,Wounded,Male,Student,Young Adult
+20060215PAWEY,unknown,None,Male,Teacher,Adult
+20060221PAWEP,unknown,Wounded,Male,Student,Adolescent
+20060223ORROR,unknown,Wounded,Male,Student,Adolescent
+20060310NYISN,unknown,Wounded,Male,Student,Teen
+20060310NYISN,unknown,Wounded,Male,Student,Teen
+20060314NVPIR,unknown,Wounded,Male,Student,Teen
+20060314NVPIR,unknown,Wounded,Male,Student,Teen
+20060405DCROW,unknown,Wounded,Male,Student,Young Adult
+20060405DCROW,unknown,Wounded,Female,Student,Young Adult
+20060418TXWEH,unknown,Wounded,Unknown,Student,Teen
+20060418TXWEH,unknown,Wounded,Unknown,Student,Teen
+20060424NCEAC,unknown,None,unknown,unknown,unknown
+20060505FLPAM,unknown,Fatal,Male,Student,Young Adult
+20060522SCBUI,unknown,None,unknown,unknown,unknown
+20060525PANON,unknown,None,unknown,unknown,unknown
+20060605CAVEL,unknown,Fatal,Male,Student,Adolescent
+20060606INWIG,unknown,Fatal,Male,Relative,Young Adult
+20060615MIPED,unknown,Wounded,Male,Student,Adolescent
+20060731FLYOT,unknown,Fatal,Female,Parent,Adult
+20060815KYJTV,unknown,None,unknown,unknown,unknown
+20060817TXMEA,unknown,Fatal,Male,Relative,Young Adult
+20060819OHSOY,unknown,Fatal,Male,Parent,Adult
+20060820GALYH,unknown,Wounded,Male,No Relation,Young Adult
+20060820GALYH,unknown,Wounded,Male,No Relation,Adolescent
+20060821INCAN,White,None,Male,Student,Adolescent
+20060824VTESE,unknown,Fatal,Female,Teacher,Adult
+20060829DCANW,unknown,None,unknown,unknown,unknown
+20060830NCORH,unknown,Wounded,Male,Student,Teen
+20060830NCORH,unknown,Wounded,Female,Student,Teen
+20060831ALOXO,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20060905TNKIM,unknown,Wounded,Male,Student,Teen
+20060908TXSOF,unknown,Wounded,Male,Student,Adolescent
+20060913MOWEC,unknown,None,Male,Student,Adolescent
+20060921DCCAW,unknown,Wounded,Male,Student,Adolescent
+20060927COPLB,White,Fatal,Female,Student,Adolescent
+20060929WIWEC,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+20061002PAWEN,unknown,Fatal,Female,Student,School Age Child
+20061002PAWEN,unknown,Wounded,Female,Student,Child
+20061002PAWEN,unknown,Fatal,Female,Student,Adolescent
+20061002PAWEN,unknown,Fatal,Female,Student,School Age Child
+20061002PAWEN,unknown,Fatal,Female,Student,School Age Child
+20061002PAWEN,unknown,Fatal,Female,Student,School Age Child
+20061002PAWEN,unknown,Wounded,Female,Student,Child
+20061002PAWEN,unknown,Wounded,Female,Student,Child
+20061002PAWEN,unknown,Wounded,Female,Student,Child
+20061002PAWEN,unknown,Wounded,Female,Student,Child
+20061009MOMEJ,unknown,None,unknown,unknown,unknown
+20061010NYPOP,unknown,Wounded,Male,Student,School Age Child
+20061010NYPOP,unknown,Wounded,Male,Student,School Age Child
+20061012MDGRB,unknown,None,unknown,unknown,unknown
+20061017TXSEK,unknown,None,Male,Student,Adolescent
+20061031TNHAK,unknown,Fatal,Male,Security Guard,Adult
+20061111CALIO,unknown,Fatal,Male,No Relation,Young Adult
+20061111CALIO,unknown,Wounded,Male,No Relation,Young Adult
+20061122GASAA,unknown,Fatal,Male,Student,Adolescent
+20061201NCJOT,unknown,Fatal,Male,Former Student,Young Adult
+20061207NENOO,unknown,Wounded,Male,Student,Adolescent
+20061211ILCLC,unknown,Wounded,Male,Police Officer/SRO,Adult
+20061212PASPS,unknown,None,Male,Student,Adolescent
+20061213PABAB,unknown,Wounded,Female,Student,Teen
+20061214PAMCC,unknown,None,Male,Student,Adolescent
+20070102NCWEF,Black,None,Male,Student,Adolescent
+20070103WAHET,unknown,Fatal,Male,Student,Adolescent
+20070104MINOD,unknown,Wounded,Female,Student,Adolescent
+20070108OHROC,unknown,None,Unknown,Principal/Vice-Principal,Adult
+20070109CAGRV,unknown,Wounded,Male,Student,Adolescent
+20070109CAGRV,unknown,Wounded,Male,Student,Adolescent
+20070109NVWEL,unknown,Wounded,Male,Student,Teen
+20070109NVWEL,unknown,Wounded,Female,Student,Teen
+20070118PAWIP,unknown,Wounded,Male,Student,Adolescent
+20070124TNHAS,unknown,None,Male,Student,Adolescent
+20070131ILHIC,unknown,Wounded,Male,Student,Adolescent
+20070207FLPAJ,unknown,None,Unknown,Police Officer/SRO,Adult
+20070208ORCRP,unknown,None,Male,Student,Young Adult
+20070208TXSTP,unknown,Minor Injuries,Male,Student,Teen
+20070226CASLA,unknown,Wounded,Male,Student,School Age Child
+20070226CASLA,unknown,Wounded,Male,Student,School Age Child
+20070227GACLA,unknown,Wounded,Male,Student,School Age Child
+20070307CACEC,unknown,Wounded,Male,Student,Teen
+20070307MIHEM,unknown,Wounded,Female,Student,Adolescent
+20070307TXGRG,unknown,None,Male,Student,Adolescent
+20070308TNEAC,unknown,None,Male,Former Teacher,Adult
+20070323FLUNO,unknown,Wounded,Male,Student,School Age Child
+20070327CTSAH,unknown,Wounded,Male,No Relation,Adolescent
+20070329SCMYM,unknown,None,Male,Student,Young Adult
+20070410ILCHC,unknown,Wounded,Male,Student,Adolescent
+20070410ORSPG,unknown,Wounded,Unknown,Student,Teen
+20070410ORSPG,unknown,Wounded,Unknown,Student,Teen
+20070410ORSPG,unknown,Wounded,Unknown,Student,Teen
+20070410ORSPG,unknown,Wounded,Unknown,Student,Teen
+20070410ORSPG,unknown,Wounded,Unknown,Student,Teen
+20070410ORSPG,unknown,Wounded,Unknown,Student,Teen
+20070410ORSPG,unknown,Wounded,Unknown,Student,Teen
+20070410ORSPG,unknown,Wounded,Unknown,Student,Teen
+20070410ORSPG,unknown,Wounded,Unknown,Student,Teen
+20070410ORSPG,unknown,Wounded,Unknown,Student,Teen
+20070418NCNOH,unknown,None,unknown,unknown,unknown
+20070503OHGED,unknown,Wounded,Female,Bus Driver,Adult
+20070504TXTIE,unknown,None,Female,Student,Adolescent
+20070510MIHED,unknown,Wounded,Male,Student,Adolescent
+20070510MIHED,unknown,Wounded,Male,Student,Adolescent
+20070512TXWEM,unknown,Wounded,Male,Student,Young Adult
+20070515TXLIL,unknown,None,unknown,unknown,unknown
+20070523RIOAC,unknown,Wounded,Male,Student,Adolescent
+20070530NCVAG,unknown,Wounded,Unknown,Parent,Adult
+20070531NCNOG,unknown,Minor Injuries,Unknown,Student,Child
+20070531NCNOG,unknown,Minor Injuries,Unknown,Student,Child
+20070531NCNOG,unknown,Minor Injuries,Unknown,Student,Child
+20070617SCBRB,unknown,Wounded,Male,Nonstudent,Young Adult
+20070628TXDAD,unknown,Wounded,Male,Student,Teen
+20070628TXDAD,unknown,Wounded,Male,Student,Teen
+20070709ILCAC,unknown,Wounded,Male,No Relation,Adolescent
+20070709ILCAC,unknown,Wounded,Male,No Relation,Adolescent
+20070804NJMON,unknown,Fatal,Male,No Relation,Young Adult
+20070804NJMON,unknown,Fatal,Male,No Relation,Adult
+20070804NJMON,unknown,Fatal,Male,No Relation,Adolescent
+20070804NJMON,unknown,Wounded,Male,No Relation,Adolescent
+20070928CALAO,unknown,None,unknown,unknown,unknown
+20070930AZSSP,unknown,Wounded,Male,unknown,unknown
+20070930AZSSP,unknown,Wounded,Female,unknown,unknown
+20071001CTPLM,unknown,Wounded,Male,Student,Adolescent
+20071010OHSUC,unknown,Wounded,Male,Teacher,Adult
+20071010OHSUC,unknown,Wounded,Male,Teacher,Adult
+20071010OHSUC,unknown,Wounded,Male,Student,Adolescent
+20071010OHSUC,unknown,Wounded,Female,Student,Adolescent
+20071024TNMAM,unknown,Wounded,Male,Student,Adolescent
+20071105LAJOR,unknown,None,Male,Student,Adolescent
+20071126NYHOH,unknown,None,unknown,unknown,unknown
+20071221CABAU,Black,Fatal,Male,Student,Adolescent
+20080204TNHAM,unknown,Wounded,Male,Student,Teen
+20080211TNMIM,unknown,Wounded,Male,Student,Young Adult
+20080214CAEOO,unknown,Fatal,Male,Student,Adolescent
+20080306ALDAM,unknown,None,Male,Student,Young Adult
+20080416CAROF,Hispanic,Fatal,Male,Student,Adolescent
+20080516LAMAT,unknown,None,Male,Student,Adolescent
+20080811WAWAK,unknown,None,Male,Student,Child
+20080814WALAF,unknown,Fatal,Male,unknown,Adult
+20080821TNCEK,unknown,Fatal,Male,Student,Adolescent
+20080902OHSOW,unknown,None,unknown,unknown,unknown
+20080915CAMIS,unknown,None,Male,Student,Adolescent
+20080919CAGEA,unknown,Wounded,Female,Nonstudent Using Athletic Facilities/Attending Game,School Age Child
+20080919CAGEA,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20081016MIHED,unknown,Fatal,Male,Student,Adolescent
+20081016MIHED,unknown,Wounded,Female,Student,Adolescent
+20081016MIHED,unknown,Wounded,Male,Student,Adolescent
+20081016MIHED,unknown,Wounded,Male,Former Student,Adolescent
+20081020CAVAA,White,None,Male,Student,Adolescent
+20081023ALPRP,unknown,Wounded,Female,Parent,Adult
+20081029CAELG,unknown,Wounded,Female,Teacher,Adult
+20081031MESTS,unknown,None,unknown,unknown,unknown
+20081103CABEB,unknown,Fatal,Male,unknown,Young Adult
+20081103CAELO,unknown,None,unknown,unknown,unknown
+20081112FLDIF,unknown,Fatal,Female,Student,Adolescent
+20081115COTHL,unknown,Fatal,Male,No Relation,Young Adult
+20081115UTDES,unknown,Fatal,Male,Student,Adolescent
+20081118CACEC,unknown,Wounded,Male,Student,Young Adult
+20081118CACOO,unknown,None,unknown,unknown,unknown
+20081125TXNOH,unknown,Wounded,Male,unknown,unknown
+20081130CAOAG,unknown,Wounded,Male,No Relation,Young Adult
+20081202CAKIK,unknown,Wounded,Male,Student,Adolescent
+20081202CAKIK,unknown,Fatal,Female,Relative,School Age Child
+20081205MNSHF,unknown,None,Male,Teacher,Adult
+20081212NCGUA,unknown,Fatal,Male,No Relation,Adolescent
+20081212NYWIM,unknown,Wounded,Male,Student,Adolescent
+20081221SCSUS,unknown,Wounded,Male,Student,Adolescent
+20081222FLLAL,White,None,Female,Teacher,Adult
+20081227PAWIP,unknown,Wounded,Male,Nonstudent,Adult
+20081227PAWIP,unknown,Wounded,Female,Nonstudent,Adult
+20081231GASHS,unknown,Wounded,Unknown,Other Staff,Adult
+20081231OKKEN,unknown,None,Male,Nonstudent,Adult
+20090108DEWIN,unknown,Wounded,Male,Student,Young Adult
+20090108DEWIN,unknown,Wounded,Female,Police Officer/SRO,Adult
+20090109ILDUC,unknown,Wounded,Male,Gang Member,Teen
+20090109ILDUC,unknown,Wounded,Male,Gang Member,Teen
+20090109ILDUC,unknown,Wounded,Male,Gang Member,Teen
+20090109ILDUC,unknown,Wounded,Male,Gang Member,Teen
+20090109ILDUC,unknown,Wounded,Male,Gang Member,Teen
+20090114ILPEC,unknown,Wounded,Male,Student,Teen
+20090114ILPEC,unknown,Wounded,Male,Student,Teen
+20090114ILPEC,unknown,Wounded,Male,Student,Teen
+20090120ILCOC,Black,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adolescent
+20090120MIBEM,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20090120MIBEM,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20090120MIBEM,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adolescent
+20090120MIBEM,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20090120PAEAE,unknown,Wounded,Female,Nonstudent,Young Adult
+20090123ILCAC,Black,Fatal,Male,Former Student,Adolescent
+20090127NCCLC,unknown,None,unknown,unknown,unknown
+20090210CABAE,unknown,None,unknown,unknown,unknown
+20090211NCSCZ,White,Wounded,Male,Student,Adolescent
+20090217MICED,unknown,Wounded,Male,Relative,Young Adult
+20090220CAJOH,unknown,None,Male,Nonstudent,Adult
+20090220CAJOH,unknown,None,Male,Nonstudent,Preschooler
+20090223CTBRN,unknown,None,Male,No Relation,Young Adult
+20090302SDROS,unknown,None,Male,Student,School Age Child
+20090306NCWEF,unknown,Wounded,Male,Student,Adolescent
+20090310FLRIJ,unknown,None,unknown,unknown,unknown
+20090311TXCYH,unknown,None,unknown,unknown,unknown
+20090413CALOL,unknown,Wounded,Male,Student,Adolescent
+20090501WISHS,unknown,None,Male,Student,Adolescent
+20090505NYCAC,White,None,Male,Student,Adolescent
+20090518LALAL,unknown,None,Male,Student,Adolescent
+20090615CAINS,unknown,Wounded,Female,Student,Adolescent
+20090615CAINS,unknown,Wounded,Male,Student,Teen
+20090615CAINS,unknown,Wounded,Male,Student,Teen
+20090624IAAPP,White,Fatal,Male,Other Staff,Adult
+20090827NCWEF,unknown,None,Male,Nonstudent,Young Adult
+20090908CTSTS,unknown,None,unknown,unknown,unknown
+20090916VAVIG,unknown,None,Unknown,Student,unknown
+20090916VAVIG,unknown,None,Unknown,Student,unknown
+20091008NYMAM,unknown,Wounded,Female,Student,Young Adult
+20091016SCCAC,unknown,Fatal,Male,Student,Teen
+20091030CAWIL,unknown,Fatal,Female,Student,Adolescent
+20091030CAWIL,unknown,Wounded,Male,Student,Young Adult
+20091030CAWIL,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20091106PAHAW,unknown,Wounded,Male,Student,Adolescent
+20091211LABOS,unknown,Wounded,Female,Student,Young Adult
+20100120ALLIL,unknown,Wounded,Female,Teacher,Adult
+20100205ALDIM,unknown,Fatal,Male,Student,Adolescent
+20100210TNINK,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+20100210TNINK,unknown,Wounded,Female,Principal/Vice-Principal,Adult
+20100223CODEL,unknown,Wounded,Male,Student,Teen
+20100223CODEL,unknown,Wounded,Female,Student,Teen
+20100226WABIT,White,Fatal,Female,Teacher,Adult
+20100428VAWOP,unknown,None,unknown,unknown,unknown
+20100518CASOS,unknown,Wounded,Male,Student,Adolescent
+20100830TNSUB,White,Fatal,Male,No Relation,Adult
+20100908MIMUD,unknown,Wounded,Male,Student,Adolescent
+20100908MIMUD,unknown,Wounded,Female,Student,Adolescent
+20100921SCSOC,unknown,Wounded,Male,Police Officer/SRO,Adult
+20101001CAALS,unknown,Fatal,Male,Student,Adolescent
+20101008CAKEC,unknown,Wounded,Female,Student,School Age Child
+20101008CAKEC,unknown,Wounded,Female,Student,School Age Child
+20101023KSTOT,unknown,Fatal,Male,No Relation,Young Adult
+20101023KSTOT,unknown,Wounded,Male,unknown,Adolescent
+20101129WIMAM,White,None,Male,Student,Adolescent
+20101206COAUA,Hispanic,Wounded,Female,Student,Adolescent
+20110104INCRC,unknown,None,unknown,unknown,unknown
+20110105NEMIO,unknown,Fatal,Male,Principal/Vice-Principal,Adult
+20110105NEMIO,unknown,Wounded,Female,Principal/Vice-Principal,Adult
+20110118CAGAL,unknown,Wounded,Male,Student,Adolescent
+20110118CAGAL,unknown,Wounded,Female,Student,Adolescent
+20110202CALOP,White,Fatal,Male,Principal/Vice-Principal,Adult
+20110325INMAM,White,Wounded,Male,Student,Adolescent
+20110330TXWOH,unknown,Fatal,Male,Student,unknown
+20110330TXWOH,unknown,Wounded,Male,Student,Teen
+20110330TXWOH,unknown,Wounded,Male,Student,unknown
+20110330TXWOH,unknown,Wounded,Male,Student,unknown
+20110330TXWOH,unknown,Wounded,Male,unknown,unknown
+20110330TXWOH,unknown,Wounded,Male,unknown,unknown
+20110413FLSHA,unknown,Wounded,Male,No Relation,Adolescent
+20110419TXBEH,unknown,Wounded,Female,Student,School Age Child
+20110419TXBEH,unknown,Wounded,Male,Student,School Age Child
+20110419TXBEH,unknown,Wounded,Male,Student,Preschooler
+20110517WAHOE,unknown,Wounded,Male,Unknown,Adolescent
+20110523HIHIP,unknown,Wounded,Male,Student,Adolescent
+20110923WAISS,unknown,None,Male,No Relation,Adult
+20110930NCGAC,unknown,Wounded,Male,Former Student,Adolescent
+20110930ORWIP,unknown,None,unknown,unknown,unknown
+20111024NCCAF,White,Wounded,Female,Student,Adolescent
+20111212TXHAE,White,Wounded,Male,Student,Adolescent
+20111212TXHAE,White,Wounded,Male,Student,Adolescent
+20111228MINOF,unknown,Wounded,Male,Unknown,unknown
+20120104TXCUB,unknown,None,Male,Student,Child
+20120110TXNOH,Black,Wounded,Male,Student,Adolescent
+20120210NHWAW,White,None,Male,Student,Adolescent
+20120222WAARB,Hispanic,Wounded,Female,Student,School Age Child
+20120227OHCHC,unknown,Fatal,Male,Student,Adolescent
+20120227OHCHC,unknown,Fatal,Male,Student,Adolescent
+20120227OHCHC,unknown,Fatal,Male,Student,Teen
+20120227OHCHC,unknown,Wounded,Male,Student,Adolescent
+20120227OHCHC,unknown,Wounded,Male,Student,Young Adult
+20120227OHCHC,unknown,Wounded,Male,Student,Teen
+20120306FLEPJ,White,Fatal,Female,Principal/Vice-Principal,Adult
+20120315ALLEM,unknown,None,Male,Student,Teen
+20120401ARKIR,unknown,Wounded,Male,Unknown,Young Adult
+20120525AZWEA,Black,Fatal,Female,Parent,Adult
+20120525NCMAC,White,Fatal,Female,Parent,Adult
+20120706RINAP,Black,Fatal,Male,No Relation,Young Adult
+20120816TNHAM,unknown,None,unknown,Student,Teen
+20120816TNHAM,unknown,None,unknown,Student,Teen
+20120824GABAH,unknown,None,Male,Student,Adolescent
+20120827MDPEP,White,Wounded,Male,Student,Adolescent
+20120907ILNON,unknown,None,unknown,unknown,unknown
+20120926OKSTS,White,None,Male,Student,Adolescent
+20121012NDFAF,unknown,None,Male,Student,Adolescent
+20121019ILBAC,Black,Fatal,Male,Student,Young Adult
+20121210TXSPH,unknown,None,unknown,unknown,unknown
+20121214CTSAN,White,Fatal,Female,Student,School Age Child
+20121214CTSAN,Black,Fatal,Female,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Teacher,Adult
+20121214CTSAN,White,Fatal,Female,Student,School Age Child
+20121214CTSAN,unknown,Fatal,Male,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Student,School Age Child
+20121214CTSAN,unknown,Fatal,Male,Student,School Age Child
+20121214CTSAN,White,Fatal,Male,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Principal/Vice-Principal,Adult
+20121214CTSAN,unknown,Fatal,Male,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Student,School Age Child
+20121214CTSAN,unknown,Fatal,Male,Student,School Age Child
+20121214CTSAN,White,Fatal,Male,Student,School Age Child
+20121214CTSAN,White,Fatal,Male,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Teacher,Adult
+20121214CTSAN,unknown,Fatal,Female,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Teacher,Adult
+20121214CTSAN,White,Fatal,Male,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Student,School Age Child
+20121214CTSAN,White,Fatal,Female,Teacher,Adult
+20121214CTSAN,White,Fatal,Female,Teacher,Adult
+20130107FLAPF,Black,Fatal,Male,Parent,Adult
+20130110CATAT,White,Wounded,Male,Student,Adolescent
+20130110CATAT,White,Wounded,Male,Student,Teen
+20130111MIOSD,unknown,Wounded,Male,Student,Adolescent
+20130131GAPRA,Black,Wounded,Male,Student,Adolescent
+20130201MIMAD,unknown,Wounded,Male,Unknown,Teen
+20130201MIMAD,unknown,Fatal,Male,Unknown,Teen
+20130213CAHIS,Black,Fatal,Male,No Relation,Young Adult
+20130227GAGRA,Black,None,Female,Student,Adolescent
+20130321MIDAS,unknown,None,Male,Student,Adolescent
+20130416TXTET,unknown,None,Male,Student,Adolescent
+20130429OHLAC,unknown,None,Male,Student,Adolescent
+20130430NMTUT,unknown,None,Male,No Relation,Young Adult
+20130513ALOSB,unknown,None,unknown,unknown,unknown
+20130523FLREH,unknown,Wounded,Male,Student,School Age Child
+20130618NCHIC,unknown,Wounded,Male,No Relation,Adult
+20130619FLALW,White,Fatal,Male,Other Staff,Adult
+20130619FLALW,White,Fatal,Male,Other Staff,Adult
+20130815TNNOC,Black,Fatal,Male,No Relation,Adult
+20130820GAROD,unknown,None,unknown,unknown,unknown
+20130822TNWEM,unknown,None,unknown,unknown,unknown
+20130823MSNOS,unknown,Fatal,Male,Student,Adolescent
+20130823MSNOS,unknown,Wounded,Male,Student,Teen
+20130823MSNOS,unknown,Wounded,Male,Student,Teen
+20130830NCCAW,Black,Wounded,Male,Student,Adolescent
+20130927ILROC,unknown,Wounded,Male,Student,Adolescent
+20130928MENEG,unknown,None,Male,Intimate Relationship,Young Adult
+20131002NHWIS,unknown,None,unknown,unknown,unknown
+20131004FLAGP,unknown,Wounded,Male,Student,Adolescent
+20131004FLAGP,unknown,Wounded,Male,Student,Adolescent
+20131015TXLAA,Hispanic,None,Male,Student,Adolescent
+20131021NVSPS,unknown,Wounded,Male,Student,School Age Child
+20131021NVSPS,unknown,Wounded,Male,Student,School Age Child
+20131021NVSPS,unknown,Fatal,Male,Teacher,Adult
+20131023CANEC,unknown,Wounded,unknown,Student,Child
+20131023CANEC,unknown,Wounded,unknown,Student,Child
+20131023CANEC,unknown,Wounded,unknown,Student,Child
+20131101IAALA,White,None,Male,Former Student,Young Adult
+20131103GASTL,unknown,Wounded,Male,Student,Adolescent
+20131113PABRP,unknown,Wounded,Male,Student,Adolescent
+20131113PABRP,unknown,Wounded,Male,Student,Adolescent
+20131113PABRP,unknown,Wounded,Male,Student,Adolescent
+20131204FLWEW,Black,Wounded,Male,Student,Adolescent
+20131213COARC,White,Fatal,Female,Student,Adolescent
+20131219CAEDF,Hispanic,Wounded,Male,Teacher,Adult
+20140109TNLIJ,unknown,Wounded,Male,Student,Adolescent
+20140113CTHIN,unknown,Wounded,Male,Rival School Student,Adolescent
+20140114LASTB,Black,Wounded,Male,unknown,Young Adult
+20140114NMBER,unknown,Wounded,Male,Student,Teen
+20140114NMBER,unknown,Wounded,Female,Student,Teen
+20140114PAKIL,unknown,None,unknown,unknown,unknown
+20140117PADEP,unknown,Wounded,Male,Student,Adolescent
+20140117PADEP,unknown,Wounded,Female,Student,Adolescent
+20140127ILREC,Black,Wounded,Male,Parent,Adult
+20140128HIPRH,unknown,Wounded,Male,Student,Teen
+20140131AZCEP,unknown,None,unknown,unknown,unknown
+20140131IANOD,Black,Wounded,Female,Student,Adolescent
+20140207ORBEB,unknown,None,Male,Student,Adolescent
+20140210NCSAS,Black,Wounded,Male,Student,Adolescent
+20140211OHCHL,unknown,None,unknown,unknown,unknown
+20140220MIRAR,unknown,Fatal,Male,Relative,Adult
+20140307LAMAT,unknown,Wounded,Male,Unknown,Adolescent
+20140312FLACM,Black,Fatal,Female,No Relation,Adult
+20140325GABEC,unknown,None,unknown,unknown,unknown
+20140403NJUNN,unknown,None,unknown,unknown,unknown
+20140409NCDHG,unknown,None,unknown,unknown,unknown
+20140410OHLIC,unknown,Wounded,Male,No Relation,Adolescent
+20140410OHLIC,unknown,Wounded,Male,No Relation,Young Adult
+20140411MIEAD,Black,Fatal,Male,Relative,Young Adult
+20140421INSTG,unknown,Fatal,Female,Parent,Adult
+20140421UTPRP,unknown,None,Male,Student,Adolescent
+20140503WAHOE,unknown,Wounded,Male,Gang Member,Adolescent
+20140514CAJOR,Black,Wounded,Male,Student,Adolescent
+20140521WICLM,Black,Fatal,Female,Student,School Age Child
+20140610ORRET,White,Fatal,Male,Student,Adolescent
+20140610ORRET,White,Wounded,Male,Student,Adolescent
+20140623MOKEB,White,Fatal,Male,Student,Adolescent
+20140813MDHEF,unknown,None,unknown,unknown,unknown
+20140814VASAN,Black,Fatal,Male,No Relation,Adolescent
+20140814VASAN,Black,Fatal,Male,No Relation,Adolescent
+20140814VASAN,Black,Wounded,Male,No Relation,Adolescent
+20140909FLSTM,unknown,Wounded,Male,unknown,unknown
+20140910FLGRL,Black,None,Male,Student,Adolescent
+20140911UTWET,White,None,Female,Teacher,Adult
+20140919IANOD,unknown,Wounded,Male,Student,Teen
+20140925NHWEM,unknown,None,unknown,unknown,unknown
+20140930KYFEL,Black,Wounded,Male,Student,Adolescent
+20140930NCALA,Black,Wounded,Male,Student,Teen
+20141003GALAF,Black,Fatal,Male,No Relation,Adolescent
+20141021TNAMM,unknown,Wounded,Male,Student,Adolescent
+20141024GALAA,Black,Wounded,Male,Student,Adolescent
+20141024WAMAM,unknown,Fatal,Female,Student,Adolescent
+20141024WAMAM,unknown,Fatal,Female,Student,Adolescent
+20141024WAMAM,unknown,Fatal,Female,Student,Adolescent
+20141024WAMAM,unknown,Fatal,Male,Student,Adolescent
+20141024WAMAM,unknown,Wounded,Male,Student,Adolescent
+20141024WAMAM,unknown,Wounded,Unknown,Student,Teen
+20141024WAMAM,unknown,Wounded,Unknown,Student,Teen
+20141120FLMIM,Black,Fatal,Male,No Relation,Adolescent
+20141120FLMIM,Black,Wounded,Male,No Relation,Adolescent
+20141212ORROP,Black,Wounded,Male,Student,Adolescent
+20141212ORROP,Black,Wounded,Female,Student,Adolescent
+20141212ORROP,Black,Wounded,Male,Gang Member,Young Adult
+20141212ORROP,Black,Wounded,Female,Student,Adolescent
+20141216PASUP,Black,Fatal,Male,No Relation,Young Adult
+20141217MEBEW,White,None,Male,No Relation,Adult
+20141217MIGOW,Black,Wounded,Male,Student,Adolescent
+20150115WIWIM,unknown,Wounded,Male,Student,Adolescent
+20150115WIWIM,unknown,Wounded,Male,Teacher,Adult
+20150115WIWIM,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20150116FLVAO,unknown,Wounded,Female,Student,Adolescent
+20150116FLVAO,unknown,Wounded,Female,Student,Young Adult
+20150120ALWIM,unknown,Wounded,Male,No Relation,Adult
+20150122SCROH,unknown,None,unknown,unknown,unknown
+20150126MNHAR,unknown,None,Male,Unknown,Adult
+20150204MDFRF,Black,Wounded,Male,Student,Adolescent
+20150204MDFRF,Black,Wounded,Male,Student,Adolescent
+20150215ARLAL,unknown,Wounded,Male,No Relation,Adult
+20150215ARLAL,unknown,Wounded,Male,No Relation,Adolescent
+20150215CATEM,Hispanic,Fatal,Male,Student,Adolescent
+20150330MOPEU,unknown,Wounded,Male,No Relation,Adult
+20150417TXSES,Hispanic,None,Male,Student,Young Adult
+20150422NVRUL,unknown,None,unknown,unknown,unknown
+20150427WANOL,unknown,None,unknown,unknown,unknown
+20150428MDDRW,unknown,Wounded,Male,No Relation,Young Adult
+20150504OHWIC,unknown,Fatal,Male,No Relation,Young Adult
+20150504OHWIC,unknown,Wounded,Male,No Relation,Adult
+20150505GACOC,unknown,None,unknown,unknown,unknown
+20150512AZCOT,Black,None,Male,Student,Young Adult
+20150512FLUNJ,unknown,Wounded,Female,Student,Adolescent
+20150512FLUNJ,unknown,Wounded,Female,Student,Adolescent
+20150520TXROR,unknown,None,Male,Student,Young Adult
+20150524MISOF,unknown,Wounded,unknown,unknown,unknown
+20150524MISOF,unknown,Wounded,unknown,unknown,unknown
+20150524MISOF,unknown,Wounded,unknown,unknown,unknown
+20150524MISOF,unknown,Wounded,unknown,unknown,unknown
+20150524MISOF,unknown,Wounded,unknown,unknown,unknown
+20150524MISOF,unknown,Wounded,unknown,unknown,unknown
+20150524MISOF,unknown,Wounded,unknown,unknown,unknown
+20150527FLEVE,unknown,Wounded,Male,No Relation,Adult
+20150604NCSOF,unknown,None,unknown,unknown,unknown
+20150623NEFOF,unknown,None,unknown,unknown,unknown
+20150627CTSAH,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Teen
+20150627CTSAH,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Teen
+20150627CTSAH,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Teen
+20150627CTSAH,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Teen
+20150629TXJOS,unknown,None,Male,No Relation,Adult
+20150705TXCOD,Black,Wounded,Male,Former Student,Young Adult
+20150724TXELC,unknown,Fatal,Male,No Relation,Young Adult
+20150808TXPAP,unknown,None,unknown,unknown,unknown
+20150823TXWIR,unknown,None,unknown,unknown,unknown
+20150825GAWSA,unknown,Wounded,Female,Student,Child
+20150903ORNEN,unknown,None,unknown,unknown,unknown
+20150911LANOL,unknown,Wounded,Female,Unknown,Adolescent
+20150922NCCES,White,Wounded,Male,Parent,Adult
+20150930SDHAH,White,Wounded,Male,Principal/Vice-Principal,Adult
+20151015TXKAS,unknown,None,unknown,unknown,unknown
+20151024TXEDS,Hispanic,Fatal,Male,No Relation,Adult
+20151105GAVEM,unknown,None,unknown,unknown,unknown
+20151111ARSUS,unknown,Wounded,Male,Student,Teen
+20151120FLNAM,unknown,None,unknown,unknown,unknown
+20151204KSWEW,Black,Wounded,Male,Student,Adolescent
+20160112DECED,unknown,None,unknown,unknown,unknown
+20160113ARHAB,unknown,Wounded,Male,Student,Young Adult
+20160120INNOI,unknown,None,unknown,unknown,unknown
+20160122INLAI,unknown,Wounded,Male,Student,Adolescent
+20160129PABEP,unknown,None,unknown,unknown,unknown
+20160209MIMUM,unknown,Wounded,Male,Student,Teen
+20160209MIMUM,unknown,Wounded,Male,Student,Teen
+20160209MIMUM,unknown,Wounded,Female,Student,Teen
+20160212AZING,Hispanic,Fatal,Female,Student,Adolescent
+20160217FLROH,unknown,None,unknown,unknown,unknown
+20160217PACHC,unknown,Wounded,Male,Student,Adolescent
+20160226TXPAP,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20160226TXPAP,unknown,Wounded,Female,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20160229OHMAM,unknown,Wounded,Female,Student,Adolescent
+20160229OHMAM,unknown,Wounded,Male,Student,Adolescent
+20160229OHMAM,unknown,Wounded,Male,Student,Adolescent
+20160229OHMAM,unknown,Wounded,Male,Student,Adolescent
+20160315ALHUB,unknown,Wounded,Male,Student,Teen
+20160423WIANA,unknown,Wounded,Male,Student,Teen
+20160423WIANA,unknown,Wounded,Female,Student,Teen
+20160502TXKID,Black,None,Male,Student,Adolescent
+20160504COEAP,unknown,Wounded,Female,Teacher,Adult
+20160505MDHIB,White,Fatal,Female,Parent,Adult
+20160505MDHIB,White,Wounded,Male,Parent,Adult
+20160506FLOSP,unknown,None,Male,No Relation,Adult
+20160506IDROT,unknown,None,unknown,unknown,unknown
+20160513SCSOG,unknown,None,Male,Student,Adolescent
+20160515KSAUA,unknown,Wounded,Female,Relative,Adult
+20160608MAJED,Black,Fatal,Male,Student,Adolescent
+20160608MAJED,unknown,Wounded,Male,Student,Teen
+20160608MAJED,unknown,Wounded,Male,Student,Teen
+20160608MAJED,unknown,Wounded,Female,Unknown,Adult
+20160616ILMCC,Black,Fatal,Male,Other Staff,Adult
+20160630CAWOH,unknown,Wounded,Female,No Relation,Young Adult
+20160725MOAVA,White,Wounded,Male,Former Student,Young Adult
+20160817OHWEC,unknown,Wounded,Male,No Relation,Young Adult
+20160817OHWEC,unknown,Wounded,Male,No Relation,Young Adult
+20160819FLSOM,unknown,None,unknown,unknown,unknown
+20160902OKMCT,unknown,Wounded,Male,Student,Adolescent
+20160907MIDED,unknown,None,Male,Principal/Vice-Principal,Adult
+20160908TXALA,unknown,Wounded,Female,Student,Adolescent
+20160908TXALA,unknown,Wounded,Female,Student,Adolescent
+20160909IACEC,unknown,None,Male,Student,Adolescent
+20160909PASMY,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20160909PASMY,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20160926MSTAJ,Black,Wounded,Male,Student,Adolescent
+20160927OHELC,unknown,Wounded,Male,Other Staff,Adult
+20160927OHELC,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20160927OHELC,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20160928SCTOT,White,Fatal,unknown,Student,School Age Child
+20160928SCTOT,White,Wounded,unknown,Student,School Age Child
+20160928SCTOT,White,Wounded,unknown,Teacher,Adult
+20160928SCTOT,White,Wounded,unknown,Student,Child
+20160930ILCHC,unknown,Wounded,Male,Bus Driver,Adult
+20161006TXDUF,unknown,Wounded,Male,Unknown,Young Adult
+20161011ALVIM,unknown,Wounded,Male,Student,Teen
+20161013OHLIC,Black,Wounded,Male,Student,Teen
+20161013OHLIC,Black,Wounded,Male,Student,Teen
+20161015GABEA,unknown,Wounded,Female,Student,Adolescent
+20161018CAJUS,unknown,Wounded,Female,Student,Adolescent
+20161018CAJUS,unknown,Wounded,Male,Student,Teen
+20161018CAJUS,unknown,Wounded,Male,Student,Teen
+20161018CAJUS,unknown,Wounded,Male,Student,Teen
+20161025UTUNS,unknown,Wounded,Male,Student,Adolescent
+20161102COGRG,Hispanic,None,Male,Student,Adolescent
+20161103COBEB,unknown,None,Male,Student,Adolescent
+20161111MIBAA,unknown,Wounded,Female,Teacher,Adult
+20161117MNCRS,unknown,None,unknown,unknown,unknown
+20161201UTMUB,unknown,None,unknown,unknown,unknown
+20161209MOBAS,Black,Wounded,Male,Former Student,Young Adult
+20161209NVHUR,White,Wounded,Male,Student,Adolescent
+20170101DELAH,unknown,Wounded,Male,Unknown,Adolescent
+20170110ALALA,unknown,None,unknown,unknown,unknown
+20170117FLFRE,unknown,None,unknown,unknown,unknown
+20170120OHWEW,unknown,Wounded,Male,Student,Adolescent
+20170127SCSOA,unknown,Wounded,Female,Student,Adolescent
+20170127SCSOA,unknown,Wounded,Female,Student,Adolescent
+20170127SCSOA,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20170206LASCB,unknown,None,unknown,unknown,unknown
+20170218MNMAM,unknown,None,Female,Intimate Relationship,Adult
+20170316ALROM,unknown,Wounded,Female,Student,Teen
+20170321CAKIK,unknown,Wounded,Male,Student,Young Adult
+20170328PALIP,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20170410CANOS,unknown,Wounded,unknown,Student,School Age Child
+20170410CANOS,unknown,Wounded,unknown,Student,School Age Child
+20170410CANOS,unknown,Fatal,Female,Teacher,Adult
+20170415OKBOT,unknown,Wounded,Male,Former Student,Adult
+20170515LAMOL,unknown,Wounded,Male,Student,Teen
+20170523TXKEK,unknown,None,Male,Principal/Vice-Principal,Adult
+20170524ALGRG,unknown,None,unknown,Student,Teen
+20170524NEMCO,Black,Fatal,Male,unknown,Young Adult
+20170526OKMCT,unknown,Wounded,Male,Student,Adolescent
+20170616ILWAC,unknown,Wounded,Female,Student,School Age Child
+20170616ILWAC,unknown,Wounded,Female,Student,School Age Child
+20170622SCWIF,unknown,None,Male,Student,Teen
+20170719WIHIM,unknown,Wounded,Male,No Relation,Adult
+20170721UTSPS,unknown,Wounded,Male,Unknown,Young Adult
+20170801GABAV,unknown,Wounded,Female,Student,Teen
+20170817GALIL,unknown,None,Male,Teacher,Adult
+20170831CAARS,unknown,None,unknown,unknown,unknown
+20170908ARNON,unknown,Wounded,Male,No Relation,Teen
+20170908OHCOC,unknown,None,unknown,unknown,unknown
+20170913WAFRR,unknown,Fatal,Male,Student,Teen
+20170913WAFRR,unknown,Wounded,unknown,Student,Teen
+20170913WAFRR,unknown,Wounded,unknown,Student,Teen
+20170913WAFRR,unknown,Wounded,unknown,Student,Teen
+20170920ILMAM,unknown,Wounded,Male,Student,Teen
+20170928KYSOL,Black,None,Male,No Relation,Young Adult
+20170929CASUL,unknown,Wounded,unknown,Student,Child
+20170929CASUL,unknown,Wounded,unknown,Student,Child
+20170929CASUL,unknown,Wounded,unknown,Student,Child
+20170929CASUL,unknown,Wounded,unknown,Teacher,Adult
+20170929CASUL,unknown,Wounded,unknown,Teacher,Adult
+20170929MOLEL,unknown,None,Female,Student,Teen
+20170930PAPUC,unknown,Wounded,Male,No Relation,Adult
+20171012NCCHC,unknown,None,unknown,unknown,unknown
+20171014NCKEK,unknown,None,unknown,unknown,unknown
+20171020OHSTT,unknown,None,unknown,unknown,unknown
+20171027NYPRU,unknown,None,unknown,unknown,unknown
+20171103MIPAL,unknown,Wounded,Female,No Relation,Adolescent
+20171109GABEC,unknown,Wounded,Male,Student,Adolescent
+20171109GABEC,unknown,Wounded,Female,Student,Adolescent
+20171110GALAM,unknown,None,unknown,unknown,unknown
+20171114CARAR,unknown,Wounded,Female,Unknown,Adult
+20171114CARAR,unknown,Wounded,unknown,unknown,Adult
+20171114CARAR,unknown,Wounded,Male,Relative,Toddler
+20171114CARAR,unknown,Wounded,unknown,Student,Child
+20171114CARAR,unknown,Wounded,unknown,Student,Child
+20171114CARAR,unknown,Wounded,unknown,Student,Child
+20171114CARAR,unknown,Wounded,unknown,Student,Child
+20171114CARAR,unknown,Wounded,unknown,Student,Child
+20171114CARAR,unknown,Wounded,unknown,Student,Child
+20171114CARAR,unknown,Wounded,unknown,Student,Child
+20171114CARAR,unknown,Wounded,Male,Student,School Age Child
+20171114CARAR,unknown,Wounded,Male,Student,School Age Child
+20171114CARAR,unknown,Wounded,Male,Parent,Adult
+20171114CARAR,unknown,Wounded,Male,Parent,Young Adult
+20171114CARAR,unknown,Wounded,Male,unknown,Adult
+20171114CARAR,unknown,Wounded,Female,unknown,unknown
+20171114CARAR,unknown,Wounded,Male,Student,School Age Child
+20171114CARAR,unknown,Wounded,unknown,unknown,Adult
+20171114FLLAM,unknown,None,Male,Student,Adolescent
+20171117TNNOJ,unknown,None,unknown,unknown,unknown
+20171123COMAD,unknown,Wounded,Female,No Relation,Adult
+20171123COMAD,unknown,Wounded,Male,No Relation,Child
+20171123COMAD,unknown,Wounded,Male,No Relation,Child
+20171128CABOS,unknown,None,unknown,unknown,unknown
+20171129OHBAL,unknown,None,unknown,unknown,unknown
+20171130VASAV,unknown,None,Male,Student,Teen
+20171207NMAZA,Hispanic,Fatal,Male,Student,Teen
+20171207NMAZA,Hispanic,Fatal,Female,Student,Teen
+20171209ILCHC,unknown,Wounded,Female,Student,Adolescent
+20171209ILCHC,unknown,Wounded,Female,Student,Adolescent
+20171209ILCHC,unknown,Wounded,Female,Student,Young Adult
+20171211NCHIH,unknown,None,unknown,unknown,unknown
+20171212TXSAP,unknown,Wounded,Male,Relative,Young Adult
+20171212TXSAP,unknown,Wounded,Male,Relative,Young Adult
+20171214TXELD,unknown,None,unknown,unknown,unknown
+20171219MIBEB,unknown,Wounded,Male,Student,Teen
+20171227CALIL,unknown,Wounded,Male,No Relation,Adult
+20171231LAEDA,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20171231LAEDA,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20171231WAPIM,unknown,None,unknown,unknown,unknown
+20180104WANES,unknown,None,unknown,unknown,unknown
+20180105IAFOF,unknown,None,unknown,unknown,unknown
+20180109AZCOS,unknown,None,Male,Student,Teen
+20180116VTMOM,White,None,Male,No Relation,Adult
+20180122LANEN,unknown,None,unknown,unknown,unknown
+20180122TXITI,unknown,Wounded,Female,Student,Teen
+20180123KYMAB,unknown,Fatal,Male,Student,Adolescent
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Female,Student,Teen
+20180123KYMAB,unknown,Wounded,Female,Student,Teen
+20180123KYMAB,unknown,Wounded,Female,Student,Teen
+20180123KYMAB,unknown,Wounded,Female,Student,Teen
+20180123KYMAB,unknown,Fatal,Male,Student,Adolescent
+20180123KYMAB,unknown,Wounded,Female,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180123KYMAB,unknown,Wounded,Male,Student,Teen
+20180125ALMUM,unknown,None,unknown,unknown,unknown
+20180126MIDED,unknown,None,unknown,unknown,unknown
+20180131PALIP,unknown,Fatal,Male,No Relation,Adult
+20180201CASAL,unknown,Wounded,unknown,Student,School Age Child
+20180201CASAL,unknown,Wounded,unknown,Student,School Age Child
+20180201CASAL,unknown,Minor Injuries,unknown,Teacher,Adult
+20180201CASAL,unknown,Minor Injuries,unknown,Student,Child
+20180201CASAL,unknown,Minor Injuries,unknown,Student,Child
+20180205MDOXO,unknown,Wounded,Male,Student,Adolescent
+20180205MNHAM,unknown,None,unknown,unknown,unknown
+20180208NYTHN,unknown,None,unknown,unknown,unknown
+20180209TNPEN,Black,Wounded,Male,No Relation,Adolescent
+20180214FLMAP,unknown,Fatal,Female,Student,Adolescent
+20180214FLMAP,unknown,Fatal,Female,Student,Adolescent
+20180214FLMAP,unknown,Fatal,Male,Student,Adolescent
+20180214FLMAP,unknown,Fatal,Female,Student,Adolescent
+20180214FLMAP,unknown,Fatal,Female,Student,Young Adult
+20180214FLMAP,unknown,Fatal,Female,Student,Adolescent
+20180214FLMAP,unknown,Fatal,Male,Student,Adolescent
+20180214FLMAP,unknown,Fatal,Female,Student,Adolescent
+20180214FLMAP,unknown,Fatal,Male,Student,Adolescent
+20180214FLMAP,unknown,Wounded,Female,Student,Young Adult
+20180214FLMAP,unknown,Wounded,Female,Student,Adolescent
+20180214FLMAP,unknown,Fatal,Male,Teacher,Adult
+20180214FLMAP,unknown,Wounded,Male,Student,Adolescent
+20180214FLMAP,unknown,Wounded,Female,Student,Adolescent
+20180214FLMAP,unknown,Wounded,Female,Teacher,Adult
+20180214FLMAP,unknown,Wounded,Female,Student,Adolescent
+20180214FLMAP,unknown,Wounded,Male,Student,Adolescent
+20180214FLMAP,unknown,Wounded,Male,Student,Adolescent
+20180214FLMAP,unknown,Wounded,Female,Student,Teen
+20180214FLMAP,unknown,Wounded,Male,Student,Teen
+20180214FLMAP,unknown,Wounded,Female,Student,Teen
+20180214FLMAP,unknown,Wounded,Female,Student,Teen
+20180214FLMAP,unknown,Fatal,Male,Student,Adolescent
+20180214FLMAP,unknown,Wounded,Female,Student,Teen
+20180214FLMAP,unknown,Wounded,Male,Student,Teen
+20180214FLMAP,unknown,Wounded,Female,Student,Teen
+20180214FLMAP,unknown,Wounded,Male,Student,Teen
+20180214FLMAP,unknown,Wounded,unknown,Student,Teen
+20180214FLMAP,unknown,Fatal,Male,Student,Adolescent
+20180214FLMAP,unknown,Fatal,Female,Teacher,Adult
+20180214FLMAP,unknown,Fatal,Female,Student,Adolescent
+20180214FLMAP,unknown,Fatal,Male,Teacher,Adult
+20180214FLMAP,unknown,Fatal,Male,Student,Adolescent
+20180214FLMAP,unknown,Fatal,Female,Student,Adolescent
+20180215FLNOC,unknown,None,unknown,unknown,unknown
+20180220OHJAM,unknown,None,Male,Student,Adolescent
+20180226WAOAT,unknown,None,unknown,unknown,unknown
+20180228GADAD,unknown,None,unknown,unknown,unknown
+20180305MOKIC,unknown,None,unknown,unknown,unknown
+20180307ALHUB,Black,Fatal,Female,Student,Teen
+20180309KYFRL,unknown,None,Male,Student,Teen
+20180313CASES,unknown,Minor Injuries,unknown,Student,Teen
+20180313CASES,unknown,Minor Injuries,unknown,Student,Teen
+20180313CASES,unknown,Minor Injuries,unknown,Student,Teen
+20180313VAGEA,unknown,None,unknown,unknown,unknown
+20180316MTBIM,unknown,None,unknown,unknown,unknown
+20180319VADOP,unknown,Wounded,Female,Parent,Adult
+20180320MDGRG,White,Fatal,Male,Student,Teen
+20180320MDGRG,White,Wounded,Female,Student,Teen
+20180328MSEUE,unknown,None,unknown,unknown,unknown
+20180329KYJOE,White,None,Male,Parent,Adult
+20180409NYGLG,unknown,Wounded,Male,Student,Teen
+20180412MORAR,unknown,Wounded,Male,Parent,Adult
+20180419MIJAJ,unknown,None,unknown,unknown,unknown
+20180420FLFOO,unknown,Wounded,Male,Student,Teen
+20180423GABEA,unknown,None,unknown,unknown,unknown
+20180503SDENW,unknown,Wounded,Male,Other Staff,Young Adult
+20180503TNWAW,unknown,None,unknown,unknown,unknown
+20180505MIFOF,unknown,None,unknown,unknown,unknown
+20180511CAHIP,unknown,Wounded,Male,Student,Teen
+20180516ILDID,unknown,Wounded,Male,Student,unknown
+20180517MOCEK,unknown,Wounded,unknown,Student,Teen
+20180517MOCEK,unknown,Wounded,unknown,Relative,Adult
+20180518GAMOA,unknown,Fatal,Female,Relative,Adult
+20180518GAMOA,unknown,Wounded,Female,Relative,Young Adult
+20180518GAMOA,unknown,Wounded,Female,Relative,Adult
+20180518TXSAS,unknown,Fatal,Female,Teacher,Adult
+20180518TXSAS,unknown,Fatal,Female,Student,Adolescent
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Fatal,Female,Teacher,Adult
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Wounded,unknown,Student,Teen
+20180518TXSAS,unknown,Fatal,Male,Student,Adolescent
+20180518TXSAS,unknown,Fatal,Female,Student,Adolescent
+20180518TXSAS,unknown,Fatal,Male,Student,Adolescent
+20180518TXSAS,unknown,Fatal,Male,Student,Adolescent
+20180518TXSAS,unknown,Fatal,Female,Student,Adolescent
+20180518TXSAS,unknown,Fatal,Male,Student,Adolescent
+20180518TXSAS,unknown,Fatal,Male,Student,Adolescent
+20180521GABEG,unknown,Wounded,Female,Parent,Adult
+20180525INNON,White,Wounded,Female,Student,Adult
+20180525INNON,White,Wounded,Male,Teacher,Teen
+20180601TXMCM,unknown,None,Unknown,Student,Teen
+20180615OHVAB,unknown,None,Female,Nonstudent Using Athletic Facilities/Attending Game,Teen
+20180617ORGRP,unknown,Fatal,Male,No Relation,Adult
+20180621TXSKD,unknown,Wounded,Female,Student,Adolescent
+20180624MTSEM,unknown,Wounded,Male,No Relation,Teen
+20180624MTSEM,unknown,Wounded,Male,No Relation,Teen
+20180625OHFUS,unknown,Wounded,Male,No Relation,Adult
+20180701TNRAM,unknown,Fatal,Male,No Relation,Adult
+20180703KSSUO,unknown,Fatal,Male,No Relation,Adult
+20180703KSSUO,unknown,Wounded,Male,No Relation,Adult
+20180711OHMIM,Black,Fatal,Male,unknown,Young Adult
+20180717WVHUH,unknown,None,unknown,unknown,unknown
+20180719WAWEY,Hispanic,Fatal,Male,No Relation,Young Adult
+20180804MDEDE,unknown,Fatal,Male,unknown,Young Adult
+20180809NJLAM,Black,Fatal,Male,Parent,Adult
+20180811TNANN,unknown,Wounded,Male,Other Staff,Adult
+20180817FLPAW,unknown,Wounded,Male,No Relation,Adult
+20180817FLPAW,unknown,Wounded,Male,No Relation,Adult
+20180823ALALM,unknown,None,unknown,unknown,unknown
+20180824FLRAJ,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20180824FLRAJ,unknown,Wounded,Male,Student,Adolescent
+20180824FLRAJ,unknown,Wounded,Male,Student,Adolescent
+20180824ILMEC,unknown,Wounded,Male,Gang Member,Adult
+20180824ILMEC,unknown,Wounded,Male,Gang Member,Adult
+20180824ILMEC,unknown,Wounded,Male,Gang Member,Adult
+20180828COCOD,unknown,Wounded,Male,Student,Teen
+20180829DETOD,unknown,Fatal,Male,No Relation,Adult
+20180830MIOTG,unknown,Wounded,Male,No Relation,Adolescent
+20180830NCVIC,unknown,None,Female,Intimate Relationship,Adult
+20180831CABAS,unknown,None,unknown,unknown,unknown
+20180831IANOE,unknown,None,Female,Teacher,Adult
+20180903NYLUN,Black,Fatal,Male,No Relation,Adult
+20180905RIPRP,Black,Fatal,Male,Visiting Student,Adolescent
+20180907IAHED,unknown,None,unknown,unknown,unknown
+20180909CAGIG,unknown,None,unknown,unknown,unknown
+20180910ILCHC,unknown,Wounded,Male,Student,Adolescent
+20180910ILCHC,unknown,Wounded,Male,Student,Adolescent
+20180910ILCHC,unknown,Wounded,Male,Student,Young Adult
+20180910TNFAM,unknown,Wounded,Female,Student,Adolescent
+20180911NVCAL,unknown,Fatal,Male,Student,Young Adult
+20180914FLBOB,unknown,None,unknown,unknown,unknown
+20180914WAMAE,unknown,None,unknown,unknown,unknown
+20180917ALBLH,unknown,Wounded,Male,Student,School Age Child
+20180920CACHL,unknown,Wounded,unknown,Student,Teen
+20180920CACHL,unknown,Wounded,unknown,Other Staff,Adult
+20180920CAPOP,unknown,None,unknown,unknown,unknown
+20180924GAAPB,unknown,None,Male,Student,Teen
+20180924NCLAC,unknown,None,unknown,unknown,unknown
+20180924PACEP,unknown,Fatal,Female,Student,Adolescent
+20180926MDMAB,unknown,None,unknown,unknown,unknown
+20180927TXHEC,unknown,Wounded,Male,Nonstudent,Adult
+20180928SDCHC,unknown,None,Male,No Relation,Young Adult
+20181002ARCHL,unknown,None,unknown,unknown,unknown
+20181003AKDEA,unknown,Wounded,Male,Relative,Adult
+20181004ORJAP,unknown,None,unknown,unknown,unknown
+20181005TNHAB,unknown,Wounded,Unknown,Student,Teen
+20181005TNHAB,unknown,Wounded,Unknown,Student,Teen
+20181005VALAN,unknown,Wounded,unknown,unknown,unknown
+20181007VAVAH,unknown,Wounded,Male,Other Staff,Adult
+20181012MIBAB,unknown,None,unknown,unknown,unknown
+20181013TNMCN,unknown,Fatal,Male,unknown,Young Adult
+20181013TNMCN,unknown,Wounded,Male,unknown,Adult
+20181020GASHS,Black,Fatal,Male,Police Officer/SRO,Adult
+20181022CTDUB,unknown,None,unknown,unknown,unknown
+20181023NHGOM,unknown,Wounded,Female,Teacher,Adult
+20181025MICOD,unknown,None,Male,Student,Adolescent
+20181029NCBUM,Black,Fatal,Male,Student,Adolescent
+20181104KYCRL,unknown,Fatal,Male,No Relation,Adult
+20181104KYCRL,unknown,Wounded,Male,No Relation,Adult
+20181105SCACC,unknown,None,Male,Student,Adolescent
+20181108CACLS,unknown,Wounded,Male,No Relation,Adult
+20181109GAGAM,unknown,None,unknown,unknown,unknown
+20181112MDEAE,unknown,None,Male,Police Officer/SRO,Adult
+20181120VASIP,unknown,Wounded,Female,Parent,Adult
+20181121MIPEP,unknown,None,unknown,unknown,unknown
+20181122TXSKD,Hispanic,Fatal,Male,unknown,Adolescent
+20181122WAMOD,unknown,Wounded,Male,No Relation,Young Adult
+20181124OHAFC,unknown,Wounded,Male,No Relation,Young Adult
+20181124OHAFC,unknown,Wounded,Male,No Relation,Adult
+20181128PASTP,unknown,None,unknown,unknown,unknown
+20181210NYJEJ,unknown,None,Male,Student,Adolescent
+20181211KYCAC,unknown,Wounded,Male,No Relation,Young Adult
+20181211KYCAC,unknown,Wounded,Female,No Relation,Adolescent
+20181213INDER,unknown,None,Male,Student,Adolescent
+20181214MOWIK,unknown,None,unknown,unknown,unknown
+20181218DEAIG,unknown,None,unknown,unknown,unknown
+20190107CACEB,Unknown,Fatal,Male,No Relation,Adolescent
+20190111ORCAE,unknown,Fatal,Male,Parent,Adult
+20190118ALCET,unknown,None,Female,Intimate Relationship,Adult
+20190118MOHAS,unknown,None,unknown,unknown,unknown
+20190118NCSHD,unknown,Wounded,unknown,Bus Driver,Adult
+20190119KSLAO,unknown,Wounded,Male,No Relation,Adolescent
+20190119KSLAO,unknown,Wounded,Male,No Relation,Adolescent
+20190123LASOS,unknown,Wounded,Male,No Relation,Adult
+20190125ALDAM,unknown,Wounded,Male,Student,Adolescent
+20190125ALDAM,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20190125TNMAM,unknown,None,unknown,unknown,unknown
+20190130GAMIL,unknown,Wounded,Male,No Relation,Adult
+20190131TNMAM,unknown,Wounded,Male,Student,Adolescent
+20190131TXATA,unknown,Wounded,Male,Student,Adolescent
+20190205MNMIM,unknown,Wounded,Male,Bus Driver,unknown
+20190208MDFRB,unknown,Wounded,Male,Other Staff,Adult
+20190212MOCEK,Black,Fatal,Female,Student,Adolescent
+20190214NMV.R,unknown,None,unknown,unknown,unknown
+20190217COEAA,Black,Fatal,Male,Principal/Vice-Principal,Adult
+20190226ALROM,unknown,Wounded,Male,Student,Adolescent
+20190301KSHIM,unknown,None,unknown,unknown,unknown
+20190313FLLAO,unknown,None,Female,Student,Adolescent
+20190322ALBLB,unknown,Minor Injuries,Unknown,Student,Child
+20190327MSSVH,Black,Wounded,Male,Student,School Age Child
+20190401ARPRP,unknown,Wounded,Male,Student,Adolescent
+20190403COAUA,unknown,None,unknown,unknown,unknown
+20190403FLSAJ,unknown,None,unknown,unknown,unknown
+20190405WISTM,unknown,Wounded,unknown,Student,School Age Child
+20190407MAHOL,unknown,None,unknown,unknown,unknown
+20190410TXROH,unknown,Wounded,Male,Student,Adolescent
+20190417ILWAL,unknown,None,Male,Student,School Age Child
+20190424ARCOC,unknown,None,Male,Student,Adolescent
+20190425GAWYS,unknown,Minor Injuries,unknown,Student,Child
+20190425GAWYS,unknown,Minor Injuries,unknown,Student,Child
+20190425GAWYS,unknown,Minor Injuries,unknown,Student,Child
+20190425GAWYS,unknown,Minor Injuries,unknown,Student,Child
+20190425GAWYS,unknown,Minor Injuries,unknown,Student,Child
+20190425GAWYS,unknown,Minor Injuries,unknown,Student,Child
+20190425GAWYS,unknown,Minor Injuries,unknown,Student,Child
+20190425GAWYS,unknown,Minor Injuries,unknown,Student,Child
+20190425GAWYS,unknown,Minor Injuries,unknown,Student,Child
+20190425GAWYS,unknown,Minor Injuries,unknown,Student,Child
+20190426GACRF,unknown,None,unknown,unknown,unknown
+20190430FLWEW,unknown,None,unknown,unknown,unknown
+20190430VACDW,unknown,None,unknown,unknown,unknown
+20190507COSTH,unknown,Fatal,Male,Student,Young Adult
+20190507COSTH,unknown,Wounded,unknown,Student,Teen
+20190507COSTH,unknown,Wounded,unknown,Student,Teen
+20190507COSTH,unknown,Wounded,unknown,Student,Teen
+20190507COSTH,unknown,Wounded,unknown,Student,Teen
+20190507COSTH,unknown,Wounded,unknown,Student,Teen
+20190507COSTH,unknown,Wounded,unknown,Student,Teen
+20190507COSTH,unknown,Wounded,unknown,Student,Teen
+20190507COSTH,unknown,Wounded,unknown,Student,Adolescent
+20190508ILSEC,unknown,Wounded,Male,Student,Young Adult
+20190517FLTEJ,Black,Wounded,Male,Student,Adolescent
+20190517ORPAP,unknown,None,unknown,unknown,unknown
+20190530DCHEW,unknown,None,unknown,unknown,unknown
+20190606ILGEC,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20190610ILMEW,Hispanic,Wounded,Male,No Relation,Adult
+20190612DCHEW,unknown,None,unknown,unknown,unknown
+20190612PAJEE,unknown,None,Male,No Relation,Young Adult
+20190613NJTAW,unknown,None,unknown,unknown,unknown
+20190621MICAF,unknown,Wounded,Male,Unknown,Adolescent
+20190629COJAC,unknown,Fatal,Male,No Relation,Young Adult
+20190629COJAC,unknown,Fatal,Male,No Relation,Young Adult
+20190701NYSCN,Black,Wounded,Male,No Relation,Adolescent
+20190702AKWIA,unknown,Wounded,Male,No Relation,Teen
+20190711CTBUH,Hispanic,Fatal,Male,No Relation,Adult
+20190719CAMOS,unknown,None,unknown,unknown,unknown
+20190808ALBLM,unknown,None,unknown,unknown,unknown
+20190815TNEAN,unknown,None,unknown,unknown,unknown
+20190817GALAA,Black,Wounded,Male,Student,Adolescent
+20190817GALAA,Black,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,School Age Child
+20190820PASAC,unknown,None,Male,Parent,Adult
+20190823GAPEC,unknown,Wounded,Male,Nonstudent,School Age Child
+20190823MOPAS,unknown,None,unknown,unknown,unknown
+20190823MOROS,Black,Fatal,Female,Student,Adolescent
+20190824PAWIP,Black,Fatal,Male,No Relation,Adolescent
+20190827CAHOL,unknown,Wounded,Male,Student,Teen
+20190827NYROR,unknown,None,unknown,unknown,unknown
+20190830ALLAM,unknown,Wounded,unknown,Student,Teen
+20190830ALLAM,unknown,Wounded,unknown,Student,Teen
+20190830ALLAM,unknown,Wounded,unknown,Student,Teen
+20190830ALLAM,unknown,Wounded,unknown,Student,Teen
+20190830ALLAM,unknown,Wounded,unknown,Student,Teen
+20190830ALLAM,unknown,Wounded,unknown,Student,Teen
+20190830ALLAM,unknown,Wounded,unknown,Student,Teen
+20190830ALLAM,unknown,Wounded,unknown,Student,Teen
+20190830ALLAM,unknown,Wounded,unknown,Student,Teen
+20190830ALLAM,unknown,Wounded,unknown,Student,Teen
+20190830NCKIK,unknown,None,unknown,unknown,unknown
+20190830OHCET,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adolescent
+20190902MDNOB,unknown,Fatal,Male,No Relation,Adult
+20190902MDNOB,unknown,Wounded,Male,No Relation,Adult
+20190902MDNOB,unknown,Wounded,Male,No Relation,Adult
+20190906ALCEC,unknown,None,unknown,unknown,unknown
+20190906PAMCJ,Black,Fatal,Male,unknown,Adult
+20190906PAWEM,unknown,Wounded,Female,Student,unknown
+20190910SCSOA,unknown,None,unknown,unknown,unknown
+20190912KSMAM,unknown,None,unknown,unknown,unknown
+20190913UTGRW,unknown,None,unknown,unknown,unknown
+20190913VAETN,unknown,Wounded,unknown,Student,Adolescent
+20190913VAETN,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20190913VAETN,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20190914TXEAF,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,School Age Child
+20190914TXEAF,unknown,Wounded,Female,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20190916ILILK,unknown,None,unknown,unknown,unknown
+20190916VAPHH,unknown,Fatal,Male,No Relation,Adult
+20190920PASIP,unknown,Wounded,Male,Unknown,Adolescent
+20190920PASIP,unknown,Wounded,Male,Unknown,Adolescent
+20190927NCZEC,unknown,None,unknown,unknown,unknown
+20191002GASOA,unknown,None,unknown,unknown,unknown
+20191008COSHS,unknown,Wounded,Male,Rival School Student,Teen
+20191008TXWEH,unknown,Wounded,unknown,Student,Teen
+20191009MAGRL,unknown,Wounded,unknown,Student,Child
+20191009MAGRL,unknown,Wounded,unknown,Student,Child
+20191009MAGRL,unknown,Wounded,unknown,Student,Child
+20191009MAGRL,unknown,Wounded,unknown,Student,Child
+20191009MAGRL,unknown,Wounded,unknown,Student,Child
+20191011LARAR,unknown,None,unknown,unknown,unknown
+20191015LAGEN,unknown,Wounded,Male,Student,Adolescent
+20191018GACRS,unknown,Wounded,Male,unknown,unknown
+20191018OHWOT,unknown,None,unknown,unknown,unknown
+20191022CARIS,unknown,Wounded,Male,Student,Adolescent
+20191027MDLAL,unknown,Wounded,Female,No Relation,Adult
+20191029NYNEN,unknown,Wounded,Female,Student,Adolescent
+20191108CAEDS,unknown,None,unknown,unknown,unknown
+20191108TXROD,Black,Fatal,Male,Former Student,Adolescent
+20191111MDACB,unknown,Wounded,Male,Student,Young Adult
+20191113CAESL,unknown,Fatal,Male,No Relation,Adult
+20191114CASAS,unknown,Fatal,Male,Student,Adolescent
+20191114CASAS,unknown,Fatal,Female,Student,Adolescent
+20191114CASAS,unknown,Wounded,Female,Student,Adolescent
+20191114CASAS,unknown,Wounded,Female,Student,Adolescent
+20191114CASAS,unknown,Wounded,Male,Student,Adolescent
+20191115NJPLP,unknown,Fatal,Male,Relative,School Age Child
+20191115NJPLP,unknown,Wounded,Male,Student,Adolescent
+20191115NJPLP,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20191121ILRIO,unknown,Wounded,unknown,Student,Adolescent
+20191124CASEU,unknown,Fatal,Male,No Relation,Adolescent
+20191124CASEU,unknown,Fatal,Male,No Relation,School Age Child
+20191125ILCAC,unknown,Wounded,Male,No Relation,Adult
+20191126WASAV,unknown,Wounded,Female,Parent,Adult
+20191126WASAV,unknown,Wounded,Female,Parent,Adult
+20191201ALMOM,White,Fatal,Female,No Relation,Adult
+20191202WIWAW,unknown,None,Male,Student,Young Adult
+20191203WIOSO,unknown,Wounded,Male,Student,Adolescent
+20191203WITHM,unknown,Wounded,Female,Student,Teen
+20191203WITHM,unknown,Wounded,Female,Student,Teen
+20191204NMPIL,unknown,None,unknown,unknown,unknown
+20191210ALDED,unknown,None,unknown,unknown,unknown
+20191210KSJCK,unknown,None,unknown,unknown,unknown
+20191210NJSAJ,unknown,None,unknown,unknown,unknown
+20191211INEVE,unknown,None,unknown,unknown,unknown
+20191211KSCHT,unknown,None,unknown,unknown,unknown
+20191213VAMAN,unknown,None,Male,Student,Adolescent
+20191216CTCAN,unknown,Wounded,Male,Parent,Adult
+20191219FLLEN,unknown,Fatal,Female,Student,Adult
+20191221LAWES,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20191221LAWES,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20191221LAWES,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20191221LAWES,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20191228MOMAS,Black,Fatal,Male,Student,Adolescent
+20200107WASOK,unknown,None,unknown,unknown,unknown
+20200108FLGLB,unknown,None,unknown,unknown,unknown
+20200110MSMCJ,unknown,Wounded,Male,Student,Teen
+20200111TXELD,unknown,Fatal,Male,Former Student,Young Adult
+20200111TXELD,unknown,Wounded,Male,Police Officer/SRO,unknown
+20200114TXBEH,unknown,Fatal,Male,Student,Young Adult
+20200114TXPOM,unknown,None,unknown,unknown,unknown
+20200117MITHH,unknown,Wounded,Male,Parent,Adult
+20200117SCCAS,unknown,None,Male,Student,Adolescent
+20200119TXNOF,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20200119TXNOF,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,School Age Child
+20200121ILLIC,unknown,Wounded,Male,Student,Adolescent
+20200121NEPAL,unknown,None,unknown,unknown,unknown
+20200123CAOXO,unknown,Wounded,Female,Student,School Age Child
+20200127WAROY,unknown,None,unknown,unknown,unknown
+20200128NYMAQ,unknown,None,Male,Student,Adolescent
+20200128TNWHM,unknown,Wounded,Male,unknown,unknown
+20200128TXLUL,Black,Wounded,Male,Student,Adolescent
+20200131CADEA,unknown,Fatal,Male,Student,Adolescent
+20200201TXHIH,unknown,Wounded,Male,No Relation,Adult
+20200203FLGEJ,unknown,Wounded,Male,No Relation,Adult
+20200204LABEA,unknown,None,unknown,unknown,unknown
+20200205NHSEC,unknown,None,Male,Student,Adolescent
+20200212MOJOF,unknown,None,unknown,unknown,unknown
+20200215DCDUW,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20200221NMCEA,unknown,None,unknown,unknown,unknown
+20200302TXNOF,unknown,None,unknown,unknown,unknown
+20200305FLSAW,unknown,Wounded,Male,Police Officer/SRO,unknown
+20200310PASHN,unknown,None,unknown,unknown,unknown
+20200313TNPIR,unknown,None,unknown,unknown,unknown
+20200315TXATH,Black,Fatal,Male,Former Teacher,Young Adult
+20200318LABOS,unknown,Wounded,Male,Student,Adolescent
+20200324LAROM,unknown,Wounded,Male,unknown,unknown
+20200330GANAS,unknown,Wounded,unknown,No Relation,unknown
+20200330GANAS,unknown,Wounded,unknown,No Relation,unknown
+20200330GANAS,unknown,Wounded,unknown,No Relation,unknown
+20200413NEMOO,unknown,Wounded,Male,No Relation,Young Adult
+20200505CAGOV,Hispanic,Fatal,Male,No Relation,Young Adult
+20200505CAGOV,Hispanic,Fatal,Male,No Relation,Young Adult
+20200505CAGOV,Hispanic,Fatal,Male,No Relation,Young Adult
+20200515NCSTC,unknown,None,unknown,unknown,unknown
+20200519VAWEM,unknown,None,unknown,unknown,unknown
+20200522OHMIC,unknown,Fatal,Male,No Relation,Adult
+20200525ALORM,unknown,Wounded,Male,No Relation,Adult
+20200525ALORM,unknown,Wounded,Male,No Relation,Adult
+20200525ALORM,unknown,Wounded,Male,No Relation,Adult
+20200527OHLUC,unknown,None,unknown,unknown,unknown
+20200603IAGAD,unknown,Wounded,Male,No Relation,Young Adult
+20200616FLTOM,unknown,Fatal,Male,No Relation,Adult
+20200616FLTOM,unknown,Wounded,Male,No Relation,Adult
+20200618INJOI,unknown,Fatal,Male,No Relation,Adult
+20200701ILFRP,unknown,None,unknown,unknown,unknown
+20200704INLAM,Hispanic,Fatal,Male,No Relation,unknown
+20200714MIWID,unknown,None,unknown,unknown,unknown
+20200721SCBRO,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20200804PAKEP,unknown,Fatal,Male,No Relation,Adult
+20200817MIABG,unknown,Wounded,Male,No Relation,Adult
+20200825MOWEC,unknown,Wounded,Male,No Relation,Adult
+19850418TNSOS,unknown,Wounded,Female,Teacher,Adult
+20190522OHSAC,Black,Fatal,Male,No Relation,Adolescent
+20190522OHSAC,unknown,Wounded,Female,No Relation,Adolescent
+20200205NHSEC,unknown,None,Female,Teacher,Adult
+20200830TXLOD,Hispanic,Fatal,Male,No Relation,Adult
+20200904FLLOJ,unknown,Wounded,Male,No Relation,Adult
+20200903GADOA,unknown,Fatal,Male,No Relation,Young Adult
+20200909TXSOH,unknown,Wounded,Male,No Relation,Young Adult
+20200910ILPEP,unknown,None,unknown,Student,unknown
+20191022NJBRB,unknown,Wounded,Male,Student,Teen
+20200916WAARG,unknown,Wounded,Male,No Relation,Adult
+20200917OHELA,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20200917OHELA,unknown,Wounded,Female,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20200916CASOS,unknown,Fatal,Male,unknown,Adolescent
+20200918KYWIL,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20200917ORDRP,unknown,Wounded,unknown,No Relation,Adult
+20200909PAWEW,unknown,None,Male,No Relation,Adult
+20200923FLHIJ,unknown,None,unknown,unknown,unknown
+20200923PAWIW,unknown,None,Male,unknown,unknown
+20200928CTEAN,unknown,Wounded,Male,No Relation,Young Adult
+20200925NJHAH,unknown,Wounded,Male,No Relation,Adult
+20150521FLDUJ,unknown,Wounded,Female,Student,Teen
+20150521FLDUJ,unknown,Wounded,Female,Student,Teen
+20190918MNFOC,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20200930CADYL,Black,Wounded,Male,Student,Young Adult
+20200930CADYL,unknown,Wounded,unknown,No Relation,Adult
+20130129ALDAM,unknown,Fatal,Male,Bus Driver,Adult
+20201005OKSOM,unknown,Minor Injuries,unknown,Student,Teen
+20201005ARKIH,Black,Fatal,Male,unknown,Adult
+20201005ARKIH,unknown,Wounded,Male,unknown,Adult
+20201009FLJEJ,unknown,Wounded,Male,Student,Young Adult
+20201012TXNOD,unknown,None,Male,No Relation,Adult
+20161216FLSAJ,unknown,Minor Injuries,unknown,Student,Teen
+20190327FLMAJ,unknown,Wounded,Male,Student,School Age Child
+20190927CADER,unknown,Wounded,Female,Student,Adolescent
+20190927CADER,unknown,Wounded,Male,Student,Adolescent
+20190927CADER,unknown,Wounded,Male,Student,Adolescent
+20201013RIRHP,Black,Fatal,Male,No Relation,Young Adult
+20201013RIRHP,unknown,Wounded,Male,No Relation,Adult
+20201013RIRHP,unknown,Wounded,Male,No Relation,Adult
+20201014PABRB,unknown,None,Male,Bus Driver,Adult
+20201018KYSEL,unknown,Wounded,unknown,unknown,Teen
+20201018KYSEL,unknown,Wounded,unknown,unknown,Teen
+20201018KYSEL,unknown,Wounded,unknown,unknown,Teen
+20201014WAWAS,unknown,None,Male,No Relation,Adult
+20201020ARJAP,unknown,Fatal,Male,unknown,Adolescent
+20201026GARIR,unknown,Fatal,Male,No Relation,Adult
+20201029FLLAM,unknown,Fatal,Male,No Relation,Adult
+20201029FLLAM,unknown,Fatal,Male,No Relation,Adult
+20201109TXCOH,Hispanic,Fatal,Male,No Relation,Adult
+20201112PANAH,unknown,Fatal,Male,No Relation,Adolescent
+20201112CACEU,unknown,Wounded,Male,No Relation,Adult
+20201113NCLIL,White,Wounded,Male,Student,School Age Child
+20201116TNWIM,unknown,None,Female,No Relation,Adult
+20201124NCHEH,unknown,Wounded,Female,Student,School Age Child
+20201125KSABG,unknown,Wounded,Male,No Relation,Adolescent
+20201207ILEAC,unknown,Fatal,Male,No Relation,Young Adult
+20201216ILDUC,Black,Fatal,Male,No Relation,Young Adult
+20201229WAROS,unknown,Wounded,Male,unknown,Teen
+20201229WAROS,unknown,Wounded,Male,unknown,Teen
+20210114MDHIW,unknown,Fatal,Male,No Relation,Young Adult
+20210110ILSOS,Black,Wounded,Female,Student,Adolescent
+20210110ILSOS,unknown,Wounded,Female,Relative,Young Adult
+20210121OHEAC,unknown,Wounded,Male,No Relation,Young Adult
+20210127FLHOH,unknown,Minor Injuries,unknown,Student,Teen
+20210201MIMUD,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,unknown
+20210205MDBEM,unknown,Wounded,Male,No Relation,Adult
+20210210TXFOF,unknown,Fatal,Male,No Relation,Adult
+20210210NJSCP,unknown,Fatal,Female,No Relation,Adult
+20210210LASTS,unknown,Minor Injuries,Male,Student,Preschooler
+20210214MNROM,unknown,Fatal,Male,No Relation,Adult
+20210214MNROM,unknown,Fatal,Female,No Relation,Adult
+20210214MNROM,unknown,Wounded,unknown,No Relation,Adult
+20210219ILLIR,unknown,Fatal,Male,No Relation,Adult
+20210222CAHOV,unknown,Wounded,Male,No Relation,Adult
+20210224WAGAY,unknown,Wounded,Male,No Relation,Adolescent
+20210226LAGEN,Black,Fatal,Male,Police Officer/SRO,Adult
+20210301ARWAP,unknown,Fatal,Male,Student,Adolescent
+20210308SCEDC,unknown,Wounded,Male,Relative,Adult
+20210311OHCIC,unknown,Wounded,Male,No Relation,Adult
+20210313TXLEA,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20210324ORFOS,unknown,Wounded,Male,No Relation,Adolescent
+20210324ORFOS,unknown,Fatal,Male,No Relation,Adolescent
+20210327MAPEC,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20210401ALSES,unknown,None,Male,Student,Teen
+19790226CABAB,unknown,Wounded,Male,Student,Teen
+19790226CABAB,unknown,Wounded,Male,Student,Teen
+19790226CABAB,unknown,Wounded,Female,Student,Teen
+20210407ILPEP,unknown,None,Male,Student,Adolescent
+20210315INMEM,Black,Fatal,Male,No Relation,Young Adult
+20210315INMEM,unknown,Wounded,Male,No Relation,Teen
+20210412TNAUK,unknown,Wounded,Male,Police Officer/SRO,Adult
+20210411INBIH,unknown,Fatal,Female,No Relation,Adult
+20210412CASAS,unknown,None,Female,No Relation,Adult
+20210413TNMAC,unknown,None,unknown,Bus Driver,Adult
+20170415ORMEP,White,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20210418OHWED,unknown,Fatal,Male,No Relation,Adolescent
+20210418OHWED,unknown,Wounded,Male,No Relation,Teen
+20210420TXHAH,Black,Fatal,Male,No Relation,Young Adult
+20210427DESMS,unknown,Fatal,Female,Parent,Adult
+20210429NYURB,unknown,Fatal,Male,Student,Adolescent
+20210429CAVIV,unknown,Wounded,Male,Student,Adolescent
+20210430INMAI,unknown,Wounded,Female,Parent,Adult
+20210501MNBES,unknown,None,Male,No Relation,Adult
+20210501MNBES,unknown,None,Male,No Relation,Adult
+20210502ILCHC,unknown,Wounded,Male,No Relation,Adult
+20210502ILCHC,unknown,Wounded,Male,No Relation,Young Adult
+20210502ILCHC,unknown,Wounded,Female,No Relation,Adult
+20210502ILCHC,unknown,Wounded,Female,No Relation,Adult
+20210502ILCHC,unknown,Wounded,Female,No Relation,Young Adult
+20210506IDRIR,unknown,Wounded,Male,Student,Teen
+20210506IDRIR,unknown,Wounded,Female,Student,School Age Child
+20210506IDRIR,unknown,Wounded,Male,Other Staff,Adult
+19890209IDRIR,unknown,None,Female,Student,Adolescent
+19890209IDRIR,unknown,None,unknown,Student,Teen
+19890209IDRIR,unknown,None,unknown,Teacher,Adult
+20210506SCFOC,unknown,None,Male,Bus Driver,Adult
+20210505MICRC,unknown,Wounded,Male,No Relation,Adult
+20210514CASAS,Asian,Fatal,Male,No Relation,Young Adult
+20210517TNAUM,unknown,Wounded,Male,No Relation,Adult
+20210511NYPSB,unknown,Wounded,Male,No Relation,Adolescent
+20210601ILLIC,unknown,Wounded,Male,unknown,Adolescent
+20210607TXEAF,unknown,Fatal,Male,Student,Adolescent
+20210608KSHAK,unknown,Fatal,Male,No Relation,Adolescent
+20210609TXNOH,Black,Wounded,Male,Student,Young Adult
+20210609VAWIR,unknown,Wounded,Male,Student,Teen
+20210612MOMCF,Black,Fatal,Male,Student,Young Adult
+20210613PAWIP,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20210614TXEAF,unknown,Wounded,Male,unknown,Adult
+20210620CAGRM,unknown,Wounded,Male,No Relation,Adult
+20210624ILABR,unknown,Wounded,Male,No Relation,Adult
+20210628CASLF,unknown,Wounded,Male,No Relation,Adult
+20210704NYDRR,unknown,Fatal,Male,unknown,Adolescent
+20210708ILBEC,unknown,Wounded,Female,No Relation,Adult
+20210708ILBEC,unknown,Wounded,Male,Student,Adolescent
+20210719TXCAC,unknown,Minor Injuries,Male,Student,Adolescent
+20210719TXCAC,unknown,Minor Injuries,Female,Student,Adolescent
+20210721ILTHC,unknown,Wounded,Male,No Relation,Young Adult
+20210721ILTHC,unknown,Wounded,Male,No Relation,Adolescent
+20210721ILTHC,unknown,Wounded,Male,No Relation,Adolescent
+20210721ILTHC,unknown,Wounded,Male,No Relation,Adolescent
+20210721ILTHC,unknown,Wounded,Male,No Relation,Young Adult
+20210727WATYS,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20210517TXBRE,unknown,Minor Injuries,Female,Student,Adolescent
+20210517TXBRE,unknown,Minor Injuries,Male,Student,Teen
+20210804ALBUM,unknown,Wounded,Male,unknown,Teen
+20210804ALBUM,unknown,Wounded,Male,unknown,Teen
+20210806LASTH,unknown,Wounded,Female,Parent,Adult
+20210807ORGIP,unknown,Fatal,Male,No Relation,Adult
+20210811COMAC,unknown,Wounded,Male,No Relation,Adult
+20210810OHEAC,unknown,Wounded,Male,Former Student,Adolescent
+20210812GALIL,unknown,Wounded,Male,unknown,Adult
+20210813NMWAA,unknown,Fatal,Male,Student,Adolescent
+20210814ILMAC,unknown,Wounded,Male,No Relation,Adolescent
+20180425NMHIA,unknown,Wounded,Male,Parent,Adult
+20210818SCORO,unknown,Wounded,unknown,Student,Teen
+20210818SCORO,unknown,Wounded,unknown,Student,Teen
+20210818SCORO,unknown,Wounded,unknown,Student,Teen
+20210817COYED,unknown,Fatal,Male,Student,Young Adult
+20210820NEMIO,Black,Wounded,Male,No Relation,Young Adult
+20210820NEMIO,Black,Wounded,Female,No Relation,Adult
+20210820CACEF,Black,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20210822ILWER,unknown,Wounded,Male,Student,Adolescent
+20170813NYHUH,unknown,Wounded,unknown,Student,Child
+20170813NYHUH,unknown,Wounded,unknown,Student,Child
+20210901NCMTW,Black,Fatal,Male,Student,Adolescent
+20210830NCNEW,unknown,Wounded,Male,Student,Teen
+20210827INHAH,unknown,Wounded,unknown,Student,Teen
+20210827INHAH,unknown,Wounded,unknown,Student,Teen
+20210908MNPRB,unknown,Wounded,Male,No Relation,Adult
+20210909ILCHC,unknown,Wounded,Male,No Relation,Adult
+20210902INWEG,unknown,Wounded,Male,Student,Teen
+20210901ILFRC,unknown,Fatal,Male,No Relation,Adult
+20210827KYAPO,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20210915KYMAL,unknown,Wounded,Male,No Relation,Adult
+20210917PAWEP,unknown,Wounded,unknown,Student,Adolescent
+20210917PAWEP,unknown,Wounded,unknown,Student,Adolescent
+20210918COWIC,unknown,Wounded,unknown,Student,Teen
+20210918COWIC,unknown,Wounded,unknown,Student,Teen
+20210918COWIC,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20210917TNAUK,unknown,Wounded,Male,unknown,Teen
+20210913SCEDC,unknown,Wounded,Male,Parent,Adult
+20210902CASAL,unknown,Wounded,Male,Student,Teen
+20210902CASAL,unknown,Wounded,Male,Student,Teen
+20210920OHEAC,unknown,Wounded,Male,No Relation,Adolescent
+20210920OHEAC,unknown,Wounded,Male,No Relation,Adolescent
+20210920OHEAC,unknown,Wounded,Male,No Relation,Young Adult
+20210921PAVAP,unknown,Wounded,Male,Student,Adolescent
+20210920VAHEN,unknown,Wounded,Male,Student,Adolescent
+20210920VAHEN,unknown,Wounded,Female,Student,Adolescent
+20210921KSEAW,unknown,Wounded,Male,Student,Adolescent
+20210921KSEAW,unknown,Wounded,Male,Student,Adolescent
+20210921KSEAW,unknown,Wounded,Male,Student,Adolescent
+20210922NYSOB,unknown,Wounded,Male,Student,Adolescent
+20210917VAHEH,unknown,Minor Injuries,Male,Student,Teen
+20210915VASPS,unknown,None,unknown,Student,Child
+20210915VASPS,unknown,None,unknown,Student,Child
+20210915VASPS,unknown,None,unknown,Student,Child
+20210924MDWIB,unknown,Wounded,Male,No Relation,Young Adult
+20210924ALFAF,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20210903CABUB,unknown,None,Female,Bus Driver,Adult
+20210903CABUB,unknown,None,unknown,Student,unknown
+20210927ILCAC,unknown,Minor Injuries,unknown,Student,Child
+20210927ILCAC,unknown,Minor Injuries,unknown,Student,Child
+20210927ILCAC,unknown,Minor Injuries,unknown,Student,Child
+20210827PAACS,Black,Fatal,Female,Nonstudent Using Athletic Facilities/Attending Game,School Age Child
+20210827PAACS,unknown,Wounded,unknown,Student,Teen
+20210827PAACS,unknown,Wounded,unknown,Student,Teen
+20210827PAACS,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20210827PAACS,unknown,Wounded,unknown,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20210928MESOS,unknown,Wounded,Male,Student,Teen
+20210902CASAL,unknown,Wounded,Male,Student,Adolescent
+20210830FLOKW,unknown,Minor Injuries,Female,Student,Teen
+20210830NJWEN,unknown,Fatal,Male,Student,Teen
+20210930TNCUM,unknown,Wounded,Male,Student,Adolescent
+20210827VAFRW,unknown,Wounded,Male,Student,Adolescent
+20210827VAFRW,unknown,Wounded,Female,Student,Adolescent
+20210930MSNEN,unknown,Wounded,Male,Student,School Age Child
+20190809NJWEN,unknown,Wounded,unknown,Student,Adolescent
+20190809NJWEN,unknown,Wounded,unknown,Student,Young Adult
+20211001TXYEH,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+20211001INBEI,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adolescent
+20211001NCSEF,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20211001NCSEF,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20211001NCNOD,unknown,Wounded,Male,Student,Adolescent
+20211004PASCP,unknown,Wounded,unknown,Police Officer/SRO,Adult
+20211004PASCP,unknown,Wounded,unknown,Police Officer/SRO,Adult
+20211004OHWOT,unknown,Wounded,Male,Student,Adolescent
+20211006TXTIA,unknown,Wounded,Male,Student,Adolescent
+20211006TXTIA,unknown,Wounded,Female,Student,Teen
+20211006TXTIA,unknown,Wounded,Male,Teacher,Adult
+20211006TXTIA,unknown,Minor Injuries,unknown,Student,Teen
+20211007DCWAW,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20211007TXEAW,unknown,Wounded,Female,Student,Teen
+20211012ILWEC,unknown,Wounded,Female,Student,Adolescent
+20211012ILWEC,unknown,Wounded,Male,Security Guard,Adult
+20211012MIELK,unknown,Wounded,Male,No Relation,Adolescent
+20211012MIELK,unknown,Wounded,Male,No Relation,Adolescent
+20211015ALWIM,unknown,Wounded,Male,unknown,unknown
+20211015ALWIM,unknown,Wounded,Male,unknown,unknown
+20211015ALWIM,unknown,Wounded,Male,unknown,unknown
+20211015ALWIM,unknown,Wounded,Female,unknown,unknown
+20211014MEREP,unknown,Fatal,unknown,No Relation,unknown
+20211013PACHD,unknown,Minor Injuries,unknown,Student,Child
+20211013PACHD,unknown,Minor Injuries,unknown,Student,Child
+20211013PACHD,unknown,Minor Injuries,unknown,Student,Child
+20211013PACHD,unknown,Minor Injuries,unknown,Student,Child
+20211015CAKEF,unknown,Wounded,unknown,unknown,unknown
+20211018PALIP,unknown,Wounded,Male,Student,Adolescent
+20211018PALIP,unknown,Wounded,Male,No Relation,Adult
+20211011ORROP,unknown,Wounded,Male,Student,Teen
+20211021GABES,unknown,Minor Injuries,unknown,unknown,unknown
+20211021NYPSB,unknown,Wounded,Male,No Relation,Adult
+20211030PASTM,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+19920530DCARW,unknown,Fatal,Male,Rival School Student,Teen
+19920530DCARW,unknown,Wounded,Male,Student,Young Adult
+19920530DCARW,unknown,Wounded,Male,Student,Adolescent
+19920530DCARW,unknown,Wounded,unknown,Student,Teen
+19920530DCARW,unknown,Wounded,unknown,Student,Teen
+20211108NYTHB,unknown,Wounded,Male,Student,Adolescent
+19901110TXJUD,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+19890901VASAV,unknown,Wounded,Male,Student,Adolescent
+19890901VASAV,unknown,Wounded,Male,Student,Adolescent
+19871031SCANA,unknown,Wounded,unknown,Student,Teen
+19871031SCANA,unknown,Wounded,unknown,Student,Teen
+19871031SCANA,unknown,Wounded,unknown,Student,Teen
+19871031SCANA,unknown,Wounded,unknown,Student,Teen
+19871031SCANA,unknown,Wounded,unknown,Student,Teen
+19871031SCANA,unknown,Wounded,unknown,Student,Teen
+19871031SCANA,unknown,Wounded,unknown,Student,Teen
+19871031SCANA,unknown,Wounded,unknown,Student,Teen
+20211119COHIA,unknown,Wounded,Male,Student,Teen
+20211119COHIA,unknown,Wounded,Male,Student,Teen
+20211119COHIA,unknown,Wounded,Male,Student,Teen
+20211119MDGIB,unknown,Fatal,Female,unknown,Adolescent
+20211126CAWES,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20211126CAWES,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20211129AZCHP,unknown,Wounded,Male,Student,Adolescent
+20211130MIOXO,unknown,Fatal,Female,Student,Adolescent
+20211130MIOXO,White,Fatal,Female,Student,Adolescent
+20211130MIOXO,unknown,Fatal,Male,Student,Adolescent
+20211130MIOXO,unknown,Wounded,Female,Student,Adolescent
+20211130MIOXO,unknown,Wounded,Male,Student,Adolescent
+20211130MIOXO,unknown,Wounded,Male,Student,Adolescent
+20211130MIOXO,unknown,Wounded,Female,Student,Adolescent
+20211130MIOXO,unknown,Wounded,Male,Student,Adolescent
+20211130MIOXO,unknown,Wounded,Male,Student,Adolescent
+20211130MIOXO,unknown,Fatal,Male,Student,Adolescent
+20211130MIOXO,unknown,Wounded,Male,Teacher,Adult
+20211201TXSAP,unknown,None,Male,Student,Teen
+20211130TNHUH,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20211130TNHUH,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20211130TNHUH,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20211102NMHIH,unknown,Wounded,Male,Student,Child
+20211102NMHIH,unknown,Wounded,unknown,Student,Child
+20211102NMHIH,unknown,Wounded,unknown,Student,Child
+20211102NMHIH,unknown,None,unknown,Teacher,Adult
+20211206CAWIW,unknown,Wounded,Female,Student,School Age Child
+20211206CAWIW,unknown,Fatal,Male,unknown,Adolescent
+20211206CAWIW,unknown,Wounded,Female,unknown,Adult
+20211203ARBLB,unknown,None,Male,No Relation,Adult
+20211208MOEWK,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Teen
+20211208MOEWK,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Teen
+20211207ILHAC,Asian,Fatal,Male,No Relation,Adult
+20211208KYSTL,unknown,None,unknown,No Relation,Adult
+20211206NYSUS,unknown,Wounded,Male,Student,Adolescent
+20211211FLEDL,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20211213NCWEC,unknown,None,Male,Student,Teen
+20211212NYSCR,unknown,Fatal,Male,No Relation,Adult
+20211214VAMEN,unknown,Fatal,Male,Student,Adolescent
+19930108PACRM,unknown,Wounded,Male,Student,Adolescent
+19930203SCGAC,unknown,Wounded,Male,Student,Young Adult
+19930203SCLEL,unknown,Wounded,Male,Student,Adolescent
+19920117SCGRG,unknown,Wounded,Male,Student,Young Adult
+20211229NCCAS,unknown,Wounded,Male,Student,Adolescent
+20211229NCCAS,unknown,Wounded,Male,Student,Adolescent
+19920930CAPAL,Black,Fatal,Female,Student,Adolescent
+20220104ILAUR,unknown,Wounded,Male,Student,Adolescent
+20220104ILAUR,unknown,Wounded,Female,Student,Adolescent
+20220106CAFLS,unknown,Wounded,Male,Student,Adolescent
+20220106CAFLS,unknown,Wounded,Male,Student,Adolescent
+20170127ILSCN,White,Fatal,Male,Parent,Adult
+20220117TXPYH,unknown,Fatal,Male,No Relation,Adult
+20220117TXPYH,unknown,Fatal,Female,No Relation,Adult
+20220119FLSES,unknown,Wounded,Male,Student,Adolescent
+20220119VAMAP,unknown,Wounded,Male,Student,Teen
+20220119PAPIP,Black,Fatal,Male,Student,Adolescent
+20220119DCANW,unknown,None,Male,unknown,unknown
+20220121MDMAR,unknown,Wounded,Male,Student,Adolescent
+20220127TXMOH,unknown,Wounded,Female,No Relation,Adult
+20220126PABAP,Black,Fatal,Male,Student,Adolescent
+20220129WIBEB,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20220124NVSUL,unknown,Wounded,unknown,unknown,unknown
+20220201MNSOR,Black,Fatal,Male,Student,Adolescent
+20220201MNSOR,unknown,Wounded,unknown,Student,Teen
+20220201WIRUM,unknown,Wounded,Female,Student,Adolescent
+20220201WIRUM,unknown,Wounded,Female,Student,Adolescent
+20220201WIRUM,unknown,Wounded,Female,Student,Adolescent
+20220201WIRUM,unknown,Wounded,Female,Student,Adolescent
+20220201WIRUM,unknown,Wounded,Female,Nonstudent Using Athletic Facilities/Attending Game,Young Adult
+20220128LACAM,unknown,None,unknown,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20220128LACAM,unknown,None,unknown,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20220204ALWEB,unknown,Wounded,unknown,Student,Adolescent
+20220208MDCAC,unknown,Wounded,Male,Student,Adolescent
+20220209NYMCB,unknown,Wounded,Male,Student,Adolescent
+20220209NYMCB,unknown,Wounded,Male,Police Officer/SRO,Adult
+20220209MNMIM,unknown,Wounded,unknown,Bus Driver,Adult
+20220208MDCAC,unknown,Wounded,unknown,Student,Adolescent
+20220211DCEAW,unknown,Wounded,Male,unknown,Adult
+20220201ILALC,unknown,Wounded,Female,No Relation,Adolescent
+20220217WAMCG,unknown,Wounded,Male,Gang Member,Adult
+20220219VACAC,unknown,Fatal,Male,unknown,Adolescent
+20220218MATET,unknown,Minor Injuries,Female,Student,Teen
+20220218MATET,unknown,Minor Injuries,unknown,Student,Teen
+20220218MATET,unknown,Minor Injuries,unknown,Student,Teen
+20220218MATET,unknown,Minor Injuries,unknown,Student,Teen
+20220218MATET,unknown,Minor Injuries,unknown,Student,Teen
+20220218MATET,unknown,Minor Injuries,unknown,Student,Teen
+20220218MATET,unknown,Minor Injuries,unknown,Student,Teen
+20220220OKWIW,unknown,Wounded,Male,Police Officer/SRO,Adult
+20220221MDJOH,unknown,Fatal,Male,No Relation,Young Adult
+20220220MSMCM,unknown,Fatal,Male,Nonstudent Using Athletic Facilities/Attending Game,School Age Child
+20220220MSMCM,unknown,Wounded,unknown,unknown,unknown
+20220220MSMCM,unknown,Wounded,unknown,unknown,unknown
+20220220MSMCM,unknown,Wounded,unknown,unknown,unknown
+20220220MSMCM,unknown,Wounded,unknown,unknown,unknown
+20220222COLIP,unknown,Fatal,Male,No Relation,Adult
+20220225NMWEA,unknown,Fatal,Male,Student,Adolescent
+20220222TXALH,unknown,Fatal,Male,No Relation,Adult
+20220227DCDUW,unknown,Fatal,Male,No Relation,Adult
+20220228NYBOB,unknown,Wounded,Male,Student,Adolescent
+20220303MIJWL,unknown,Wounded,Male,unknown,Adolescent
+20220304KSOLO,unknown,Wounded,Male,Police Officer/SRO,Adult
+20220304KSOLO,unknown,Wounded,Male,Principal/Vice-Principal,Adult
+20220307IAEAD,Hispanic,Fatal,Male,Former Student,Adolescent
+20220307IAEAD,unknown,Wounded,Female,Student,Adolescent
+20220307IAEAD,unknown,Wounded,Female,Student,Young Adult
+20220309TXNOH,unknown,Wounded,Female,Student,Adolescent
+20220309FLNOM,unknown,Wounded,Male,Student,Adolescent
+20220309FLNOM,unknown,Wounded,Male,Student,Young Adult
+20220309FLNOM,unknown,Wounded,unknown,Student,Teen
+20220310MDCOL,unknown,Fatal,Male,unknown,Adult
+20220311OHFAP,unknown,None,Male,No Relation,Adult
+20220311CADER,unknown,Minor Injuries,Male,Student,Teen
+20220310TNHAM,unknown,None,unknown,Student,Child
+20220310TNHAM,unknown,None,unknown,Student,Child
+20220310TNHAM,unknown,None,unknown,Student,Child
+20220310TNHAM,unknown,None,unknown,Student,Child
+20220310TNHAM,unknown,None,unknown,Student,Child
+20220315WAEIY,unknown,Fatal,Male,Student,Adolescent
+20220315WAEIY,unknown,Wounded,Male,Student,Young Adult
+20220315MATEB,unknown,Wounded,unknown,Student,Adolescent
+20220315MATEB,unknown,Wounded,unknown,Teacher,Adult
+20220315MDPAB,unknown,Wounded,Male,Student,Young Adult
+20220318ILBAB,unknown,Minor Injuries,Male,Student,Teen
+20220318ILBAB,unknown,Minor Injuries,Male,Student,Teen
+20220319ALCEL,unknown,None,Male,No Relation,Adult
+20220321MIMAK,unknown,None,Male,Parent,Adult
+20220318RICEP,unknown,Minor Injuries,unknown,Other Staff,Adult
+20220322FLNEN,unknown,Minor Injuries,Female,Other Staff,Adult
+20220328NCOAC,unknown,Wounded,Male,No Relation,Adolescent
+20220329NVWEL,unknown,Wounded,Male,Student,Adolescent
+20220329NVWEL,unknown,Wounded,Male,Nonstudent,Teen
+20220329NVWEL,unknown,Minor Injuries,Female,Student,Teen
+20220331SCTAG,Black,Fatal,Male,Student,School Age Child
+20220330AZKIK,unknown,Wounded,Male,Student,Adolescent
+20220405PAERE,unknown,Wounded,unknown,Student,Teen
+20220406ORROP,unknown,Wounded,unknown,unknown,Adult
+20220410MALYL,unknown,Fatal,Male,No Relation,Young Adult
+20220406WASTM,unknown,None,unknown,Student,Child
+20220406WASTM,unknown,None,unknown,Student,Child
+20220413MISHS,unknown,Minor Injuries,unknown,Student,Child
+20220414MSNEP,unknown,Wounded,Male,Student,Teen
+20220414MSNEP,unknown,Minor Injuries,Male,Student,Teen
+20220414MSNEP,unknown,Wounded,Male,Student,Teen
+20220415VAGAW,unknown,Wounded,Female,Student,Teen
+20220403INBLB,unknown,Wounded,Male,unknown,Adolescent
+20220416IAMED,unknown,Wounded,unknown,unknown,Adult
+20220421NDMOM,unknown,Fatal,Male,unknown,Adult
+20220422DCEDW,unknown,Wounded,Male,Security Guard,Adult
+20220422DCEDW,unknown,Wounded,Female,No Relation,Adult
+20220422DCEDW,unknown,Wounded,Female,Parent,Adult
+20220422DCEDW,unknown,Wounded,Female,Student,School Age Child
+20220424MOHAF,unknown,Fatal,Male,No Relation,Adult
+20220426GASOM,Black,Fatal,Male,unknown,Adolescent
+20220427TXMOS,unknown,Wounded,Male,No Relation,Adult
+20220422DCEDW,unknown,Minor Injuries,Female,Student,Adolescent
+20220501OHHAC,unknown,Fatal,Male,unknown,Adult
+20220501VALOM,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20220501VALOM,unknown,Wounded,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20220430PAMCJ,unknown,None,Male,Nonstudent Using Athletic Facilities/Attending Game,Adult
+20220509GARIS,unknown,Minor Injuries,Female,Bus Driver,Adult
+20220509NYEDS,unknown,Fatal,Male,unknown,Adult
+20220511FLJAJ,unknown,Wounded,Male,Student,Adolescent
+20220512TXHEH,unknown,Wounded,unknown,Student,Teen
+20220513FLALW,unknown,Fatal,Male,Former Student,Adult
+20220512ARHOH,unknown,Fatal,Male,unknown,Adult
+20220512ARHOH,unknown,Wounded,unknown,unknown,unknown
+20220512ARHOH,unknown,Wounded,unknown,unknown,unknown
+20220513GASOM,unknown,Wounded,Male,unknown,Young Adult
+20220515ILMEP,unknown,Wounded,Male,No Relation,Adolescent
+20220517ILWAC,unknown,Wounded,Male,Student,School Age Child
+20220515NHBEB,unknown,Minor Injuries,Male,No Relation,Adolescent
+20220515NHBEB,unknown,Minor Injuries,Female,No Relation,School Age Child
+20220518TNRIM,unknown,Fatal,Male,Student,Young Adult
+20220518TNRIM,unknown,Wounded,unknown,unknown,unknown
+20220519LAHAH,unknown,Wounded,unknown,unknown,Adult
+20220519LAHAH,unknown,Wounded,unknown,unknown,Adult
+20220519LAHAH,unknown,Wounded,unknown,unknown,Adult
+20220519LAHAH,unknown,Minor Injuries,unknown,unknown,Adult
+20220519MIEAK,unknown,Wounded,Female,Relative,Adult
+20220519MIEAK,unknown,Wounded,Male,Relative,Adolescent
+20220520VAPOD,unknown,None,Male,Student,Teen
+20220520TNEAC,unknown,Fatal,Male,No Relation,Adult
+20220520OHCAC,unknown,Minor Injuries,unknown,Bus Driver,Adult
+20220523PASIP,unknown,Wounded,Male,Student,Adolescent
+20220523PASIP,unknown,Wounded,Male,Student,Adolescent
+20220523PASIP,unknown,Wounded,Male,Student,Adolescent
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Wounded,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,unknown,Student,Child
+20220524TXROU,unknown,Fatal,Female,Teacher,Adult
+20220524TXROU,unknown,Fatal,unknown,Teacher,Adult
+20220524TXROU,unknown,Wounded,unknown,Student,Child
+20220524TXROU,unknown,Wounded,unknown,Student,Child
+20220524TXROU,unknown,Wounded,unknown,Student,Child
+20220524TXROU,unknown,Wounded,unknown,unknown,Adult
+20220524DCPOW,unknown,Wounded,Male,No Relation,Young Adult
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220524TXROU,unknown,Wounded,unknown,unknown,unknown
+20220526SCMEG,unknown,Fatal,Male,No Relation,Adult
+20220529ILDAC,unknown,Wounded,Female,unknown,Adolescent
+20220529ILDAC,unknown,Wounded,Male,unknown,Adult
+20220529ILDAC,unknown,Wounded,Male,unknown,Young Adult
+20220529ILDAC,unknown,Wounded,Male,unknown,Young Adult
+20220529ILDAC,unknown,Wounded,Female,unknown,Young Adult
+20220530CAHEL,unknown,Wounded,Male,No Relation,Young Adult
+20220531LAMON,Black,Fatal,Female,Relative,Adult
+20220531LAMON,unknown,Wounded,Male,Relative,Adult
+20220531LAMON,unknown,Wounded,Male,Relative,Adult
+20220601CAULL,unknown,Wounded,Male,Student,Adolescent

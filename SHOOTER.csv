@@ -1,0 +1,2286 @@
+incidentid,age,gender,race,criminalhistory
+19700105DCHIW,Adolescent,Male,unknown,unknown
+19700105DCSOW,unknown,Male,unknown,unknown
+19700105DCUNW,unknown,Male,unknown,unknown
+19700206OHJOC,Young Adult,Male,Hispanic,unknown
+19700323CADAL,Adolescent,Male,Hispanic,unknown
+19700323CADAL,Adult,Male,Hispanic,unknown
+19700415ARPIP,Young Adult,Male,unknown,unknown
+19700415ARPIP,Teen,Male,unknown,unknown
+19700415ARPIP,Adult,Male,unknown,unknown
+19700415ARPIP,Adult,Male,unknown,unknown
+19700415ARPIP,Adult,Male,unknown,unknown
+19700415ARPIP,Adult,Male,unknown,unknown
+19700415ARPIP,Adult,Male,unknown,unknown
+19700415ARPIP,Adult,Male,unknown,unknown
+19700422DEPIW,Adolescent,Male,Hispanic,unknown
+19700508FLCAD,Young Adult,Male,Hispanic,unknown
+19700515UTBEO,Adolescent,Male,White,unknown
+19700828TXRIE,Adolescent,Male,unknown,unknown
+19700828TXRIE,Adolescent,Male,unknown,unknown
+19700831FLALM,Adult,Male,Black,unknown
+19700914TNHAN,Young Adult,Male,Black,unknown
+19700924IDMEM,unknown,unknown,unknown,unknown
+19700928IACED,Adolescent,Male,unknown,unknown
+19701005MIPOD,Teen,Male,unknown,unknown
+19701019TNBOM,Adolescent,Male,unknown,unknown
+19701020TNWAN,Adolescent,Male,unknown,unknown
+19701027OHAPM,Adolescent,Male,unknown,unknown
+19701120ILHAC,Adolescent,Male,unknown,unknown
+19701212WIXAA,Adult,unknown,unknown,unknown
+19710202PAMOP,Adolescent,Male,Black,unknown
+19710205PAJOW,Adolescent,Male,unknown,unknown
+19710210TXOAD,Adolescent,Male,unknown,unknown
+19710225OHFRC,Teen,Male,unknown,unknown
+19710309AZROT,Adolescent,Male,unknown,unknown
+19710405PAWIH,Adolescent,Male,unknown,unknown
+19710527MIBES,Adolescent,Male,unknown,unknown
+19710602NYEAE,Adolescent,Male,unknown,unknown
+19710820PAMOM,Adult,Male,White,unknown
+19710909TXDUL,Adolescent,Male,White,unknown
+19710924NYMCB,Teen,unknown,unknown,unknown
+19710928MNCEM,Young Adult,Male,unknown,unknown
+19710929VAPEP,Adolescent,Male,Black,unknown
+19711028MDCIB,unknown,Male,unknown,unknown
+19711029MDFOB,Adolescent,Male,unknown,unknown
+19711029MDFRB,Teen,Male,unknown,unknown
+19711029MDFRB,Teen,Male,unknown,unknown
+19711103NMCAC,Young Adult,Male,unknown,unknown
+19711108OKGRT,Adult,Male,unknown,unknown
+19711124MDEDB,Adolescent,Male,unknown,unknown
+19711206CALOL,Adolescent,Male,Hispanic,unknown
+19711206CALOL,Adolescent,Male,Hispanic,unknown
+19711213MDCAB,Adolescent,Male,unknown,unknown
+19720105DCPAW,Adult,Male,unknown,unknown
+19720124OHSTS,Adolescent,Male,White,unknown
+19720126MDGWB,Teen,Male,unknown,unknown
+19720126MDHAB,Adolescent,Male,unknown,unknown
+19720214ILCAC,unknown,Male,unknown,unknown
+19720215ILKEC,Young Adult,Male,unknown,unknown
+19720228CAMAL,Adolescent,Male,unknown,unknown
+19720313TXUNH,Adolescent,Male,unknown,unknown
+19720412LAEAG,Adult,Male,unknown,unknown
+19720504NVLIR,Adult,Male,White,unknown
+19720505INDEI,Adolescent,Female,White,unknown
+19720914TXFRH,Adolescent,Male,unknown,unknown
+19720915MISAS,Adolescent,Male,unknown,unknown
+19720919TXCUH,Adult,Male,unknown,unknown
+19720921OHTHA,Young Adult,Male,unknown,unknown
+19721111CAJEL,Teen,Male,unknown,unknown
+19721111CAJEL,Teen,Male,unknown,unknown
+19721127MIPOP,Adolescent,Male,Black,unknown
+19721129FLMIM,Teen,Male,unknown,unknown
+19730105NCSOS,Teen,Male,Black,unknown
+19730118CAJOL,Young Adult,Male,unknown,unknown
+19730118CAJOL,Young Adult,Male,unknown,unknown
+19730131NCCUB,Adolescent,Male,unknown,unknown
+19730212ALBOM,Young Adult,Male,unknown,Yes
+19730226VAARR,Young Adult,Male,Black,unknown
+19730405CALOL,unknown,Male,unknown,unknown
+19730501OHRAY,Adolescent,Male,unknown,unknown
+19730928CAWIL,Adolescent,Male,unknown,unknown
+19731002ILELA,Adolescent,Male,unknown,unknown
+19731019MOBES,Adolescent,Male,unknown,unknown
+19731023MOSUS,Adolescent,Male,unknown,unknown
+19731023MOSUS,Teen,Male,unknown,unknown
+19731023OHBAB,Adolescent,Male,White,unknown
+19731024MNCEM,Adolescent,Male,unknown,unknown
+19731031MONOS,Young Adult,Male,unknown,unknown
+19731108ILWOC,Adolescent,Male,unknown,unknown
+19731109CALOL,Teen,Male,unknown,unknown
+19731206CAFRL,unknown,unknown,unknown,unknown
+19731213OHHUC,Adolescent,Male,unknown,Yes
+19740117ILBAC,Adolescent,Male,unknown,unknown
+19740122CALOL,Adolescent,Male,unknown,unknown
+19740207CAJAO,Young Adult,Male,Black,unknown
+19740322INBRB,Adolescent,Male,White,unknown
+19740402CTSTB,unknown,unknown,unknown,unknown
+19740510TNCHR,Young Adult,Male,unknown,unknown
+19740519FLHIO,Adult,Male,unknown,unknown
+19740923CAJED,Teen,Male,unknown,unknown
+19740923CAJED,Teen,Male,unknown,unknown
+19740923CAJED,Teen,Male,unknown,unknown
+19740925CASAL,Adolescent,Male,unknown,unknown
+19741007LADEH,Adolescent,Male,Black,unknown
+19741021MDDOB,Adolescent,Male,unknown,unknown
+19741118SCCAC,unknown,Male,unknown,unknown
+19741121ARBOL,Adolescent,Male,unknown,unknown
+19741125SCCAC,Teen,Male,unknown,unknown
+19741125SCCAC,Teen,Male,unknown,unknown
+19741218CAMAL,Adolescent,Male,unknown,unknown
+19741230NYOLO,Adolescent,Male,White,No
+19750207NYBOM,Adolescent,Male,unknown,unknown
+19750224NJSTP,Young Adult,Male,unknown,unknown
+19750312TXJOH,Teen,unknown,unknown,unknown
+19750318MOSUS,Young Adult,Male,unknown,unknown
+19750321OHPAD,Adolescent,Male,unknown,unknown
+19750321VAFAR,Young Adult,Male,unknown,unknown
+19750515MOROS,Adolescent,Male,unknown,unknown
+19750527MIPID,Child,Male,unknown,unknown
+19750709ILDEC,Adult,Male,Black,unknown
+19750711MOCES,Young Adult,Male,unknown,unknown
+19750911OKGRO,Adolescent,Male,White,unknown
+19751001NMHEA,Adult,Male,unknown,unknown
+19751024GAMUA,Adolescent,Male,unknown,unknown
+19751218CAORS,Adolescent,Male,unknown,unknown
+19760101AZCAP,unknown,unknown,unknown,unknown
+19760123OHCOC,Adolescent,Male,unknown,unknown
+19760206FLESP,unknown,unknown,unknown,unknown
+19760212MIMUD,Teen,Male,unknown,unknown
+19760212MIMUD,Teen,Male,unknown,unknown
+19760212MIMUD,Teen,Male,unknown,unknown
+19760212MIMUD,Teen,Male,unknown,unknown
+19760212MIMUD,Teen,Male,unknown,unknown
+19760212MIMUD,Teen,Male,unknown,unknown
+19760412TXODF,Adolescent,Male,unknown,unknown
+19760513MOMAS,Adolescent,Male,unknown,unknown
+19760514FLPAW,Adolescent,Male,unknown,unknown
+19760602MDMTC,unknown,unknown,unknown,unknown
+19760920NCGUG,Adult,Male,unknown,unknown
+19761110MIBUD,Adult,Male,unknown,unknown
+19761210MOFRS,Child,Male,unknown,unknown
+19770113ILOLB,Adolescent,Male,unknown,unknown
+19770209ILFEC,Adolescent,Male,unknown,unknown
+19770228MOROS,Young Adult,Male,unknown,unknown
+19770228TXHOA,Adolescent,Male,unknown,unknown
+19770308ILCOE,Adolescent,Male,unknown,unknown
+19770321NYPAH,Young Adult,Male,unknown,unknown
+19770407TXWHW,Adolescent,Male,unknown,unknown
+19770418TNPIN,Adult,Male,unknown,unknown
+19770517FLSTC,Young Adult,Male,unknown,unknown
+19770622ILHOC,Teen,unknown,unknown,unknown
+19770711COSOC,Adolescent,unknown,unknown,unknown
+19771129MOHAS,Young Adult,Male,unknown,unknown
+19771129MOVAS,Young Adult,Male,unknown,unknown
+19771209CAPES,Adult,Male,unknown,unknown
+19771212FLWEW,Adult,Male,unknown,unknown
+19771215MABLC,unknown,Male,unknown,unknown
+19780111KYCHH,Adolescent,Male,unknown,unknown
+19780209WVHAS,Adolescent,Male,White,unknown
+19780222MIEVL,Adolescent,Male,White,unknown
+19780309CAMOS,Adolescent,Male,unknown,unknown
+19780329TNGAN,Adult,Male,Black,unknown
+19780414MIFOD,Adolescent,Male,unknown,unknown
+19780426TXPAD,Adult,Female,unknown,unknown
+19780428ILRIN,Teen,Male,unknown,unknown
+19780518TXMUA,Adolescent,Male,White,unknown
+19780519PADOP,unknown,unknown,unknown,unknown
+19780607DEDOD,Adolescent,Male,unknown,unknown
+19780610MAWEW,Adolescent,Male,unknown,unknown
+19781017ALLAL,Adolescent,Male,White,unknown
+19781017MOUNU,Teen,Male,White,unknown
+19781129NYPAN,Adolescent,Male,unknown,unknown
+19781214CTWIN,Adolescent,Male,unknown,unknown
+19790129CAGRS,Adolescent,Female,White,unknown
+19790314FLMCM,Teen,Male,Black,unknown
+19790328CALOL,Young Adult,Male,unknown,unknown
+19790416WIWIM,Adult,Male,unknown,unknown
+19790425PAMAH,unknown,unknown,unknown,unknown
+19790426TXAZA,Adolescent,Male,unknown,unknown
+19790614OHNEN,Adolescent,Male,unknown,unknown
+19790926LACAN,Adolescent,Male,unknown,unknown
+19790926LACAN,Adolescent,Male,unknown,unknown
+19790928MACHC,Teen,Male,White,unknown
+19790928MACHC,Teen,Male,White,unknown
+19791023MOOFS,Adolescent,Male,unknown,unknown
+19791105INWAI,Young Adult,Male,unknown,unknown
+19791130TXUNL,Adolescent,Male,unknown,unknown
+19791203MDEAB,Teen,Male,unknown,unknown
+19791203MDEAB,Teen,Male,unknown,unknown
+19791203MDEAB,Teen,Male,unknown,unknown
+19791203MDEAB,Teen,Male,unknown,unknown
+19791221MOBLS,Adolescent,Male,unknown,unknown
+19800107ARSTS,Adolescent,Male,White,unknown
+19800129VALAW,Adolescent,Male,unknown,unknown
+19800201DCLAW,Child,Male,unknown,unknown
+19800207TXVAL,Child,Male,unknown,unknown
+19800211INARI,Adolescent,Male,unknown,unknown
+19800211INARI,Young Adult,Male,unknown,unknown
+19800215MSHUM,Adult,Male,unknown,unknown
+19800320TXJLD,Adult,Male,unknown,unknown
+19800331MDFRB,Adolescent,Male,Black,unknown
+19800417VACAC,Adult,Male,unknown,unknown
+19800530NYCLB,Adolescent,Male,unknown,unknown
+19800902CAWHL,Young Adult,Male,White,unknown
+19800908FLFOJ,Teen,Male,unknown,unknown
+19800910DCSPW,Young Adult,Male,unknown,unknown
+19800911ALJOM,Adult,Female,unknown,unknown
+19800926CTBRB,Young Adult,Male,unknown,unknown
+19801013ALCET,Adolescent,Male,unknown,unknown
+19801031ALHUH,Adolescent,Male,unknown,unknown
+19801117TXEAF,Adolescent,Male,unknown,unknown
+19801212ALPAB,Adolescent,Male,unknown,unknown
+19801212OHLOL,Adolescent,Male,unknown,unknown
+19810121OHWIB,Adolescent,Male,White,unknown
+19810122MDFRB,Adolescent,Male,unknown,unknown
+19810210ARLIL,Adolescent,Male,unknown,unknown
+19810210CAMAL,Young Adult,Male,unknown,unknown
+19810303INMAI,Adolescent,Male,unknown,unknown
+19810328FLDIF,Young Adult,Male,unknown,unknown
+19810402OHALC,Adolescent,Male,unknown,unknown
+19810407MSPOP,unknown,unknown,unknown,unknown
+19810515LANEN,Adult,Male,unknown,unknown
+19810901PAWIP,unknown,Male,unknown,unknown
+19810904NMHOS,Adolescent,Male,unknown,unknown
+19810908FLSTW,Child,Male,unknown,unknown
+19810913MDABA,Adult,unknown,unknown,unknown
+19811013CTHAH,Adolescent,Male,unknown,unknown
+19811209NYGEB,unknown,Male,unknown,unknown
+19811216TXUNH,Adolescent,Male,unknown,unknown
+19811223NYJAB,Teen,Male,unknown,unknown
+19820205TNHAM,unknown,Male,unknown,unknown
+19820208MADOD,Young Adult,Male,Black,unknown
+19820209LAJON,Adolescent,Male,unknown,unknown
+19820209LAJON,Adolescent,Male,unknown,unknown
+19820315ORSPS,Adolescent,Male,unknown,unknown
+19820317OHLOL,Adolescent,Male,unknown,unknown
+19820319NVVAL,Adolescent,Male,Black,unknown
+19820407CODEL,Adolescent,Male,White,unknown
+19820415MDFOB,Teen,Male,unknown,unknown
+19820429GARUE,Adolescent,Male,White,unknown
+19820430FLANA,Young Adult,Male,unknown,unknown
+19820527NVGAL,Teen,Male,unknown,unknown
+19820527NVGAL,Teen,Male,unknown,unknown
+19820527NVGAL,Teen,Male,unknown,unknown
+19820910VALAB,Young Adult,Male,unknown,unknown
+19820915ARSOP,Child,Male,unknown,unknown
+19821101NYELE,Adolescent,Male,unknown,unknown
+19821108MICOD,Adolescent,Male,unknown,unknown
+19821112MSWIJ,Young Adult,Male,unknown,unknown
+19821206ALHUH,Adolescent,Male,unknown,unknown
+19821220MIFID,Adult,Male,unknown,unknown
+19830118TXJOH,Young Adult,Male,unknown,unknown
+19830120MOPAB,Adolescent,Male,White,unknown
+19830128MDWIB,Adolescent,Male,unknown,unknown
+19830130TXWEC,unknown,Male,unknown,unknown
+19830131FLDED,Adolescent,Female,unknown,unknown
+19830201TNRIM,Adolescent,Male,unknown,unknown
+19830202NMALA,unknown,Male,unknown,unknown
+19830331ILSAC,Child,Male,unknown,unknown
+19830421MOBES,Adult,Male,unknown,unknown
+19830516NYBRN,Young Adult,Male,unknown,unknown
+19830516TXLAD,Adult,Male,unknown,Yes
+19830518FLNOM,Young Adult,Male,Black,unknown
+19830523OHMAM,Adolescent,Male,unknown,unknown
+19830526PAGRJ,Adolescent,Male,unknown,unknown
+19830912CAMAC,Teen,Male,unknown,unknown
+19830912CAMAC,Teen,Male,unknown,unknown
+19830912MIHED,Adolescent,Male,Black,unknown
+19830921MDWAB,Young Adult,Male,unknown,unknown
+19830930TXTET,Young Adult,Male,unknown,unknown
+19831007CACOL,unknown,Male,unknown,unknown
+19831022MDCAB,Young Adult,Male,unknown,unknown
+19831108MIHIH,Adolescent,Male,unknown,unknown
+19831117ILJAC,Adolescent,Male,unknown,unknown
+19831118MDHAB,Adolescent,Male,Black,unknown
+19831202INCRC,Adolescent,Male,unknown,unknown
+19831216ILBOR,Adolescent,Male,unknown,unknown
+19840105MDLAB,unknown,Male,unknown,unknown
+19840206KYCEL,Adolescent,Male,unknown,unknown
+19840221TXSHH,Adolescent,Male,unknown,unknown
+19840224CA49L,Adult,Male,Black,unknown
+19840405LACLC,Adolescent,Male,Black,unknown
+19840420MIPRD,Adolescent,unknown,unknown,unknown
+19840426NCROW,Child,Male,unknown,unknown
+19840515MTCMG,Young Adult,Male,unknown,unknown
+19840517IASOP,Adolescent,Male,unknown,unknown
+19840517TXBOH,Young Adult,Male,unknown,unknown
+19840518CANON,Adolescent,Male,unknown,unknown
+19840522OHCLC,Young Adult,Male,unknown,unknown
+19840710MIMUD,Adult,Male,unknown,unknown
+19840831LABOS,unknown,Male,unknown,unknown
+19840928TXMIH,unknown,unknown,unknown,unknown
+19840928TXRIN,Young Adult,Male,White,unknown
+19841021PAWYE,unknown,Male,unknown,unknown
+19841022MICED,Adolescent,Male,Black,unknown
+19841024MISOD,Adolescent,Male,unknown,unknown
+19841024OHWEC,Adult,Female,White,unknown
+19841030SCPEP,Young Adult,Male,unknown,unknown
+19841031LAEAG,Adolescent,Male,White,unknown
+19841109CTWIN,Adolescent,Male,unknown,unknown
+19841126MDMIR,Adolescent,Male,unknown,unknown
+19841207MOEDS,Adolescent,Male,White,unknown
+19850118TXARA,Adolescent,Male,White,unknown
+19850121KSGOG,Adolescent,Male,White,unknown
+19850126MASTB,Adolescent,Male,unknown,unknown
+19850205CTAIH,Young Adult,Male,unknown,unknown
+19850416TXMAA,Adult,Male,unknown,unknown
+19850516FLPAB,Adolescent,Female,unknown,unknown
+19850724TXHIH,Adult,Female,unknown,unknown
+19850904VAEAR,Child,Male,unknown,unknown
+19850909TXWHH,Young Adult,Male,unknown,unknown
+19850920TXLAC,Adolescent,Male,unknown,unknown
+19850925OHTRT,Adolescent,Male,unknown,unknown
+19851008MDLAB,Young Adult,Male,unknown,unknown
+19851008MDLAB,Young Adult,Male,unknown,unknown
+19851008MDLAB,Young Adult,Male,unknown,unknown
+19851018MIMUD,unknown,unknown,unknown,unknown
+19851022OHSOG,Adult,unknown,unknown,unknown
+19851126WASPS,Adolescent,Female,unknown,unknown
+19851127ALCHB,Adolescent,Male,unknown,unknown
+19851203NHCOC,Adolescent,Male,White,unknown
+19851209PAARP,Young Adult,Male,unknown,unknown
+19851210CTPOP,Adolescent,Male,unknown,unknown
+19860109NCNOD,Adolescent,Male,unknown,unknown
+19860117CAVAL,Adolescent,Male,unknown,unknown
+19860129MDLAB,Adolescent,Male,unknown,unknown
+19860224LABOS,Adolescent,Male,unknown,unknown
+19860306ILTHD,Adolescent,Male,unknown,unknown
+19860423FLCHM,Adolescent,Male,unknown,unknown
+19860429MOSES,Adolescent,Male,unknown,unknown
+19860509NCPIF,Adolescent,Male,unknown,unknown
+19860515GACAA,Teen,unknown,unknown,unknown
+19860516WYCOC,Adult,Male,White,unknown
+19860516WYCOC,Adult,Female,White,unknown
+19860517TNMAN,Adolescent,Male,unknown,unknown
+19860912CAFAL,Adolescent,Male,unknown,unknown
+19860918CABEB,Young Adult,Male,unknown,unknown
+19861003CAMOM,Young Adult,Male,unknown,unknown
+19861003CAMOM,Young Adult,Male,unknown,unknown
+19861003CAMOM,Adolescent,Male,unknown,unknown
+19861008TXSOD,Young Adult,Male,unknown,unknown
+19861204MTFEL,Adolescent,Male,unknown,unknown
+19870114CALOL,Young Adult,Male,unknown,unknown
+19870123MIRED,Adolescent,Male,unknown,unknown
+19870210ARDAD,Adolescent,Male,unknown,unknown
+19870213AZORM,Adolescent,Male,White,unknown
+19870224NYMON,Adult,Male,unknown,unknown
+19870224NYMON,Adult,Male,unknown,unknown
+19870302MODED,Child,Male,White,unknown
+19870306TXRIE,Young Adult,Male,unknown,unknown
+19870306TXRIE,Adult,Male,unknown,unknown
+19870330CAPAS,Adult,Female,unknown,unknown
+19870416MIMUD,Adolescent,Male,unknown,unknown
+19870430ORGRP,Adolescent,Male,unknown,unknown
+19870503INPII,Adolescent,Male,Black,unknown
+19870506ARMAJ,Adolescent,Male,unknown,unknown
+19870506FLLET,Adolescent,Male,White,unknown
+19870513ILOAO,Adolescent,Male,unknown,unknown
+19870928ILILL,Adolescent,Male,unknown,unknown
+19871014ILDUC,Adolescent,Male,unknown,unknown
+19871030NCSOK,Adolescent,Male,unknown,unknown
+19871104MISOD,unknown,Male,unknown,unknown
+19871114FLCLC,Young Adult,Male,unknown,unknown
+19871130TXPES,Adult,Male,unknown,unknown
+19871202FLENJ,Adolescent,Male,unknown,unknown
+19871204NYEAN,Adolescent,Male,unknown,unknown
+19871215NYGRB,Adolescent,Male,unknown,unknown
+19871216TXMAK,Adolescent,Male,Other,unknown
+19880105PASPS,Young Adult,Male,unknown,unknown
+19880106FLGAT,Adolescent,Female,unknown,unknown
+19880108PACRM,Adolescent,Male,unknown,unknown
+19880120LASIR,Young Adult,Male,unknown,unknown
+19880129TXREA,Young Adult,Male,unknown,unknown
+19880202ALWET,Adult,Male,unknown,unknown
+19880202ALWET,Adult,Male,unknown,unknown
+19880211FLPIL,Adolescent,Male,White,unknown
+19880211FLPIL,Adolescent,Male,White,unknown
+19880226RIBRB,Adolescent,Male,unknown,unknown
+19880304MILED,Adolescent,Female,unknown,unknown
+19880323CACAS,unknown,unknown,unknown,unknown
+19880324TXTRA,Adolescent,Male,unknown,unknown
+19880505ILMAC,Adolescent,Male,unknown,unknown
+19880516FLFOF,Adolescent,Male,unknown,unknown
+19880520ILHUW,Adult,Female,White,unknown
+19880531NYPUB,Adult,Male,unknown,unknown
+19880602MSWIJ,Adult,Male,unknown,unknown
+19880602MSWIJ,Adult,Male,unknown,unknown
+19880602MSWIJ,Adult,Male,unknown,unknown
+19880617MIJOD,Adolescent,Male,unknown,unknown
+19880630HIAIO,Young Adult,Male,Hawaiian/Pacific Islander,unknown
+19880710WISIM,Adult,Male,unknown,unknown
+19880711MSLAJ,Adolescent,Male,unknown,unknown
+19880831MICED,Adolescent,Male,unknown,unknown
+19880831MICED,Adolescent,Male,unknown,unknown
+19880831SCWEA,Young Adult,Male,unknown,unknown
+19880902GAGLA,unknown,unknown,unknown,unknown
+19880902NCGAC,Adolescent,Male,unknown,unknown
+19880903TXLID,Teen,Male,unknown,unknown
+19880903TXLID,Teen,Male,unknown,unknown
+19880903TXLID,Teen,Male,unknown,unknown
+19880903TXLID,Teen,Male,unknown,unknown
+19880922ILMOC,Adult,Male,Black,Yes
+19880926SCOAG,Young Adult,Male,White,unknown
+19881003FLMAM,unknown,unknown,unknown,unknown
+19881004FLJEJ,unknown,unknown,unknown,unknown
+19881004LAISB,Adult,Female,unknown,unknown
+19881005MDEDB,Adolescent,Male,unknown,unknown
+19881006ALMOM,Adult,Female,unknown,unknown
+19881007MDSOB,Adolescent,Male,unknown,unknown
+19881007TXDIP,Child,Male,unknown,unknown
+19881101FLPAJ,Adolescent,Male,unknown,unknown
+19881107UTGLS,Adolescent,Male,unknown,unknown
+19881122TXABA,Adolescent,Male,White,unknown
+19881216VAATV,Adolescent,Male,Black,unknown
+19890105ARHEL,Young Adult,Male,unknown,unknown
+19890117CACLS,Young Adult,Male,White,Yes
+19890126DCWOW,Adolescent,Male,unknown,unknown
+19890126DCWOW,Young Adult,Male,unknown,unknown
+19890210UTTHK,Child,Male,unknown,unknown
+19890303INWIG,Adolescent,Male,unknown,unknown
+19890426TXAMD,Young Adult,Male,unknown,unknown
+19890911AZDYE,unknown,Male,unknown,unknown
+19890918KYJAM,Adolescent,Male,unknown,unknown
+19891005CALOA,Adolescent,Male,unknown,unknown
+19891031TXOLD,Adolescent,Male,unknown,unknown
+19891113NYALN,Adolescent,Male,unknown,unknown
+19891115TXWOA,Adolescent,Male,unknown,unknown
+19891122CACHO,Young Adult,Male,Hispanic,unknown
+19891204LACAS,Teen,Male,unknown,unknown
+19891205PASEM,Adolescent,Male,White,No
+19891205TXWWD,Young Adult,Male,Hispanic,unknown
+19891212SCCHC,Young Adult,Male,unknown,unknown
+19900116RICEP,Adolescent,Male,Asian,unknown
+19900220OHTAC,Adolescent,Male,unknown,unknown
+19900327NYNEB,Teen,Male,White,unknown
+19900403TXSKD,Young Adult,Male,unknown,unknown
+19900504CAMOE,Adolescent,Male,Asian,unknown
+19900520TNHIC,Adult,Male,unknown,unknown
+19900531TXSUF,Adolescent,Male,White,unknown
+19900824NCMYC,unknown,unknown,unknown,unknown
+19900827NVELL,Adolescent,Male,unknown,unknown
+19900827TXWHD,unknown,Male,unknown,unknown
+19900911TXSAS,unknown,Male,Black,unknown
+19900922ALLEB,unknown,Male,unknown,unknown
+19901002TXWHD,Adult,Female,Hispanic,unknown
+19901029INCHC,Young Adult,Male,White,No
+19901030TXNAG,Adult,Female,Hispanic,unknown
+19901213LASAS,unknown,unknown,unknown,unknown
+19910108TXRIR,Adolescent,Male,White,unknown
+19910117TXHOD,unknown,unknown,unknown,unknown
+19910117TXHOD,unknown,unknown,unknown,unknown
+19910219LABON,Young Adult,Male,Black,Yes
+19910313ALSES,Adolescent,Male,unknown,unknown
+19910314SCWOP,Young Adult,Male,Black,unknown
+19910314SCWOP,unknown,Male,Black,unknown
+19910325NCGAC,Young Adult,Male,unknown,unknown
+19910411SCNOR,Young Adult,Male,White,unknown
+19910423CARAC,Adolescent,Male,unknown,unknown
+19910423CARAC,Adolescent,Male,unknown,unknown
+19910423MSHUB,Adolescent,Male,unknown,unknown
+19910510OHFRC,Adolescent,Male,unknown,unknown
+19910516KSCOK,Adolescent,Male,unknown,unknown
+19910521CAROS,Young Adult,Male,Hispanic,unknown
+19910521FLSCP,Young Adult,Male,unknown,unknown
+19910722CAWEL,unknown,Male,unknown,unknown
+19910730CAENC,unknown,Male,unknown,unknown
+19910913TXMAH,unknown,unknown,unknown,unknown
+19910917ILWOC,Adolescent,Male,Black,unknown
+19910918TXCRC,Adolescent,Female,Black,unknown
+19911002TXSPH,Adolescent,Male,unknown,unknown
+19911004CADOL,unknown,unknown,unknown,unknown
+19911004CAROL,unknown,unknown,unknown,unknown
+19911009NYJAB,unknown,Male,unknown,unknown
+19911011MAMAR,Young Adult,Male,Black,unknown
+19911015NHMOS,Adolescent,Male,unknown,unknown
+19911015SCWOW,Adolescent,Male,unknown,unknown
+19911015TXGEP,Adolescent,Male,unknown,unknown
+19911023TXOAD,Young Adult,Male,unknown,unknown
+19911106LAWAN,Young Adult,Male,Black,unknown
+19911111TXYSE,Young Adult,Male,unknown,unknown
+19911111TXYSE,Adolescent,Male,unknown,unknown
+19911111TXYSE,Young Adult,Male,unknown,unknown
+19911111TXYSE,Adolescent,Male,unknown,unknown
+19911114TXMIH,Adolescent,Male,unknown,unknown
+19911125NYTHB,Adolescent,Male,Black,unknown
+19911226NCWHW,Young Adult,Male,unknown,unknown
+19920128LAFRG,Teen,Male,unknown,unknown
+19920131LAFRG,Teen,Male,unknown,unknown
+19920206OKDOO,Adolescent,Male,unknown,unknown
+19920207VABON,unknown,Male,unknown,unknown
+19920226NYTHB,Adolescent,Male,Black,unknown
+19920305OHHAO,Child,Male,White,unknown
+19920331LAOPA,Adolescent,Male,unknown,unknown
+19920409FLFOF,Adolescent,Male,Black,unknown
+19920417TXLID,unknown,unknown,unknown,unknown
+19920501CALIO,Young Adult,Male,White,unknown
+19920514CASIN,Adolescent,Male,unknown,unknown
+19920514TXHUH,Adolescent,Male,White,unknown
+19920529CAVEL,unknown,unknown,unknown,unknown
+19920606CAMEM,Adolescent,Male,Asian,unknown
+19920911TXPAA,Adolescent,Male,unknown,unknown
+19920928CAHIS,Young Adult,Male,Asian,unknown
+19920928CAHIS,Young Adult,Male,Asian,unknown
+19920928CAHIS,Young Adult,Male,Asian,unknown
+19920930TXHOH,Adolescent,Male,White,unknown
+19921013AZDET,Young Adult,Male,White,unknown
+19921019NYEVB,unknown,Male,Black,unknown
+19921104MIFID,Minor,Male,Black,unknown
+19921104MIFID,Young Adult,Male,Black,unknown
+19921104MIFID,Young Adult,Male,Black,unknown
+19921104MIMAD,unknown,unknown,unknown,unknown
+19921104MIMUD,Adolescent,Male,unknown,unknown
+19921104MIMUD,Adolescent,Female,unknown,unknown
+19921104MIMUD,Adolescent,Female,unknown,unknown
+19921110ILSHC,Adolescent,Male,unknown,unknown
+19921113TXLAC,Adult,Male,unknown,unknown
+19921116ALFAB,Teen,Male,unknown,unknown
+19921120ILTIC,Adolescent,Male,unknown,unknown
+19921124ALROM,Young Adult,unknown,unknown,unknown
+19921130ILORC,Adolescent,Male,unknown,unknown
+19921203ILWOC,Young Adult,Male,unknown,unknown
+19921203ILWOC,Adult,Male,unknown,unknown
+19921214NYWAW,Adolescent,Male,unknown,unknown
+19930105NYBRB,Teen,Male,unknown,unknown
+19930105NYBRB,Teen,Male,unknown,unknown
+19930112FLNOM,Teen,Male,unknown,unknown
+19930118KYEAG,Adolescent,Male,White,unknown
+19930121CAFAL,Teen,Male,unknown,unknown
+19930201NYAMA,Adolescent,Male,unknown,unknown
+19930201WARER,Adolescent,Male,unknown,unknown
+19930204GACLA,Adolescent,Male,unknown,unknown
+19930208DCWAW,unknown,Male,unknown,unknown
+19930208MNMIM,Adolescent,Male,unknown,unknown
+19930222CAREL,Adolescent,Male,Black,unknown
+19930226MAGLG,Adolescent,Male,unknown,unknown
+19930308VADOD,Adult,Male,Black,unknown
+19930318GAHAH,Adolescent,Male,unknown,unknown
+19930325MOSUS,Adolescent,Female,unknown,unknown
+19930403CAGRS,unknown,Male,unknown,unknown
+19930415MAFOA,Adult,Male,White,unknown
+19930416CAGRS,unknown,unknown,unknown,unknown
+19930416WAMOT,Adult,Female,unknown,unknown
+19930514TXNII,Adolescent,Male,Hispanic,unknown
+19930524PAUPP,Adolescent,Male,White,unknown
+19930527LAFRN,Adolescent,Male,Black,unknown
+19930707CADOL,Teen,Male,unknown,unknown
+19930803NYTHN,unknown,Male,unknown,unknown
+19930831GAHAA,Adolescent,Male,Black,unknown
+19930901KSJUJ,Adolescent,Male,unknown,unknown
+19930902TXROD,Adolescent,Male,unknown,unknown
+19930916ILROC,unknown,Male,unknown,unknown
+19930917ILDOD,Adolescent,Male,White,unknown
+19930917WYCES,Adult,Male,White,unknown
+19930925DCWEW,Young Adult,Male,unknown,unknown
+19930925DCWEW,Adolescent,Male,unknown,unknown
+19930928MSCOG,Adolescent,Male,unknown,unknown
+19931012DEDON,Adolescent,Female,unknown,unknown
+19931018DCJHW,Adolescent,Male,unknown,unknown
+19931101ILSUC,Adolescent,Male,unknown,unknown
+19931104CTNEN,Young Adult,Male,Hispanic,unknown
+19931104FLTEJ,Young Adult,Male,unknown,unknown
+19931104MSBAB,unknown,unknown,unknown,unknown
+19931111ILRIS,unknown,unknown,unknown,unknown
+19931201WIWAW,Young Adult,Male,White,unknown
+19931202CTNEN,unknown,Male,unknown,unknown
+19931208GABES,Adolescent,Male,unknown,unknown
+19931215CACHS,Adolescent,Male,unknown,unknown
+19931217MICHC,Teen,Male,unknown,unknown
+19940120CALOH,Teen,Male,unknown,unknown
+19940121TXKEK,Adolescent,Male,unknown,unknown
+19940124SCEAC,Young Adult,Male,Black,unknown
+19940126DCELW,unknown,unknown,unknown,unknown
+19940126DCPAW,Teen,Male,unknown,unknown
+19940127CAWAS,Adult,Male,N/A,unknown
+19940131WAWHS,Young Adult,Male,White,unknown
+19940208MIOSD,unknown,unknown,unknown,unknown
+19940218SCSPS,Adult,Male,unknown,unknown
+19940301MOKEB,Adult,Male,Black,unknown
+19940303ALENB,Adolescent,Male,unknown,unknown
+19940309DCEAW,Adolescent,Male,unknown,unknown
+19940315SCGOC,Teen,Male,unknown,unknown
+19940323WABAS,Adolescent,Male,Hispanic,unknown
+19940325GAETC,Adolescent,Male,unknown,unknown
+19940405TXMCA,Adolescent,Male,unknown,unknown
+19940408MDLAU,Adolescent,Male,unknown,unknown
+19940412MTMAB,Child,Male,White,unknown
+19940413CA49L,Child,Male,White,unknown
+19940419DCELW,unknown,unknown,unknown,unknown
+19940420INDIS,Adolescent,Male,unknown,unknown
+19940421TNJTN,Adolescent,Male,Black,unknown
+19940502FLNON,Young Adult,Male,unknown,unknown
+19940525INLAS,Adolescent,Male,unknown,unknown
+19940525NJLAW,Adolescent,Female,unknown,unknown
+19940526KYLAU,Adolescent,Male,White,unknown
+19940724PAMAM,Adolescent,Male,unknown,unknown
+19940725IAOTO,Adolescent,Male,unknown,unknown
+19940907CAHOL,unknown,Male,unknown,unknown
+19940908NYSWA,Adolescent,Male,unknown,unknown
+19940919CALOL,unknown,Male,unknown,unknown
+19940922ORLEL,Adolescent,Male,unknown,unknown
+19941012NCGRG,Adolescent,Male,White,unknown
+19941017ILHUC,unknown,Male,unknown,unknown
+19941031CAALA,Adolescent,Male,unknown,unknown
+19941105CATHS,Adult,Male,unknown,unknown
+19941107OHWIW,Adult,Male,White,unknown
+19941108IAWEM,Adolescent,Male,unknown,unknown
+19941115WASTT,Adolescent,Male,White,unknown
+19950105DCCAW,Adolescent,Male,Black,unknown
+19950110FLPAP,Adolescent,Male,unknown,unknown
+19950112WAGAS,Adolescent,Male,Black,unknown
+19950123CASAR,Adolescent,Male,White,unknown
+19950124DCSPW,Adolescent,Male,unknown,unknown
+19950202CAJOL,unknown,Male,unknown,unknown
+19950208NECHS,Adolescent,Male,unknown,unknown
+19950303MIPED,unknown,unknown,unknown,unknown
+19950327MIRED,Young Adult,Male,unknown,unknown
+19950614FLLAL,Young Adult,Male,unknown,unknown
+19950829TXMEL,Child,Male,White,unknown
+19950912TNCYM,Adolescent,Male,Black,unknown
+19950914KSOLO,Adolescent,Male,Black,unknown
+19950915KYGEW,Teen,Male,unknown,unknown
+19950927ALBLP,Young Adult,Male,unknown,unknown
+19950929FLTAT,Adolescent,Male,White,unknown
+19951012SCBLB,Adolescent,Male,Black,unknown
+19951023FLLAC,Adolescent,Female,unknown,unknown
+19951030VAJOR,Adolescent,Male,Black,unknown
+19951102FLBLM,Adult,Male,Asian,unknown
+19951115TNRIL,Adolescent,Male,White,unknown
+19951128NYTHN,unknown,Male,unknown,unknown
+19960102PAGIG,Adolescent,Male,unknown,unknown
+19960119DCWIW,Young Adult,Male,Black,unknown
+19960126TNEAM,Adult,unknown,unknown,unknown
+19960202WAFRM,Adolescent,Male,White,unknown
+19960208CAMIM,Adolescent,Male,White,unknown
+19960222GAJES,Adolescent,Male,Black,unknown
+19960229MOBES,Young Adult,Male,Black,unknown
+19960311NCNON,Adolescent,Male,White,unknown
+19960319NVSWL,Teen,unknown,unknown,unknown
+19960411ALTAT,Adolescent,Male,unknown,unknown
+19960415DCMCW,unknown,unknown,unknown,unknown
+19960514UTBIT,Adolescent,Male,White,unknown
+19960522CACOC,Adolescent,Male,Hispanic,unknown
+19960604CAWEH,Adolescent,Male,unknown,unknown
+19960726CAJOL,Young Adult,Male,Hispanic,unknown
+19960925GADED,Adolescent,Male,Black,unknown
+19961002PASMP,Adult,Male,unknown,unknown
+19961004CASTP,Adolescent,Male,unknown,unknown
+19961009ARJAS,Adolescent,Male,Black,unknown
+19961014MOSUS,Adolescent,Male,unknown,unknown
+19961127CAHIS,unknown,unknown,unknown,unknown
+19970108NYCRN,Young Adult,Male,Hispanic,unknown
+19970108NYCRN,Young Adult,Male,Hispanic,unknown
+19970108NYCRN,Young Adult,Male,Hispanic,unknown
+19970127FLCOW,Adolescent,Male,Black,unknown
+19970206MSWIJ,Adolescent,Male,Black,unknown
+19970213NYMOB,Adolescent,Male,unknown,unknown
+19970213NYSAB,Teen,Male,unknown,unknown
+19970219AKBEB,Adolescent,Male,Native American/Alaska Native,unknown
+19970220FLFIJ,Adolescent,Female,unknown,unknown
+19970221NVRAL,Young Adult,Male,Other,unknown
+19970317MIPED,Adolescent,Male,unknown,unknown
+19970403CAMAM,unknown,unknown,unknown,unknown
+19970428CAJOL,Adolescent,Male,unknown,unknown
+19970430NYCIN,unknown,unknown,unknown,unknown
+19970513FLNOM,Adolescent,Male,unknown,unknown
+19970520OHDUD,Adolescent,Male,unknown,unknown
+19970624ALJEM,Adolescent,Male,Black,unknown
+19971001MSPEP,Adolescent,Male,White,unknown
+19971005OKMOO,unknown,Male,White,unknown
+19971010INWAG,Young Adult,Male,unknown,unknown
+19971014TXLAG,Young Adult,Male,unknown,unknown
+19971015FLLIP,Adolescent,Male,unknown,unknown
+19971020CAMCO,unknown,unknown,unknown,unknown
+19971022CAJON,Young Adult,Male,Asian,unknown
+19971107FLRIJ,Young Adult,Male,unknown,unknown
+19971113CACRS,Adult,Male,unknown,unknown
+19971201KYHEW,Adolescent,Male,White,unknown
+19971215ARSTS,Adolescent,Male,White,unknown
+19980212NJHOH,Adult,Male,unknown,unknown
+19980225MIRER,Adolescent,Male,unknown,unknown
+19980227VAMAF,Young Adult,Male,Asian,unknown
+19980324ARWEJ,Child,Male,White,unknown
+19980324ARWEJ,Adolescent,Male,White,unknown
+19980325CAFED,Adolescent,Male,unknown,unknown
+19980325MICOC,Young Adult,Male,unknown,unknown
+19980330NCGRC,Adolescent,Female,unknown,unknown
+19980331WIOAO,Adolescent,Male,unknown,unknown
+19980423CACUL,unknown,unknown,unknown,unknown
+19980424PAPAE,Adolescent,Male,White,unknown
+19980428CAPHP,Adolescent,Male,unknown,unknown
+19980428WIPAP,Adolescent,Male,unknown,unknown
+19980501FLNOM,Teen,Male,unknown,unknown
+19980501NYPUB,Adult,Male,unknown,unknown
+19980519TNLIF,Young Adult,Male,unknown,unknown
+19980521CARIR,Adolescent,Male,Hispanic,unknown
+19980521ORTHS,Adolescent,Male,White,Yes
+19980521WAONO,Adolescent,Male,unknown,unknown
+19980527CAWAP,unknown,Male,unknown,unknown
+19980529FLSTF,Adult,Male,White,unknown
+19980615VAARR,Adolescent,Male,unknown,unknown
+19980911CAHEG,Adolescent,Male,unknown,unknown
+19980930FLLEL,Adolescent,Male,unknown,unknown
+19980930FLNOM,Young Adult,Male,unknown,unknown
+19980930FLNOM,Adolescent,Male,unknown,unknown
+19981103PAMAP,Young Adult,Male,unknown,unknown
+19981103PAMAP,Adolescent,Male,unknown,unknown
+19981130NYHAH,Adolescent,Female,unknown,unknown
+19981203INERG,Adult,Female,unknown,unknown
+19981211INBEI,Teen,Male,unknown,unknown
+19990108GACEC,Adolescent,Female,unknown,unknown
+19990108GACEC,Adolescent,Male,unknown,unknown
+19990114NYHAN,Adolescent,Male,unknown,unknown
+19990121TXRIN,Adolescent,Male,unknown,unknown
+19990211ILOME,unknown,Male,unknown,unknown
+19990211MSJEP,Adult,Male,unknown,unknown
+19990304ILNIS,Adult,Male,unknown,unknown
+19990416IDNON,Adolescent,Male,White,unknown
+19990420COCOL,Adolescent,Male,White,No
+19990420COCOL,Young Adult,Male,White,No
+19990422GAMAA,Adolescent,Male,unknown,unknown
+19990422LASCB,Adolescent,Male,unknown,unknown
+19990520GAHEC,Adolescent,Male,White,unknown
+19990825GAJAM,Adolescent,Female,unknown,unknown
+19990909CASAS,Adolescent,Male,unknown,unknown
+19990927FLEGT,unknown,unknown,unknown,unknown
+19991004SDJOP,Adolescent,Male,unknown,unknown
+19991011NVCLL,Young Adult,Male,Hispanic,unknown
+19991021CASAP,Teen,Male,unknown,unknown
+19991026PAMAP,Young Adult,Male,unknown,unknown
+19991026WVGUB,Adult,Male,unknown,unknown
+19991117TXDID,Adolescent,Male,unknown,unknown
+19991119NMDED,Adolescent,Male,Hispanic,unknown
+19991206OKFOF,Adolescent,Male,White,unknown
+20000110AKBAA,Adolescent,Male,unknown,unknown
+20000113NMALA,Teen,Male,unknown,unknown
+20000119FLRIN,Adolescent,Male,White,unknown
+20000120NCERA,Adolescent,Male,unknown,unknown
+20000126CAALM,Adolescent,Male,unknown,unknown
+20000126NESOO,Teen,Male,unknown,unknown
+20000210PAPEY,Adolescent,Male,unknown,unknown
+20000214ILDUC,Child,Male,unknown,unknown
+20000229MIBUF,Child,Male,Black,unknown
+20000310GABES,Young Adult,Male,unknown,unknown
+20000323OHMCL,Adolescent,Male,unknown,unknown
+20000406OKHUH,Adult,Female,unknown,unknown
+20000410AZLAT,Adult,Female,unknown,unknown
+20000502COTHD,Adolescent,Male,unknown,unknown
+20000510AZCAS,Adult,Male,unknown,unknown
+20000526FLLAL,Adolescent,Male,Black,unknown
+20000717WADIR,Adolescent,Male,unknown,unknown
+20000726OHTIC,Young Adult,Male,unknown,unknown
+20000905OHBIB,Adult,Male,unknown,unknown
+20000907ILLOR,Young Adult,Male,White,unknown
+20000918OHMOM,Adolescent,Male,unknown,unknown
+20000926LACAN,Adolescent,Male,Black,unknown
+20000926LACAN,Adolescent,Male,Black,unknown
+20001005MNMIM,unknown,Male,unknown,unknown
+20001024AZPIG,Adolescent,Male,unknown,unknown
+20001101TXNEC,Adolescent,Male,unknown,unknown
+20001201CAGRL,Adolescent,Male,unknown,unknown
+20001201CAJUS,Adolescent,Male,unknown,unknown
+20001207CARIR,Teen,unknown,unknown,unknown
+20001221FLNOM,Teen,Male,unknown,unknown
+20010103CABAS,Adolescent,Male,unknown,unknown
+20010110CAHUO,Adolescent,Male,Hispanic,unknown
+20010117MDLAB,Young Adult,Male,unknown,unknown
+20010202MIOSD,Teen,Male,unknown,unknown
+20010302CAHOS,Young Adult,Male,unknown,unknown
+20010305CASAS,Adolescent,Male,White,unknown
+20010306MDLAL,Adolescent,Male,unknown,Yes
+20010307PABIW,Adolescent,Female,White,unknown
+20010307WAKEC,Adolescent,Male,unknown,unknown
+20010322CAGRE,Young Adult,Male,White,unknown
+20010330INLEG,Adolescent,Male,Black,unknown
+20010402TXKLH,Adolescent,Female,unknown,unknown
+20010410WAWAM,Adolescent,Male,unknown,unknown
+20010420LAMOM,Adolescent,Male,unknown,unknown
+20010425OHJOC,unknown,unknown,unknown,unknown
+20010515TXENE,Adolescent,Male,unknown,unknown
+20010607TXOUA,Adult,unknown,unknown,unknown
+20010730CABEL,unknown,Male,unknown,unknown
+20010912KYLAC,Adult,Female,White,unknown
+20010921MDLAB,Adolescent,Male,unknown,unknown
+20011012UTTAT,Adolescent,Male,unknown,unknown
+20011026CARER,Adolescent,Male,unknown,unknown
+20011026MIBES,Teen,Male,unknown,unknown
+20011112MICAC,Adolescent,Male,unknown,unknown
+20011130TXFRF,Adult,Female,unknown,unknown
+20020111MSRAJ,Young Adult,Male,Black,unknown
+20020115NYMAN,Young Adult,Male,Hispanic,unknown
+20020124PAOLO,Adult,Male,unknown,unknown
+20020201TXBRB,Adult,Male,unknown,unknown
+20020206CAGAL,Adolescent,Male,unknown,unknown
+20020207ILROC,Adolescent,Male,unknown,unknown
+20020322CAJOC,Adolescent,Male,unknown,unknown
+20020406MDLEB,Adult,Male,N/A,unknown
+20020426LAABN,Adult,Male,unknown,unknown
+20021004MTCMG,Young Adult,Male,White,unknown
+20021004TXPAS,Adolescent,Female,unknown,unknown
+20021007MDBEB,Adolescent,Male,Black,unknown
+20021029NJLIJ,Adolescent,Male,unknown,unknown
+20021107MOSTL,Adult,Male,unknown,unknown
+20021115CAAML,unknown,unknown,unknown,unknown
+20021115TXSCS,Young Adult,Male,unknown,Yes
+20021202MIOSD,Adolescent,Male,unknown,unknown
+20021212WAWIC,Adolescent,Male,unknown,unknown
+20021216ILENC,Adolescent,Male,unknown,unknown
+20030121KYWEO,Child,Male,unknown,unknown
+20030130OKJEJ,Adolescent,Male,unknown,unknown
+20030205CORAW,Adolescent,Male,unknown,unknown
+20030318IACLG,Adolescent,Male,unknown,unknown
+20030321MSNOM,Adolescent,Male,unknown,unknown
+20030330CAROW,Young Adult,Male,unknown,unknown
+20030401DCCAW,Adolescent,Male,unknown,unknown
+20030414LAFAS,Young Adult,Male,unknown,unknown
+20030414LAJON,Adolescent,Male,Black,unknown
+20030414LAJON,Adolescent,Male,Black,unknown
+20030414LAJON,Young Adult,Male,Black,unknown
+20030416TXGRA,Child,Female,unknown,unknown
+20030424PARER,Adolescent,Male,White,unknown
+20030513PAFOJ,Young Adult,Male,unknown,unknown
+20030604PAROW,Child,Male,unknown,unknown
+20030910MSVIV,Young Adult,Male,unknown,unknown
+20030917MACHB,Adolescent,Male,unknown,unknown
+20030917MDOKE,Adolescent,Male,unknown,unknown
+20030922WALES,Adolescent,Male,White,unknown
+20030924MNROC,Adolescent,Male,White,unknown
+20030925NCBUL,Adolescent,Male,unknown,unknown
+20031001CARIS,Young Adult,Male,unknown,unknown
+20031007OHKEA,Adolescent,Male,unknown,unknown
+20031029LAMAM,Adolescent,Male,unknown,unknown
+20031030DCANW,unknown,Male,unknown,unknown
+20031108TXHIS,Young Adult,Male,unknown,unknown
+20031113NCEAC,Adolescent,Male,unknown,unknown
+20031202ILFEC,Adult,Male,unknown,unknown
+20031204OKDOO,Young Adult,Male,unknown,unknown
+20031205ILCAC,Adolescent,Male,unknown,unknown
+20031217MDOLM,unknown,unknown,unknown,unknown
+20031222NJCOW,Young Adult,Male,unknown,unknown
+20031229FLABE,Adolescent,Male,unknown,unknown
+20040115CAPOP,Adolescent,Male,unknown,unknown
+20040121NVFAH,Adult,Male,Black,unknown
+20040202DCBAW,Young Adult,Male,Black,unknown
+20040203TXYOH,Child,Male,unknown,unknown
+20040206LAFAS,Adult,unknown,unknown,unknown
+20040209NYCOE,Adolescent,Male,White,unknown
+20040211PATMP,Young Adult,Male,Black,unknown
+20040211PATMP,Young Adult,Male,Black,unknown
+20040213OHCOD,Adolescent,Male,unknown,unknown
+20040220LAGAS,Adult,Male,unknown,unknown
+20040305CASAL,unknown,Male,unknown,unknown
+20040317WACRJ,Adolescent,Male,unknown,unknown
+20040504TXKAH,Teen,Male,unknown,unknown
+20040507MDRAR,Adolescent,Male,Black,unknown
+20040507MDRAR,Young Adult,Male,Black,unknown
+20040512CAEAM,Young Adult,Male,unknown,unknown
+20040524UTWES,Adult,Male,unknown,unknown
+20040609CACAO,unknown,Male,unknown,unknown
+20040803ALHUB,Adolescent,Male,unknown,unknown
+20040824TNHAM,Adolescent,Male,unknown,unknown
+20040830ILPRM,Adult,Male,Black,unknown
+20040912LABON,Adult,Female,unknown,unknown
+20040915INWIG,Adolescent,Male,unknown,unknown
+20041002NEJEG,Young Adult,Male,unknown,unknown
+20041007MANEN,Adolescent,Male,unknown,unknown
+20041012CALAS,Adult,Male,unknown,unknown
+20041012CALAS,Adult,Male,unknown,unknown
+20041015CABIB,Young Adult,Male,unknown,unknown
+20041021MDTHB,Adolescent,Male,unknown,Yes
+20041022CATYH,unknown,unknown,unknown,unknown
+20041115ALPAB,Young Adult,Male,unknown,unknown
+20041115INBRG,Young Adult,Male,unknown,unknown
+20041115INBRG,Young Adult,Male,unknown,unknown
+20041116SCBAB,Young Adult,Male,unknown,unknown
+20041117FLAPA,Adolescent,Male,unknown,unknown
+20041119FLTEJ,Teen,Male,unknown,unknown
+20041209WALAS,Adolescent,Male,unknown,unknown
+20041213LALAL,unknown,Male,unknown,unknown
+20041231TXRIR,Adult,Male,unknown,unknown
+20050105PAMUN,Adolescent,Male,unknown,unknown
+20050126ILWOP,Adolescent,Male,unknown,unknown
+20050204GAMCA,Young Adult,Male,unknown,unknown
+20050208ILBOC,Teen,Male,unknown,unknown
+20050302TNSTD,Adolescent,Male,White,unknown
+20050309TNMAN,Adolescent,Male,unknown,unknown
+20050310TXZAD,unknown,Male,unknown,unknown
+20050314OHLEC,Child,Male,unknown,unknown
+20050316PACAP,Young Adult,Male,unknown,unknown
+20050317CALOL,Young Adult,Male,Black,unknown
+20050317LAOPA,unknown,Male,unknown,unknown
+20050321MNRER,Adolescent,Male,Native American/Alaska Native,unknown
+20050321NYNEB,Adolescent,Male,unknown,unknown
+20050324TNFAM,Adolescent,Female,unknown,unknown
+20050330TNEAM,Adolescent,Male,unknown,unknown
+20050407TXCAC,Adult,Male,White,unknown
+20050427LALER,Adolescent,Male,unknown,unknown
+20050429OHDAC,Adolescent,Male,unknown,unknown
+20050514TXBER,Adolescent,Male,unknown,unknown
+20050517PAHIL,Adult,Male,unknown,unknown
+20050520ILLOM,Young Adult,Male,unknown,unknown
+20050524COACD,unknown,unknown,unknown,unknown
+20050524LABOS,Adolescent,Male,unknown,unknown
+20050608NYARP,Adolescent,Male,unknown,unknown
+20050612NJBAA,Adult,Male,unknown,unknown
+20050718NJWEN,Adult,Male,unknown,unknown
+20050816VICOE,Adult,Male,unknown,unknown
+20050816VICOE,Adult,Male,unknown,unknown
+20050817CAPLB,Adult,Male,unknown,unknown
+20050819GAMOM,unknown,Male,unknown,unknown
+20050825TNMAD,Teen,Male,unknown,unknown
+20050901AKDIA,Adolescent,Male,unknown,unknown
+20050902FLSOJ,Young Adult,Male,unknown,unknown
+20050913ILHAC,Adolescent,Male,Black,unknown
+20050924MISAS,unknown,unknown,unknown,unknown
+20051011MIFAF,Adolescent,Male,unknown,unknown
+20051014NYSAN,Teen,Male,unknown,unknown
+20051019CASAS,Adolescent,Male,unknown,unknown
+20051020MISAS,Adolescent,Male,unknown,unknown
+20051027CABIF,Adult,Male,unknown,unknown
+20051028MDANA,Adolescent,Male,unknown,unknown
+20051028NYFAF,unknown,Male,unknown,unknown
+20051108TNCAJ,Adolescent,Male,White,unknown
+20051115FLPAM,Adolescent,Female,unknown,unknown
+20051116TXIRS,Adult,Male,unknown,unknown
+20051205MABOR,Adolescent,Male,Black,unknown
+20051206CASAG,unknown,Male,Hispanic,unknown
+20051206MICED,unknown,unknown,unknown,unknown
+20060103NJLIJ,Teen,Male,unknown,unknown
+20060110DEMOW,Teen,Male,unknown,unknown
+20060111WIMAM,unknown,unknown,unknown,unknown
+20060113ALPIP,Young Adult,Male,unknown,unknown
+20060113FLMIL,Adolescent,Male,White,unknown
+20060113MIOSD,Teen,Male,unknown,unknown
+20060118MTFRA,Adolescent,Female,unknown,unknown
+20060118TXPAA,Teen,Male,unknown,unknown
+20060118VAINC,Young Adult,Male,unknown,unknown
+20060119OHWIC,Young Adult,Male,unknown,unknown
+20060119OHWIC,Young Adult,Male,unknown,unknown
+20060123CAWIV,Adolescent,Male,unknown,unknown
+20060127TXLAG,Adolescent,Male,unknown,unknown
+20060130MTCMG,Adolescent,Male,unknown,unknown
+20060203CALOC,Child,Male,unknown,unknown
+20060209DEWIN,unknown,Male,unknown,unknown
+20060215PAWEY,Adult,Male,unknown,unknown
+20060221PAWEP,Young Adult,Male,unknown,unknown
+20060223ORROR,Adolescent,Male,White,unknown
+20060310NYISN,Adolescent,Male,unknown,unknown
+20060310NYISN,Adolescent,Male,unknown,unknown
+20060314NVPIR,Adolescent,Male,White,unknown
+20060405DCROW,unknown,unknown,unknown,unknown
+20060418TXWEH,unknown,Male,unknown,unknown
+20060424NCEAC,Adolescent,Male,unknown,unknown
+20060505FLPAM,Teen,Male,unknown,unknown
+20060522SCBUI,Young Adult,Male,unknown,unknown
+20060525PANON,Young Adult,Male,unknown,unknown
+20060605CAVEL,unknown,Male,Black,unknown
+20060606INWIG,Young Adult,Male,unknown,unknown
+20060615MIPED,Adult,Male,unknown,unknown
+20060731FLYOT,Adult,Male,Hispanic,unknown
+20060815KYJTV,Adolescent,Male,unknown,unknown
+20060817TXMEA,Young Adult,Male,Hispanic,unknown
+20060817TXMEA,Adolescent,Male,Hispanic,unknown
+20060819OHSOY,Adult,Male,unknown,unknown
+20060820GALYH,Teen,Male,unknown,unknown
+20060821INCAN,Adolescent,Male,unknown,unknown
+20060824VTESE,Adult,Male,Black,unknown
+20060829DCANW,Adolescent,Male,unknown,unknown
+20060830NCORH,Young Adult,Male,Hispanic,unknown
+20060831ALOXO,Young Adult,Male,unknown,unknown
+20060905TNKIM,Adult,unknown,unknown,unknown
+20060908TXSOF,Adult,Male,unknown,unknown
+20060913MOWEC,Adolescent,Male,unknown,unknown
+20060921DCCAW,Adolescent,Male,unknown,unknown
+20060927COPLB,Adult,Male,White,unknown
+20060929WIWEC,Adolescent,Male,White,unknown
+20061002PAWEN,Adult,Male,White,unknown
+20061009MOMEJ,Adolescent,Male,White,unknown
+20061010NYPOP,Teen,Male,unknown,unknown
+20061012MDGRB,Child,Male,unknown,unknown
+20061017TXSEK,Adolescent,Female,unknown,unknown
+20061031TNHAK,Adult,Male,unknown,unknown
+20061111CALIO,Adult,Male,unknown,unknown
+20061122GASAA,unknown,Male,unknown,unknown
+20061201NCJOT,Young Adult,Male,unknown,unknown
+20061207NENOO,Adolescent,Male,unknown,unknown
+20061211ILCLC,Adolescent,Male,unknown,unknown
+20061212PASPS,Adolescent,Male,unknown,unknown
+20061213PABAB,Teen,Male,unknown,unknown
+20061214PAMCC,Adolescent,Male,White,unknown
+20070102NCWEF,Adolescent,Male,unknown,unknown
+20070103WAHET,Young Adult,Male,Asian,unknown
+20070104MINOD,unknown,Male,unknown,unknown
+20070108OHROC,Adolescent,Male,unknown,unknown
+20070109CAGRV,unknown,Male,unknown,unknown
+20070109NVWEL,Adult,Male,unknown,unknown
+20070118PAWIP,Teen,Male,unknown,unknown
+20070124TNHAS,Adolescent,Male,unknown,unknown
+20070131ILHIC,unknown,Male,unknown,unknown
+20070207FLPAJ,Adolescent,Male,unknown,unknown
+20070208ORCRP,Young Adult,Male,unknown,unknown
+20070208TXSTP,Teen,Male,unknown,unknown
+20070226CASLA,Child,Male,unknown,unknown
+20070227GACLA,Child,Male,unknown,unknown
+20070307CACEC,unknown,Male,unknown,unknown
+20070307MIHEM,Adolescent,Male,unknown,unknown
+20070307TXGRG,Adolescent,Male,unknown,unknown
+20070308TNEAC,Adult,Male,unknown,unknown
+20070323FLUNO,Child,Male,unknown,unknown
+20070327CTSAH,unknown,Male,unknown,unknown
+20070329SCMYM,Young Adult,Male,unknown,unknown
+20070410ILCHC,Adolescent,Male,unknown,unknown
+20070410ORSPG,Adolescent,Male,unknown,unknown
+20070418NCNOH,Adolescent,Male,unknown,unknown
+20070503OHGED,Adolescent,Male,unknown,unknown
+20070504TXTIE,Adolescent,Female,unknown,unknown
+20070510MIHED,unknown,unknown,unknown,unknown
+20070512TXWEM,Adolescent,Male,unknown,unknown
+20070515TXLIL,Adolescent,Male,unknown,unknown
+20070523RIOAC,Child,Male,unknown,unknown
+20070530NCVAG,unknown,Male,unknown,unknown
+20070531NCNOG,unknown,Male,unknown,unknown
+20070617SCBRB,Young Adult,Male,unknown,unknown
+20070628TXDAD,Adolescent,Male,unknown,unknown
+20070709ILCAC,unknown,Male,unknown,unknown
+20070804NJMON,Young Adult,Male,unknown,unknown
+20070928CALAO,Adolescent,Male,White,unknown
+20070930AZSSP,Young Adult,Male,Other,unknown
+20071001CTPLM,Adolescent,Male,unknown,unknown
+20071010OHSUC,Adolescent,Male,White,unknown
+20071024TNMAM,Adolescent,Male,unknown,unknown
+20071105LAJOR,Adolescent,Male,unknown,unknown
+20071126NYHOH,Adolescent,Male,White,unknown
+20071221CABAU,Young Adult,Male,Hispanic,unknown
+20080204TNHAM,Adolescent,Male,Black,unknown
+20080211TNMIM,Adolescent,Male,unknown,unknown
+20080214CAEOO,Adolescent,Male,unknown,unknown
+20080306ALDAM,Young Adult,Male,unknown,unknown
+20080416CAROF,Adult,unknown,unknown,unknown
+20080516LAMAT,Teen,Male,unknown,unknown
+20080811WAWAK,Adult,Male,unknown,unknown
+20080814WALAF,Adolescent,Male,Hispanic,unknown
+20080821TNCEK,Adolescent,Male,Hispanic,unknown
+20080902OHSOW,Adolescent,Male,unknown,unknown
+20080915CAMIS,Adolescent,Male,unknown,unknown
+20080919CAGEA,unknown,Male,unknown,unknown
+20081016MIHED,Adolescent,Male,Black,unknown
+20081020CAVAA,Adolescent,Male,White,unknown
+20081023ALPRP,Adult,Male,unknown,unknown
+20081029CAELG,Child,Male,unknown,unknown
+20081031MESTS,Adult,Male,unknown,unknown
+20081103CABEB,unknown,unknown,unknown,unknown
+20081103CAELO,unknown,unknown,unknown,unknown
+20081112FLDIF,Adolescent,Female,Black,unknown
+20081115COTHL,Young Adult,Male,unknown,unknown
+20081115UTDES,Adolescent,Male,unknown,unknown
+20081118CACEC,Young Adult,Male,unknown,unknown
+20081118CACOO,Adolescent,Male,unknown,unknown
+20081125TXNOH,Young Adult,Male,unknown,unknown
+20081130CAOAG,Adult,Male,unknown,unknown
+20081202CAKIK,Adolescent,Male,unknown,unknown
+20081205MNSHF,Adult,Male,unknown,unknown
+20081212NCGUA,Adolescent,Female,unknown,unknown
+20081212NYWIM,Adult,Male,Black,unknown
+20081221SCSUS,Young Adult,Male,unknown,unknown
+20081222FLLAL,Adult,Female,White,unknown
+20081227PAWIP,unknown,unknown,unknown,unknown
+20081231GASHS,Young Adult,Female,unknown,unknown
+20081231OKKEN,Adult,Male,unknown,unknown
+20090108DEWIN,Adult,Female,unknown,unknown
+20090109ILDUC,Young Adult,Male,Black,unknown
+20090114ILPEC,unknown,unknown,unknown,unknown
+20090120ILCOC,Adolescent,Male,unknown,unknown
+20090120ILCOC,Adolescent,Male,unknown,unknown
+20090120MIBEM,Young Adult,Male,unknown,unknown
+20090120PAEAE,Adolescent,Male,Hispanic,unknown
+20090123ILCAC,Young Adult,Male,unknown,unknown
+20090127NCCLC,Young Adult,Male,Black,unknown
+20090210CABAE,Child,Male,unknown,unknown
+20090211NCSCZ,Child,Male,unknown,unknown
+20090217MICED,Adolescent,Male,unknown,unknown
+20090217MICED,Young Adult,Male,unknown,unknown
+20090220CAJOH,unknown,Male,unknown,unknown
+20090223CTBRN,Young Adult,Male,unknown,unknown
+20090302SDROS,Child,Male,unknown,unknown
+20090306NCWEF,Young Adult,Male,unknown,unknown
+20090310FLRIJ,Teen,Male,unknown,unknown
+20090310FLRIJ,Teen,Male,unknown,unknown
+20090311TXCYH,Teen,Male,unknown,unknown
+20090413CALOL,unknown,Male,Hispanic,unknown
+20090501WISHS,Adolescent,Male,unknown,unknown
+20090505NYCAC,Adolescent,Male,White,unknown
+20090518LALAL,Adolescent,Male,White,unknown
+20090615CAINS,unknown,Male,unknown,unknown
+20090624IAAPP,Young Adult,Male,White,unknown
+20090827NCWEF,Adolescent,Male,unknown,unknown
+20090908CTSTS,Adolescent,Male,unknown,unknown
+20090916VAVIG,Adolescent,Male,unknown,unknown
+20091008NYMAM,Adult,Male,unknown,unknown
+20091016SCCAC,Adult,Male,unknown,unknown
+20091030CAWIL,Young Adult,Male,Black,unknown
+20091106PAHAW,Adolescent,Male,unknown,unknown
+20091211LABOS,Adult,Male,unknown,unknown
+20100120ALLIL,Adult,Male,Black,unknown
+20100205ALDIM,Adolescent,Male,Middle Eastern,unknown
+20100210TNINK,Adult,Male,unknown,unknown
+20100223CODEL,Adult,Male,White,unknown
+20100226WABIT,Adult,Male,White,unknown
+20100428VAWOP,Adolescent,Male,Black,unknown
+20100518CASOS,Adolescent,Male,unknown,unknown
+20100830TNSUB,Adult,Male,White,Yes
+20100908MIMUD,Adolescent,Male,Black,unknown
+20100921SCSOC,Adolescent,Male,White,unknown
+20101001CAALS,unknown,unknown,unknown,unknown
+20101008CAKEC,Adult,Male,White,unknown
+20101023KSTOT,Young Adult,Male,White,No
+20101023KSTOT,Young Adult,Male,White,No
+20101129WIMAM,Adolescent,Male,White,No
+20101206COAUA,Young Adult,Male,White,No
+20110104INCRC,unknown,unknown,unknown,unknown
+20110105NEMIO,Adolescent,Male,Other,Yes
+20110118CAGAL,Adolescent,Male,Black,Yes
+20110202CALOP,Adult,Male,White,No
+20110325INMAM,Adolescent,Male,White,Yes
+20110330TXWOH,Teen,Male,Black,Yes
+20110330TXWOH,Teen,Male,Black,Yes
+20110330TXWOH,unknown,Male,Black,Yes
+20110413FLSHA,Adolescent,Male,unknown,No
+20110419TXBEH,Child,Male,unknown,No
+20110517WAHOE,Adolescent,Male,unknown,Yes
+20110523HIHIP,Adolescent,Male,Hawaiian/Pacific Islander,No
+20110923WAISS,Adult,Male,unknown,unknown
+20110930NCGAC,unknown,Male,unknown,unknown
+20110930ORWIP,Young Adult,Male,White,unknown
+20110930ORWIP,Young Adult,Male,White,unknown
+20111024NCCAF,Adolescent,Male,Black,No
+20111212TXHAE,Adult,Male,White,unknown
+20111228MINOF,Adolescent,Male,Black,unknown
+20111228MINOF,Adolescent,Male,Black,unknown
+20120104TXCUB,Child,unknown,unknown,No
+20120110TXNOH,Young Adult,Male,Black,No
+20120210NHWAW,Adolescent,Male,White,No
+20120222WAARB,Child,Male,White,No
+20120227OHCHC,Adolescent,Male,White,No
+20120306FLEPJ,Adult,Male,White,No
+20120315ALLEM,Adolescent,Male,Black,Yes
+20120401ARKIR,Young Adult,Male,White,No
+20120525AZWEA,Adult,Male,Black,unknown
+20120525NCMAC,Adult,Male,White,Yes
+20120706RINAP,Young Adult,Male,Black,unknown
+20120816TNHAM,Adult,Male,unknown,unknown
+20120824GABAH,Adolescent,Male,unknown,unknown
+20120827MDPEP,Adolescent,Male,White,No
+20120907ILNON,Adolescent,Male,White,No
+20120926OKSTS,Adolescent,Male,White,No
+20121012NDFAF,Teen,Male,unknown,unknown
+20121019ILBAC,Adolescent,Male,Black,unknown
+20121019ILBAC,Adolescent,Male,Black,unknown
+20121210TXSPH,Adolescent,Male,unknown,No
+20121214CTSAN,Young Adult,Male,White,Yes
+20130107FLAPF,unknown,unknown,unknown,unknown
+20130110CATAT,Adolescent,Male,White,No
+20130111MIOSD,Teen,Male,unknown,unknown
+20130131GAPRA,Adolescent,Male,unknown,No
+20130201MIMAD,Adolescent,Male,unknown,unknown
+20130201MIMAD,Adolescent,Male,unknown,unknown
+20130213CAHIS,Young Adult,Male,Black,No
+20130227GAGRA,Adolescent,Female,Black,No
+20130321MIDAS,Adolescent,Male,White,No
+20130416TXTET,Adolescent,Male,unknown,unknown
+20130429OHLAC,Adolescent,Male,unknown,No
+20130430NMTUT,Young Adult,Male,unknown,Yes
+20130513ALOSB,Adult,Female,Black,Yes
+20130523FLREH,Child,Male,unknown,No
+20130618NCHIC,Adolescent,Male,Black,unknown
+20130618NCHIC,Adolescent,Male,Black,unknown
+20130619FLALW,Adult,Male,Hispanic,Yes
+20130815TNNOC,Adult,Male,Black,Yes
+20130820GAROD,Young Adult,Male,White,No
+20130822TNWEM,Preschooler,Male,unknown,No
+20130823MSNOS,Young Adult,Male,Black,unknown
+20130823MSNOS,Adolescent,Male,Black,unknown
+20130823MSNOS,Young Adult,Male,Black,unknown
+20130830NCCAW,Young Adult,Male,Black,Yes
+20130927ILROC,Young Adult,Male,Black,Yes
+20130928MENEG,Young Adult,Male,unknown,unknown
+20131002NHWIS,Young Adult,Male,White,unknown
+20131004FLAGP,unknown,Male,unknown,unknown
+20131015TXLAA,Adolescent,Male,Hispanic,No
+20131021NVSPS,Child,Male,Hispanic,No
+20131023CANEC,Child,unknown,unknown,No
+20131101IAALA,Young Adult,Male,White,unknown
+20131103GASTL,Teen,Male,unknown,unknown
+20131113PABRP,Adolescent,Male,Black,No
+20131204FLWEW,Adolescent,Male,Black,No
+20131213COARC,Young Adult,Male,White,No
+20131219CAEDF,Adolescent,Male,Hispanic,No
+20140109TNLIJ,Adolescent,Male,Black,No
+20140113CTHIN,Adolescent,Male,Black,Yes
+20140114LASTB,Adolescent,Male,Black,unknown
+20140114NMBER,Adolescent,Male,White,No
+20140114PAKIL,unknown,Male,Black,unknown
+20140117PADEP,Young Adult,Male,Black,unknown
+20140127ILREC,Young Adult,Male,Black,No
+20140128HIPRH,Adult,unknown,unknown,unknown
+20140131AZCEP,Young Adult,Male,Black,No
+20140131AZCEP,Young Adult,Male,Black,No
+20140131IANOD,Adult,Male,Black,unknown
+20140131IANOD,Adult,Male,Black,unknown
+20140131IANOD,Adult,Male,Black,unknown
+20140131IANOD,Adult,Male,Black,unknown
+20140131IANOD,Adult,Male,Black,unknown
+20140131IANOD,Adult,Male,Black,unknown
+20140207ORBEB,Adolescent,Male,unknown,No
+20140210NCSAS,Adolescent,Male,Black,No
+20140211OHCHL,Adolescent,Male,unknown,unknown
+20140220MIRAR,Adult,Male,Black,No
+20140307LAMAT,Adolescent,Male,Black,unknown
+20140312FLACM,Adult,Male,Black,unknown
+20140325GABEC,Adolescent,Male,Black,No
+20140325GABEC,Adolescent,Male,Black,No
+20140403NJUNN,Adult,Male,Hispanic,unknown
+20140409NCDHG,Adolescent,Male,Black,unknown
+20140410OHLIC,Adult,Male,Black,unknown
+20140411MIEAD,unknown,Male,Black,unknown
+20140421INSTG,Adult,Male,Hispanic,unknown
+20140421UTPRP,Adolescent,Male,unknown,unknown
+20140503WAHOE,unknown,Male,unknown,unknown
+20140514CAJOR,unknown,Male,Black,unknown
+20140521WICLM,Young Adult,Male,Black,unknown
+20140610ORRET,Adolescent,Male,White,No
+20140623MOKEB,Teen,Male,unknown,unknown
+20140813MDHEF,Adolescent,Male,Black,unknown
+20140813MDHEF,Young Adult,Male,Black,unknown
+20140814VASAN,Adolescent,Male,unknown,unknown
+20140909FLSTM,Teen,Male,Black,unknown
+20140909FLSTM,Teen,Male,Black,unknown
+20140909FLSTM,Teen,Male,Black,unknown
+20140909FLSTM,Teen,Male,Black,unknown
+20140909FLSTM,Teen,Male,Black,unknown
+20140910FLGRL,Adolescent,Male,Black,unknown
+20140911UTWET,Adult,Female,White,unknown
+20140919IANOD,Adolescent,Male,Black,No
+20140925NHWEM,Young Adult,Male,Black,unknown
+20140930KYFEL,Adolescent,Male,Black,unknown
+20140930NCALA,Adolescent,Male,Black,unknown
+20141003GALAF,Young Adult,Male,Black,No
+20141021TNAMM,Adolescent,Male,unknown,No
+20141024GALAA,Adolescent,Male,Black,unknown
+20141024WAMAM,Adolescent,Male,Native American/Alaska Native,No
+20141120FLMIM,Adolescent,Male,Black,unknown
+20141212ORROP,Adolescent,Male,Black,No
+20141216PASUP,unknown,unknown,unknown,unknown
+20141217MEBEW,Adult,Male,White,Yes
+20141217MIGOW,unknown,Male,unknown,unknown
+20150115WIWIM,Adult,Male,Black,Yes
+20150116FLVAO,Adolescent,Male,Black,unknown
+20150120ALWIM,Teen,Male,unknown,unknown
+20150122SCROH,Teen,Male,unknown,unknown
+20150126MNHAR,Adult,Male,unknown,unknown
+20150204MDFRF,Young Adult,Male,Black,Yes
+20150204MDFRF,unknown,Male,Black,Yes
+20150215ARLAL,Adult,Male,White,unknown
+20150215CATEM,Adolescent,Male,White,unknown
+20150330MOPEU,Young Adult,Male,Black,unknown
+20150417TXSES,Young Adult,Male,Hispanic,unknown
+20150422NVRUL,Child,Male,unknown,unknown
+20150427WANOL,Adolescent,Male,White,Yes
+20150428MDDRW,unknown,Male,unknown,unknown
+20150504OHWIC,unknown,unknown,unknown,unknown
+20150505GACOC,Adolescent,Male,unknown,unknown
+20150512AZCOT,Young Adult,Male,Black,unknown
+20150512FLUNJ,unknown,Male,Black,unknown
+20150520TXROR,Young Adult,Male,unknown,unknown
+20150524MISOF,unknown,unknown,unknown,unknown
+20150527FLEVE,Adult,Male,White,unknown
+20150604NCSOF,Adult,Male,White,unknown
+20150604NCSOF,Adult,Female,White,unknown
+20150623NEFOF,Adult,Male,Black,unknown
+20150627CTSAH,unknown,Male,unknown,unknown
+20150629TXJOS,Adult,Male,unknown,unknown
+20150705TXCOD,Young Adult,Male,Black,unknown
+20150724TXELC,Adolescent,Male,Black,unknown
+20150808TXPAP,Young Adult,Male,White,unknown
+20150823TXWIR,Young Adult,Male,White,unknown
+20150825GAWSA,Child,Male,unknown,No
+20150903ORNEN,Adult,Male,White,unknown
+20150911LANOL,unknown,Male,Black,unknown
+20150922NCCES,Adult,Female,White,unknown
+20150930SDHAH,Adolescent,Male,White,No
+20151015TXKAS,Young Adult,Female,Black,unknown
+20151024TXEDS,unknown,Male,unknown,unknown
+20151105GAVEM,Child,Male,unknown,No
+20151111ARSUS,Teen,Male,unknown,unknown
+20151120FLNAM,Teen,Male,unknown,unknown
+20151204KSWEW,Adolescent,Male,Black,unknown
+20160112DECED,Adolescent,Male,unknown,No
+20160113ARHAB,Adolescent,Male,unknown,unknown
+20160120INNOI,Adult,Male,unknown,unknown
+20160122INLAI,Adolescent,Male,Black,No
+20160129PABEP,Adolescent,Male,Other,No
+20160209MIMUM,Young Adult,Male,Black,No
+20160212AZING,Adolescent,Female,White,No
+20160217FLROH,Adult,Male,unknown,unknown
+20160217PACHC,Adolescent,Male,Hispanic,No
+20160226TXPAP,Adult,Male,Black,unknown
+20160229OHMAM,Adolescent,Male,White,No
+20160315ALHUB,Young Adult,Male,Black,unknown
+20160423WIANA,Young Adult,Male,White,No
+20160502TXKID,Adolescent,Male,Black,unknown
+20160504COEAP,Adult,Male,White,unknown
+20160505MDHIB,Adult,Male,Hispanic,Yes
+20160506FLOSP,Adult,Male,unknown,unknown
+20160506IDROT,Adolescent,Male,unknown,unknown
+20160513SCSOG,Adolescent,Male,unknown,No
+20160515KSAUA,Adult,Male,unknown,unknown
+20160608MAJED,Young Adult,Male,Black,Yes
+20160608MAJED,Young Adult,Male,Black,Yes
+20160616ILMCC,unknown,unknown,unknown,unknown
+20160630CAWOH,unknown,unknown,unknown,unknown
+20160725MOAVA,Young Adult,Male,White,unknown
+20160817OHWEC,Adult,Male,unknown,unknown
+20160819FLSOM,unknown,Male,unknown,unknown
+20160902OKMCT,Adolescent,Male,unknown,unknown
+20160907MIDED,unknown,unknown,unknown,unknown
+20160908TXALA,Adolescent,Female,unknown,No
+20160909IACEC,Adolescent,Male,unknown,unknown
+20160909PASMY,unknown,Male,unknown,unknown
+20160926MSTAJ,Young Adult,Male,Black,Yes
+20160927OHELC,unknown,unknown,unknown,unknown
+20160928SCTOT,Adolescent,Male,White,Yes
+20160930ILCHC,unknown,unknown,unknown,unknown
+20161006TXDUF,unknown,unknown,unknown,unknown
+20161011ALVIM,Adolescent,Male,Black,No
+20161013OHLIC,Adolescent,Male,Black,unknown
+20161013OHLIC,Adolescent,Male,Black,unknown
+20161015GABEA,unknown,Male,unknown,unknown
+20161018CAJUS,Adolescent,Male,unknown,unknown
+20161018CAJUS,Teen,Male,unknown,unknown
+20161018CAJUS,Teen,Male,unknown,unknown
+20161018CAJUS,Teen,Male,unknown,unknown
+20161025UTUNS,Adolescent,Male,unknown,No
+20161102COGRG,Adolescent,Male,Hispanic,unknown
+20161103COBEB,Adolescent,Male,unknown,unknown
+20161111MIBAA,Adult,Male,White,No
+20161117MNCRS,Child,Male,unknown,unknown
+20161201UTMUB,Adolescent,Male,unknown,No
+20161209MOBAS,unknown,Male,unknown,unknown
+20161209NVHUR,Adult,unknown,unknown,unknown
+20170101DELAH,Young Adult,Male,Black,unknown
+20170110ALALA,Teen,Male,unknown,unknown
+20170117FLFRE,Adult,unknown,unknown,unknown
+20170120OHWEW,Adolescent,Male,White,No
+20170127SCSOA,Young Adult,Male,Black,unknown
+20170127SCSOA,Young Adult,Male,Black,unknown
+20170206LASCB,Teen,Male,unknown,unknown
+20170218MNMAM,Adult,Male,unknown,unknown
+20170316ALROM,Adolescent,Male,Black,unknown
+20170321CAKIK,Adolescent,Male,White,Yes
+20170328PALIP,Adolescent,Male,Black,unknown
+20170328PALIP,Young Adult,Male,Black,unknown
+20170410CANOS,Adult,Male,Black,Yes
+20170415OKBOT,unknown,unknown,unknown,unknown
+20170515LAMOL,Teen,Male,White,No
+20170523TXKEK,Adult,Male,unknown,unknown
+20170524ALGRG,Teen,Male,unknown,unknown
+20170524NEMCO,Adult,Male,Black,unknown
+20170526OKMCT,Adolescent,Male,unknown,unknown
+20170616ILWAC,Young Adult,Male,Black,unknown
+20170616ILWAC,Adolescent,Male,Black,unknown
+20170616ILWAC,Adolescent,Male,Black,unknown
+20170622SCWIF,Adolescent,Male,unknown,unknown
+20170719WIHIM,Adult,Male,unknown,unknown
+20170721UTSPS,Young Adult,Male,unknown,unknown
+20170801GABAV,unknown,Male,unknown,unknown
+20170817GALIL,Adult,Male,unknown,unknown
+20170831CAARS,unknown,Male,unknown,unknown
+20170908ARNON,unknown,unknown,unknown,unknown
+20170908OHCOC,Young Adult,Male,Black,Yes
+20170913WAFRR,Adolescent,Male,White,unknown
+20170920ILMAM,Adolescent,Male,White,No
+20170928KYSOL,Adult,Male,unknown,unknown
+20170929CASUL,unknown,unknown,unknown,unknown
+20170929MOLEL,Teen,Female,unknown,unknown
+20170930PAPUC,Adult,Female,unknown,unknown
+20171012NCCHC,Adult,Male,Black,unknown
+20171012NCCHC,Adult,Male,Black,unknown
+20171014NCKEK,Young Adult,Male,Black,unknown
+20171020OHSTT,unknown,unknown,unknown,unknown
+20171027NYPRU,unknown,Male,unknown,unknown
+20171103MIPAL,Young Adult,Male,Black,No
+20171109GABEC,Adolescent,Male,unknown,No
+20171110GALAM,Child,Male,unknown,unknown
+20171114CARAR,Adult,Male,White,Yes
+20171114FLLAM,Adolescent,Male,unknown,unknown
+20171117TNNOJ,unknown,unknown,unknown,unknown
+20171123COMAD,unknown,Male,unknown,unknown
+20171123COMAD,unknown,Male,unknown,unknown
+20171123COMAD,unknown,Male,unknown,unknown
+20171128CABOS,Young Adult,Male,White,unknown
+20171129OHBAL,Adult,Male,White,unknown
+20171130VASAV,Teen,unknown,unknown,unknown
+20171207NMAZA,Young Adult,Male,White,Yes
+20171209ILCHC,unknown,unknown,unknown,unknown
+20171211NCHIH,Adolescent,Male,Black,unknown
+20171211NCHIH,Adolescent,Male,Black,unknown
+20171212TXSAP,Young Adult,Male,unknown,unknown
+20171212TXSAP,Young Adult,Male,unknown,unknown
+20171214TXELD,Child,unknown,unknown,unknown
+20171219MIBEB,unknown,unknown,unknown,unknown
+20171227CALIL,Adult,Male,unknown,unknown
+20171231LAEDA,Adult,Male,unknown,unknown
+20171231WAPIM,Young Adult,Male,unknown,unknown
+20171231WAPIM,Young Adult,Male,unknown,unknown
+20180104WANES,unknown,unknown,unknown,unknown
+20180105IAFOF,Adult,Male,White,unknown
+20180109AZCOS,Adolescent,Male,unknown,No
+20180116VTMOM,Adult,Male,White,unknown
+20180122LANEN,unknown,Male,unknown,No
+20180122TXITI,Adolescent,Male,White,Yes
+20180123KYMAB,Adolescent,Male,White,No
+20180125ALMUM,Adolescent,Male,Black,unknown
+20180126MIDED,Teen,Male,unknown,unknown
+20180131PALIP,unknown,unknown,unknown,No
+20180131PALIP,unknown,unknown,unknown,No
+20180131PALIP,unknown,unknown,unknown,No
+20180201CASAL,Child,Female,unknown,No
+20180205MDOXO,Young Adult,Multiple,Black,unknown
+20180205MDOXO,Adolescent,Multiple,Black,unknown
+20180205MNHAM,Child,unknown,unknown,unknown
+20180208NYTHN,Adolescent,Male,unknown,unknown
+20180209TNPEN,Adolescent,Male,Black,unknown
+20180214FLMAP,Young Adult,Male,White,Yes
+20180215FLNOC,Adult,unknown,unknown,unknown
+20180220OHJAM,Adolescent,Male,unknown,unknown
+20180226WAOAT,Teen,Male,unknown,unknown
+20180228GADAD,Adult,Male,White,Yes
+20180305MOKIC,Adolescent,Male,unknown,unknown
+20180307ALHUB,Adolescent,Male,Black,No
+20180309KYFRL,Teen,Male,unknown,unknown
+20180313CASES,Adult,Male,White,No
+20180313VAGEA,Adult,Male,Black,No
+20180316MTBIM,Adult,Male,unknown,No
+20180319VADOP,Adult,unknown,unknown,No
+20180320MDGRG,Adolescent,Male,White,No
+20180328MSEUE,Young Adult,Male,White,No
+20180329KYJOE,Adult,Male,White,unknown
+20180409NYGLG,Adolescent,Male,unknown,unknown
+20180412MORAR,unknown,Male,unknown,unknown
+20180419MIJAJ,unknown,unknown,unknown,unknown
+20180420FLFOO,Young Adult,Male,White,No
+20180423GABEA,unknown,Male,Black,unknown
+20180503SDENW,unknown,unknown,unknown,unknown
+20180503TNWAW,Teen,unknown,unknown,unknown
+20180505MIFOF,Adult,Male,unknown,unknown
+20180511CAHIP,Adolescent,Male,unknown,unknown
+20180516ILDID,Young Adult,Male,White,Yes
+20180517MOCEK,Young Adult,Male,Black,unknown
+20180518GAMOA,unknown,unknown,unknown,unknown
+20180518TXSAS,Adolescent,Male,White,No
+20180521GABEG,Adult,unknown,unknown,unknown
+20180525INNON,Adolescent,Male,unknown,unknown
+20180601TXMCM,Teen,Male,unknown,unknown
+20180615OHVAB,Adolescent,Male,unknown,unknown
+20180617ORGRP,unknown,unknown,unknown,unknown
+20180621TXSKD,unknown,unknown,unknown,unknown
+20180624MTSEM,Adolescent,Male,White,unknown
+20180625OHFUS,Adolescent,Male,Black,unknown
+20180625OHFUS,Adolescent,Male,Black,unknown
+20180701TNRAM,unknown,unknown,unknown,unknown
+20180703KSSUO,Adult,Male,unknown,unknown
+20180711OHMIM,Teen,unknown,unknown,unknown
+20180717WVHUH,Adult,Male,unknown,unknown
+20180719WAWEY,unknown,unknown,unknown,unknown
+20180804MDEDE,unknown,unknown,unknown,unknown
+20180809NJLAM,unknown,Male,unknown,unknown
+20180811TNANN,Adult,Male,Black,unknown
+20180817FLPAW,unknown,unknown,unknown,unknown
+20180823ALALM,unknown,unknown,unknown,unknown
+20180824FLRAJ,Adolescent,Male,unknown,unknown
+20180824ILMEC,unknown,Male,unknown,unknown
+20180828COCOD,Adolescent,Male,unknown,unknown
+20180829DETOD,Adult,Male,Black,No
+20180830MIOTG,unknown,Male,unknown,unknown
+20180830NCVIC,Adult,Male,Black,Yes
+20180831CABAS,Teen,Male,unknown,unknown
+20180831IANOE,Child,Male,White,No
+20180903NYLUN,unknown,Male,unknown,unknown
+20180905RIPRP,Adolescent,Male,Hispanic,Yes
+20180907IAHED,unknown,unknown,unknown,unknown
+20180909CAGIG,Adult,unknown,unknown,unknown
+20180910ILCHC,unknown,Male,unknown,unknown
+20180910TNFAM,Young Adult,Male,unknown,unknown
+20180911NVCAL,Adolescent,Male,Black,unknown
+20180914FLBOB,Teen,Male,unknown,unknown
+20180914WAMAE,unknown,unknown,unknown,unknown
+20180917ALBLH,Child,Male,unknown,unknown
+20180920CACHL,Young Adult,Male,unknown,unknown
+20180920CACHL,Young Adult,Male,unknown,unknown
+20180920CAPOP,Adult,Male,unknown,unknown
+20180924GAAPB,Teen,Male,unknown,unknown
+20180924NCLAC,unknown,Male,unknown,unknown
+20180924PACEP,unknown,Male,unknown,unknown
+20180924PACEP,unknown,Male,unknown,unknown
+20180926MDMAB,Teen,Male,unknown,unknown
+20180927TXHEC,Adult,Male,unknown,unknown
+20180928SDCHC,Young Adult,Male,unknown,unknown
+20181002ARCHL,unknown,unknown,unknown,unknown
+20181003AKDEA,Adult,Male,Black,unknown
+20181004ORJAP,Adult,Female,unknown,unknown
+20181005TNHAB,Adolescent,Male,unknown,unknown
+20181005VALAN,unknown,Male,unknown,unknown
+20181007VAVAH,unknown,Male,unknown,unknown
+20181012MIBAB,unknown,unknown,unknown,unknown
+20181013TNMCN,unknown,Male,Black,unknown
+20181020GASHS,Young Adult,Male,Black,unknown
+20181022CTDUB,Young Adult,Male,Black,unknown
+20181023NHGOM,unknown,Male,unknown,unknown
+20181025MICOD,unknown,unknown,unknown,unknown
+20181029NCBUM,Adolescent,Male,Black,No
+20181104KYCRL,Adult,Male,unknown,unknown
+20181105SCACC,Child,Male,unknown,unknown
+20181108CACLS,Adult,Male,Hispanic,unknown
+20181108CACLS,Adult,Male,Hispanic,unknown
+20181109GAGAM,Teen,Male,unknown,unknown
+20181112MDEAE,unknown,Male,unknown,unknown
+20181120VASIP,Adult,Male,Black,unknown
+20181121MIPEP,Young Adult,Male,unknown,unknown
+20181122TXSKD,Teen,Male,Black,unknown
+20181122WAMOD,Adult,Male,unknown,unknown
+20181124OHAFC,Adult,Male,unknown,unknown
+20181128PASTP,unknown,unknown,unknown,unknown
+20181210NYJEJ,Adolescent,Male,unknown,unknown
+20181211KYCAC,unknown,unknown,unknown,unknown
+20181213INDER,Adolescent,Male,unknown,unknown
+20181214MOWIK,Teen,Male,unknown,unknown
+20181218DEAIG,unknown,unknown,unknown,unknown
+20190107CACEB,unknown,unknown,unknown,unknown
+20190111ORCAE,Adult,Male,unknown,unknown
+20190118ALCET,Young Adult,Male,Black,unknown
+20190118MOHAS,unknown,Male,unknown,unknown
+20190118NCSHD,unknown,Male,unknown,unknown
+20190119KSLAO,unknown,Male,unknown,unknown
+20190123LASOS,Adult,unknown,unknown,unknown
+20190125ALDAM,Adolescent,Male,unknown,unknown
+20190125TNMAM,Adolescent,Male,Black,unknown
+20190125TNMAM,Adolescent,Male,Black,unknown
+20190130GAMIL,Adolescent,Male,unknown,unknown
+20190131TNMAM,unknown,unknown,unknown,unknown
+20190131TXATA,Adolescent,Male,unknown,unknown
+20190205MNMIM,Adult,Male,unknown,unknown
+20190208MDFRB,Adult,Male,Black,unknown
+20190212MOCEK,Young Adult,Female,Black,unknown
+20190214NMV.R,Adolescent,Male,unknown,unknown
+20190217COEAA,Adult,Male,Black,unknown
+20190226ALROM,Teen,Male,Black,unknown
+20190301KSHIM,Adult,Male,White,unknown
+20190313FLLAO,Adolescent,Female,unknown,unknown
+20190322ALBLB,Adult,Male,White,unknown
+20190327MSSVH,unknown,unknown,unknown,unknown
+20190401ARPRP,Adolescent,Male,unknown,unknown
+20190403COAUA,Adult,Male,Other,unknown
+20190403FLSAJ,unknown,unknown,unknown,unknown
+20190405WISTM,Adult,Male,unknown,unknown
+20190407MAHOL,unknown,unknown,unknown,unknown
+20190410TXROH,unknown,Male,unknown,unknown
+20190410TXROH,unknown,Male,unknown,unknown
+20190417ILWAL,Teen,Male,unknown,unknown
+20190424ARCOC,Adolescent,Male,unknown,unknown
+20190425GAWYS,unknown,unknown,unknown,unknown
+20190426GACRF,Adult,unknown,unknown,unknown
+20190430FLWEW,Adult,unknown,N/A,unknown
+20190430VACDW,Adolescent,Male,unknown,unknown
+20190507COSTH,Young Adult,Male,White,No
+20190507COSTH,Adolescent,Transgender,White,No
+20190508ILSEC,Young Adult,Male,Hispanic,unknown
+20190517FLTEJ,Young Adult,Male,Black,unknown
+20190517ORPAP,Young Adult,Male,Hispanic,unknown
+20190530DCHEW,unknown,unknown,unknown,unknown
+20190606ILGEC,unknown,unknown,unknown,unknown
+20190610ILMEW,Adolescent,Male,unknown,unknown
+20190610ILMEW,Adult,Male,unknown,unknown
+20190612DCHEW,unknown,unknown,unknown,unknown
+20190612PAJEE,Adolescent,Male,unknown,unknown
+20190612PAJEE,Young Adult,Female,unknown,unknown
+20190613NJTAW,Adult,Male,White,unknown
+20190621MICAF,unknown,unknown,unknown,unknown
+20190629COJAC,unknown,Male,unknown,unknown
+20190701NYSCN,Adult,Male,unknown,unknown
+20190702AKWIA,Young Adult,Male,unknown,unknown
+20190711CTBUH,Young Adult,Female,Hispanic,unknown
+20190719CAMOS,Teen,Male,unknown,unknown
+20190808ALBLM,Adult,Male,unknown,unknown
+20190815TNEAN,Adolescent,Male,unknown,unknown
+20190817GALAA,Adolescent,Male,unknown,unknown
+20190820PASAC,Adult,Male,unknown,unknown
+20190823GAPEC,Adolescent,Male,unknown,unknown
+20190823MOPAS,unknown,Male,unknown,unknown
+20190823MOROS,unknown,unknown,unknown,unknown
+20190824PAWIP,unknown,Male,unknown,unknown
+20190827CAHOL,unknown,unknown,unknown,unknown
+20190827NYROR,Adult,Male,unknown,unknown
+20190830ALLAM,Adolescent,Male,Black,unknown
+20190830NCKIK,Adolescent,Male,Black,unknown
+20190830OHCET,unknown,Male,unknown,unknown
+20190902MDNOB,unknown,unknown,unknown,unknown
+20190906ALCEC,unknown,unknown,unknown,unknown
+20190906PAMCJ,Adult,Male,Black,unknown
+20190906PAWEM,unknown,unknown,unknown,unknown
+20190910SCSOA,Teen,Male,Black,unknown
+20190912KSMAM,Adult,Male,unknown,unknown
+20190913UTGRW,unknown,Male,unknown,unknown
+20190913VAETN,unknown,unknown,unknown,unknown
+20190914TXEAF,Adult,Male,unknown,unknown
+20190916ILILK,unknown,Male,unknown,unknown
+20190916VAPHH,unknown,Male,unknown,unknown
+20190920PASIP,unknown,Male,unknown,unknown
+20190927NCZEC,unknown,unknown,unknown,unknown
+20191002GASOA,Adult,Male,unknown,unknown
+20191008COSHS,Adolescent,Male,unknown,unknown
+20191008TXWEH,unknown,unknown,unknown,unknown
+20191009MAGRL,unknown,Male,Asian,unknown
+20191009MAGRL,unknown,Male,Asian,unknown
+20191011LARAR,Adolescent,Male,unknown,unknown
+20191015LAGEN,unknown,Male,unknown,unknown
+20191018GACRS,Young Adult,unknown,unknown,unknown
+20191018OHWOT,unknown,unknown,unknown,unknown
+20191022CARIS,Adolescent,Male,Black,unknown
+20191027MDLAL,Adult,Male,Hispanic,unknown
+20191029NYNEN,unknown,Male,Black,unknown
+20191108CAEDS,unknown,unknown,unknown,unknown
+20191108TXROD,unknown,Male,unknown,unknown
+20191111MDACB,unknown,Male,unknown,unknown
+20191113CAESL,Adult,unknown,N/A,unknown
+20191114CASAS,Adolescent,Male,Asian,unknown
+20191115NJPLP,Adult,Male,Black,unknown
+20191121ILRIO,Young Adult,Male,Black,unknown
+20191124CASEU,Young Adult,Male,Hispanic,unknown
+20191124CASEU,Adolescent,Male,Hispanic,unknown
+20191125ILCAC,unknown,Male,unknown,unknown
+20191126WASAV,Adult,Male,Black,unknown
+20191201ALMOM,Adult,Male,White,unknown
+20191202WIWAW,Adolescent,Male,unknown,unknown
+20191203WIOSO,Adult,Male,unknown,unknown
+20191203WITHM,Adolescent,Male,unknown,unknown
+20191204NMPIL,Adult,Male,Hispanic,unknown
+20191210ALDED,Young Adult,Male,White,unknown
+20191210KSJCK,unknown,unknown,unknown,unknown
+20191210NJSAJ,Adult,Male,White,unknown
+20191210NJSAJ,Adult,Female,White,unknown
+20191211INEVE,unknown,unknown,unknown,unknown
+20191211KSCHT,unknown,unknown,unknown,unknown
+20191213VAMAN,Adolescent,Male,unknown,unknown
+20191216CTCAN,Adult,Male,unknown,unknown
+20191219FLLEN,Adult,Male,Hispanic,unknown
+20191221LAWES,Adult,Male,Black,unknown
+20191228MOMAS,Adolescent,Male,Black,unknown
+20200107WASOK,Adolescent,Male,unknown,unknown
+20200107WASOK,Adolescent,Male,unknown,unknown
+20200108FLGLB,unknown,unknown,unknown,unknown
+20200110MSMCJ,Adolescent,Male,unknown,unknown
+20200111TXELD,Adolescent,Male,Black,unknown
+20200114TXBEH,Adolescent,Male,unknown,unknown
+20200114TXPOM,Adolescent,Male,Black,unknown
+20200114TXPOM,Adolescent,Male,Black,unknown
+20200117MITHH,Adult,Male,unknown,unknown
+20200117SCCAS,Adolescent,Male,unknown,unknown
+20200119TXNOF,Adult,Male,unknown,unknown
+20200119TXNOF,Adult,Male,unknown,unknown
+20200121ILLIC,unknown,Male,unknown,unknown
+20200121NEPAL,unknown,unknown,unknown,unknown
+20200123CAOXO,unknown,unknown,unknown,unknown
+20200127WAROY,Young Adult,Male,Hispanic,unknown
+20200128NYMAQ,Adolescent,Male,unknown,unknown
+20200128TNWHM,Young Adult,Male,Black,unknown
+20200128TXLUL,Adolescent,Male,Black,unknown
+20200131CADEA,Adolescent,Male,unknown,unknown
+20200201TXHIH,Adult,Male,unknown,unknown
+20200203FLGEJ,unknown,unknown,unknown,unknown
+20200204LABEA,Adolescent,Male,Black,unknown
+20200205NHSEC,Adolescent,Male,unknown,No
+20200212MOJOF,Adult,Male,unknown,unknown
+20200215DCDUW,unknown,unknown,unknown,unknown
+20200221NMCEA,unknown,unknown,unknown,unknown
+20200302TXNOF,Teen,Male,unknown,unknown
+20200305FLSAW,Adult,Male,Hispanic,unknown
+20200310PASHN,Adult,Male,unknown,unknown
+20200313TNPIR,Adult,Male,unknown,unknown
+20200315TXATH,Young Adult,Male,Black,unknown
+20200318LABOS,Teen,Male,unknown,unknown
+20200324LAROM,Adult,Male,unknown,unknown
+20200324LAROM,Adult,Male,unknown,unknown
+20200324LAROM,Adult,Male,unknown,unknown
+20200330GANAS,unknown,unknown,unknown,unknown
+20200330GANAS,unknown,unknown,unknown,unknown
+20200413NEMOO,unknown,Male,unknown,unknown
+20200505CAGOV,unknown,unknown,unknown,unknown
+20200515NCSTC,Adult,Male,White,unknown
+20200519VAWEM,Young Adult,Male,unknown,unknown
+20200522OHMIC,unknown,unknown,unknown,unknown
+20200525ALORM,unknown,Male,unknown,unknown
+20200527OHLUC,Young Adult,Male,unknown,unknown
+20200527OHLUC,Adult,Male,unknown,unknown
+20200603IAGAD,Adult,Male,unknown,unknown
+20200618INJOI,unknown,unknown,unknown,unknown
+20200621INCOC,Adolescent,Male,unknown,unknown
+20200621INCOC,Adolescent,Male,unknown,unknown
+20200621INCOC,Adolescent,Male,unknown,unknown
+20200616FLTOM,unknown,Male,unknown,unknown
+20200627VAHAS,Adolescent,Male,unknown,unknown
+20200714MIWID,Adult,Male,unknown,unknown
+20200701ILFRP,Adult,Male,White,unknown
+20200704INLAM,Young Adult,Male,White,unknown
+20200721SCBRO,Young Adult,Male,Black,unknown
+20200727AZCAO,Adult,Male,unknown,unknown
+20200804PAKEP,Adult,Male,unknown,unknown
+20200729ILCOC,Adolescent,Male,unknown,unknown
+20200817MIABG,Adult,Male,unknown,unknown
+20200825MOWEC,Adult,unknown,unknown,unknown
+19850418TNSOS,Young Adult,Male,unknown,No
+20190522OHSAC,Adolescent,Male,unknown,unknown
+20191115NJPLP,Adult,Male,Black,unknown
+20200830TXLOD,Adolescent,Male,Hispanic,unknown
+20200904FLLOJ,Adult,unknown,unknown,unknown
+20200903GADOA,Adult,unknown,unknown,unknown
+20200630OHLAW,Young Adult,Male,White,unknown
+20200909TXSOH,Adult,Male,unknown,unknown
+20200910ILPEP,Adult,Male,unknown,unknown
+20191022NJBRB,Adolescent,Male,Black,unknown
+20200916WAARG,Adult,Male,unknown,unknown
+20200915UTVIB,Adult,Male,unknown,Yes
+20200915SCYOR,unknown,unknown,unknown,unknown
+20200917OHELA,Teen,Male,unknown,unknown
+20200916CASOS,Young Adult,Male,Hispanic,unknown
+20200910OHSAC,Adult,unknown,unknown,unknown
+20200920UTLIS,unknown,unknown,unknown,unknown
+20200918KYWIL,unknown,unknown,unknown,unknown
+20200917ORDRP,unknown,unknown,unknown,unknown
+20200919CAKRS,unknown,unknown,unknown,unknown
+20200921CAPLP,Adult,Male,unknown,unknown
+20200909PAWEW,Adult,Male,White,unknown
+20200923FLHIJ,Young Adult,Male,Black,unknown
+20200923PAWIW,Young Adult,Male,Black,unknown
+20200924ILMCS,unknown,Male,unknown,unknown
+20200924CAWAC,Adult,Male,Hispanic,unknown
+20200924CAWAC,Adult,Male,Hispanic,unknown
+20200924CAWAC,Adult,Male,Hispanic,unknown
+20200928CTEAN,Adult,unknown,unknown,unknown
+20200925ILROR,Adult,Male,unknown,Yes
+20190127NVRER,Adult,Male,White,Yes
+20200925NJHAH,unknown,unknown,unknown,unknown
+20150521FLDUJ,Adolescent,Male,Black,unknown
+20190918MNFOC,Adult,Male,unknown,Yes
+20200930CADYL,unknown,unknown,unknown,unknown
+20130129ALDAM,Adult,Male,White,unknown
+20201005OKSOM,Teen,unknown,unknown,unknown
+20201005ARKIH,Adult,Male,unknown,unknown
+20201005ARKIH,unknown,unknown,unknown,unknown
+20201009FLJEJ,Young Adult,Male,unknown,unknown
+20201012TXNOD,Adult,Male,unknown,unknown
+20161216FLSAJ,Adolescent,Male,Black,unknown
+20190327FLMAJ,unknown,unknown,unknown,unknown
+20190927CADER,Adolescent,Male,unknown,unknown
+20190927CADER,Teen,Male,unknown,unknown
+20201013RIRHP,unknown,unknown,unknown,unknown
+20201012MNSHS,unknown,unknown,unknown,unknown
+20201014PABRB,Child,Male,unknown,unknown
+20201018KYSEL,unknown,unknown,unknown,unknown
+20201014WAWAS,Young Adult,Male,Hispanic,unknown
+20201014WAWAS,Adult,Male,Hispanic,unknown
+20201002PAMAE,unknown,unknown,unknown,unknown
+20201020ARJAP,Adolescent,Male,unknown,unknown
+20201026GARIR,Adult,Male,Black,unknown
+20201028NYROR,unknown,unknown,unknown,unknown
+20201024CTSTS,unknown,unknown,unknown,unknown
+20201029FLLAM,unknown,unknown,unknown,unknown
+20201102COERE,unknown,unknown,unknown,unknown
+20201108INTET,Young Adult,Male,Black,Yes
+20201109CABAL,Adult,Male,unknown,unknown
+20201109TXCOH,unknown,unknown,unknown,unknown
+20201106AZKHT,Adult,Male,White,unknown
+20201112PANAH,Young Adult,Male,unknown,unknown
+20201112CACEU,Adult,unknown,unknown,unknown
+20160928TNSYP,Adolescent,Male,unknown,unknown
+20201113NCLIL,unknown,unknown,unknown,unknown
+20201116TNWIM,Adult,Male,Black,unknown
+20201117TXWEW,Teen,Male,unknown,unknown
+20201117MTGRG,Young Adult,Male,White,unknown
+20201124NCHEH,Adolescent,Male,unknown,Yes
+20201125KSABG,Adult,Male,unknown,unknown
+20201207ILEAC,unknown,unknown,unknown,unknown
+20201211VATAY,unknown,unknown,unknown,unknown
+20201216ILDUC,unknown,unknown,unknown,unknown
+20191124CASEU,Young Adult,Male,Hispanic,unknown
+20201229WAROS,unknown,unknown,unknown,unknown
+20210114MDHIW,unknown,unknown,unknown,unknown
+20210110ILSOS,unknown,unknown,unknown,unknown
+20210121OHEAC,Adult,Male,unknown,unknown
+20210121OKLOG,Adult,Male,unknown,unknown
+20210127FLHOH,Teen,unknown,unknown,unknown
+20210127FLHOH,Teen,unknown,unknown,unknown
+20210201MIMUD,Teen,Male,Black,unknown
+19900906GASOC,Adolescent,Male,unknown,unknown
+20210205MDBEM,unknown,unknown,unknown,unknown
+20210208MISCG,unknown,Male,unknown,unknown
+20201225FLYOP,unknown,unknown,unknown,unknown
+20210210TXFOF,Adolescent,Male,unknown,unknown
+20210210NJSCP,unknown,unknown,unknown,unknown
+20210210LASTS,Adult,Male,Black,unknown
+20210214MNROM,unknown,unknown,unknown,unknown
+20210127MSHAH,Adolescent,Male,Black,unknown
+20210216NCTHS,Child,Male,unknown,unknown
+20210216NCTHS,Child,Male,unknown,unknown
+20210217TNKNK,Adult,Male,Black,unknown
+20210219ILLIR,unknown,unknown,unknown,unknown
+20210222CAHOV,unknown,unknown,unknown,unknown
+20210224WAGAY,Teen,Male,unknown,unknown
+20210226LAGEN,Adult,Male,Black,unknown
+20210301ARWAP,Adolescent,Male,unknown,unknown
+20210308SCEDC,Adult,Female,Black,unknown
+20210309TNSAK,unknown,unknown,unknown,unknown
+20210311OHCIC,Adult,unknown,unknown,unknown
+20210313TXLEA,Adult,Male,Black,unknown
+20210318KYGRL,Adult,Male,White,unknown
+20210319WVSPM,Teen,Male,unknown,unknown
+20210319WVSPM,Teen,Male,unknown,unknown
+20210210TXFOF,Young Adult,Male,Hispanic,unknown
+20210324ORFOS,Teen,Male,unknown,unknown
+20180803IALIO,Adult,Male,White,unknown
+20180803IALIO,Young Adult,Male,White,unknown
+20180803IALIO,Adult,Male,White,unknown
+20210326MOCAS,Adult,Male,unknown,unknown
+20210327MAPEC,unknown,null,unknown,unknown
+20210401OKCLC,unknown,null,unknown,unknown
+20210401ALSES,Adolescent,Male,unknown,unknown
+19790226CABAB,Young Adult,Male,White,Yes
+20210104NYPEJ,Adult,Male,unknown,unknown
+20210407ILPEP,Adolescent,Male,unknown,unknown
+20210315INMEM,Young Adult,Male,unknown,unknown
+20210315INMEM,Young Adult,Male,Black,unknown
+20210406ILBAC,Young Adult,Male,unknown,unknown
+20210412TNAUK,Adolescent,Male,Black,unknown
+20210411INBIH,Adult,Male,Black,Yes
+20210412CASAS,Adult,Male,Hispanic,Yes
+20210413TNMAC,Adult,Female,White,unknown
+20170415ORMEP,Teen,Male,Black,unknown
+20210418OHWED,unknown,null,unknown,unknown
+20210420TXHAH,Adult,Male,Black,unknown
+20210426MNPLP,Child,Male,unknown,unknown
+20210427TNLAM,Adult,Female,Black,unknown
+20210427DESMS,Adult,Male,unknown,unknown
+20210429NYURB,Adolescent,Male,unknown,Yes
+20210429NYURB,Adolescent,Male,unknown,unknown
+20210429CAVIV,Adolescent,Male,unknown,unknown
+20210430INMAI,Adult,Male,unknown,unknown
+20210501MNBES,Adult,Male,unknown,unknown
+20210501MNBES,Adult,Male,unknown,unknown
+20210501MNBES,Adult,Male,unknown,unknown
+20210502ILCHC,Adult,null,unknown,unknown
+20210514CASAS,Adolescent,Male,unknown,unknown
+20210502ILCHC,Adult,null,unknown,unknown
+20210506IDRIR,Adolescent,Female,unknown,unknown
+19890209IDRIR,Adolescent,Male,unknown,unknown
+20210506SCFOC,Young Adult,Male,unknown,unknown
+20210505MICRC,Adult,Male,unknown,unknown
+20210505SCWAW,Teen,Male,unknown,unknown
+20210514CASAS,Adolescent,Male,unknown,unknown
+20210511CAVEL,unknown,null,unknown,Yes
+20210517TNAUM,Adult,Male,White,unknown
+20210517MDLOC,Young Adult,Male,unknown,unknown
+20210517MDLOC,Young Adult,Female,Hispanic,unknown
+20210511NYPSB,Teen,Male,Black,unknown
+20210525NJPAP,Adolescent,Male,unknown,unknown
+20210601ILLIC,Adolescent,Male,unknown,unknown
+20210606VADRA,unknown,null,unknown,unknown
+20210606VADRA,unknown,null,unknown,unknown
+20210607TXEAF,unknown,null,unknown,unknown
+20210608KSHAK,Adolescent,Male,unknown,unknown
+20210609TXNOH,Young Adult,Male,unknown,unknown
+20210609VAWIR,Teen,Male,unknown,unknown
+20210610CTHOW,Adult,Male,Hispanic,Yes
+20210610CTHOW,Adult,Male,White,Yes
+20210612MOMCF,Young Adult,Male,Black,unknown
+20210613PAWIP,unknown,Male,unknown,unknown
+20210613PAPAC,Adult,Male,unknown,unknown
+20210614TXEAF,unknown,Male,unknown,unknown
+20210614NCRJW,Adult,Male,White,Yes
+20210614NCROR,unknown,null,unknown,unknown
+20210614NCROR,unknown,null,unknown,unknown
+20210614NCROR,unknown,null,unknown,unknown
+20210620CAGRM,Adult,null,unknown,Yes
+20210624ILABR,Adult,null,unknown,unknown
+20210608KSHAK,Adolescent,Male,unknown,unknown
+20210608PAMUS,Adolescent,Male,unknown,Yes
+20210628CASLF,Adult,null,unknown,unknown
+20210704NYDRR,unknown,null,unknown,unknown
+20210708ILBEC,Adult,null,unknown,unknown
+20210709KSCAW,Adult,Male,unknown,unknown
+20210718ARFOL,Adult,null,unknown,unknown
+20210719TXCAC,Teen,null,unknown,unknown
+20210721ILTHC,unknown,null,unknown,unknown
+20210727WATYS,Adult,Male,unknown,unknown
+20210420TXHAH,Adult,Male,Black,unknown
+20210517TXBRE,Adolescent,Male,unknown,unknown
+20210804ALBUM,unknown,null,unknown,unknown
+20210806LASTH,Adolescent,Male,Black,unknown
+20210807ORGIP,unknown,null,unknown,unknown
+20210805GACHD,Young Adult,Male,Black,unknown
+20210811COMAC,unknown,null,unknown,unknown
+20210810OHEAC,Child,Male,unknown,unknown
+20210812CANOS,Teen,null,unknown,unknown
+20210812GALIL,unknown,null,unknown,unknown
+20210813NMWAA,Adolescent,Male,Hispanic,unknown
+20210811CAOAO,unknown,null,unknown,unknown
+20210813GACAS,unknown,null,unknown,unknown
+20210814ILMAC,unknown,null,unknown,unknown
+20180425NMHIA,Adult,Male,Hispanic,unknown
+20210814SCDAH,unknown,null,unknown,unknown
+20210818SCORO,Adolescent,Male,unknown,unknown
+20210817COYED,Young Adult,Male,unknown,unknown
+20210815VAROD,unknown,null,unknown,unknown
+20210820NEMIO,Adult,null,unknown,unknown
+20210820CACEF,Young Adult,Male,unknown,unknown
+20210822ILWER,Adolescent,Male,unknown,unknown
+20170813NYHUH,Adult,Male,Black,unknown
+20210901NCMTW,Adolescent,Male,Black,unknown
+20210830NCNEW,Adolescent,Male,Black,unknown
+20210827INHAH,Adolescent,Male,Black,Yes
+20210826OHNOT,Adult,Male,unknown,unknown
+20210826NYHAH,Adult,Male,unknown,unknown
+20210828CASAS,unknown,null,unknown,unknown
+20210902ARLIL,Adult,Female,Black,unknown
+20210907PAHAH,Teen,Male,unknown,unknown
+20210907TNLAL,Adolescent,Male,unknown,unknown
+20210907MAOMG,Young Adult,Male,unknown,unknown
+20210907MAOMG,Young Adult,Male,unknown,unknown
+20210908MNPRB,unknown,null,unknown,unknown
+20210908MNPRB,unknown,null,unknown,unknown
+20210908MNPRB,unknown,null,unknown,unknown
+20210909ILCHC,Adult,null,unknown,unknown
+20210909MITRF,Teen,Male,unknown,unknown
+20210902INWEG,Teen,Male,unknown,unknown
+20210903CAMTH,Adolescent,Male,unknown,unknown
+20210909NCSHE,unknown,null,unknown,unknown
+20210910CONOA,unknown,Male,unknown,unknown
+20210910CASTP,Adult,Male,White,unknown
+20210903NVDEL,Adult,null,unknown,unknown
+20210901ILFRC,unknown,null,unknown,unknown
+20210827VTEDB,unknown,null,unknown,unknown
+20210826WAAKS,Adolescent,Male,unknown,unknown
+20210826WAAKS,Adolescent,Male,unknown,unknown
+20210827KYAPO,Adult,Male,unknown,unknown
+20030410CAWAW,Young Adult,Male,unknown,unknown
+20210915KYMAL,Adult,null,unknown,unknown
+20210915ILCEC,Adolescent,Male,Black,unknown
+20210908ILCEC,Young Adult,Male,unknown,unknown
+20210916WIORM,Adult,Male,unknown,unknown
+20210916UTPRP,Teen,Male,unknown,unknown
+20210917NCPAW,Teen,Male,unknown,unknown
+20210917VAHEH,unknown,null,unknown,unknown
+20210917PAWEP,Teen,null,unknown,unknown
+20210917GASWS,unknown,null,unknown,unknown
+20210918COWIC,unknown,null,unknown,unknown
+20210917TNAUK,unknown,null,unknown,unknown
+20210914MOMCH,Adult,Female,unknown,unknown
+20210914MOMCH,Adult,Female,unknown,unknown
+20210914TNLAL,Adolescent,Male,unknown,unknown
+20210913SCEDC,Adult,Female,Black,unknown
+20210903CAMTH,Teen,Male,unknown,unknown
+20210920OHEAC,unknown,Male,unknown,unknown
+20210920OHEAC,unknown,Male,unknown,unknown
+20210916OHBEC,unknown,null,unknown,unknown
+20210921GAFRA,Adult,null,unknown,unknown
+20210921PAVAP,unknown,null,unknown,unknown
+20210920VAHEN,Adolescent,Male,unknown,Yes
+20210921OHMIM,unknown,null,unknown,unknown
+20210921KSEAW,Adolescent,Male,unknown,unknown
+20210922NYSOB,unknown,null,unknown,unknown
+20210922CTLIN,unknown,null,unknown,unknown
+20210921FLLAL,Minor,null,unknown,unknown
+20210915VASPS,Child,null,unknown,unknown
+20210924MDWIB,unknown,null,unknown,unknown
+20210924ALFAF,unknown,null,unknown,unknown
+20210924VAESE,unknown,null,unknown,unknown
+20210903NCJUC,unknown,null,unknown,unknown
+20210903CABUB,Adult,Male,unknown,unknown
+20210927ILCAC,Child,null,unknown,unknown
+20210827PAACS,unknown,null,unknown,unknown
+20210827PAACS,unknown,null,unknown,unknown
+20210827PAACS,unknown,null,unknown,unknown
+20210902GAWOS,Young Adult,Male,unknown,unknown
+20210902NMALA,Adolescent,Male,unknown,unknown
+20210902NMALA,Teen,null,unknown,unknown
+20210928MESOS,unknown,null,unknown,unknown
+20210902CASAL,Adolescent,Male,unknown,unknown
+20210830FLOKW,Teen,Male,unknown,unknown
+20210830MDNEO,Adult,Male,unknown,unknown
+20210830NJWEN,unknown,null,unknown,unknown
+20210929OHSHS,Adult,Female,unknown,unknown
+20210924TNSTS,Young Adult,Male,Black,unknown
+20210924TNSTS,Adolescent,Male,Black,unknown
+20210930TNCUM,Adolescent,Male,unknown,unknown
+20210827VAFRW,Adolescent,Male,unknown,unknown
+20210930MSNEN,Child,Male,unknown,unknown
+20190809NJWEN,Adolescent,Male,unknown,unknown
+20211001TXYEH,Adult,Male,Black,unknown
+20211001INBEI,Adolescent,Male,unknown,Yes
+20211001NCSEF,unknown,null,unknown,unknown
+20211001NCNOD,unknown,null,unknown,unknown
+20211004PASCP,Adult,Male,unknown,Yes
+20211004OHWOT,unknown,Male,unknown,unknown
+20211005NDHEH,Teen,null,unknown,unknown
+20211005NCGAC,Teen,Male,unknown,unknown
+20210923IDRIR,Adolescent,Female,unknown,unknown
+20211004ILLAC,unknown,null,unknown,unknown
+20211006TXTIA,Young Adult,Male,Black,unknown
+20211007PAANP,unknown,null,unknown,unknown
+20211007DCWAW,Young Adult,Male,Black,unknown
+20211007TXEAW,unknown,null,unknown,unknown
+20211012ILWEC,unknown,null,unknown,unknown
+20211012ARLIL,unknown,null,unknown,unknown
+20211007NCEAD,Adult,Male,unknown,Yes
+20211012OKUNT,Teen,Male,unknown,Yes
+20211013ILMCC,unknown,null,unknown,unknown
+20211008OKCOC,Teen,null,unknown,unknown
+20211012MIELK,unknown,Male,unknown,unknown
+20211015ALWIM,Young Adult,Male,Black,unknown
+20211014MEREP,unknown,null,unknown,unknown
+20211013PACHD,Child,Male,unknown,Yes
+20211013PACHD,Child,Male,unknown,unknown
+20211015CAKEF,Adult,Male,Black,Yes
+20211018PALIP,Young Adult,Male,unknown,unknown
+20211011ORROP,unknown,null,unknown,unknown
+20211017ARROR,Adult,Male,unknown,unknown
+20211021GABES,Adult,Male,White,Yes
+20211022PAPHP,Young Adult,Male,unknown,Yes
+20211021NYPSB,Adult,Male,unknown,unknown
+20210915ILCEC,Adolescent,Male,unknown,unknown
+20211026MSCAN,unknown,null,unknown,unknown
+20211026ILWIC,Adult,Male,unknown,unknown
+20211027SCCAS,Adolescent,Male,unknown,Yes
+20211030PASTM,Adult,Male,unknown,unknown
+19920530DCARW,unknown,Male,unknown,unknown
+20211108NYTHB,Teen,Male,unknown,unknown
+19930912ALFAF,unknown,null,unknown,unknown
+19901110TXJUD,unknown,null,unknown,unknown
+20211109NMMEL,Adult,Male,unknown,Yes
+20211106FLOVO,Teen,Male,unknown,unknown
+19890901VASAV,Young Adult,Male,unknown,unknown
+19890901VASAV,Young Adult,Male,unknown,unknown
+20211110NYITI,unknown,null,unknown,unknown
+20210827PAACS,Adolescent,Male,unknown,unknown
+20210827PAACS,Young Adult,Male,unknown,unknown
+19871031SCANA,unknown,Male,unknown,unknown
+20211115NYPOP,Adolescent,Male,unknown,unknown
+20211119COHIA,Adolescent,Male,unknown,unknown
+20211119COHIA,Adolescent,Male,unknown,unknown
+20211116FLJAJ,Adult,null,unknown,unknown
+20211119COHIA,Adolescent,Male,unknown,unknown
+20211119MDGIB,unknown,null,unknown,unknown
+20211116NYPSB,Adult,Male,unknown,unknown
+20211124ILTHH,unknown,null,unknown,unknown
+20211123OHCLC,Adult,Male,unknown,unknown
+20211126CAWES,Adult,Male,unknown,unknown
+20211129AZCHP,Teen,Male,unknown,unknown
+20211130MIOXO,Adolescent,Male,unknown,unknown
+20211130OHWHW,Young Adult,Male,unknown,unknown
+20211125SCCEP,unknown,null,unknown,unknown
+20211202WAGAS,Teen,Male,unknown,unknown
+20211201TXSAP,Young Adult,Male,unknown,unknown
+20211130TNHUH,Young Adult,Male,Black,unknown
+20211130CALOL,unknown,null,unknown,unknown
+20211102NMHIH,Child,Male,Hispanic,unknown
+20211102NMHIH,Child,Male,unknown,unknown
+20211206CAWIW,Adult,Male,unknown,unknown
+20211206CAWIW,Adult,Male,unknown,unknown
+20211203ARBLB,Young Adult,Male,unknown,unknown
+20211208MOEWK,unknown,Male,unknown,unknown
+20211207ILHAC,Young Adult,Male,Black,unknown
+20211208KYSTL,unknown,null,unknown,unknown
+20211206NYSUS,Adolescent,Male,unknown,unknown
+20211210NCJEC,unknown,null,unknown,unknown
+20211210NCJEC,unknown,null,unknown,unknown
+20211209NYGRN,Adult,Male,unknown,unknown
+20211210OHCAC,Adult,Male,unknown,Yes
+20211211GAJOG,Adolescent,Male,unknown,unknown
+20211211FLEDL,Adult,Male,unknown,unknown
+20211213NCWEC,Teen,Male,unknown,unknown
+20211212NYSCR,Young Adult,Male,unknown,unknown
+20211213FLEAO,Teen,null,unknown,unknown
+20211214VAMEN,Young Adult,Male,Black,unknown
+20211214WISOM,Young Adult,Male,Black,unknown
+20211129ILWER,Teen,Male,unknown,unknown
+20211216SCEAC,Adolescent,Male,unknown,unknown
+20211216NYPSB,Adult,Male,unknown,unknown
+20200419NCABR,Young Adult,Male,unknown,Yes
+20211217TXWOD,Teen,Male,White,unknown
+20211119COHIA,Adolescent,Male,unknown,unknown
+19930108PACRM,unknown,Male,unknown,unknown
+19930203SCGAC,unknown,null,unknown,unknown
+19930203SCLEL,Young Adult,Male,unknown,unknown
+19920117SCGRG,Adolescent,Male,unknown,unknown
+20211229NCCAS,Teen,Male,unknown,unknown
+20211229NCCAS,Teen,Male,unknown,unknown
+19920930CAPAL,Teen,Male,unknown,unknown
+20220103WACHP,Adult,Female,unknown,unknown
+20220104ILAUR,Adolescent,Male,unknown,unknown
+20220104ILAUR,Adolescent,Male,unknown,unknown
+20220103OHCOC,unknown,null,unknown,unknown
+20220106CAFLS,Teen,Male,unknown,unknown
+20220111NMVAA,unknown,null,unknown,unknown
+20170127ILSCN,unknown,null,unknown,unknown
+20220117TXPYH,Adult,Male,unknown,unknown
+20220117TXPYH,Adult,Male,unknown,unknown
+20220117TXPYH,Adult,Male,unknown,unknown
+20220119FLSES,Adolescent,Male,Black,unknown
+20220119VAMAP,Young Adult,Male,unknown,unknown
+20220119VAMAP,Young Adult,Male,unknown,unknown
+20220119VAMAP,Teen,Male,unknown,unknown
+20220119PAPIP,unknown,Male,unknown,unknown
+20220119PAPIP,unknown,Male,unknown,unknown
+20220119DCANW,Adult,Male,unknown,unknown
+20220121MDMAR,Adolescent,Male,unknown,unknown
+20220127TXMOH,Adult,Male,unknown,unknown
+20220126PABAP,unknown,null,unknown,unknown
+20220114MDGAG,Adult,Male,Hispanic,unknown
+20220129WIBEB,Adult,Male,unknown,unknown
+20220124NVSUL,unknown,null,unknown,unknown
+20220121GAMCA,Young Adult,Male,Black,unknown
+20220201MNSOR,Young Adult,Male,Hispanic,unknown
+20220201WIRUM,Adult,Male,unknown,unknown
+20220128LACAM,Adult,Male,unknown,unknown
+20220201MNSOR,Young Adult,Male,Hispanic,unknown
+20220202KYLOR,unknown,null,unknown,unknown
+20220204GASOD,Teen,Male,unknown,unknown
+20220204ALWEB,unknown,null,unknown,unknown
+20220208MDCAC,Adolescent,Male,unknown,unknown
+20220208NYMOM,unknown,null,unknown,unknown
+20220209NYMCB,Adolescent,Male,unknown,unknown
+20220209MNMIM,Adult,Male,unknown,unknown
+20220203NCSPS,unknown,null,unknown,unknown
+20220211DCEAW,unknown,null,unknown,unknown
+20220201ILALC,Adult,Male,unknown,unknown
+20220217WAMCG,Adult,Male,unknown,unknown
+20220219VACAC,unknown,null,unknown,unknown
+20220218MATET,Young Adult,Male,unknown,unknown
+20220218MATET,Adolescent,Male,unknown,unknown
+20220218MATET,Adolescent,Male,unknown,unknown
+20220218MATET,Adolescent,Male,unknown,unknown
+20220220OKWIW,Adult,Male,unknown,unknown
+20220221MDJOH,Adult,Male,unknown,unknown
+20220220MSMCM,Teen,Male,unknown,unknown
+20220222COLIP,unknown,null,unknown,unknown
+20220225NMWEA,Adolescent,Male,Hispanic,unknown
+20220225ALSOH,Child,null,unknown,unknown
+20220223VAWOW,unknown,null,unknown,unknown
+20220222TXALH,Adult,Male,unknown,unknown
+20220214FLLAL,Adult,Male,Black,unknown
+20220227DCDUW,unknown,null,unknown,unknown
+20220228NYBOB,Teen,Male,unknown,unknown
+20220303MIJWL,unknown,Male,unknown,unknown
+20220304KSOLO,Young Adult,Male,Black,Yes
+20220307IAEAD,Adolescent,Male,unknown,unknown
+20220307IAEAD,Adolescent,Male,unknown,unknown
+20220307IAEAD,Teen,Male,unknown,unknown
+20220307IAEAD,Teen,Male,unknown,unknown
+20220307IAEAD,unknown,Male,unknown,unknown
+20220307IAEAD,Teen,Male,unknown,unknown
+20220309TXNOH,Young Adult,Male,Black,unknown
+20220309FLNOM,Young Adult,Male,Black,unknown
+20220309FLNOM,Adolescent,Male,Black,unknown
+20220310MDCOL,Adult,Male,unknown,unknown
+20220309NMESE,unknown,null,unknown,unknown
+20220310COROH,Adolescent,Male,unknown,unknown
+20220311OHFAP,Adult,Male,unknown,unknown
+20220311CADER,Teen,Male,unknown,unknown
+20220311OHMAM,unknown,null,unknown,unknown
+20220311WIJER,Child,null,unknown,unknown
+20220310TNHAM,Adult,Female,Black,unknown
+20220315WAEIY,Adolescent,Male,unknown,unknown
+20220317AKREW,Teen,Male,unknown,unknown
+20220315MATEB,Adolescent,Male,unknown,unknown
+20220315MDPAB,unknown,null,unknown,unknown
+20220314CAKRP,Adult,Male,unknown,unknown
+20220313PANEP,unknown,null,unknown,unknown
+20220316CALOR,Child,Male,unknown,unknown
+20220318ILBAB,Teen,Male,unknown,unknown
+20220319ALCEL,Adult,Male,Black,unknown
+20220315GAFOF,Adult,null,unknown,unknown
+20220321MSLEP,Adult,Male,unknown,unknown
+20220321AZDES,Adult,Male,unknown,unknown
+20220322VAJAR,Adult,null,unknown,unknown
+20220321MIMAK,Adult,Female,Black,unknown
+20220322TXWOD,Teen,null,unknown,unknown
+20220318RICEP,Adolescent,Male,unknown,unknown
+20220318RICEP,Young Adult,Male,unknown,unknown
+20220322FLNEN,Adolescent,Male,White,unknown
+20220324VARIW,Young Adult,Male,Black,unknown
+20220315MATEB,Adolescent,Male,unknown,unknown
+20220325TXROR,Teen,null,unknown,unknown
+20220325TXROR,Teen,null,unknown,unknown
+20220325TXROR,Teen,null,unknown,unknown
+20220325TXROR,Teen,null,unknown,unknown
+20220325TXROR,Teen,null,unknown,unknown
+20220325TNBRM,Adult,Male,unknown,unknown
+20220325UTHIS,Teen,Male,unknown,unknown
+20220325UTHIS,Adult,Male,unknown,unknown
+20220328NCOAC,Young Adult,Male,Black,unknown
+20220329NVWEL,Adult,null,unknown,unknown
+20220331SCTAG,Child,Male,unknown,unknown
+20220330GABOA,Adult,Female,Black,unknown
+20220331PAACP,Child,Male,unknown,unknown
+20220328TXNOF,unknown,null,unknown,unknown
+20220329VALUR,Teen,null,unknown,unknown
+20220330AZKIK,Adolescent,Male,unknown,unknown
+20220405PAERE,Minor,Male,unknown,Yes
+20220406WVRIR,Adolescent,Male,unknown,unknown
+20220406ORROP,unknown,null,unknown,unknown
+20220410MALYL,unknown,null,unknown,unknown
+20220406WASTM,unknown,null,unknown,unknown
+20220411ARPIP,Teen,Male,unknown,unknown
+20220413MISHS,Child,Male,unknown,unknown
+20220414MSNEP,Teen,Male,unknown,unknown
+20220414MSNEP,Teen,Male,unknown,unknown
+20220414MSNEP,Teen,Male,unknown,unknown
+20220415VAGAW,unknown,Male,unknown,unknown
+20220403INBLB,Young Adult,Male,unknown,unknown
+20220403INBLB,Adolescent,null,unknown,unknown
+20220416IAMED,Adult,null,unknown,unknown
+20220421NDMOM,unknown,null,unknown,unknown
+20220422ORHOS,Teen,Male,unknown,unknown
+20220422DCEDW,Young Adult,Male,unknown,No
+20220424MOHAF,Young Adult,Male,Black,unknown
+20220425WIWIM,unknown,null,unknown,unknown
+20220425WIWIM,unknown,null,unknown,unknown
+20220424MOHAF,Young Adult,Male,Black,unknown
+20220426MIASI,Child,null,unknown,unknown
+20220426GASOM,unknown,null,unknown,unknown
+20220426GASOM,Adult,Female,unknown,unknown
+20220427TXMOS,unknown,null,unknown,unknown
+20220427INCOS,Child,null,unknown,unknown
+20220422CAMOR,unknown,null,unknown,unknown
+20220501OHHAC,unknown,null,unknown,unknown
+20220501VALOM,Adult,Male,Black,unknown
+20220430PAMCJ,Adult,Male,unknown,unknown
+20220503CAARS,unknown,null,unknown,unknown
+20220505OHLOL,Adolescent,Male,unknown,unknown
+20220505OHLOL,Adult,Female,White,unknown
+20220505ALDOD,Young Adult,Male,unknown,unknown
+20220509GARIS,Adult,Female,Black,unknown
+20220509NYEDS,Adult,Male,unknown,unknown
+20220511FLJAJ,unknown,Male,unknown,unknown
+20220512TXHEH,Young Adult,Male,unknown,unknown
+20220513FLALW,unknown,null,unknown,unknown
+20220512ARHOH,Adult,Male,unknown,unknown
+20220513GASOM,unknown,null,unknown,unknown
+20220515ILMEP,Adolescent,Male,unknown,unknown
+20220516TXMEM,Teen,null,unknown,unknown
+20220517ILWAC,Child,null,unknown,unknown
+20220517CASAS,unknown,null,unknown,unknown
+20220515NHBEB,Teen,Male,unknown,unknown
+20220515NHBEB,Teen,Male,unknown,unknown
+20220518FLPAP,Adolescent,Male,unknown,Yes
+20220518TNRIM,Adolescent,Male,unknown,unknown
+20220519MIEAK,Young Adult,Male,Black,Yes
+20220519VAGER,unknown,null,unknown,unknown
+20220520ILSOP,Adult,Female,unknown,unknown
+20220520VAPOD,Teen,Male,unknown,unknown
+20220520TNEAC,unknown,null,unknown,unknown
+20220520OHCAC,Teen,Male,unknown,unknown
+20220519MIEAK,Young Adult,Male,Black,unknown
+20220519MIEAK,unknown,null,unknown,unknown
+20220519MIEAK,unknown,null,unknown,unknown
+20220519MIEAK,unknown,null,unknown,unknown
+20220520ALMAT,unknown,null,unknown,unknown
+20220523PASIP,unknown,null,unknown,unknown
+20220524TXROU,Young Adult,Male,unknown,unknown
+20220524DCPOW,unknown,null,unknown,unknown
+20220526SCMEG,unknown,null,unknown,unknown
+20220524WIRIM,Teen,Male,unknown,unknown
+20220526TXDUA,Adult,Male,White,unknown
+20220529ILDAC,unknown,null,unknown,unknown
+20220529ILDAC,unknown,null,unknown,unknown
+20220529ILDAC,unknown,null,unknown,unknown
+20220530CAHEL,Adult,Male,unknown,unknown
+20220531LAMON,unknown,null,unknown,unknown
+20220601CAULL,unknown,Male,unknown,unknown

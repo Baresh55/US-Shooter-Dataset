@@ -1,0 +1,2099 @@
+Incident_ID,Year,Quarter,School,City,State,Targets,Bullied,Domestic_Violence,Gang_Related,Preplanned
+20220601CAULL,2022,Summer,Ulysses S. Grant Senior High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+20220531LAMON,2022,Spring,Morris Jeff High School,New Orleans,LA,Both,0,0,0,0
+20220530CAHEL,2022,Spring,Helix High School,La Mesa,CA,Victims Targeted,0,0,unknown,0
+20220529ILDAC,2022,Spring,Daniel Webster Public School,Chicago,IL,Both,0,0,unknown,0
+20220526SCMEG,2022,Spring,Mevers School of Excellence,Goose Creek,SC,Victims Targeted,0,unknown,unknown,0
+20220526TXDUA,2022,Spring,Duff Elementary School,Arlington,TX,Neither,0,0,0,0
+20220524TXROU,2022,Spring,Robb Elementary School,Uvalde,TX,Random Shooting,unknown,unknown,0,1
+20220524DCPOW,2022,Spring,Powell Elementary School,Washington,DC,Victims Targeted,0,0,unknown,0
+20220524WIRIM,2022,Spring,Riverside University High School,Milwaukee,WI,null,unknown,0,unknown,0
+20220523PASIP,2022,Spring,Simon Gratz High School,Philadelphia,PA,Both,0,0,unknown,0
+20220520ILSOP,2022,Spring,South Elementary School,Pittsfield,IL,Neither,0,0,0,0
+20220520VAPOD,2022,Spring,Potomac High School,Dumfries,VA,Victims Targeted,unknown,0,unknown,unknown
+20220520TNEAC,2022,Fall,East Lake Elementary School,Chattanooga,TN,Victims Targeted,0,unknown,unknown,0
+20220520OHCAC,2022,Spring,Canal Winchester High School,Canal Winchester,OH,Victims Targeted,0,0,0,0
+20220520ALMAT,2022,Spring,Mary W Burroughs Elementary School,Theodore,AL,Neither,0,0,0,0
+20220519LAHAH,2022,Spring,Hammond High Magnet School,Hammond,LA,Both,0,0,1,0
+20220519MIEAK,2022,Spring,East Kentwood High School,Kentwood,MI,Both,0,0,unknown,0
+20220519VAGER,2022,Spring,George Wythe High School,Richmond,VA,Random Shooting,0,0,unknown,0
+20220518FLPAP,2022,Spring,Palmetto High School,Palmetto,FL,Victims Targeted,0,0,unknown,0
+20220518TNRIM,2022,Spring,Riverdale High School,Murfreesboro,TN,Both,0,0,unknown,0
+20220517ILWAC,2022,Spring,Walt Disney Magnet School,Chicago,IL,Random Shooting,0,0,0,0
+20220517CASAS,2022,Spring,School Bus,San Francisco,CA,Both,0,0,unknown,0
+20220516TXMEM,2022,Spring,Mexia High School,Mexia,TX,null,0,0,unknown,0
+20220515ILMEP,2022,Spring,Meadow View Elementary School,Plainfield,IL,Victims Targeted,0,0,unknown,0
+20220515NHBEB,2022,Spring,Belmont Elementary School,Belmont,NH,Random Shooting,0,0,0,0
+20220513FLALW,2022,Spring,Alexander W. Dreyfoos School of the Arts,West Palm Beach,FL,null,unknown,unknown,unknown,unknown
+20220513GASOM,2022,Spring,Southwest High School,Macon,GA,null,0,0,unknown,0
+20220512TXHEH,2022,Spring,Heights High School,Houston,TX,Victims Targeted,0,0,unknown,0
+20220512ARHOH,2022,Spring,Hot Springs High School,Hot Springs,AR,Both,0,0,0,0
+20220511FLJAJ,2022,Spring,Andrew Jackson High School,Jacksonville,FL,Victims Targeted,0,0,unknown,0
+20220509GARIS,2022,Spring,Riverside Elementary School,Suwanee,GA,Victims Targeted,0,0,0,0
+20220509NYEDS,2022,Spring,Eden Ii Institute,Staten Island,NY,Victims Targeted,0,0,unknown,0
+20220505OHLOL,2022,Spring,Lowellville K-12 School,Lowellville,OH,Victims Targeted,unknown,0,0,0
+20220505ALDOD,2022,Spring,Dothan City School Bus,Dothan,AL,Random Shooting,0,0,0,0
+20220503CAARS,2022,Spring,Arrowview Middle School,San Bernardino,CA,Both,0,0,unknown,0
+20220501OHHAC,2022,Spring,Hamilton Stem Academy,Columbus,OH,Victims Targeted,0,unknown,unknown,0
+20220501VALOM,2022,Spring,Louise A. Benton Middle School,Manassas,VA,Victims Targeted,0,0,0,0
+20220430PAMCJ,2022,Spring,McKee Middle School (McKee Stadium),Jeannette City,PA,Victims Targeted,0,0,0,0
+20220427TXMOS,2022,Spring,Morrill Elementary School,San Antonio,TX,null,unknown,unknown,unknown,unknown
+20220427INCOS,2022,Spring,Coquillard Elementary School,South Bend,IN,Neither,unknown,0,0,0
+20220426MIASI,2022,Spring,Aspen Ridge School,Ishpeming Township,MI,Victims Targeted,unknown,0,0,0
+20220426GASOM,2022,Spring,Southwest High School,Macon,GA,Victims Targeted,0,0,unknown,0
+20220425WIWIM,2022,Spring,Wisconsin Conservatory of Lifelong Learning,Milwaukee,WI,Victims Targeted,0,0,unknown,0
+20220425GAMAM,2022,Spring,Marietta City Schools Bus Yard,Marietta,GA,Random Shooting,0,0,0,0
+20220424MOHAF,2022,Spring,Hazelwood Central High School,Florissant,MO,Victims Targeted,0,0,unknown,0
+20220422ORHOS,2022,Spring,Houck Middle School,Salem,OR,null,0,0,unknown,0
+20220422DCEDW,2022,Spring,Edmund Burke School,Washington,DC,Random Shooting,unknown,0,0,1
+20220422CAMOR,2022,Spring,Mountain View Middle School,Redding,CA,Random Shooting,0,0,0,0
+20220421NDMOM,2022,Spring,Mott-Regent High School,Mott,ND,null,unknown,unknown,unknown,unknown
+20220416IAMED,2022,Spring,Meredith Middle School,Des Moines,IA,null,0,unknown,unknown,0
+20220415VAGAW,2022,Spring,Gar-Field High School,Woodbridge,VA,Both,0,0,0,0
+20220414MSNEP,2022,Spring,Neshoba Central High School,Philadelphia,MS,Random Shooting,0,0,0,0
+20220413MISHS,2022,Spring,Shelters Elementary School,Southgate,MI,Victims Targeted,unknown,0,0,0
+20220411ARPIP,2022,Spring,Pine Bluff High School,Pine Bluff,AR,null,0,0,unknown,0
+20220410MALYL,2022,Spring,Lynn English High School,Lynn,MA,Victims Targeted,0,0,unknown,0
+20220406WVRIR,2022,Spring,Ripley Middle School,Ripley,WV,Victims Targeted,unknown,0,0,1
+20220406ORROP,2022,Spring,Roosevelt High School,Portland,OR,Victims Targeted,0,0,unknown,0
+20220406WASTM,2022,Spring,St. Monica Catholic School,Mercer Island,WA,Random Shooting,0,0,0,0
+20220405PAERE,2022,Spring,Erie High School,Erie,PA,Victims Targeted,unknown,0,unknown,0
+20220403INBLB,2022,Spring,Bloomington High School South,Bloomington,IN,Victims Targeted,0,0,unknown,0
+20220331SCTAG,2022,Spring,Tanglewood Middle School,Greenville,SC,Victims Targeted,unknown,0,0,0
+20220331PAACP,2022,Spring, West Philadelphia Achievement Charter Elementary School,Philadelphia,PA,Neither,0,0,0,0
+20220330GABOA,2022,Spring,Booker T Washington High School,Atlanta,GA,Neither,0,0,0,0
+20220330AZKIK,2022,Spring,Kingman High School,Kingman,AZ,Neither,0,0,0,0
+20220329NVWEL,2022,Spring,Western High School,Las Vegas,NV,null,unknown,unknown,unknown,unknown
+20220329VALUR,2022,Spring,Lucy Addison Middle School,Roanoke,VA,Neither,0,0,0,0
+20220328NCOAC,2022,Spring,Oakdale Elementary School,Charlotte,NC,Victims Targeted,0,0,0,0
+20220328TXNOF,2022,Spring,North Crowley High School,Fort Worth,TX,null,0,0,0,0
+20220325TXROR,2022,Spring,Royse City High School,Royse City,TX,Random Shooting,0,0,0,0
+20220325TNBRM,2022,Spring,Brighton High School,Memphis,TN,Both,0,0,unknown,0
+20220325UTHIS,2022,Spring,Highland High School,Salt Lake City,UT,Random Shooting,0,0,0,0
+20220324VARIW,2022,Spring,Rippon Middle School,Woodbridge,VA,Neither,0,1,0,0
+20220322VAJAR,2022,Spring,James Madison Middle School,Roanoke,VA,Victims Targeted,0,0,unknown,0
+20220322TXWOD,2022,Spring,Woodrow Wilson High School,Dallas,TX,Victims Targeted,0,0,0,0
+20220322FLNEN,2022,Spring,New Smyrna Beach High School,New Smyrna Beach,FL,Victims Targeted,0,0,0,0
+20220321MSLEP,2022,Spring,Leap of Faith Middle School,Pascagoula,MS,Victims Targeted,0,0,unknown,0
+20220321AZDES,2022,Spring,Desert Canyon Middle School,Scottsdale,AZ,Neither,0,0,0,0
+20220321MIMAK,2022,Spring,Mahone Middle School,Kenosha,WI,Victims Targeted,0,0,0,0
+20220319ALCEL,2022,Spring,Central Baldwin Middle School,Loxley,AL,Victims Targeted,0,0,0,0
+20220311OHMAM,2022,Spring,Madison High School,Mansfield,OH,Random Shooting,0,0,0,0
+20220318ILBAB,2022,Spring,Barrington High School,Barrington,IL,Victims Targeted,0,0,0,0
+20220318RICEP,2022,Spring,null,Providence,RI,Random Shooting,0,0,0,0
+20220317AKREW,2022,Spring,Redington Jr/Sr High School,Wasilla,AK,null,0,0,0,0
+20220316CALOR,2022,Spring,Loma Vista Middle School,Riverside,CA,Neither,0,0,0,0
+20220315WAEIY,2022,Winter,Eisenhower High School,Yakima,WA,Both,0,0,1,0
+20220315MATEB,2022,Spring,Tech Academy Boston,Boston,MA,Both,0,0,unknown,unknown
+20220315MDPAB,2022,Spring,Paul Lawrence Dunbar High School,Baltimore,MD,Victims Targeted,0,0,unknown,0
+20220315GAFOF,2022,Spring,Forest Park Middle School,Forest Park,GA,null,0,0,0,0
+20220314CAKRP,2022,Spring,Kraemer Middle School,Placentia,CA,Victims Targeted,0,0,0,0
+20220313PANEP,2022,Spring,New Foundations Charter School,Philadelphia,PA,null,0,0,unknown,0
+20220311OHFAP,2022,Spring,Fairland Middle School,Proctorville,OH,Victims Targeted,0,0,0,0
+20220311CADER,2022,Spring,De Anza High School,Richmond,CA,Both,0,0,unknown,0
+20220311WIJER,2022,Spring,Jerstad-Agerholm Elementary School,Racine,WI,Neither,0,0,0,0
+20220310MDCOL,2022,Spring,Cora L. Rice Elementary School,Landover,MD,Victims Targeted,0,0,unknown,0
+20220310COROH,2022,Spring,Rock Canyon High School,Highlands Ranch,CO,Neither,0,0,0,0
+20220310TNHAM,2022,Spring,Hamilton Middle School,Memphis,TN,Victims Targeted,0,0,0,0
+20220309TXNOH,2022,Spring,Kimball High School,Houston,TX,Random Shooting,0,0,0,0
+20220309FLNOM,2022,Spring,North Gardens High School,Miami Gardens,FL,Both,0,0,unknown,0
+20220309NMESE,2022,Spring,Espanola Valley High School,Espanola,NM,Neither,0,0,unknown,0
+20220307IAEAD,2022,Spring,East High School,Des Moines,IA,Both,0,0,1,0
+20220304KSOLO,2022,Spring,Olathe East High School,Olathe,KS,Victims Targeted,0,0,0,unknown
+20220303MIJWL,2022,Winter,JW Sexton High School,Lansing,MI,Victims Targeted,0,0,0,0
+20220228NYBOB,2022,Winter,Boys and Girls High School,Brooklyn,NY,Both,0,0,unknown,0
+20220227DCDUW,2022,Winter,Dunbar High School,Washington,DC,Victims Targeted,0,0,unknown,0
+20220225NMWEA,2022,Winter,West Mesa High School,Albuquerque,NM,Victims Targeted,0,0,0,0
+20220225ALSOH,2022,Winter,Sonnie Hereford Elementary,Huntsville,AL,Neither,0,0,0,0
+20220223VAWOW,2022,Winter,Woodbridge High School,Woodbridge,VA,Victims Targeted,0,0,0,unknown
+20220222COLIP,2022,Winter,Liberty Point International Middle School,Pueblo,CO,Neither,unknown,unknown,unknown,unknown
+20220222TXALH,2022,Winter,Alief ISD Center for Advanced Careers,Houston,TX,Victims Targeted,0,0,0,0
+20220221MDJOH,2022,Winter,John Carroll Elementary School,Hyattsville,MD,Victims Targeted,0,0,unknown,0
+20220220OKWIW,2022,Winter,Wilson Middle School,Wilson,OK,Victims Targeted,0,0,0,0
+20220220MSMCM,2022,Winter,McColm High School,McColm,MS,Both,0,0,unknown,0
+20220219VACAC,2022,Winter,Camelot Elementary School,Chesapeake,VA,null,0,unknown,unknown,unknown
+20220218MATET,2022,Winter,Tewksbury High School,Tewksbury,MA,Random Shooting,0,0,0,0
+20220217WAMCG,2022,Winter,McClure Elementary School,Grandview,WA,Victims Targeted,0,0,1,0
+20220214FLLAL,2022,Winter,Lake City Middle School,Lake City,FL,Victims Targeted,0,0,0,0
+20220211DCEAW,2022,Winter,Eagle Academy,Washington,DC,null,0,0,unknown,0
+20220209NYMCB,2022,Winter,McKinley High School,Buffalo,NY,Both,0,0,unknown,0
+20220209MNMIM,2022,Winter,Minneapolis School Bus,Minneapolis,MN,Both,0,0,unknown,0
+20220208MDCAC,2022,Winter,Catonsville High School,Catonsville,MD,Victims Targeted,0,0,unknown,0
+20220208NYMOM,2022,Winter,Mount Vernon High School,Mount Vernon,NY,null,0,0,unknown,0
+20220204GASOD,2022,Winter,Southwest DeKalb High School,Decatur,GA,Neither,0,0,0,0
+20220204ALWEB,2022,Winter,Wenonah High School,Birmingham,AL,Both,0,0,unknown,0
+20220203NCSPS,2022,Winter,Speight Middle School,Stantonsburg,NC,null,0,0,0,0
+20220202KYLOR,2022,Winter,Logan County Community Technology Center,Russellville,KY,Random Shooting,0,0,0,0
+20220201MNSOR,2022,Winter,South Education Center,Richfield,MN,Both,0,0,1,0
+20220201WIRUM,2022,Winter,Rufus King High School,Milwaukee,WI,Both,0,0,0,0
+20220201PAACS,2022,Winter,Academy Park High School,Sharon Hill,PA,null,0,0,unknown,0
+20220201ILALC,2022,Winter,Alessandro Volta Elementary School,Chicago,IL,Both,0,0,unknown,0
+20220129WIBEB,2022,Winter,Beloit Memorial High School,Beloit,WI,Victims Targeted,0,0,unknown,0
+20220128LACAM,2022,Winter,Carroll High School,Monroe,LA,Random Shooting,0,0,0,0
+20220127TXMOH,2022,Winter,Montgomery Elementary School,Houston,TX,Victims Targeted,0,0,0,0
+20220126PABAP,2022,Winter,Bartram High School,Philadelphia,PA,Victims Targeted,0,0,unknown,0
+20220124NVSUL,2022,Winter,Sunrise Mountain High School,Las Vegas,NV,Victims Targeted,0,0,unknown,0
+20220121MDMAR,2022,Fall,Magruder High School,Rockville,MD,Victims Targeted,unknown,0,unknown,0
+20220121GAMCA,2022,Fall,McNair High School,Atlanta,GA,null,0,0,unknown,0
+20220119FLSES,2022,Winter,Seminole High School,Sanford,FL,Victims Targeted,0,1,0,0
+20220119VAMAP,2022,Winter,Manor High School,Portsmouth,VA,Victims Targeted,0,0,unknown,0
+20220119PAPIP,2022,Winter,Pittsburgh Oliver Citywide Academy,Pittsburgh,PA,Victims Targeted,0,0,unknown,unknown
+20220119DCANW,2022,Winter,Anacostia High School,Washington,DC,Victims Targeted,0,0,unknown,0
+20220117TXPYH,2022,Winter,Pyburn Elementary School,Houston,TX,Victims Targeted,0,0,0,0
+20220114MDGAG,2022,Winter,Gaithersburg High School,Gaithersburg,MD,null,0,0,0,unknown
+20220111NMVAA,2022,Fall,Valley High School,Albuquerque,NM,null,0,0,unknown,0
+20220106CAFLS,2022,Winter,Florin High School,Sacramento,CA,Both,0,0,unknown,0
+20220104ILAUR,2022,Winter,Auburn High School,Rockford,IL,Victims Targeted,0,0,0,0
+20220103WACHP,2022,Winter,Childpeace Montessori School,Portland,OR,Random Shooting,0,0,0,0
+20220103OHCOC,2022,Winter,Columbus School Bus,Columbus,OH,null,0,0,0,0
+20211229NCCAS,2021,Winter,Catawba College (high school tournament),Salisbury,NC,Victims Targeted,0,0,unknown,0
+20211217TXWOD,2021,Fall,Woodrow Wilson Junior High,Dayton,TX,Neither,0,0,0,0
+20211216SCEAC,2021,Winter,Eau Claire High School,Columbia,SC,Victims Targeted,unknown,0,unknown,0
+20211216NYPSB,2021,Winter,P.S. 026 Jesse Owens,Brooklyn,NY,null,0,0,unknown,0
+20211214VAMEN,2021,Winter,Menchville High School,Newport News,VA,Victims Targeted,0,0,1,0
+20211214WISOM,2021,Winter,South Division High School,Milwaukee,WI,Neither,0,0,unknown,0
+20211213NCWEC,2021,Winter,West Charlotte High School,Charlotte,NC,Victims Targeted,0,0,0,0
+20211213FLEAO,2021,Winter,East River High School,Orlando,FL,null,0,0,unknown,0
+20211212NYSCR,2021,Winter,School No. 17,Rochester,NY,Victims Targeted,0,0,0,0
+20211211GAJOG,2021,Winter,Jones County High School,Gray,GA,Victims Targeted,0,0,0,0
+20211211FLEDL,2021,Winter,Edward A. Upthegrove Elementary School,LaBelle,FL,Victims Targeted,0,unknown,unknown,0
+20211210OHCAC,2021,Winter,Canal Winchester High School,Canal Winchester,OH,Random Shooting,0,0,0,0
+20211210NCJEC,2021,Winter,Jesse C. Carson High,China Grove,NC,Neither,0,0,0,0
+20211209NYGRN,2021,Winter,Greater Oaks Charter School,New York,NY,Victims Targeted,0,0,0,0
+20211208MOEWK,2021,Winter,Ewing Marion Kauffman School,Kansas City,MO,null,0,0,unknown,0
+20211208KYSTL,2021,Winter,St. Matthews Elementary School,Louisville,KY,Victims Targeted,0,unknown,unknown,0
+20211207ILHAC,2021,Winter,Haines Elementary School,Chicago,IL,Victims Targeted,0,0,unknown,0
+20211206CAWIW,2021,Winter,Wilmington Park Elementary School,Wilmington,CA,Both,0,unknown,unknown,unknown
+20211206NYSUS,2021,Winter,Susan E. Wagner High School,Staten Island,NY,Victims Targeted,unknown,0,unknown,0
+20211203ARBLB,2021,Winter,Blytheville High School,Blytheville,AR,Victims Targeted,0,0,0,0
+20211202WAGAS,2021,Winter,Garfield High School,Seattle,WA,Both,unknown,0,unknown,0
+20211201TXSAP,2021,Winter,Sam Rayburn High School,Pasadena,TX,Victims Targeted,0,0,0,0
+20211130MIOXO,2021,Fall,Oxford High School,Oxford,MI,Both,unknown,0,0,1
+20211130OHWHW,2021,Fall,Whitehall Yearling High School,Whitehall,OH,Neither,0,0,0,0
+20211130TNHUH,2021,Fall,Humboldt High School,Humboldt,TN,Both,0,0,unknown,0
+20211130CALOL,2021,Fall,Los Angeles School Bus,Los Angeles,CA,Neither,0,0,0,0
+20211129AZCHP,2021,Fall,Cesar Chavez High School,Phoenix,AZ,Victims Targeted,unknown,0,0,0
+20211129ILWER,2021,Fall,West Middle School,Rockford,IL,null,0,0,unknown,0
+20211126CAWES,2021,Fall,Westmount High School,San Jose,CA,Victims Targeted,0,0,unknown,0
+20211124ILTHH,2021,Fall,Thornton Township High School,Harvey,IL,null,0,0,unknown,0
+20211123OHCLC,2021,Fall,Cleveland School Bus,Cleveland,OH,Neither,0,0,0,0
+20211119COHIA,2021,Fall,Hinkley High School,Aurora,CO,Victims Targeted,0,0,unknown,0
+20211119MDGIB,2021,Fall,Gilmor Elementary School,Baltimore,MD,Victims Targeted,0,unknown,unknown,0
+20211116FLJAJ,2021,Fall,Jacksonville School Bus,Jacksonville,FL,Both,0,0,unknown,0
+20211116NYPSB,2021,Fall,P.S. 44,Bronx,NY,Victims Targeted,0,0,unknown,0
+20211115NYPOP,2021,Fall,Poughkeepsie High School,Poughkeepsie,NY,Victims Targeted,0,0,0,0
+20211110NYITI,2021,Fall,Ithaca High School,Ithaca,NY,null,0,0,unknown,0
+20211109NMMEL,2021,Fall,Mesilla Valley Leadership Academy,Las Cruces,NM,Neither,0,0,0,0
+20211108NYTHB,2021,Fall,Theodore Roosevelt High School,Bronx,NY,Victims Targeted,0,0,unknown,0
+20211106FLOVO,2021,Fall,Oviedo High School,Oviedo,FL,Neither,0,0,unknown,0
+20211125SCCEP,2021,Fall,Central High School,Pageland,SC,null,unknown,0,0,0
+20211102NMHIH,2021,Fall,Highland Middle School,Hobbs,NM,Random Shooting,0,0,0,0
+20211030PASTM,2021,Fall,Sto Rox High School,McKees Rock,PA,Victims Targeted,0,0,0,0
+20211027SCCAS,2021,Fall,Calhoun County High School,St. Matthews,SC,Victims Targeted,0,0,unknown,0
+20211026MSCAN,2021,Fall,Cathedral School,Natchez,MS,Neither,0,0,0,0
+20211026ILWIC,2021,null,Jose de Diego Community Academy,Chicago,IL,Victims Targeted,0,0,0,0
+20211022PAPHP,2021,Fall,Philadelphia Learning Academy South,Philadelphia,PA,Neither,0,0,unknown,0
+20211021GABES,2021,Fall,Bethesda Academy,Savannah,GA,Random Shooting,0,0,0,0
+20211021NYPSB,2021,Fall,P. S. 65 Mother Hale Academy,Bronx,NY,Victims Targeted,0,0,0,0
+20211018PALIP,2021,Fall,Lincoln High School,Philadelphia,PA,Both,0,0,unknown,0
+20211017ARROR,2021,null,Rogers High School,Rogers ,AR,Neither,0,0,0,0
+20211015ALWIM,2021,null,Williamson High School,Mobile,AL,Both,0,0,unknown,0
+20211015CAKEF,2021,Fall,Kepler Community School,Fresno,CA,Neither,0,0,0,0
+20211014MEREP,2021,Fall,Reiche Community School,Portland,ME,Victims Targeted,0,0,unknown,0
+20211013ILMCC,2021,Fall,McDade Classical Elementary School,Chicago,IL,Random Shooting,0,0,unknown,0
+20211013PACHD,2021,Fall,Charles Kelly Elementary,Drexel Hill,PA,Both,0,0,0,0
+20211012ILWEC,2021,Fall,Wendell Phillips Academy High School,Chicago,IL,Both,0,0,unknown,1
+20211012ARLIL,2021,Fall,Little Rock Central High School,Little Rock,AR,Random Shooting,0,0,unknown,0
+20211012OKUNT,2021,Fall,Union High School,Tulsa,OK,Random Shooting,0,0,0,0
+20211012MIELK,2021,Fall,El Sol Academy,Kalamazoo,MI,Victims Targeted,0,0,unknown,unknown
+20211011ORROP,2021,Fall,Rosemary Anderson High School,Portland,OR,null,0,0,unknown,0
+20211008OKCOC,2021,Fall,Comanche Middle School,Comanche,OK,Random Shooting,0,0,0,unknown
+20211007PAANP,2021,Fall,Antonia Pantoja Charter School,Philadelphia,PA,Neither,0,0,unknown,0
+20211007DCWAW,2021,Fall,Walkins Elementary School,Washington,DC,Victims Targeted,0,0,unknown,0
+20211007TXEAW,2021,Fall,East Chambers High School,Winnie,TX,Random Shooting,0,0,0,0
+20211007NCEAD,2021,Fall,Eastway Elementary School,Durham,NC,Victims Targeted,0,0,0,0
+20211006TXTIA,2021,Fall,Timberview High School,Arlington,TX,Both,0,0,0,0
+20211005NDHEH,2021,Fall,Hettinger Public School,Hettinger,ND,Victims Targeted,unknown,0,0,0
+20211005NCGAC,2021,Fall,Garinger High School,Charlotte,NC,Victims Targeted,0,0,unknown,0
+20211004PASCP,2021,Fall,School of the Future,Philadelphia,PA,Both,0,unknown,0,0
+20211004OHWOT,2021,Fall,Woodward High School,Toledo,OH,null,0,0,unknown,0
+20211004ILLAC,2021,Fall,Lakeview High School,Chicago,IL,null,0,0,unknown,0
+20211004NMSAS,2021,Winter,Santa Fe Indian School,Santa Fe,NM,Random Shooting,0,0,0,0
+20211001TXYEH,2021,Fall,YES Prep,Houston,TX,Both,0,0,0,0
+20211001INBEI,2021,Fall,Ben Davis High School,Indianapolis,IN,Victims Targeted,0,0,unknown,0
+20211001NCSEF,2021,Fall,Seventy-First High School,Fayetteville,NC,Victims Targeted,0,0,1,0
+20211001NJCHC,2021,Fall,Cherry Hill West High School,Cherry Hill,NJ,Random Shooting,0,0,unknown,0
+20211001NCNOD,2021,Fall,Northern High School,Durham,NC,Random Shooting,0,0,unknown,0
+20210930TNCUM,2021,Fall,Cummings Elementary School,Memphis,TN,Victims Targeted,unknown,0,unknown,unknown
+20210930MSNEN,2021,Fall,Newton Elementary School,Newton,MS,Random Shooting,0,0,0,0
+20210929OHSHS,2021,Fall,Shaker Heights Middle School,Shaker Heights,OH,Neither,0,0,0,0
+20210928MESOS,2021,Fall,South Portland High School,South Portland,ME,Victims Targeted,0,0,0,0
+20210927ILCAC,2021,Fall,Canterbury Elementary School,Crystal Lake,IL,null,unknown,0,0,0
+20210924MDWIB,2021,Fall,Wildwood Elementary/Middle School,Baltimore,MD,Victims Targeted,0,0,unknown,0
+20210924ALFAF,2021,Fall,Fairfield High Preparatory School,Fairfield,AL,Random Shooting,0,0,0,0
+20210924VAESE,2021,Fall,Essex High School,Essex,VA,Neither,0,0,unknown,0
+20210924TNSTS,2021,Fall,Stewarts Creek High School,Smyrna,FL,Neither,0,0,0,0
+20210923IDRIR,2021,Fall,Rigby Middle School,Rigby,ID,Victims Targeted,0,0,0,0
+20210922NYSOB,2021,Fall,South Shore High School,Brooklyn,NY,null,0,0,unknown,0
+20210922CTLIN,2021,Fall,Lincoln-Bassett Community School,New Haven,CT,Neither,0,0,unknown,0
+20210921GAFRA,2021,Fall,Fred A. Toomer Elementary School,Atlanta,GA,Victims Targeted,0,0,0,0
+20210921PAVAP,2021,Fall,Vaux Big Picture High School,Philadelphia,PA,Victims Targeted,0,0,unknown,0
+20210921OHMIM,2021,Fall,Middletown Preparatory and Fitness Academy,Middletown,OH,Neither,0,0,0,0
+20210921KSEAW,2021,Fall,East High School,Wichita,KS,Both,0,0,0,0
+20210921FLLAL,2021,Fall,Lake Asbury Elementary School,Lake Asbury,FL,Neither,0,0,0,0
+20210920OHEAC,2021,Fall,Eastside Arts Academy,Cleveland,OH,null,0,0,unknown,0
+20210920VAHEN,2021,Fall,Heritage High School,Newport News,VA,Both,0,0,unknown,0
+20210918COWIC,2021,Fall,Widefield High School,Colorado Springs,CO,Both,0,0,unknown,0
+20210917NCPAW,2021,Fall,Parkland High School,Winston-Salem,NC,Random Shooting,0,0,unknown,0
+20210917VAHEH,2021,Fall,Hermitage High School,Henrico,VA,Neither,0,0,0,0
+20210917PAWEP,2021,Fall,West Philadelphia High School,Philadelphia,PA,null,0,0,unknown,0
+20210917GASWS,2021,Fall,Swainsboro High School,Swainsboro,GA,Neither,0,0,unknown,0
+20210917TNAUK,2021,Fall,Austin-East High School,Knoxville,TN,null,0,0,unknown,0
+20210916WIORM,2021,Fall,Orchard Ridge Elementary School,Madison,WI,null,0,0,unknown,0
+20210916UTPRP,2021,Fall,Provo High School,Provo,UT,Victims Targeted,0,0,0,0
+20210916OHBEC,2021,Fall,Beechcroft High School,Columbus,OH,Neither,0,0,unknown,0
+20210915KYMAL,2021,Fall,Mary Todd Elementary School,Lexington,KY,Victims Targeted,0,0,0,0
+20210915ILCEC,2021,Fall,Centennial High School,Champaign,IL,null,0,0,unknown,0
+20210915VASPS,2021,Fall,Springfield Estates Elementary,Springfield,VA,null,0,0,0,0
+20210914MOMCH,2021,Fall,McNair Elementary School,Hazelwood,MO,Victims Targeted,0,0,0,0
+20210914TNLAL,2021,Fall,La Vergne High School,La Vergne,TN,Random Shooting,0,0,unknown,0
+20210913SCEDC,2021,Fall,Edwards Elementary School,Chesterfield County,SC,Victims Targeted,0,1,0,0
+20210910CONOA,2021,Fall,North Area Athletic Complex,Arvada,CA,Victims Targeted,0,0,unknown,0
+20210910CASTP,2021,Fall,Stratford School,Palo Alto,CA,Random Shooting,0,0,0,0
+20210908MNPRB,2021,Fall,Prairie Seeds Academy,Brooklyn Park,MN,Both,0,0,unknown,0
+20210909ILCHC,2021,Fall,Champaign School Bus,Champaign,IL,Both,0,0,unknown,0
+20210909MITRF,2021,Fall,Tri-County Education Center,Ferndale,MI,Neither,0,0,unknown,0
+20210909NCSHE,2021,null,Sheep-Harney Elementary School,Elizabeth City,NC,Random Shooting,0,0,0,0
+20210908ILCEC,2021,Fall,Centennial High School,Champaign,IL,Victims Targeted,0,0,0,0
+20210907PAHAH,2021,Fall,Harrisburg High School,Harrisburg,PA,Neither,0,0,0,0
+20210907TNLAL,2021,Fall,La Vergne High School,La Vergne,TN,Random Shooting,0,0,unknown,0
+20210907MAOMG,2021,Fall,OÆMaley Innovation Middle School,Gloucester,MA,Random Shooting,0,0,0,0
+20210903CAMTH,2021,Fall,Mt. Eden High School,Hayward,CA,Victims Targeted,0,0,unknown,0
+20210903NVDEL,2021,Fall,Desert Oasis High School,Las Vegas,NV,Neither,0,0,unknown,0
+20210903NCJUC,2021,Fall,Julius Chambers High School,Charlotte,NC,Neither,0,0,0,0
+20210903CABUB,2021,Fall,Buena Park School District Bus,Buena Park,CA,Victims Targeted,0,1,0,0
+20210902ARLIL,2021,Fall,Little Rock Central High School,Little Rock,AR,Neither,0,0,0,0
+20210902INWEG,2021,Fall,West Side Leadership Academy,Gary,IN,Victims Targeted,0,0,unknown,1
+20210902CASAL,2021,Fall,Santee High School,Los Angeles,CA,Both,0,0,unknown,0
+20210902GAWOS,2021,Fall,Woodland High School,Stockbridge,GA,Neither,0,0,0,0
+20210902NMALA,2021,Fall,Albuquerque Christ Lutheran Church and School,Albuquerque,NM,Victims Targeted,0,0,unknown,0
+20210902CASAL,2021,Fall,Santee High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+20210901NCMTW,2021,Fall,Mt. Tabor High School,Winston-Salem,NC,Victims Targeted,unknown,0,0,0
+20210901ILFRC,2021,Fall,Frazier International Magnet School,Chicago,IL,Victims Targeted,0,0,unknown,0
+20210830NCNEW,2021,Fall,New Hanover High School,Wilmington,NC,Victims Targeted,1,0,0,0
+20210830FLOKW,2021,Fall,Okeeheelee Middle School,West Palm Beach,FL,null,0,0,0,0
+20210830MDNEO,2021,Fall,New Town High School,Owings Mills,MD,Neither,0,0,unknown,0
+20210830NJWEN,2021,Fall,West Side High School,Newark,NJ,Victims Targeted,0,0,unknown,0
+20210828CASAS,2021,Fall,Santa Maria High School,Santa Maria,CA,null,0,0,unknown,0
+20210827INHAH,2021,Fall,Hammond Central High School,Hammond,IN,Both,0,0,1,0
+20210827VTEDB,2021,Fall,Edmunds Middle School,Burlington,VT,Neither,0,0,0,0
+20210827KYAPO,2021,Fall,Apollo High School,Owensboro,KY,Victims Targeted,0,0,0,0
+20210827PAACS,2021,Fall,Academy Park High School,Sharon Hill,PA,Random Shooting,0,0,0,0
+20210827VAFRW,2021,Fall,Freedom High School,Woodbridge,VA,Both,0,0,0,0
+20210826OHNOT,2021,Fall,Northpointe Academy Elementary School,Toledo,OH,Neither,0,0,0,0
+20210826NYHAH,2021,Fall,Hauppauge Middle School,Hauppauge,NY,Both,0,0,0,0
+20210826WAAKS,2021,Fall,Aki Kurose Middle School,Seattle,WA,Victims Targeted,0,0,0,0
+20210822ILWER,2021,Fall,West Middle School,Rockford,IL,Victims Targeted,unknown,0,unknown,0
+20210820NEMIO,2021,Fall,Miller Park Elementary,Omaha,NE,Victims Targeted,0,unknown,unknown,0
+20210820CACEF,2021,Fall,Central High-Bullard High,Fresno,CA,Victims Targeted,0,0,1,0
+20210818SCORO,2021,Fall,Orangeburg-Wilkinson High School,Orangeburg,SC,Both,unknown,0,unknown,0
+20210817COYED,2021,Fall,Yeshiva Toras Chaim High School,Denver,CO,Victims Targeted,0,0,0,0
+20210815VAROD,2021,Summer,Rosa Park Elementary School,Dale City,VA,Neither,0,0,unknown,0
+20210814ILMAC,2021,Summer,Mary E. McDowell Elementary School,Chicago,IL,Victims Targeted,0,0,unknown,0
+20210814SCDAH,2021,Summer,Darlington County School District Buses,Hartsville,SC,Neither,unknown,0,0,0
+20210813NMWAA,2021,Fall,Washington Middle School,Albuquerque,NM,Victims Targeted,1,0,0,0
+20210813GACAS,2021,Fall,Campbell High SChool,Smyrna,GA,Neither,0,0,unknown,0
+20210812CANOS,2021,Fall,North Mountain Middle School,San Jacinto,CA,Neither,unknown,0,0,unknown
+20210812GALIL,2021,Fall,Lithonia High School,Lithonia,GA,null,unknown,unknown,unknown,unknown
+20210811COMAC,2021,Summer,Mark Twain Elementary School,Colorado Springs,CO,null,0,0,unknown,0
+20210811CAOAO,2021,Fall,Oakland Tech High School,Oakland,CA,null,0,0,unknown,0
+20210810OHEAC,2021,Summer,East Linden Elementary School,Columbus,OH,Random Shooting,0,0,0,0
+20210807ORGIP,2021,Summer,Gilbert Heights Elementary School,Portland,OR,null,0,unknown,unknown,0
+20210806LASTH,2021,Summer,St. Francis de Sales school,Houma,LA,Random Shooting,0,0,0,0
+20210805GACHD,2021,Summer,Chapel Hill Middle School,Douglasville,GA,Neither,0,0,0,unknown
+20210804ALBUM,2021,Summer,Burns Middle School,Mobile,AL,null,0,0,unknown,0
+20210727WATYS,2021,Summer,Tyee High School,SeaTac,WA,null,0,0,unknown,0
+20210721ILTHC,2021,Summer,Theodore Herzl Elementary School,Chicago,IL,null,0,0,unknown,0
+20210719TXCAC,2021,Summer,Caldwell High School,Caldwell,TX,Random Shooting,0,0,0,0
+20210718ARFOL,2021,Summer,Forest Park Elementary,Little Rock,AL,null,0,0,unknown,0
+20210709KSCAW,2021,Summer,Campus High School,Wichita,KS,Random Shooting,0,0,0,0
+20210708ILBEC,2021,Summer,Benito Juarez Community Academy,Chicago,IL,Both,0,0,unknown,0
+20210704NYDRR,2021,Summer,Dr. Louis A. Cerulli School No. 34,Rochester,NY,null,0,0,unknown,0
+20210628CASLF,2021,Summer,Slater Elementary School,Fresno,CA,Victims Targeted,0,0,unknown,0
+20210624ILABR,2021,Summer,Abraham Lincoln Middle School,Rockford,IL,null,0,0,unknown,0
+20210620CAGRM,2021,Summer,Modesto Christian School,Modesto,CA,Neither,0,0,0,0
+20210614TXEAF,2021,Summer,Eastern Hills High School,Fort Worth,TX,Victims Targeted,0,0,0,0
+20210614NCRJW,2021,Summer,R.J. Reynolds High School,Winston-Salem,NC,Both,0,1,0,0
+20210614NCROR,2021,Summer,Rowland Middle School,Rowland,NC,null,0,0,unknown,0
+20210613PAWIP,2021,Summer,William Dick School,Philadelphia,PA,Victims Targeted,0,0,unknown,0
+20210613PAPAC,2021,Summer,Park Elementary School,Columbia,PA,Victims Targeted,0,0,0,0
+20210612MOMCF,2021,Summer,McCluer North High School,Florissant,MO,Victims Targeted,unknown,0,0,0
+20210610CTHOW,2021,Summer,Holy Cross High School,Waterbury,CT,Neither,0,0,0,0
+20210609TXNOH,2021,Summer,North Forest High School,Houston,TX,Both,0,0,0,0
+20210609VAWIR,2021,null,William Fleming High School,Roanoke,VA,null,0,0,unknown,0
+20210608KSHAK,2021,Summer,Hazel Grove Elementary,Kansas City,KS,Victims Targeted,0,0,unknown,0
+20210608PAMUS,2021,Summer,Musser Elementary School,Sharon,PA,Victims Targeted,0,0,unknown,0
+20210607TXEAF,2021,null,Eastern Hills High School,Fort Worth,TX,Victims Targeted,0,0,unknown,0
+20210606VADRA,2021,null,Dr. Charles R. Drew Elementary School,Arlington,VA,Random Shooting,0,0,unknown,0
+20210601ILLIC,2021,Summer,Lincoln Park High School,Chicago,IL,null,unknown,0,unknown,0
+20210525NJPAP,2021,Spring,Paterson School 6,Paterson,NJ,Random Shooting,0,0,unknown,0
+20210517TNAUM,2021,Spring,Aurora Collegiate Academy,Memphis,TN,Victims Targeted,0,0,0,0
+20210517MDLOC,2021,Spring,Long Reach High School,Columbia,MD,Victims Targeted,0,1,0,0
+20210517TXBRE,2021,Spring,Brown Middle School,El Paso,TX,Both,unknown,0,0,unknown
+20210514CASAS,2021,Spring,San Mateo High School,San Mateo,CA,Victims Targeted,0,0,unknown,0
+20210511CAVEL,2021,Spring,Verbum Dei High School,Los Angeles,CA,Random Shooting,0,0,0,0
+20210511NYPSB,2021,Spring,P.S. 178 Saint Clair Mckelway Grade School,Brooklyn,NY,Victims Targeted,0,0,unknown,0
+20210506IDRIR,2021,Spring,Rigby Middle School,Rigby,ID,Both,unknown,0,0,1
+20210506SCFOC,2021,Spring,Forest Lake Elementary,Columbia,SC,Random Shooting,0,0,0,0
+20210505MICRC,2021,Spring,Crossroads Alternative High,Cutlerville,MI,Victims Targeted,0,0,unknown,0
+20210505SCWAW,2021,Spring,Ware Shoals High School,Ware Shoals,SC,null,unknown,0,0,unknown
+20210502ILCHC,2021,Spring,Chicago Bulls College Prep High School,Chicago,IL,Both,0,0,unknown,0
+20210501MNBES,2021,Spring,Benjamin E Mays School,St. Paul,MN,Victims Targeted,0,0,unknown,0
+20210430INMAI,2021,Spring,Mary Castle Elementary School,Indianapolis,IN,Victims Targeted,0,1,0,0
+20210429NYURB,2021,Spring,Urban Dove Charter School,Brooklyn,NY,Victims Targeted,0,0,unknown,0
+20210429CAVIV,2021,Spring,Victor Valley High School,Victorville,CA,Random Shooting,0,0,0,0
+20210427TNLAM,2021,Spring,La Petite Academy,Memphis,TN,Random Shooting,0,0,0,0
+20210427DESMS,2021,Spring,Smyrna Middle School,Smyrna,DE,Victims Targeted,0,1,0,0
+20210426MNPLP,2021,Spring,Plymouth Middle School,Plymouth,MN,Random Shooting,unknown,0,0,unknown
+20210420TXHAH,2021,Spring,Harker Heights High School,Harker Heights,TX,Victims Targeted,0,0,0,0
+20210418OHWED,2021,Spring,Westwood Elementary School,Dayton,OH,Victims Targeted,0,0,unknown,0
+20210413TNMAC,2021,Spring,Maury County Public Schools Bus No. 50,Columbia,TN,Victims Targeted,0,0,0,0
+20210412TNAUK,2021,Spring,Austin-East Magnet High School,Knoxville,TN,Victims Targeted,0,1,0,0
+20210412CASAS,2021,Spring,San Diego High School,San Diego,CA,Random Shooting,0,0,0,0
+20210411INBIH,2021,Spring,Bishop Noll Institute,Hammond,IN,Victims Targeted,0,1,0,0
+20210407ILPEP,2021,Spring,Peoria High School,Peoria,IL,Victims Targeted,unknown,0,unknown,0
+20210406ILBAC,2021,Spring,Back of the Yards College Prep High School,Chicago,IL,Neither,0,0,0,0
+20210401OKCLC,2021,Spring,Cleveland High School,Cleveland,OK,Neither,0,0,0,0
+20210401ALSES,2021,Spring,Selma High School,Selma,AL,Victims Targeted,unknown,0,unknown,0
+20210327MAPEC,2021,Spring,Peabody Elementary School,Cambridge,MA,Victims Targeted,0,unknown,unknown,0
+20210326MOCAS,2021,Spring,Castlio Elementary School,St Charles,MO,Victims Targeted,0,0,0,0
+20210324ORFOS,2021,Spring,Four Corners Elementary School,Salem,OR,Victims Targeted,0,0,0,0
+20210319WVSPM,2021,Spring,Spring Mills Middle School,Martinsburg,WV,Random Shooting,unknown,0,0,0
+20210318KYGRL,2021,Spring,Greenwood Elementary School,Louisville,KY,Neither,0,1,0,0
+20210315INMEM,2021,Spring,Merrillville High School,Merrillville,IN,Victims Targeted,0,0,0,0
+20210313TXLEA,2021,Spring,Lee Elementary School,Abilene,TX,Victims Targeted,0,unknown,unknown,0
+20210311OHCIC,2021,Spring,Cincinnati College Preparatory Academy,Cincinnati,OH,Victims Targeted,0,0,unknown,0
+20210309TNSAK,2021,Spring,Sarah Moore Greene Elementary,Knoxville,TN,Victims Targeted,0,unknown,unknown,0
+20210309OHBIC,2021,Spring,Bishop Hartley High School,Columbus,OH,null,0,unknown,unknown,0
+20210308SCEDC,2021,Spring,Chesterfield Elementary School,Chesterfield,SC,Victims Targeted,0,1,0,0
+20210301ARWAP,2021,Spring,Watson Chapel Junior High,Pine Bluff,AR,Victims Targeted,0,0,0,0
+20210226LAGEN,2021,null,George Washington Carver High School,New Orleans,LA,Random Shooting,0,0,0,0
+20210224WAGAY,2021,Winter,Garfield Elementary School,Yakima,WA,Victims Targeted,0,0,1,0
+20210222CAHOV,2021,Winter,Houston Elementary School,Visalia,CA,null,0,unknown,unknown,0
+20210219ILLIR,2021,Winter,Lincoln Middle School,Rockford,IL,Victims Targeted,0,unknown,unknown,0
+20210217TNKNK,2021,Winter,Christenberry Elementary School,Knoxville,TN,null,0,unknown,unknown,0
+20210216NCTHS,2021,Winter,Third Creek Elementary School,Statesville,NC,null,0,0,0,0
+20210214MNROM,2021,Winter,Roosevelt High School,Minneapolis,MN,Victims Targeted,0,unknown,unknown,0
+20210210TXFOF,2021,Winter,Forest Oak Middle School,Fort Worth,TX,Victims Targeted,0,0,unknown,0
+20210210NJSCP,2021,Winter,School Number 15,Paterson,NJ,Victims Targeted,0,unknown,unknown,0
+20210210LASTS,2021,Winter,St. Martinville Head Start Center,St. Martinville,LA,Both,0,0,1,0
+20210208MISCG,2021,Winter,School Bus,Grand Rapids,MI,Victims Targeted,0,0,unknown,0
+20210205MDBEM,2021,Winter,Benjamin Stoddert Middle School,Marlow Heights,MD,Victims Targeted,0,0,unknown,0
+20210201MIMUD,2021,Winter,Muslim American Youth Academy,Dearborn,MI,Victims Targeted,0,0,unknown,0
+20210127FLHOH,2021,Winter,Holly Hill School,Holly Hill,FL,Victims Targeted,,0,unknown,1
+20210127MSHAH,2021,Winter,Hattiesburg High School,Hattiesburg,MS,Random Shooting,0,0,0,
+20210121OHEAC,2021,Winter,Eastmoor Academy,Columbus,OH,Both,0,0,unknown,0
+20210121OKLOG,2021,Winter,Lower Elementary School,Grove,OK,Random Shooting,0,0,0,0
+20210114MDHIW,2021,Winter,Highland Elementary School,Wheaton,MD,Victims Targeted,0,0,unknown,0
+20210110ILSOS,2021,Winter,Southeast High School,Springfield,IL,Victims Targeted,0,unknown,unknown,0
+20210104NYPEJ,2021,Winter,Perth Bible Church and Christian Academy,Johnstown,NY,Neither,0,0,0,0
+20201229WAROS,2020,Winter,Rogers High School,Spokane,WA,Victims Targeted,0,0,unknown,0
+20201225FLYOP,2020,Winter,Youth Under Construction Youth Center,Pompano Beach,FL,null,,0,unknown,0
+20201216ILDUC,2020,Winter,Dubois Elementary School,Chicago,IL,Victims Targeted,0,0,unknown,0
+20201211VATAY,2020,Winter,Tabb Middle School,Yorktown,VA,null,0,0,unknown,0
+20201207ILEAC,2020,Winter,East Chicago Academy of Visual and Performing Arts,Chicago,IL,null,0,0,unknown,0
+20201124NCHEH,2020,Fall,Hendersonville Middle School,Hendersonville,NC,Victims Targeted,,unknown,0,
+20201125KSABG,2020,Fall,Abe Hubert Elementary School,Garden City,KS,Victims Targeted,0,1,0,0
+20201117TXWEW,2020,Fall,Weatherford High School,Weatherford,TX,Victims Targeted,,0,0,0
+20201117MTGRG,2020,null,Great Falls High School,Great Falls,MT,Neither,0,0,0,0
+20201116TNWIM,2020,Fall,Winridge Elementary School,Memphis,TN,Victims Targeted,0,1,0,0
+20201113NCLIL,2020,Fall,Lincoln Elementary School,Leland,NC,Random Shooting,0,0,0,0
+20201112PANAH,2020,Fall,Nativity School of Harrisburg,Harrisburg,PA,null,0,0,unknown,0
+20201112CACEU,2020,Fall,Cesar Chavez Middle School,Union City,CA,Victims Targeted,0,0,unknown,0
+20201109CABAL,2020,Fall,Baldwin Elementary School,La Puente,CA,Victims Targeted,0,0,0,0
+20201109TXCOH,2020,Fall,Collins Elementary School,Houston,TX,Victims Targeted,0,0,unknown,0
+20201108INTET,2020,Fall,Terre Haute South Vigo High School,Terre Haute,IN,Victims Targeted,0,0,unknown,0
+20201106AZKHT,2020,Fall,Khalsa Montessori Charter,Tuscon,AZ,Neither,0,0,0,0
+20201102COERE,2020,Fall,Erie High School,Erie,CO,Neither,,0,0,0
+20201029FLLAM,2020,Fall,Lawton Chiles Middle School,Miramar,FL,Victims Targeted,0,0,unknown,0
+20201028NYROR,2020,Fall,Rochester Prep Charter School,Rochester,NY,Victims Targeted,0,0,unknown,0
+20201026GARIR,2020,Fall,Riverdale High School,Riverdale,GA,Victims Targeted,0,0,0,0
+20201024CTSTS,2020,Fall,Stillwater Elementary School,Stamford,CT,null,0,unknown,unknown,0
+20201020ARJAP,2020,Fall,Jack Robey Junior High School,Pine Bluff,AR,Victims Targeted,0,0,1,0
+20201018KYSEL,2020,Fall,Seneca High School,Louisville,KY,null,0,0,unknown,0
+20201014PABRB,2020,Fall,Bradford Area School District,Bradford,PA,Neither,0,0,0,0
+20201014WAWAS,2020,Fall,Washington Elementary School,Sunnyside,WA,Victims Targeted,0,0,0,0
+20201013RIRHP,2020,Fall,Rhode Island School for the Deaf ,Providence,RI,Victims Targeted,0,0,unknown,0
+20201012TXNOD,2020,Fall,North Dallas High School,Dallas,TX,Victims Targeted,0,0,0,0
+20201012MNSHS,2020,Fall,Shakopee High School,Shakopee,MN,Neither,0,0,0,0
+20201009FLJEJ,2020,Fall,Jean Ribault High School,Jacksonville,FL,Random Shooting,0,0,0,0
+20201005OKSOM,2020,Fall,Southridge Junior High,Moore,OK,null,,0,0,0
+20201005ARKIH,2020,Fall,KIPP Delta Elementary School,West Helena,AR,Victims Targeted,0,1,0,0
+20201004NEADL,2020,Fall,AdamÆs Elementary School,Lincoln,NE,Neither,0,0,unknown,0
+20201002PAMAE,2020,Fall,Marple-Newtown School Bus,Exton,PA,Neither,0,0,0,0
+20200930CADYL,2020,Fall,Dymally High School,Los Angeles,CA,Victims Targeted,0,0,unknown,0
+20200928CTEAN,2020,Fall,East Rock Community Magnet School,New Haven,CT,Victims Targeted,0,0,unknown,0
+20200925ILROR,2020,Fall,Rock Island Academy,Rock Island,IL,null,0,0,unknown,0
+20200925NJHAH,2020,Fall,Haledon Public School,Haledon,NJ,null,0,unknown,unknown,0
+20200924ILMCS,2020,Fall,McClernand Elementary School,Springfield,IL,Neither,0,0,0,0
+20200924CAWAC,2020,Fall,Walt Hanline Middle School,Ceres,CA,Neither,0,0,unknown,0
+20200923FLHIJ,2020,Fall,Highlands Middle School,Jacksonville,FL,Neither,0,0,0,0
+20200923PAWIW,2020,Fall,William Tennent High School,Warminster,PA,Victims Targeted,0,0,0,0
+20200921CAPLP,2020,Fall,Pleasant Hill Elementary School,Pleasant Hill,CA,Neither,0,0,0,0
+20200920UTLIS,2020,Fall,Liberty Elementary School,Salt Lake City,UT,null,0,0,unknown,0
+20200919CAKRS,2020,null,Krouzian Zekarian Vasbouragan Armenian School,San Francisco,CA,Neither,0,0,unknown,0
+20200918KYWIL,2020,Fall,Winburn Middle School,Lexington,KY,null,0,0,unknown,0
+20200917OHELA,2020,Fall,Ellet High School,Akron,OH,Both,0,0,unknown,0
+20200917ORDRP,2020,Fall,Dr. Martin Luther King Jr. Elementary School,Portland,OR,null,0,0,unknown,0
+20200916CASOS,2020,Fall,Sonora High School,Sonora,CA,Victims Targeted,0,0,unknown,0
+20200916WAARG,2020,Fall,Artondale Elementary School,Gig Harbor,WA,Victims Targeted,0,0,0,0
+20200915UTVIB,2020,Fall,Viewmont High School,Bountiful,UT,Neither,0,0,0,0
+20200915SCYOR,2020,Fall,York County School Bus,Rock Hill,SC,Neither,0,0,0,0
+20200910ILPEP,2020,Fall,Peoria Public Schools Bus,Peoria,IL,Victims Targeted,0,0,unknown,0
+20200910OHSAC,2020,Fall,Saint Francis DeSales High School,Columbus,OH,Both,0,0,unknown,0
+20200909TXSOH,2020,Fall,Southmayd Elementary School,Houston,TX,Victims Targeted,0,0,1,0
+20200909PAWEW,2020,Fall,West Bradford Elementary School,West Bradford Township,PA,Victims Targeted,0,0,0,0
+20200904FLLOJ,2020,Fall,Lone Star Elementary School,Jacksonville,FL,null,0,0,0,0
+20200903GADOA,2020,Fall,Dougherty Comprehensive High School,Albany,GA,Victims Targeted,0,0,unknown,0
+20200830TXLOD,2020,Summer,L.O. Donald Leadership Academy,Dallas,TX,Victims Targeted,0,0,0,0
+20200825MOWEC,2020,Summer,West Middle School,Columbia,MO,null,0,0,unknown,0
+20200817MIABG,2020,Summer,Aberdeen K-8 School,Grand Rapids,MI,null,0,0,unknown,0
+20200804PAKEP,2020,Summer,Kelly Elementary School,Pittsburg,PA,Victims Targeted,0,0,0,0
+20200729ILCOC,2020,null,Collinsville High School,Collinsville,IL,Neither,,0,unknown,0
+20200727AZCAO,2020,Summer,Canyon del Oro High School,Oro Valley,AZ,Neither,0,0,0,0
+20200721SCBRO,2020,Summer,Brookdale Elementary School,Orangeburg,SC,null,0,0,unknown,0
+20200714MIWID,2020,Summer,Willow Woods Elementary School,Detroit,MI,Neither,0,0,0,0
+20200704INLAM,2020,Summer,Lake Hills Elementary School,Michigan City,IN,Victims Targeted,0,0,0,0
+20200701ILFRP,2020,Summer,Frost Elementary School,Prospect Heights,IL,null,0,0,1,0
+20200630OHLAW,2020,Summer,Lakota Career Readiness Academy,West Chester Township,OH,Neither,0,0,0,0
+20200627VAHAS,null,null,null,null,null,null,unknown,unknown,unknown,unknown
+null,null,null,South Boston,VA,null,null,0,unknown,0,
+20200621INCOC,2020,Summer,Columbus East High School,Columbus,IN,Neither,0,0,0,0
+20200618INJOI,2020,Summer,Joyce Kilmer School 69,Indianapolis,IN,null,0,0,unknown,0
+20200616FLTOM,2020,Summer,Touissant Louverture Elementary School,Miami,FL,null,0,0,1,0
+20200603IAGAD,2020,Summer,Garfield Elementary School,Davenport,IA,Victims Targeted,0,0,unknown,0
+20200527OHLUC,2020,Spring,Luis Munoz Marin Middle School,Cleveland,OH,Victims Targeted,0,0,0,0
+20200525ALORM,2020,Spring,O Rourke Elementary School,Mobile,AL,Victims Targeted,0,0,0,0
+20200522OHMIC,2020,Spring,Miles Elementary School,Cleveland,OH,Victims Targeted,0,0,unknown,0
+20200519VAWEM,2020,Spring,West Gate Elementary School,Manassas,VA,Victims Targeted,0,0,0,0
+20200515NCSTC,2020,Spring,Stuart W Cramer High School,Cramerton,NC,Random Shooting,0,0,1,0
+20200505CAGOV,2020,Spring,Golden West High School,Visalia,CA,null,0,0,unknown,0
+20200419NCABR,2020,Spring,Abbotts Creek Elementary School,Raleigh,NC,Victims Targeted,0,0,0,0
+20200413NEMOO,2020,Spring,Morton Middle School,Omaha,NE,null,0,0,0,0
+20200330GANAS,2020,Spring,Narvie J. Harris Elementary School,Stonecrest,GA,Victims Targeted,0,0,0,0
+20200324LAROM,2020,Spring,Roy Shelling Elementary School,Monroe,LA,Victims Targeted,0,0,1,0
+20200318LABOS,2020,Spring,Booker T. Washington High School,Shreveport,LA,Victims Targeted,0,0,0,0
+20200315TXATH,2020,Spring,Atascocita High School,Humble,TX,Victims Targeted,0,0,0,0
+20200313TNPIR,2020,Spring,Pine View Elementary,Rockwood,TN,Neither,N/A,N/A,N/A,N/A
+20200310PASHN,2020,Spring,Shenango Area Schools (bus),New Castle,PA,null,0,0,0,0
+20200305FLSAW,2020,Spring,Sagemont School,Weston,FL,Random Shooting,0,0,0,0
+20200302TXNOF,2020,Spring,North Forney High School,Forney,TX,Neither,0,0,0,0
+20200221NMCEA,2020,Winter,Cesar Chavez Community School,Albuquerque,NM,Victims Targeted,0,0,unknown,0
+20200215DCDUW,2020,Winter,Dunbar High School,Washington,DC,null,0,0,unknown,0
+20200212MOJOF,2020,Winter,Johnson-Wabash Elementary School,Ferguson,MO,Victims Targeted,unknown,0,0,0
+20200205NHSEC,2020,Winter,Second Start Alternative High School,Concord,NH,Victims Targeted,,0,0,0
+20200204LABEA,2020,Winter,Beau Chene High School,Arnaudville,LA,Neither,0,0,1,0
+20200203FLGEJ,2020,Winter,George Washington Carver Elementary School,Jacksonville,FL,null,0,0,unknown,0
+20200201TXHIH,2020,Winter,Hicks Elementary School,Houston,TX,Victims Targeted,0,0,0,0
+20200131CADEA,2020,Winter,Deer Valley High School,Antioch,CA,null,0,0,0,0
+20200128TXLUL,2020,Winter,Lufkin Middle School,Lufkin,TX,Victims Targeted,0,0,1,0
+20200128TNWHM,2020,Winter,White Station High School,Memphis,TN,Both,0,0,0,0
+20200128NYMAQ,2020,Winter,Martin Van Buren High School,Queens,NY,null,0,0,0,0
+20200127WAROY,2020,Winter,Robertson Elementary School,Yakima,WA,Victims Targeted,0,0,1,0
+20200123CAOXO,2020,Winter,Oxnard's Christa McAuliffe Elementary School,Oxnard,CA,Random Shooting,N/A,unknown,1,0
+20200121NEPAL,2020,Winter,Park Middle School,Lincoln,NE,Neither,0,0,0,0
+20200121ILLIC,2020,Winter,Lindblom Math & Science Academy High School,Chicago,IL,Victims Targeted,0,0,0,0
+20200119TXNOF,2020,Winter,North Crowley Ninth Grade Campus,Fort Worth,TX,Both,0,0,0,0
+20200117SCCAS,2020,Winter,Cane Bay High School,Summerville,SC,Victims Targeted,,0,0,0
+20200117MITHH,2020,Winter,Three Fires Elementary School,Howell,MI,Neither,0,0,0,0
+20200114TXPOM,2020,Winter,Poteet High School,Mesquite,TX,Victims Targeted,0,0,0,0
+20200114TXBEH,2020,Winter,Bellaire High School,Houston,TX,Neither,0,0,0,0
+20200111TXELD,2020,Winter,Ellis Davis Field House,Dallas,TX,Both,0,0,0,0
+20200110MSMCJ,2020,Winter,McWillie Elementary School,Jackson,MS,null,0,0,0,0
+20200108FLGLB,2020,Winter,Glades Central Community High School,Belle Glade,FL,Neither,0,0,0,0
+20200107WASOK,2020,Winter,Southridge High School,Kennewick,WA,Neither,0,0,0,0
+20191228MOMAS,2019,Winter,Mason-Clark Middle School,St. Louis,MO,Victims Targeted,0,0,unknown,0
+20191221LAWES,2019,Winter,West St. John Elementary School,St. John the Baptist Parish,LA,null,0,0,0,0
+20191219FLLEN,2019,Winter,Lely High School,Naples,FL,Victims Targeted,0,1,0,0
+20191216CTCAN,2019,Winter,Catholic Academy of New Haven,New Haven,CT,Victims Targeted,0,0,1,0
+20191213VAMAN,2019,Winter,Maury High School,Norfolk,VA,Neither,0,0,0,0
+20191211KSCHT,2019,Winter,Chase Middle School,Topeka,KS,null,0,0,0,0
+20191211INEVE,2019,Winter,Evans Elementary School,Evansville,IN,null,0,0,0,0
+20191210NJSAJ,2019,Winter,Sacred Heart School,Jersey City,NJ,Neither,0,0,0,0
+20191210KSJCK,2019,Winter,J C Harmon High School,Kansas City,KS,null,0,0,unknown,0
+20191210ALDED,2019,Winter,Decatur High School,Decatur,AL,Victims Targeted,0,1,0,0
+20191204NMPIL,2019,Winter,Picacho Middle School,Las Cruces,NM,Neither,0,0,0,0
+20191203WITHM,2019,Winter,Thomas Jefferson Middle School,Madison,WI,Victims Targeted,0,0,0,0
+20191203WIOSO,2019,Winter,Oshkosh West High School,Oshkosh,WI,NA,,unknown,unknown,
+20191202WIWAW,2019,Winter,Waukesha South High School,Waukesha,WI,null,unknown,0,0,unknown
+20191201ALMOM,2019,Winter,Mountain Brook High School,Mountain Brook,AL,Victims Targeted,0,1,0,0
+20191126WASAV,2019,Fall,Sarah J. Anderson Elementary School,Vancouver,WA,Victims Targeted,0,1,0,0
+20191125ILCAC,2019,Fall,Catalyst Circle Rock Charter School,Chicago,IL,Victims Targeted,0,0,unknown,0
+20191124CASEU,2019,Fall,Searles Elementary School,Union City,CA,Random Shooting,0,0,1,0
+20191121ILRIO,2019,Fall,Rich Central High School,Olympia Fields,IL,Random Shooting,0,0,0,0
+20191115NJPLP,2019,Fall,Pleasantville High School,Pleasantville,NJ,Both,0,0,unknown,0
+20191114CASAS,2019,Fall,Saugus High School,Santa Clarita,CA,Random Shooting,0,0,0,1
+20191113CAESL,2019,Fall,Esteban Torres High School,Los Angeles,CA,NA,N/A,N/A,N/A,N/A
+20191111MDACB,2019,Fall,Achievement Academy,Baltimore,MD,Victims Targeted,0,0,0,0
+20191108TXROD,2019,Fall,Robert L. Thornton Elementary School,Dallas,TX,Victims Targeted,0,0,0,0
+20191108CAEDS,2019,Fall,Edison High School,Stockton,CA,null,0,0,unknown,0
+20191029NYNEN,2019,Fall,New Dawn Charter High School,New York,NY,Both,,0,0,0
+20191027MDLAL,2019,Fall,Laurel Woods Elementary School,Laurel,MD,Both,0,0,unknown,0
+20191022CARIS,2019,Fall,Ridgway High School,Santa Rosa,CA,Victims Targeted,0,0,1,0
+20191022NJBRB,2019,Fall,Brick Memorial High School,Brick Township,NJ,Victims Targeted,,0,unknown,0
+20191018OHWOT,2019,Fall,Woodward High School,Toledo,OH,null,0,0,unknown,0
+20191018GACRS,2019,Fall,Creekside High School,South Fulton,GA,null,,unknown,unknown,0
+20190918MNFOC,2019,Fall,Fond Du Lac Ojibwe High School,Cloquet,MN,Victims Targeted,0,1,0,0
+20191015LAGEN,2019,Fall,George Washington Carver High School,New Orleans,LA,null,0,0,unknown,0
+20191011LARAR,2019,Fall,Rayne High School,Rayne,LA,Victims Targeted,0,0,0,0
+20191009MAGRL,2019,Fall,Greenhalge Elementary School,Lowell,MA,Random Shooting,,0,0,0
+20191008TXWEH,2019,Fall,Westbury High School,Houston,TX,null,,unknown,unknown,
+20191008COSHS,2019,Fall,Sheridan High School,Sheridan,CO,Victims Targeted,0,0,0,0
+20191002GASOA,2019,Fall,South Atlanta High School,Atlanta,GA,Neither,0,0,0,0
+20190927NCZEC,2019,Fall,Zebulon B. Vance High School,Charlotte,NC,null,0,0,0,0
+20190927CADER,2019,Fall,De Anza High School,Richmond,CA,Both,0,0,1,0
+20190920PASIP,2019,Fall,Simon Gratz High School Mastery Charter,Philadelphia,PA,null,,0,unknown,0
+20190916VAPHH,2019,Fall,Phoebus High School,Hampton,VA,Victims Targeted,0,0,unknown,0
+20190916ILILK,2019,Fall,Illinois Central School Bus,Kankakee,IL,Victims Targeted,0,0,1,0
+20190914TXEAF,2019,Fall,Eastern Hills High School,Fort Worth,TX,Both,0,0,0,0
+20190913VAETN,2019,Fall,Ethel M. Gildersleeve Middle School,Newport News,VA,null,0,0,unknown,0
+20190913UTGRW,2019,Fall,Granger High School,West Valley City,UT,Neither,0,0,1,0
+20190912KSMAM,2019,Fall,Manhattan High School,Manhattan,KS,null,0,0,unknown,0
+20190910SCSOA,2019,Fall,South Aiken High School,Aiken,SC,Victims Targeted,0,0,0,0
+20190906PAWEM,2019,Fall,West Palmer High School,Morrisville,PA,null,0,0,unknown,0
+20190906PAMCJ,2019,Fall,McKee Middle School,Jeannette,PA,Victims Targeted,0,0,0,0
+20190906ALCEC,2019,Fall,Center Point High School,Center Point,AL,null,0,0,unknown,0
+20190902MDNOB,2019,Fall,Northwood Elementary School,Baltimore,MD,null,0,0,unknown,0
+20190830OHCET,2019,Summer,Central Catholic High School,Toledo,OH,Random Shooting,0,0,0,0
+20190830NCKIK,2019,Summer,Kinston High School,Kingston,NC,Neither,0,0,unknown,0
+20190830ALLAM,2019,Summer,Ladd-Peebles Stadium,Mobile,AL,Both,0,0,1,0
+20190827NYROR,2019,Summer,Roosevelt High School,Roosevelt,NY,Victims Targeted,0,0,0,0
+20190827CAHOL,2019,Summer,Hollenbeck Middle School,Los Angeles,CA,null,0,0,unknown,0
+20190824PAWIP,2019,Summer,William C. Longstreth Elementary School,Philadelphia,PA,Victims Targeted,0,0,0,0
+20190823MOROS,2019,Summer,Roosevelt High School,St. Louis,MO,Victims Targeted,,unknown,unknown,0
+20190823MOPAS,2019,Summer,Parkway North High School,St. Louis,MO,null,0,0,0,0
+20190823GAPEC,2019,Summer,Peek's Chapel Elementary School,Conyers,GA,null,,0,unknown,0
+20190820PASAC,2019,Summer,Saint Patrick School,Carlisle,PA,Random Shooting,0,0,0,0
+20190817GALAA,2019,Summer,Lakewood Stadium,Atlanta,GA,Both,0,0,1,0
+20190815TNEAN,2019,Summer,East Magnet High School,Nashville,TN,null,0,0,unknown,0
+20190809NJWEN,2019,Fall,West Side High School,Newark,NJ,null,0,0,unknown,0
+20190808ALBLM,2019,Summer,Blount Elementary School,Montgomery,AL,Victims Targeted,0,0,0,0
+20190719CAMOS,2019,Summer,Monroe Clark Middle School,San Diego,CA,Neither,0,0,0,0
+20190711CTBUH,2019,Summer,Bulkeley High School,Hartford,CT,Victims Targeted,0,0,unknown,0
+20190702AKWIA,2019,Summer,Williwaw Elementary School,Anchorage,AK,null,0,0,0,0
+20190701NYSCN,2019,Summer,School of Science and Applied Learning,New York,NY,Victims Targeted,0,0,0,0
+20190629COJAC,2019,Summer,Jack Swigert Aerospace Academy ,Colorado Springs,CO,Victims Targeted,0,0,0,0
+20190621MICAF,2019,Summer,Carman-Ainsworth High School,Flint Township,MI,null,0,0,0,0
+20190613NJTAW,2019,Summer,Tamaques Elementary School,Westfield,NJ,null,0,unknown,0,
+20190612PAJEE,2019,Summer,Jefferson Elementary School,Emmaus,PA,Victims Targeted,0,1,0,0
+20190612DCHEW,2019,Summer,Hendley Elementary School,Washington,DC,null,0,0,1,0
+20190610ILMEW,2019,Summer,Menta Academy North,Waukegan,IL,Victims Targeted,0,0,0,0
+20190606ILGEC,2019,Summer,Genevieve Melody STEM Elementary School,Chicago,IL,null,0,0,unknown,0
+20190530DCHEW,2019,Spring,Hendley Elementary School,Washington,DC,null,0,0,1,0
+20190522OHSAC,2019,Spring,Shady Lane Elementary School,Columbus,OH,Both,0,0,0,0
+20190517ORPAP,2019,Spring,Parkrose High School,Portland,OR,null,,0,0,
+20190517FLTEJ,2019,Spring,Terry Parker High School,Jacksonville,FL,Victims Targeted,0,0,1,0
+20190508ILSEC,2019,Spring,Second Change High School,Chicago,IL,Victims Targeted,0,0,unknown,0
+20190507COSTH,2019,Spring,STEM School Highlands Ranch,Highlands Ranch,CO,null,,unknown,unknown,
+null,null,null,null,null,null,null,unknown,unknown,unknown,unknown
+null,null,null,null,null,null,null,,unknown,unknown,
+20190430VACDW,2019,Spring,C D Hylton High School,Woodbridge,VA,Neither,0,0,0,0
+20190430FLWEW,2019,Spring,Weightman Middle School,Wesley Chapel,FL,Neither,N/A,N/A,N/A,N/A
+20190426GACRF,2019,Spring,Creekside High School,Fairburn,GA,Victims Targeted,0,unknown,0,0
+20190425GAWYS,2019,Spring,Wynbrooke Elementary Theme School,Stone Mountain,GA,Random Shooting,,0,unknown,
+20190424ARCOC,2019,Spring,Concord High School,Concord,AR,Victims Targeted,,0,0,0
+20190417ILWAL,2019,Spring,Washington Middle School,Lyons,IL,Victims Targeted,,0,0,0
+20190410TXROH,2019,Spring,Ross Shaw Sterling Aviation High School,Houston,TX,Victims Targeted,0,0,1,0
+20190407MAHOL,2019,Spring,Hood Elementary School,Lynn,MA,null,0,0,unknown,0
+20190405WISTM,2019,Spring,St. Josaphat Parish School,Milwaukee,WI,Random Shooting,0,0,0,0
+20190403FLSAJ,2019,Spring,Saint Clair Evans Academy,Jacksonville,FL,Victims Targeted,0,0,unknown,0
+20190403COAUA,2019,Spring,Aurora West College Preparatory Academy,Aurora,CO,Victims Targeted,0,0,0,0
+20190401ARPRP,2019,Spring,Prescott ,null,null,null,,unknown,unknown,
+null,null,null,Morning Classes,null,null,null,,unknown,unknown,
+20190327MSSVH,2019,Spring,S V Marshall Elementary,Holmes County,MS,Random Shooting,0,0,0,0
+20190327FLMAJ,2019,Spring,Mayport Coastal Sciences Middle School,Jacksonville,FL,Random Shooting,0,0,0,0
+20190322ALBLB,2019,Spring,Blountsville Elementary School,Blountsville,AL,Random Shooting,0,0,0,0
+20190313FLLAO,2019,Spring,Lake Mary High School,Orlando,FL,Victims Targeted,,0,0,0
+20190301KSHIM,2019,Spring,Highlands Elementary School,Mission,KS,Neither,0,0,0,0
+20190226ALROM,2019,Winter,Robert E. Lee High School,Montgomery,AL,Victims Targeted,,0,unknown,0
+20190217COEAA,2019,Winter,Eaglecrest High School,Aurora,CO,Victims Targeted,0,0,0,0
+20190214NMV.R,2019,Winter,V. Sue Cleveland High School,Rio Rancho,NM,Victims Targeted,,1,unknown,1
+20190212MOCEK,2019,Winter,Central Academy of Excellence,Kansas City,MO,Victims Targeted,0,0,0,0
+20190208MDFRB,2019,Winter,Frederick Douglass High School,Baltimore,MD,Both,0,0,0,0
+20190205MNMIM,2019,Winter,Minneapolis School District Bus,Minneapolis,MN,Victims Targeted,0,0,0,0
+20190131TXATA,2019,Winter,Atascocita High School,Atascocita,TX,Victims Targeted,0,0,0,0
+20190131TNMAM,2019,Winter,Manassas High School,Memphis,TN,null,0,0,0,0
+20190130GAMIL,2019,Winter,Miller Grove High School,Lithonia,GA,Victims Targeted,0,0,0,0
+20190127NVRER,2019,Winter,Reno High School,Reno,NV,Neither,0,0,0,0
+20190125TNMAM,2019,Winter,Manassas High School,Memphis,TN,null,0,0,unknown,0
+20190125ALDAM,2019,Winter,Davidson High School,Mobile,AL,null,0,0,0,0
+20190123LASOS,2019,Winter,Southern Hills Elementary School,Shreveport,LA,null,0,unknown,unknown,0
+20190119KSLAO,2019,Winter,Lakewood Middle School,Overland Park,KS,Victims Targeted,0,0,unknown,0
+20190118NCSHD,2019,Winter,Sheppard Middle School,Durham,NC,Random Shooting,0,0,unknown,0
+20190118MOHAS,2019,Winter,Hazelwood East High School,St. Louis,MO,Victims Targeted,0,0,unknown,0
+20190118ALCET,2019,Winter,Central High School,Tuscaloosa,AL,Victims Targeted,0,1,0,0
+20190111ORCAE,2019,Winter,Cascade Middle School,Eugene,OR,Victims Targeted,0,0,0,0
+20190107CACEB,2019,Winter,Central Elementary School,Belmont,CA,Victims Targeted,0,0,0,0
+20181218DEAIG,2018,Winter,A I du Pont High School,Greenville,DE,null,0,0,0,0
+20181214MOWIK,2018,Winter,Winnetonka High School,Kansas City,MO,Neither,,unknown,unknown,0
+20181213INDER,2018,Winter,Dennis Intermediate School,Richmond,IN,null,,unknown,unknown,
+null,null,null,null,null,null,null,unknown,unknown,unknown,unknown
+null,null,null,null,null,null,null,,unknown,unknown,
+20181211KYCAC,2018,Winter,Cawood Elementary School,Cawood,KY,null,0,0,0,0
+20181210NYJEJ,2018,Winter,Jefferson High School,Jefferson,NY,Victims Targeted,,0,0,0
+20181128PASTP,2018,Fall,Strawberry Mansion High School,Philadelphia,PA,Neither,0,0,unknown,0
+20181124OHAFC,2018,Fall,Africentric Early College High School,Columbus,OH,Victims Targeted,0,0,0,0
+20181122WAMOD,2018,Fall,Mount Rainier High School,Des Moines,WA,Victims Targeted,0,0,0,0
+20181122TXSKD,2018,Fall,Skyline High School,Dallas,TX,Victims Targeted,0,0,unknown,0
+20181121MIPEP,2018,Fall,Pentwater Public School,Pentwater,MI,Neither,0,0,0,0
+20181120VASIP,2018,Fall,Simonsdale Elementary School,Portsmouth,VA,Random Shooting,0,0,0,0
+20181112MDEAE,2018,Fall,Eastern Tech High School,Essex,MD,Victims Targeted,0,0,0,0
+20181109GAGAM,2018,Fall,Garrett Middle School,Marietta,GA,Neither,0,0,0,0
+20181108CACLS,2018,Fall,Cleveland Elementary School,Santa Barbara,CA,Victims Targeted,0,0,unknown,0
+20181105SCACC,2018,Fall,Academy of Hope,Conway,SC,null,,0,0,0
+20181104KYCRL,2018,Fall,Crums Lane Elementary School,Louisville,KY,null,0,0,unknown,0
+20181029NCBUM,2018,Fall,Butler High School,Matthews,NC,Victims Targeted,1,0,0,0
+20181025MICOD,2018,Fall,Cody High School,Detroit,MI,Victims Targeted,0,0,unknown,0
+20181023NHGOM,2018,Fall,Gossler Park Elementary School,Manchester,NH,Random Shooting,,0,0,0
+20181022CTDUB,2018,Fall,Dunbar Elementary School,Bridgeport,CT,Victims Targeted,0,1,0,0
+20181020GASHS,2018,Fall,Shiloh Middle School,Snellville,GA,Victims Targeted,0,0,1,0
+20181013TNMCN,2018,Fall,McGavock High School,Nashville,TN,Victims Targeted,0,0,unknown,0
+20181012MIBAB,2018,Fall,Battle Creek Academy,Battle Creek,MI,null,0,0,unknown,0
+20181007VAVAH,2018,Fall,Varina High School,Henrico,VA,Both,0,0,0,0
+20181005VALAN,2018,Fall,Lake Taylor High School,Norfolk,VA,null,0,0,0,0
+20181005TNHAB,2018,Fall,Haywood High School,Brownsville,TN,Both,0,0,0,0
+20181004ORJAP,2018,Fall,Jason Lee Elementary School,Portland,OR,Neither,0,0,0,0
+20181003AKDEA,2018,Fall,Denali Montessori Elementary School,Anchorage,AK,Victims Targeted,0,1,0,0
+20181002ARCHL,2018,Fall,Chicot Elementary School,Little Rock,AR,null,0,0,unknown,0
+20180928SDCHC,2018,Fall,Chamberlain High School,Chamberlain,SD,Victims Targeted,0,0,0,0
+20180927TXHEC,2018,Fall,Hebron High School,Carrollton,TX,Victims Targeted,0,0,0,0
+20180926MDMAB,2018,Fall,Maree Garnett Farring Elementary,Baltimore,MD,Neither,0,0,0,0
+20180924PACEP,2018,Fall,Central High School,Philadelphia,PA,Both,0,0,unknown,0
+20180924NCLAC,2018,Fall,Lawrence Orr Elementary School,Charlotte,NC,Victims Targeted,0,unknown,unknown,0
+20180924GAAPB,2018,Fall,Appling County High School,Baxley,GA,Victims Targeted,,0,0,0
+20180920CAPOP,2018,Fall,Pomona High School,Pomona,CA,Victims Targeted,0,0,0,0
+20180920CACHL,2018,Fall,CHAMPS Charter High School,Los Angeles,CA,null,0,0,unknown,0
+20180917ALBLH,2018,Fall,Blossomwood Elementary School,Huntsville,AL,Neither,0,0,0,0
+20180914WAMAE,2018,Fall,Mariner High School,Everett,WA,Victims Targeted,0,0,1,0
+20180914FLBOB,2018,Fall,Boynton Beach High School,Boynton Beach,FL,Neither,0,0,0,0
+20180911NVCAL,2018,Fall,Canyon Springs High School,Las Vegas,NV,Victims Targeted,0,0,0,0
+20180910TNFAM,2018,Fall,Fairley High School,Memphis,TN,null,0,0,unknown,0
+20180910ILCHC,2018,Fall,Chatham Academy High School,Chicago,IL,Victims Targeted,0,0,1,0
+20180909CAGIG,2018,Fall,Gilroy High School,Gilroy,CA,Neither,N/A,N/A,N/A,N/A
+20180907IAHED,2018,Fall,Herbert Hoover High School,Des Moines,IA,null,0,0,unknown,0
+20180905RIPRP,2018,Fall,Providence Career and Technical Academy,Providence,RI,Both,0,0,1,0
+20180903NYLUN,2018,Fall,Luisa Pineiro Fuentes School of Science and Discovery,New York,NY,Victims Targeted,0,0,0,0
+20180831IANOE,2018,Summer,North Scott Junior High School,Eldridge,IA,null,,unknown,unknown,
+null,null,null,null,null,null,null,unknown,unknown,unknown,unknown
+null,null,null,null,null,null,null,,unknown,unknown,
+20180831CABAS,2018,Summer,Balboa High School,San Francisco,CA,Neither,0,0,unknown,0
+20180830NCVIC,2018,Summer,Villa Heights Elementary School,Charlotte,NC,Victims Targeted,0,1,0,0
+20180830MIOTG,2018,Summer,Ottawa Hills High School,Grand Rapids,MI,Victims Targeted,0,0,1,0
+20180829DETOD,2018,Summer,Towne Point Elementary School,Dover,DE,Victims Targeted,0,1,0,0
+20180828COCOD,2018,Summer,Cole Middle School,Denver,CO,null,0,0,1,0
+20180824ILMEC,2018,Summer,Metro East Lutheran High School,Chicago,IL,Victims Targeted,0,0,1,0
+20180824FLRAJ,2018,Summer,Raines High School,Jacksonville,FL,Both,0,0,1,0
+20180823ALALM,2018,Summer,Alabama State University Stadium (high school game),Montgomery,AL,null,0,0,unknown,0
+20180817FLPAW,2018,Summer,Palm Beach Central High School,Wellington,FL,Victims Targeted,0,0,0,0
+20180811TNANN,2018,Summer,Antioch High School,Nashville,TN,Both,0,0,0,0
+20180809NJLAM,2018,Summer,Lakeside Middle School,Millville,NJ,Victims Targeted,0,0,unknown,0
+20180804MDEDE,2018,Summer,Edgewood High School,Edgewood,MD,null,,unknown,unknown,0
+20180803IALIO,2018,Summer,Liberty Elementary School,Ottumwa,IA,Random Shooting,0,0,0,0
+20180719WAWEY,2018,Summer,West Valley Middle School,Yakima,WA,null,,unknown,unknown,0
+20180717WVHUH,2018,Summer,Hurricane High School,Hurricane,WV,NA,0,0,0,0
+20180711OHMIM,2018,Summer,Milkovich Middle School,Maple Heights,OH,null,,unknown,0,
+20180703KSSUO,2018,Summer,Sunrise Point Elementary School,Overland,KS,Victims Targeted,0,0,0,0
+20180701TNRAM,2018,Summer,Raineshaven Elementary School,Memphis,TN,null,0,unknown,unknown,0
+20180625OHFUS,2018,Summer,Fulton Elementary School,Springfield,OH,Victims Targeted,0,0,0,0
+20180624MTSEM,2018,Summer,Sentinel High School,Missoula,MT,Victims Targeted,0,0,0,0
+20180621TXSKD,2018,Summer,Skyline High School,Dallas,TX,null,0,0,unknown,0
+20180617ORGRP,2018,Summer,Grant High School,Portland,OR,null,0,0,unknown,0
+20180615OHVAB,2018,Summer,Valley Elementary School,Beaver Creek,OH,Victims Targeted,0,1,0,0
+20180601TXMCM,2018,Summer,McKinney North High School,McKinney,TX,Victims Targeted,0,0,0,0
+20180525INNON,2018,Spring,Noblesville West Middle School,Noblesville,IN,Victims Targeted,0,0,0,0
+20180521GABEG,2018,Spring,Beaverbrook Elementary School,Griffin,GA,Random Shooting,0,0,0,0
+20180518TXSAS,2018,Spring,Santa Fe High School,Santa Fe,TX,Both,1,0,0,1
+20180518GAMOA,2018,Spring,Mount Zion High School,Atlanta,GA,Both,0,0,0,0
+20180517MOCEK,2018,Spring,Central High School,Kansas City,MO,null,0,0,0,0
+20180516ILDID,2018,Spring,Dixon High School,Dixon,IL,null,,unknown,unknown,
+null,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,null,null,null,null,,unknown,unknown,
+20180511CAHIP,2018,Spring,Highland High School,Palmdale,CA,Victims Targeted,,0,0,0
+20180505MIFOF,2018,Spring,Fowlerville High School,Fowlerville,MI,Neither,N/A,N/A,N/A,N/A
+20180503TNWAW,2018,Spring,Waynesboro Elementary School,Waynesboro,TN,Neither,0,0,0,0
+20180503SDENW,2018,Spring,Enemy Swim Day School,Waubay,SD,null,,unknown,0,0
+20180425NMHIA,2018,Spring,Highland High School,Albuquerque,NM,Victims Targeted,0,0,0,0
+20180423GABEA,2018,Spring,Benjamin E. Mays High School,Atlanta,GA,Victims Targeted,0,1,0,0
+20180420FLFOO,2018,Spring,Forest High School,Ocala,FL,Random Shooting,0,0,0,1
+20180419MIJAJ,2018,Spring,Jackson High School,Jackson,MI,Neither,0,0,unknown,0
+20180412MORAR,2018,Spring,Rayton South Middle School,Rayton,MO,Victims Targeted,0,0,0,0
+20180409NYGLG,2018,Spring,Gloversville Middle School,Gloversville,NY,Victims Targeted,0,0,0,0
+20180329KYJOE,2018,Spring,John Hardin High School,Elizabethtown,KY,null,0,1,0,0
+20180328MSEUE,2018,Spring,Eupora High School,Eupora,MS,Neither,,0,0,0
+20180320MDGRG,2018,Spring,Great Mills High School,Great Mills,MD,Both,0,1,0,0
+20180319VADOP,2018,Spring,Douglass Park Elementary School,Portsmouth,VA,Random Shooting,0,0,0,0
+20180316MTBIM,2018,Spring,Big Sky High School,Missoula,MT,Victims Targeted,N/A,N/A,N/A,N/A
+20180313VAGEA,2018,Spring,George Washington Middle School,Alexandria,VA,Neither,0,0,0,0
+20180313CASES,2018,Spring,Seaside High School,Seaside,CA,Random Shooting,0,0,0,0
+20180309KYFRL,2018,Spring,Frederick Douglass High School,Lexington,KY,Random Shooting,0,0,0,0
+20180307ALHUB,2018,Spring,Huffman High School,Birmingham,AL,Random Shooting,0,0,0,0
+20180305MOKIC,2018,Spring,Kingston High School,Cadet,MO,Victims Targeted,0,0,0,0
+20180228GADAD,2018,Winter,Dalton High School,Dalton,GA,Neither,0,0,0,0
+20180226WAOAT,2018,Winter,Oakland High School,Tacoma,WA,Neither,0,0,0,0
+20180220OHJAM,2018,Winter,Jackson Memorial Middle School,Massillon,OH,Victims Targeted,,0,0,1
+20180215FLNOC,2018,Winter,North Broward Preparatory School,Coconut Creek,FL,Random Shooting,N/A,N/A,N/A,N/A
+20180214FLMAP,2018,Winter,Marjory Stoneman Douglas High School,Parkland,FL,Random Shooting,0,0,0,1
+20180209TNPEN,2018,Winter,Peal-Cohn High School,Nashville,TN,Victims Targeted,,0,1,0
+20180208NYTHN,2018,Winter,The Metropolitan High School,New York,NY,null,,unknown,unknown,0
+20180205MNHAM,2018,Winter,Harmony Learning Center,Maplewood,MN,Neither,0,0,0,0
+20180205MDOXO,2018,Winter,Oxon Hill High School,Oxon Hill,MD,Victims Targeted,,0,0,0
+20180201CASAL,2018,Winter,Salvador B. Castro Middle School,Los Angeles,CA,Random Shooting,1,0,0,0
+20180131PALIP,2018,Winter,Lincoln High School,Philadelphia,PA,Random Shooting,,0,1,0
+20180126MIDED,2018,Winter,Dearborn High School,Dearborn,MI,null,0,0,1,0
+20180125ALMUM,2018,Winter,Murphy High School,Mobile,AL,Victims Targeted,,0,0,0
+20180123KYMAB,2018,Winter,Marshall County High School,Benton,KY,Random Shooting,,0,0,1
+20180122TXITI,2018,Winter,Italy High School,Italy,TX,null,,unknown,unknown,
+null,null,null,null,null,null,null,unknown,unknown,unknown,unknown
+null,null,null,Victims Targeted,null,null,null,,unknown,unknown,
+20180122LANEN,2018,Winter,NET Charter High School,New Orleans,LA,Victims Targeted,0,0,1,0
+20180116VTMOM,2018,Winter,Montpelier High School,Montpelier,VT,Victims Targeted,N/A,N/A,N/A,N/A
+20180109AZCOS,2018,Winter,Coronado Elementary School,Sierra Vista,AZ,Victims Targeted,,0,0,0
+20180105IAFOF,2018,Winter,Forest City School Bus,Forest City,IA,Neither,0,0,0,0
+20180104WANES,2018,Winter,New Start High School,Seattle,WA,NA,N/A,N/A,unknown,0
+20171231WAPIM,2017,Winter,Pinewood Elementary School,Marysville,WA,Neither,0,0,0,0
+20171231LAEDA,2017,Winter,Edna Karr High School,Algiers,LA,Victims Targeted,0,0,0,0
+20171227CALIL,2017,Winter,Lincoln Elementary School,Lancaster,CA,Victims Targeted,0,0,0,0
+20171219MIBEB,2017,Winter,Beecher High School,Beecher,MI,Victims Targeted,0,0,0,0
+20171214TXELD,2017,Winter,Elisha M. Pease Elementary School,Dallas,TX,Neither,0,0,0,0
+20171212TXSAP,2017,Winter,Sam Rayburn High School,Pasadena,TX,Random Shooting,0,0,0,0
+20171211NCHIH,2017,Winter,High Point Central High School,High Point,NC,Victims Targeted,0,0,1,0
+20171209ILCHC,2017,Winter,Champaign Central High School,Champaign,IL,Both,0,0,0,0
+20171207NMAZA,2017,Winter,Aztec High School,Aztec,NM,Random Shooting,unknown,0,0,1
+20171130VASAV,2017,Fall,Salem High School,Virginia Beach,VA,Victims Targeted,0,0,0,0
+20171129OHBAL,2017,Fall,Bath High School,Lima,OH,Neither,0,0,0,0
+20171128CABOS,2017,Fall,Booksin Elementary School,San Jose,CA,NA,N/A,N/A,0,0
+20171123COMAD,2017,Fall,Manual High School,Denver,CO,null,,unknown,unknown,
+null,null,null,null,null,null,null,,unknown,unknown,
+20171117TNNOJ,2017,Fall,North Side High School,Jackson,TN,null,0,0,unknown,0
+20171114FLLAM,2017,Fall,Lake Minneola High School,Minneola,FL,Victims Targeted,0,0,0,0
+20171114CARAR,2017,Fall,Rancho Tehama Elementary School,Rancho Tehama Reserve,CA,null,,unknown,unknown,
+null,null,null,null,null,null,null,unknown,unknown,unknown,unknown
+null,null,null,null, Tehama County,null,Illegal Activity,0,0,0,0
+20171110GALAM,2017,Fall,Lakeview Academy,Milledgeville,GA,Neither,0,0,0,0
+20171109GABEC,2017,Fall,Benjamin Banneker High School,College Park,GA,Neither,0,0,0,0
+20171103MIPAL,2017,Fall,Pattengill Academy,Lansing,MI,Neither,0,0,unknown,0
+20171027NYPRU,2017,Fall,Proctor High School,Utica,NY,Victims Targeted,0,0,0,0
+20171020OHSTT,2017,Fall,Start High School,Toledo,OH,null,0,0,unknown,0
+20171014NCKEK,2017,Fall,Kernersville Elementary School,Kernersville,NC,Victims Targeted,0,0,0,0
+20171012NCCHC,2017,Fall,Charlotte School Bus,Charlotte,NC,Random Shooting,0,0,0,0
+20170930PAPUC,2017,Fall,Purchase Line Elementary School,Commodore,PA,Victims Targeted,0,1,0,0
+20170929MOLEL,2017,Fall,Lees Summit North High School,Lees Summit,MO,Victims Targeted,0,0,0,0
+20170929CASUL,2017,Fall,Sun Valley High School,Los Angeles,CA,null,0,0,0,0
+20170928KYSOL,2017,Fall,Southern Middle School,Lwxington,KY,null,0,0,0,0
+20170920ILMAM,2017,Fall,Mattoon High School,Mattoon,IL,Both,1,1,0,1
+20170913WAFRR,2017,Fall,Freeman High School,Rockford,WA,Both,1,0,0,1
+20170908OHCOC,2017,Fall,Columbus Scioto 6-12,Columbus,OH,Neither,,unknown,0,0
+20170908ARNON,2017,Fall,North Little Rock High School,North Little Rock,AR,Victims Targeted,0,0,unknown,0
+20170831CAARS,2017,Summer,Arroyo Valley High School,San Bernardino,CA,Victims Targeted,0,0,0,0
+20170817GALIL,2017,Summer,Lithia Spring High,Lithia Springs,GA,Victims Targeted,0,0,0,0
+20170813NYHUH,2017,Summer,Hudson County School Bus,Hudson,NY,Both,0,0,unknown,0
+20170801GABAV,2017,Summer,Bazemore-Hyder Stadium (Valdosta High School),Valdosta,GA,Both,0,0,0,0
+20170721UTSPS,2017,Summer,Spanish Fork High School,Spanish Fork,UT,Victims Targeted,0,0,0,0
+20170719WIHIM,2017,Summer,Hickman Academy Preparatory School,Milwaukee,WI,Victims Targeted,0,0,0,0
+20170622SCWIF,2017,Summer,Wilson High School,Florence,SC,Neither,0,0,0,0
+20170616ILWAC,2017,Summer,Warren Elementary School,Chicago,IL,Both,0,0,1,0
+20170526OKMCT,2017,Spring,McLain High School,Tulsa,OK,Victims Targeted,,0,unknown,0
+20170524NEMCO,2017,Spring,McMillan Middle School,Omaha,NE,Victims Targeted,0,0,0,0
+20170524ALGRG,2017,Spring,Greensboro High School,Greensboro,AL,Victims Targeted,,unknown,0,0
+20170523TXKEK,2017,Spring,Kerbyville High School,Kirbyville,TX,Victims Targeted,0,0,0,0
+20170515LAMOL,2017,Spring,Moss Bluff Elementary School,Lake Charles,LA,Neither,0,0,0,0
+20170415OKBOT,2017,Spring,Booker T. Washington High School,Tulsa,OK,null,0,0,unknown,0
+20170415ORMEP,2017,Spring,Menlo Park Elementary School,Portland,OR,Victims Targeted,0,0,unknown,0
+20170410CANOS,2017,Spring,North Park Elementary School,San Bernardino,CA,Both,0,1,0,0
+20170328PALIP,2017,Spring,Linton Middle School,Penn Hills,PA,Victims Targeted,0,0,0,0
+20170321CAKIK,2017,Spring,King City High School,King City,CA,Victims Targeted,0,0,1,0
+20170316ALROM,2017,Spring,Robert E. Lee High School,Montgomery,AL,Both,,0,0,0
+20170218MNMAM,2017,Winter,Maplewood Middle School,Maplewood,MN,Victims Targeted,N/A,unknown,0,0
+20170206LASCB,2017,Winter,Scotlandville Magnet High School,Baton Rouge,LA,Neither,,unknown,0,0
+20170127SCSOA,2017,Winter,South Aiken High School,Aiken,SC,Both,0,0,1,0
+20170127ILSCN,2017,Winter,Thomas G Scullen Middle School,Naperville,IL,Victims Targeted,0,0,0,0
+20170120OHWEW,2017,Winter,West Liberty-Salem High School,West Liberty,OH,Random Shooting,0,0,0,1
+20170117FLFRE,2017,Winter,Franklin County Elementary School,Eastpoint,FL,Neither,0,0,0,0
+20170110ALALA,2017,Winter,Alexander City Middle School,Alexander City,AL,Neither,0,0,0,0
+20170101DELAH,2017,Winter,Lake Forest South Elementary School,Harrington,DE,null,0,0,0,0
+20161216FLSAJ,2016,Winter,Samuel W. Wolfson High School,Jacksonville,FL,Random Shooting,0,0,0,0
+20161209NVHUR,2016,Winter,Hug High School,Reno,NV,Victims Targeted,,unknown,unknown,
+20161209MOBAS,2016,Winter,Bayless High School,St. Louis,MO,Victims Targeted,0,0,0,0
+20161201UTMUB,2016,Winter,Mueller Park Junior High School,Bountiful,UT,Random Shooting,1,0,0,0
+20161117MNCRS,2016,Fall,Crossroads Elementary School,St. Paul,MN,Neither,0,0,0,0
+20161111MIBAA,2016,Fall,Bay City Western High School,Auburn,MI,Neither,0,0,0,0
+20161103COBEB,2016,Fall,Berthoud High School,Berthoud,CO,Victims Targeted,0,0,0,0
+20161102COGRG,2016,Fall,Grand Junction High School,Grand Junction,CO,Victims Targeted,,unknown,0,0
+20161025UTUNS,2016,Fall,Union Middle School,Sandy,UT,Victims Targeted,0,0,0,0
+20161018CAJUS,2016,Fall,June Jordan High School for Equity,San Francisco,CA,Both,0,0,unknown,0
+20161015GABEA,2016,Fall,Benjamin E. Mays High School,Atlanta,GA,null,0,0,1,0
+20161013OHLIC,2016,Fall,Linden McKinley STEM Academy,Columbus,OH,Victims Targeted,0,0,1,0
+20161011ALVIM,2016,Fall,Vigor High School,Mobile,AL,Victims Targeted,0,0,0,0
+20161006TXDUF,2016,Fall,Dunbar HIgh School,Fort Worth,TX,null,,unknown,1,0
+20160930ILCHC,2016,Fall,Christ of King Jesuit College Prep (bus),Chicago,IL,null,,0,unknown,0
+20160928SCTOT,2016,Fall,Townville Elementary School,Townville,SC,null,,unknown,unknown,
+null,null,null,null,null,null,null,unknown,unknown,unknown,unknown
+null,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,null,null,null,null,unknown,unknown,unknown,unknown
+null,null,null,null,null,null,No,1,unknown,1,
+20160928TNSYP,2016,Fall,Sycamore Middle School,Pleasant View,TN,Victims Targeted,,0,0,1
+20160927OHELC,2016,Fall,Elder High School,Cincinnati,OH,null,0,0,unknown,0
+20160926MSTAJ,2016,Fall,T A Wilson Academy (bus),Jackson,MS,Victims Targeted,0,unknown,0,0
+20160909PASMY,2016,Fall,Small Athletic Field (William Penn Senior High School game),York,PA,Victims Targeted,0,0,0,0
+20160909IACEC,2016,Fall,Cedar Rapids Jefferson High School,Cedar Rapids,IA,Victims Targeted,,unknown,0,0
+20160908TXALA,2016,Fall,Alpine High School,Alpine,TX,Both,0,1,0,0
+20160907MIDED,2016,Fall,Detroit Collegiate Preparatory High School,Detroit,MI,Victims Targeted,,unknown,unknown,0
+20160902OKMCT,2016,Fall,McClain High School,Tulsa,OK,Victims Targeted,0,0,1,0
+20160819FLSOM,2016,Summer,Southridge High School,Miami,FL,null,0,0,unknown,0
+20160817OHWEC,2016,Summer,Wedgewood Middle School,Columbus,OH,null,,0,unknown,0
+20160725MOAVA,2016,Summer,Ava High School,Ava,MO,Victims Targeted,0,0,0,0
+20160630CAWOH,2016,Summer,Woodrow Wilson Junior High School,Hanford,CA,null,,0,0,0
+20160616ILMCC,2016,Summer,Mcnair Elementary School,Chicago,IL,Victims Targeted,,0,0,0
+20160608MAJED,2016,Summer,Jeremiah Burke High School,Dorchester,MA,Both,0,0,1,0
+20160515KSAUA,2016,Spring,Augusta High School,Augusta,KS,Random Shooting,0,0,0,0
+20160513SCSOG,2016,Spring,Southside High School,Greenville,SC,Neither,0,0,0,0
+20160506IDROT,2016,Spring,Robert Stuart Middle School,Twin Falls,ID,Neither,N/A,N/A,0,0
+20160506FLOSP,2016,Spring,Oscar Patterson Elementary School,Panama City,FL,Random Shooting,0,0,0,0
+20160505MDHIB,2016,Spring,High Point High School,Beltsville,MD,Both,,1,0,0
+20160504COEAP,2016,Spring,East High School,Pueblo,CO,Victims Targeted,,0,0,0
+20160502TXKID,2016,Spring,Kimball High School,Dallas,TX,Random Shooting,1,0,0,0
+20160423WIANA,2016,Spring,Antigo High School,Antigo,WI,null,,unknown,unknown,
+null,null,null,null,null,null,null,unknown,unknown,unknown,unknown
+null,null,null,null,null,null,null,,unknown,unknown,
+20160315ALHUB,2016,Spring,Huffman High School,Birmingham,AL,Victims Targeted,0,0,0,0
+20160229OHMAM,2016,Winter,Madison High School,Middletown,OH,null,,unknown,unknown,
+null,null,null,null,null,null,null,unknown,unknown,unknown,unknown
+null,null,null,null,null,null,null,,unknown,unknown,
+20160226TXPAP,2016,Winter,Palestine High School,Palestine,TX,Victims Targeted,0,1,0,0
+20160217PACHC,2016,Winter,Chester High School (bus),Chester,PA,Victims Targeted,,0,1,0
+20160217FLROH,2016,Winter,Rock Crusher Elementary School,Homosassa,FL,NA,N/A,N/A,N/A,N/A
+20160212AZING,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,Glendale,AZ,null,null,1,0,0,unknown
+20160209MIMUM,2016,Winter,Muskegon Heights High School,Muskegon Heights,MI,Both,0,0,1,0
+20160129PABEP,2016,Winter,Benjamin Franklin High School,Philadelphia,PA,Victims Targeted,0,0,0,0
+20160122INLAI,2016,Winter,Lawrence Central High School,Indianapolis,IN,Victims Targeted,0,0,0,0
+20160120INNOI,2016,Winter,Northwestern Community High School,Indianapolis,IN,NA,N/A,N/A,0,0
+20160113ARHAB,2016,Winter,Harmony Grove High School,Benton,AR,Random Shooting,0,0,0,0
+20160112DECED,2016,Winter,Central Middle School,Dover,DE,Neither,0,0,0,0
+20151204KSWEW,2015,Winter,West High School,Wichita,KS,null,0,0,unknown,0
+20151120FLNAM,2015,Fall,Nathaniel ôTrazö Powell Stadium (high school game),Miami,FL,null,0,0,unknown,0
+20151111ARSUS,2015,Fall,Sulphur Rock Magnet School,Sulphur Rock,AR,Random Shooting,0,0,0,0
+20151105GAVEM,2015,Fall,Vereen School,Moultrie,GA,Neither,0,0,0,0
+20151024TXEDS,2015,Fall,Ed White Middle School,San Antonio,TX,Victims Targeted,0,0,unknown,0
+20151015TXKAS,2015,Fall,Karen Wagner High School,San Antonio,TX,Victims Targeted,0,0,0,0
+20150930SDHAH,2015,Fall,Harrisburg High School,Harrisburg,SD,Victims Targeted,0,0,0,1
+20150922NCCES,2015,Fall,Central Elementary School,Stateville,NC,Victims Targeted,0,1,0,0
+20150911LANOL,2015,Fall,Northside High School,Lafayette,LA,Random Shooting,0,0,unknown,0
+20150903ORNEN,2015,Fall,Newberg High School,Newberg,OR,null,0,0,0,0
+20150825GAWSA,2015,Summer,W S Hornsby Elementary School,Augusta,GA,Neither,0,0,0,0
+20150823TXWIR,2015,Summer,William Velasquez Elementary School,Richmond,TX,Neither,0,0,0,0
+20150808TXPAP,2015,Summer,Paradise High School,Paradise,TX,Neither,0,0,0,0
+20150724TXELC,2015,Summer,Elolf Elementary School,Converse,TX,Victims Targeted,0,0,0,0
+20150705TXCOD,2015,Summer,Coppell Middle School East,Dallas,TX,Victims Targeted,0,0,0,0
+20150629TXJOS,2015,Summer,John Jay High School,San Antonio,TX,Victims Targeted,N/A,N/A,N/A,N/A
+20150627CTSAH,2015,Summer,Sarah J. Rawson Elementary School,Hartford,CT,null,0,0,0,0
+20150623NEFOF,2015,Summer,Fort Calhoun Elementary School,Fort Calhoun,NE,Victims Targeted,0,0,0,0
+20150604NCSOF,2015,Summer,South Macon Elementary School,Franklin,NC,Neither,0,0,0,1
+20150527FLEVE,2015,Spring,Everglades City School,Everglades City,FL,Victims Targeted,0,unknown,0,0
+20150524MISOF,2015,Spring,Southwestern Classical Academy,Flint,MI,null,,unknown,0,0
+20150521FLDUJ,2015,Spring,Duval County School Bus,Jacksonville,FL,Both,0,0,unknown,0
+20150520TXROR,2015,Spring,Robinson High School,Robinson,TX,Both,,unknown,0,0
+20150512FLUNJ,2015,Spring,Unknown School (bus),Jacksonville,FL,Both,0,0,1,0
+20150512AZCOT,2015,Spring,Corona del Sol High School,Tempe,AZ,Victims Targeted,,unknown,0,0
+20150505GACOC,2015,Spring,Conyers Middle School,Conyers,GA,Neither,,unknown,unknown,
+20150504OHWIC,2015,Spring,Willow Elementary School,Cleveland,OH,null,,unknown,unknown,0
+20150428MDDRW,2015,Spring,Dr. Gustavus Brown Elementary School,Waldorf,MD,Victims Targeted,0,0,unknown,0
+20150427WANOL,2015,Spring,North Thurston High School,Lacey,WA,Neither,1,0,0,1
+20150422NVRUL,2015,Spring,Ruth Deskin Elementary School,Las Vegas,NV,Neither,0,0,0,0
+20150417TXSES,2015,Spring,Seguin High School,Seguin,TX,Victims Targeted,,unknown,0,0
+20150330MOPEU,2015,Spring,Pershing Elementary School,University City,MO,null,0,0,0,0
+20150215CATEM,2015,Winter,Tenaya Middle School,Merced,CA,Victims Targeted,0,0,0,0
+20150215ARLAL,2015,Winter,Lawson Elementary School,Little Rock,AR,Victims Targeted,0,1,0,0
+20150204MDFRF,2015,Winter,Frederick High School,Frederick,MD,Victims Targeted,0,0,1,0
+20150126MNHAR,2015,Winter,Hand in Hand Montessori,Roseville,MN,Neither,N/A,unknown,unknown,0
+20150122SCROH,2015,Winter,Royal Live Oaks Academy,Hardeeville,SC,null,0,0,0,
+20150120ALWIM,2015,Winter,Williamson High School,Mobile,AL,Random Shooting,0,0,0,0
+20150116FLVAO,2015,Winter,Vanguard High School,Ocala,FL,Both,,0,1,0
+20150115WIWIM,2015,Winter,Wisconsin Lutheran High School,Milwaukee,WI,Both,N/A,0,1,0
+20141217MIGOW,2014,Winter,Godfrey Lee High School,Wyoming,MI,Victims Targeted,0,0,unknown,0
+20141217MEBEW,2014,Winter,Benton Elementary School,Waterville,ME,Victims Targeted,0,0,0,0
+20141216PASUP,2014,Winter,Sunnyside Elementary School,Pittsburgh,PA,null,,unknown,unknown,
+20141212ORROP,2014,Winter,Rosemary Anderson High School,Portland,OR,Victims Targeted,0,0,1,0
+20141120FLMIM,2014,Fall,Miami Carol City High School,Miami,FL,Victims Targeted,0,0,1,0
+20141024WAMAM,2014,Fall,Marysville Pilchuck High School,Marysville,WA,Victims Targeted,1,1,0,1
+20141024GALAA,2014,Fall,Lakewood Stadium (Mays High School Game),Atlanta,GA,Victims Targeted,0,0,unknown,0
+20141021TNAMM,2014,Fall,A Maceo Walker Middle School,Memphis,TN,Random Shooting,0,0,0,0
+20141003GALAF,2014,Fall,Langston Hughes High School,Fairburn,GA,Victims Targeted,0,0,1,0
+20140930NCALA,2014,Fall,Albemarle High School,Albemarle,NC,Victims Targeted,0,0,0,0
+20140930KYFEL,2014,Fall,Fern Creek Traditional High School,Louisville,KY,Victims Targeted,0,0,0,0
+20140925NHWEM,2014,Fall,West High School,Manchester,NH,Neither,,0,0,0
+20140919IANOD,2014,Fall,North High School,Des Moines,IA,Victims Targeted,0,0,1,0
+20140911UTWET,2014,Fall,Westbrook Elementary School,Taylorsville,UT,Random Shooting,0,0,0,0
+20140910FLGRL,2014,Fall,Greenwood Lakes Middle School,Lake Mary,FL,Victims Targeted,1,0,0,0
+20140909FLSTM,2014,Fall,Stellar Leadership Academy,Miami,FL,Victims Targeted,0,0,0,0
+20140814VASAN,2014,Summer,Saunders Elementary School,Newport News,VA,Victims Targeted,0,0,1,0
+20140813MDHEF,2014,Summer,Heather Ridge High School,Fredrick,MD,Neither,0,0,0,0
+20140623MOKEB,2014,Summer,Kelly High School,Benton,MO,Random Shooting,0,0,0,0
+20140610ORRET,2014,Summer,Reynolds High School,Troutdale,OR,Both,0,unknown,0,1
+20140521WICLM,2014,Spring,Clarke Street Elementary School,Milwaukee,WI,Random Shooting,0,0,0,0
+20140514CAJOR,2014,Spring,John F. Kennedy High School,Richmond,CA,null,0,0,1,0
+20140503WAHOE,2014,Spring,Horizon Elementary School,Everett,WA,null,,0,1,0
+20140421UTPRP,2014,Spring,Provo High School,Provo,UT,Victims Targeted,,unknown,0,0
+20140421INSTG,2014,Spring,St. Mary Catholic School,Griffith,IN,Victims Targeted,0,1,0,0
+20140411MIEAD,2014,Spring,East English Village Preparatory Academy,Detroit,MI,Both,0,0,1,0
+20140410OHLIC,null,null,null,null,null,null,,unknown,unknown,
+null,2014,Spring,Liberty Elementary School,Columbus,OH,Victims Targeted,0,0,0,0
+20140409NCDHG,2014,Spring,D H Conley High School,Greenville,NC,Neither,0,0,1,0
+20140403NJUNN,2014,Spring,Unknown School (bus),Newark,NJ,Victims Targeted,0,0,0,0
+20140325GABEC,2014,Spring,Benjamin Banneker High School,College Park,GA,Victims Targeted,0,0,0,0
+20140312FLACM,2014,Spring,Academy of Knowledge Preschool,Miami,FL,Victims Targeted,0,1,0,0
+20140307LAMAT,2014,Spring,Madison Parish High School,Tallulah,LA,null,,unknown,unknown,
+20140220MIRAR,2014,Winter,Raytown Success Academy,Raytown,MI,Victims Targeted,N/A,0,0,0
+20140211OHCHL,2014,Winter,Charles F. Brush High School,Lyndhurt,OH,Victims Targeted,0,0,0,0
+20140210NCSAS,2014,Winter,Salisbury High School,Salisbury,NC,Both,0,0,0,0
+20140207ORBEB,2014,Winter,Bend High School,Bend,OR,Neither,0,0,0,0
+20140131IANOD,2014,Winter,North High School,Des Moines,IA,Random Shooting,0,0,1,0
+20140131AZCEP,2014,Winter,Cesar Chavez High School,Phoenix,AZ,Neither,0,0,1,0
+20140128HIPRH,2014,Winter,President Theodore Roosevelt High,Honolulu,HI,Victims Targeted,N/A,N/A,N/A,N/A
+20140127ILREC,2014,Winter,Rebound High School,Carbondale,IL,Victims Targeted,,0,0,0
+20140117PADEP,2014,Winter,Delaware Valley Charter School,Philadelphia,PA,Both,0,0,0,0
+20140114PAKIL,2014,Winter,King Elementary School,Lancaster,PA,null,N/A,0,unknown,0
+20140114NMBER,2014,Winter,Berrendo Middle School,Roswell,NM,Random Shooting,1,0,0,1
+20140114LASTB,2014,Winter,St. James High School,Baton Rouge,LA,Victims Targeted,0,0,0,0
+20140113CTHIN,2014,Winter,Hillhouse High School,New Haven,CT,Victims Targeted,0,0,1,0
+20140109TNLIJ,2014,Winter,Liberty Technology Magnet High School,Jackson,TN,Victims Targeted,0,0,0,0
+20131219CAEDF,2013,Winter,Edison High School,Fresno,CA,Random Shooting,0,0,1,0
+20131213COARC,2013,Winter,Arapahoe High School,Centennial,CO,Both,1,0,0,1
+20131204FLWEW,2013,Winter,West Orange High School,Winter Garden,FL,Victims Targeted,0,0,0,0
+20131113PABRP,2013,Fall,Brashear High School,Pittsburgh,PA,Victims Targeted,0,0,0,0
+20131103GASTL,2013,Fall,Stephenson High School,Lithonia,GA,Random Shooting,0,0,0,0
+20131101IAALA,2013,Fall,Algona High School,Algona,IA,Victims Targeted,0,0,0,0
+20131023CANEC,2013,Fall,Newman Elementary School,Chino,CA,Random Shooting,0,0,0,0
+20131021NVSPS,2013,Fall,Sparks Middle School,Sparks,NV,Both,1,0,0,
+20131015TXLAA,2013,Fall,Lanier High School,Austin,TX,Victims Targeted,0,0,0,0
+20131004FLAGP,2013,Fall,Agape Christian Academy,Pine Hills,FL,Both,0,0,1,0
+20131002NHWIS,2013,Fall,Winnisquam Regional School District,Sanbornton,NH,Random Shooting,0,0,0,0
+20130928MENEG,2013,Fall,New Gloucester High School,Gray,ME,Victims Targeted,,unknown,0,0
+20130927ILROC,2013,Fall,Roosevelt High School,Chicago,IL,Victims Targeted,0,0,0,0
+20130830NCCAW,2013,Summer,Carver High School,Winston-Salem,NC,Victims Targeted,1,0,0,0
+20130823MSNOS,2013,Summer,North Panola High School,Sardis,MS,null,0,0,1,0
+20130822TNWEM,2013,Summer,Westside Elementary School,Memphis,TN,Neither,0,0,0,0
+20130820GAROD,2013,Summer,Ronald E. McNair Discovery Learning Academy,Decatur,GA,Victims Targeted,0,0,0,1
+20130815TNNOC,2013,Summer,Northwest High School,Clarksville,TN,Victims Targeted,0,0,0,0
+20130619FLALW,2013,Summer,Alexander W. Dreyfoos School of the Arts,West Palm Beach,FL,Victims Targeted,0,0,0,0
+20130618NCHIC,2013,Summer,Hidden Valley Elementary School,Charlotte,NC,Victims Targeted,0,0,0,0
+20130523FLREH,2013,Spring,Redland Middle School,Homestead,FL,Random Shooting,0,0,0,0
+20130513ALOSB,2013,Spring,Ossie Ware Mitchell Middle School,Birmingham,AL,NA,0,0,0,0
+20130430NMTUT,2013,Spring,Tularosa Elementary School,Tularosa,NM,Victims Targeted,0,0,0,0
+20130429OHLAC,2013,Spring,La Salle High School,Cincinnati,OH,Victims Targeted,,0,0,0
+20130416TXTET,2013,Spring,Temple High School,Temple,TX,Victims Targeted,0,0,0,0
+20130321MIDAS,2013,Spring,Davidson Middle School,Southgate,MI,Victims Targeted,0,0,0,0
+20130227GAGRA,2013,Winter,Grady High School,Atlanta,GA,Random Shooting,0,0,0,0
+20130213CAHIS,2013,Winter,Hillside Elementary School,San Leandro,CA,Victims Targeted,0,0,0,0
+20130201MIMAD,2013,Winter,Martin Luther King High School,Detroit,MI,Neither,0,0,0,0
+20130131GAPRA,2013,Winter,Price Middle School,Atlanta,GA,Victims Targeted,0,0,1,0
+20130129ALDAM,2013,Winter,Dale County School Bus,Midland City,AL,Random Shooting,0,0,0,1
+20130111MIOSD,2013,Winter,Osborn High School,Detroit,MI,Victims Targeted,0,0,0,0
+20130110CATAT,2013,Winter,Taft Union High School,Taft,CA,Both,1,0,0,1
+20130107FLAPF,2013,Winter,Apostolic Revival Center Christian School,Fort Myers,FL,Victims Targeted,N/A,0,1,0
+20121214CTSAN,2012,Winter,Sandy Hook Elementary School,Newtown,CT,Random Shooting,,0,0,1
+20121210TXSPH,2012,Winter,Spring Woods High School,Houston,TX,Neither,0,0,0,0
+20121019ILBAC,2012,Fall,Banner Academy South,Chicago,IL,Victims Targeted,0,0,0,0
+20121012NDFAF,2012,Fall,Fairmount Public School,Fairmont,ND,Victims Targeted,0,0,0,0
+20120926OKSTS,2012,Fall,Stillwater Junior High School,Stillwater,OK,Victims Targeted,0,0,0,0
+20120907ILNON,2012,Fall,Normal Community High School,Normal,IL,Neither,1,0,0,1
+20120827MDPEP,2012,Summer,Perry Hall High School,Perry Hall,MD,Random Shooting,0,0,0,1
+20120824GABAH,2012,Summer,Banks County High School,Homer,GA,Victims Targeted,,0,0,0
+20120816TNHAM,2012,Summer,Hamilton High School,Memphis,TN,Victims Targeted,0,0,1,0
+20120706RINAP,2012,Summer,Nathaniel Greene Elementary School,Pawtucket,RI,Victims Targeted,0,0,0,0
+20120525NCMAC,2012,Spring,Mary Scroggs Elementary School,Chapel Hill,NC,Victims Targeted,0,1,0,0
+20120525AZWEA,2012,Spring,West View High School,Avondale,AZ,Victims Targeted,0,1,0,0
+20120401ARKIR,2012,Spring,Kirksey Middle School,Rogers,AR,Both,0,0,0,0
+20120315ALLEM,2012,Spring,LeFlore High School,Mobile,AL,Victims Targeted,0,0,1,0
+20120306FLEPJ,2012,Spring,Episcopal School of Jacksonville,Jacksonville,FL,Victims Targeted,0,0,0,0
+20120227OHCHC,2012,Winter,Chardon High School,Chardon,OH,Random Shooting,0,0,0,1
+20120222WAARB,2012,Winter,Armin Jahr Elementary School,Bremerton,WA,Random Shooting,1,0,0,0
+20120210NHWAW,2012,Winter,Walpole Elementary School,Walpole,NH,Victims Targeted,,0,0,0
+20120110TXNOH,2012,Winter,North Forest High School,Houston,TX,Both,,0,0,0
+20120104TXCUB,2012,Winter,Cummings Middle School,Brownsville,TX,Neither,N/A,N/A,N/A,N/A
+20111228MINOF,2011,Winter,Northern High School,Flint,MI,null,0,0,0,0
+20111212TXHAE,2011,Winter,Harwell Middle School,Edinburg,TX,null,0,0,0,0
+20111024NCCAF,2011,Fall,Cape Fear High School,Fayetteville,NC,Random Shooting,0,0,0,0
+20110930ORWIP,2011,Fall,Wilson High School,Portland,OR,Victims Targeted,0,0,1,0
+20110930NCGAC,2011,Fall,Garinger High School,Charlotte,NC,Victims Targeted,0,0,1,0
+20110923WAISS,2011,Fall,Issaquah High School,Seattle,WA,null,0,0,0,0
+20110523HIHIP,2011,Spring,Highlands Intermediate School,Pearl City,HI,Random Shooting,0,0,0,0
+20110517WAHOE,2011,Spring,Horizon Elementary School,Everett,WA,Victims Targeted,0,0,1,0
+20110419TXBEH,2011,Spring,Betsy Ross Elementary School,Houston,TX,Random Shooting,0,0,0,0
+20110413FLSHA,2011,Spring,Sheeler Charter High School,Apopka,FL,Both,0,0,0,0
+20110330TXWOH,2011,Spring,Worthing High School,Houston,TX,Both,0,0,1,0
+20110325INMAM,2011,Spring,Martinsville West Middle School,Martinsville,IN,Victims Targeted,0,1,0,0
+20110202CALOP,2011,Winter,Louisiana Schnell Elementary School,Placerville,CA,Victims Targeted,0,0,0,0
+20110118CAGAL,2011,Winter,Gardena High School,Los Angeles,CA,Random Shooting,0,0,0,0
+20110105NEMIO,2011,Winter,Millard South High School,Omaha,NE,Both,0,0,0,0
+20110104INCRC,2011,Winter,Crown Point School bus,Crown Point,IN,NA,N/A,unknown,unknown,0
+20101206COAUA,2010,Winter,Aurora Central High School,Aurora,CO,Both,0,0,1,0
+20101129WIMAM,2010,Fall,Marinette High School,Marinette,WI,Victims Targeted,0,0,0,0
+20101023KSTOT,2010,Fall,Topeka West High School,Topeka,KS,Victims Targeted,0,0,0,0
+20101008CAKEC,2010,Fall,Kelly Elementary School,Carlsbad,CA,Random Shooting,0,0,0,0
+20101001CAALS,2010,Fall,Alisal High School,Salinas,CA,Victims Targeted,,0,1,0
+20100921SCSOC,2010,Fall,Socastee High School,Conway,SC,Victims Targeted,1,0,0,1
+20100908MIMUD,2010,Fall,Mumford High School,Detroit,MI,Random Shooting,0,0,0,0
+20100830TNSUB,2010,Summer,Sullivan Central High School,Blountville,TN,Victims Targeted,0,0,0,
+20100518CASOS,2010,Spring,South Gate High School,South Gate,CA,Both,,unknown,unknown,0
+20100428VAWOP,2010,Spring,Woodrow Wilson High School,Portsmouth,VA,Neither,1,0,0,0
+20100226WABIT,2010,Winter,Birney Elementary School,Tacoma,WA,Victims Targeted,0,0,0,0
+20100223CODEL,2010,Winter,Deer Creek Middle School,Littleton,CO,Random Shooting,unknown,0,0,0
+20100210TNINK,2010,Winter,Inskip Elementary School,Knoxville,TN,Victims Targeted,0,0,0,0
+20100205ALDIM,2010,Winter,Discovery Middle School,Madison,AL,null,,unknown,unknown,
+null,null,null,No,null,null,null,,unknown,unknown,
+20100120ALLIL,2010,Winter,Livington High School,Livington,AL,Victims Targeted,0,1,0,0
+20091211LABOS,2009,Winter,Booker T. Washington High School,Shreveport,LA,Victims Targeted,0,1,0,0
+20091106PAHAW,2009,Fall,Hamilton High School (bus),West Philadelphia,PA,Victims Targeted,1,0,0,0
+20091030CAWIL,2009,Fall,Wilson High School,Long Beach,CA,Both,0,0,1,0
+20091016SCCAC,2009,Fall,Carolina Forest High School,Conway,SC,Victims Targeted,N/A,N/A,N/A,N/A
+20091008NYMAM,2009,Fall,Mattituck Junior-Senior High School,Mattituck,NY,Random Shooting,0,0,0,0
+20090916VAVIG,2009,Fall,Virginia Randolph Community High School,Glen Allen,VA,Victims Targeted,,unknown,0,0
+20090908CTSTS,2009,Fall,Stamford Academy,Stamford,CT,Victims Targeted,0,0,0,0
+20090827NCWEF,2009,Summer,Westover High School,Fayetteville,NC,Victims Targeted,0,0,0,0
+20090624IAAPP,2009,Summer,Aplington-Parkersburg High School,Parkersburg,IA,Victims Targeted,,0,0,0
+20090615CAINS,2009,Summer,International Studies Academy,San Francisco,CA,null,,0,1,0
+20090518LALAL,2009,Spring,Larose-Cut Off Middle School,Larose,LA,null,,0,0,0
+20090505NYCAC,2009,Spring,Canandaigua Academy,Canandaigua,NY,Victims Targeted,,unknown,0,0
+20090501WISHS,2009,Spring,Sheboygan High School,Sheboygan,WI,Victims Targeted,,unknown,0,0
+20090413CALOL,2009,Spring,Locke High School,Los Angeles,CA,Victims Targeted,,unknown,1,0
+20090311TXCYH,2009,Spring,Cypress Ridge High School,Houston,TX,NA,N/A,N/A,0,0
+20090310FLRIJ,2009,Spring,Ribault High School,Jacksonville,FL,null,0,0,0,0
+20090306NCWEF,2009,Spring,Westover High School,Fayetteville,NC,Random Shooting,0,0,0,0
+20090302SDROS,2009,Spring,Robert Frost Elementary School,Sioux Falls,SD,Victims Targeted,,0,0,0
+20090223CTBRN,2009,Winter,Brien McMahon High School,Norwalk,CT,null,,unknown,1,0
+20090220CAJOH,2009,Winter,John Muir Elementary School,Hayward,CA,Victims Targeted,0,0,unknown,0
+20090217MICED,2009,Winter,Central High School,Detroit,MI,Both,0,0,0,0
+20090211NCSCZ,2009,Winter,School bus,Zebulon,NC,Random Shooting,0,0,0,0
+20090210CABAE,2009,Winter,Baker Elementary School,El Monte,CA,NA,0,0,0,0
+20090127NCCLC,2009,Winter,Clayton High School,Clayton,NC,NA,0,0,1,0
+20090123ILCAC,2009,Winter,Cahokia High School,Cahokia,IL,Victims Targeted,0,0,0,0
+20090120PAEAE,2009,Winter,East High School,Erie,PA,Both,0,0,0,0
+20090120MIBEM,2009,Winter,Beecher High School,Mount Morris Township,MI,null,,0,0,0
+20090120ILCOC,2009,Winter,Collins HIgh School,Chicago,IL,null,0,0,0,0
+20090114ILPEC,2009,Winter,Perspectives Charter School,Chicago,IL,Random Shooting,0,0,unknown,0
+20090109ILDUC,2009,Winter,Dunbar High School,Chicago,IL,Both,0,0,1,0
+20090108DEWIN,2009,Winter,William Penn High School,New Castle,DE,Random Shooting,0,0,0,0
+20081231OKKEN,2008,Winter,Kennedy Elementary School,Norman,OK,Victims Targeted,0,0,0,0
+20081231GASHS,2008,Winter,Shuman Middle School,Savannah,GA,Random Shooting,0,0,0,0
+20081227PAWIP,2008,Winter,William H. Harrison Elementary School,Philadelphia,PA,null,0,0,unknown,0
+20081222FLLAL,2008,Winter,Largo Middle School,Largo,FL,Victims Targeted,0,0,0,0
+20081221SCSUS,2008,Winter,Summerville High School,Summerville,SC,Both,0,0,0,0
+20081212NYWIM,2008,Winter,William Floyd High School,Mastic Beach,NY,Both,0,0,0,0
+20081212NCGUA,2008,Winter,Guy B. Teachey Elementary School,Asheboro,NC,Random Shooting,0,0,0,0
+20081205MNSHF,2008,Winter,Shattuck St. Mary's Prep School,Faribault,MN,Victims Targeted,0,0,0,0
+20081202CAKIK,2008,Winter,King City High School,King City,CA,Both,0,0,1,0
+20081130CAOAG,2008,Fall,O A Peters Elementary School,Garden Grove,CA,Victims Targeted,0,0,1,0
+20081125TXNOH,2008,Fall,North Forest High School,Houston,TX,null,0,0,0,0
+20081118CACOO,2008,Fall,Cole Middle School,Oakland,CA,null,0,0,0,0
+20081118CACEC,2008,Fall,Central Valley High School,Ceres,CA,Victims Targeted,0,0,0,0
+20081115UTDES,2008,Fall,Desert Hills High School,St. George,UT,Neither,0,0,0,0
+20081115COTHL,2008,Fall,Thompson Valley High School,Loveland,CO,Victims Targeted,0,0,0,0
+20081112FLDIF,2008,Fall,Dillard High School,Fort Lauderdale,FL,Victims Targeted,0,1,0,0
+20081103CAELO,2008,Fall,El Rio Elementary School,Oxnard,CA,null,0,0,0,0
+20081103CABEB,2008,Fall,Bell High School,Bell,CA,Victims Targeted,0,0,unknown,0
+20081031MESTS,2008,Fall,Stockton Springs Elementary School,Stockton Springs,ME,null,0,0,0,0
+20081029CAELG,2008,Fall,Eliot Elementary School,Gilroy,CA,Victims Targeted,0,0,0,0
+20081023ALPRP,2008,Fall,Prattville Christian Academy,Prattville,AL,Victims Targeted,0,1,0,0
+20081020CAVAA,2008,Fall,Vasquez High School,Acton,CA,Victims Targeted,1,0,0,0
+20081016MIHED,2008,Fall,Henry Ford High School,Detroit,MI,Both,0,0,1,0
+20080919CAGEA,2008,Fall,George Washington Preparatory High School,Athens,CA,Both,0,0,1,0
+20080915CAMIS,2008,Fall,Mira Loma High School,Sacramento,CA,Victims Targeted,1,0,0,0
+20080902OHSOW,2008,Fall,South High School,Willoughby,OH,NA,,0,0,0
+20080821TNCEK,2008,Fall,Central High School,Knoxville,TN,Victims Targeted,1,0,0,1
+20080814WALAF,2008,Summer,Lakota Middle School,Federal Way,WA,Victims Targeted,,0,1,0
+20080811WAWAK,2008,Summer,Wallace Elementary School,Kelso,WA,Victims Targeted,0,0,0,0
+20080516LAMAT,2008,Spring,Madison Parish High School,Tallulah,LA,Victims Targeted,,0,0,0
+20080416CAROF,2008,Spring,Roosevelt High School,Fresno,CA,Victims Targeted,N/A,N/A,N/A,N/A
+20080306ALDAM,2008,Spring,Davidson High School,Mobile,AL,Victims Targeted,0,0,0,0
+20080214CAEOO,2008,Winter,E O Green Junior High School,Oxnard,CA,Victims Targeted,1,0,0,0
+20080211TNMIM,2008,Winter,Mitchell High School,Memphis,TN,Victims Targeted,,0,0,0
+20080204TNHAM,2008,Winter,Hamilton High School,Memphis,TN,Victims Targeted,0,0,0,0
+20071221CABAU,2007,Winter,Barnard-White Middle School,Union City,CA,Random Shooting,1,0,1,0
+20071126NYHOH,2007,Fall,Holland Patent Central High School,Holland Patent,NY,null,,unknown,0,0
+20071105LAJOR,2007,Fall,John Curtis Christian School,River Ridge,LA,Victims Targeted,,unknown,0,0
+20071024TNMAM,2007,Fall,Manassas High School,Memphis,TN,Random Shooting,0,0,0,0
+20071010OHSUC,2007,Fall,SuccessTech Academy,Cleveland,OH,Victims Targeted,1,0,0,1
+20071001CTPLM,2007,Fall,Platt High School,Meriden,CT,Victims Targeted,,unknown,unknown,
+20070930AZSSP,2007,Fall,S Simon and Jude Catholic School,Phoenix,AZ,null,,unknown,0,0
+20070928CALAO,2007,Fall,Las Plumas High School,Oroville,CA,NA,,1,0,
+20070804NJMON,2007,Summer,Mount Vernon Elementary School,Newark,NJ,Victims Targeted,0,0,1,0
+20070709ILCAC,2007,Summer,Carter G. Woodson Elementary School,Chicago,IL,null,0,0,1,0
+20070628TXDAD,2007,Summer,David W. Carter High School,Dallas,TX,Victims Targeted,0,0,1,0
+20070617SCBRB,2007,Summer,Broad River Elementary School,Burton,SC,Victims Targeted,0,0,0,0
+20070531NCNOG,2007,Spring,North Garner Middle School,Garner,NC,null,0,0,0,0
+20070530NCVAG,2007,Spring,Vandora Springs Elementary School,Garner,NC,null,0,0,0,0
+20070523RIOAC,2007,Spring,Oak Haven Elementary School,Coventry,RI,Victims Targeted,1,0,0,0
+20070515TXLIL,2007,Spring,Liberty Memorial Middle School,Los Fresnos,TX,null,,0,0,0
+20070512TXWEM,2007,Spring,West Mesquite High School,Mesquite,TX,null,0,0,0,0
+20070510MIHED,2007,Spring,Henry Ford High School,Detroit,MI,null,0,0,1,0
+20070504TXTIE,2007,Spring,Tidehaven High School,El Maton,TX,Victims Targeted,0,0,0,0
+20070503OHGED,2007,Spring,Gettysburg Elementary School,Dayton,OH,null,0,0,0,0
+20070418NCNOH,2007,Spring,North Mecklenburg High School,Huntersville,NC,Neither,0,0,0,1
+20070410ORSPG,2007,Spring,Springwater Trail High School,Gresham,OR,Random Shooting,0,0,0,1
+20070410ILCHC,2007,Spring,Chicago Vocational Career Academy,Chicago,IL,Random Shooting,0,0,0,0
+20070329SCMYM,2007,Spring,Myrtle Beach High School,Myrtle Beach,SC,Random Shooting,0,0,0,0
+20070327CTSAH,2007,Spring,Sarah J. Rawson Elementary School,Hartford,CT,Victims Targeted,0,0,0,0
+20070323FLUNO,2007,Spring,Union Park Elementary School,Orlando,FL,Random Shooting,1,0,0,0
+20070308TNEAC,2007,Spring,East Ridge High School,Chattanooga,TN,Victims Targeted,0,1,0,0
+20070307TXGRG,2007,Spring,Greenville High School,Greenville,TX,Victims Targeted,0,0,0,0
+20070307MIHEM,2007,Spring,Herbert Henry Dow High School,Midland,MI,Victims Targeted,0,1,0,0
+20070307CACEC,2007,Spring,Centennial High School,Compton,CA,Victims Targeted,,0,1,0
+20070227GACLA,2007,Winter,Clifton Elementary School,Atlanta,GA,null,0,0,0,0
+20070226CASLA,2007,Winter,Slauson Middle School,Azusa,CA,null,0,0,0,0
+20070208TXSTP,2007,Winter,Stephen F. Austin Middle School,Port Arthur,TX,Neither,0,0,0,0
+20070208ORCRP,2007,Winter,Crook County High School,Prineville,OR,Victims Targeted,0,0,0,0
+20070207FLPAJ,2007,Winter,Paxon Middle School,Jacksonville,FL,Victims Targeted,0,0,0,0
+20070131ILHIC,2007,Winter,Hillcrest High School,Country Club Hills,IL,null,0,0,0,0
+20070124TNHAS,2007,Winter,Harbin County High School,Savannah,TN,Victims Targeted,0,0,0,0
+20070118PAWIP,2007,Winter,William L.Sayre High School,Philadelphia,PA,Victims Targeted,0,0,0,0
+20070109NVWEL,2007,Winter,Western High School,Las Vegas,NV,Both,0,0,0,0
+20070109CAGRV,2007,Winter,Grant High School,Van Nuys,CA,Victims Targeted,0,0,1,0
+20070108OHROC,2007,Winter,Robert A. Taft Information Technology High School,Cincinnati,OH,null,,0,0,0
+20070104MINOD,2007,Winter,Northwestern High School,Detroit,MI,null,0,0,unknown,0
+20070103WAHET,2007,Winter,Henry Foss High School,Tacoma,WA,Victims Targeted,0,0,0,0
+20070102NCWEF,2007,Winter,Westover High School,Fayetteville,NC,Victims Targeted,,0,0,0
+20061214PAMCC,2006,Winter,McGuffey High School,Claysville,PA,Victims Targeted,,0,0,0
+20061213PABAB,2006,Winter,Bangor Area High School,Bangor,PA,null,0,0,0,0
+20061212PASPS,2006,Winter,Springfield Township High School,Springfield Township,PA,Victims Targeted,,0,0,0
+20061211ILCLC,2006,Winter,Clemente High School,Chicago,IL,Neither,0,0,1,0
+20061207NENOO,2006,Winter,Northwest High School,Omaha,NE,Random Shooting,0,0,0,0
+20061201NCJOT,2006,Winter,Jones Senior High School,Trenton,NC,Victims Targeted,0,0,1,0
+20061122GASAA,2006,Fall,Sammye E. Coan Middle School,Atlanta,GA,Victims Targeted,0,0,unknown,0
+20061111CALIO,2006,Fall,Lionel Wilson College Prep School,Oakland,CA,Both,0,0,0,0
+20061031TNHAK,2006,Fall,Halls High School,Knoxville,TN,Victims Targeted,0,0,0,0
+20061017TXSEK,2006,Fall,Seven Lakes High School,Katy,TX,Random Shooting,,unknown,0,0
+20061012MDGRB,2006,Fall,Grove Park Elementary School,Baltimore,MD,Neither,0,0,0,0
+20061010NYPOP,2006,Fall,Ponoma Middle School ,Pomona,NY,null,,0,0,0
+20061009MOMEJ,2006,Fall,Memorial Middle School,Joplin,MO,Neither,0,0,0,1
+20061002PAWEN,2006,Fall,West Nickel Mines School,Nickel Mines,PA,Random Shooting,0,1,0,1
+20060929WIWEC,2006,Fall,Weston High School,Cazenovia,WI,Random Shooting,1,0,0,1
+20060927COPLB,2006,Fall,Platte Canyon High School,Bailey,CO,Victims Targeted,0,0,0,0
+20060921DCCAW,2006,Fall,Cardozo High School,Washington,DC,Victims Targeted,0,0,0,0
+20060913MOWEC,2006,Fall,Westminster Christian Academy,Creve Coeur,MO,Victims Targeted,N/A,N/A,N/A,N/A
+20060908TXSOF,2006,Fall,South Hills High School,Fort Worth,TX,Victims Targeted,N/A,N/A,N/A,N/A
+20060905TNKIM,2006,Fall,Kingsbury Middle School,Memphis,TN,Neither,0,0,0,0
+20060831ALOXO,2006,Summer,Oxford High School,Oxford,AL,Victims Targeted,0,0,0,0
+20060830NCORH,2006,Summer,Orange High School,Hillsborough,NC,Random Shooting,0,0,0,1
+20060829DCANW,2006,Summer,Anacostia Senior High School,Washington,DC,Neither,0,0,0,0
+20060824VTESE,2006,Summer,Essex Elementary School,Essex Junction,VT,Both,0,1,0,0
+20060821INCAN,2006,Summer,Castle High School,Newburgh,IN,Victims Targeted,0,0,0,0
+20060820GALYH,2006,Summer,Lyman Hall Elementary School,Hinesville,GA,Victims Targeted,0,0,0,0
+20060819OHSOY,2006,Summer,South High School,Youngstown,OH,Victims Targeted,0,0,0,0
+20060817TXMEA,2006,Summer,Mendez Middle School,Austin,TX,Victims Targeted,0,0,1,0
+20060815KYJTV,2006,Summer,J T Alton Middle School,Vine Grove,KY,Neither,0,0,0,0
+20060731FLYOT,2006,Summer,Young Middle Magnet School,Tampa,FL,Victims Targeted,0,1,0,0
+20060615MIPED,2006,Summer,Pershing High School,Detroit,MI,Victims Targeted,0,0,0,0
+20060606INWIG,2006,Summer,Wirt High School,Gary,IN,Victims Targeted,0,0,0,0
+20060605CAVEL,2006,Summer,Venice High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+20060525PANON,2006,Spring,Northampton Area Senior High School,Northampton,PA,null,,0,0,1
+20060522SCBUI,2006,Spring,Butch Fork High School,Irmo,SC,Victims Targeted,0,1,0,0
+20060505FLPAM,2006,Spring,Parkway Academy,Miramar,FL,Victims Targeted,0,0,0,0
+20060424NCEAC,2006,Spring,East Chapel Hill High School,Chapel Hill,NC,Neither,0,0,0,0
+20060418TXWEH,2006,Spring,Westbury High School (bus),Houston,TX,Random Shooting,0,0,unknown,0
+20060405DCROW,2006,Spring,Roosevelt Senior High School,Washington,DC,Both,0,0,unknown,0
+20060314NVPIR,2006,Spring,Pine Middle School,Reno,NV,Both,1,0,0,1
+20060310NYISN,2006,Spring,I S 89 Middle School,New York,NY,Both,0,0,0,0
+20060223ORROR,2006,Winter,Roseburg High School,Roseburg,OR,Victims Targeted,1,0,0,0
+20060221PAWEP,2006,Winter,Westinghouse High School,Pittsburgh,PA,Victims Targeted,0,0,unknown,0
+20060215PAWEY,2006,Winter,West York Area High School,York,PA,Victims Targeted,0,0,0,0
+20060209DEWIN,2006,Winter,William Penn High School,New Castle,DE,Victims Targeted,0,0,0,0
+20060203CALOC,2006,Winter,Longfellow Elementary School (bus),Compton,CA,Random Shooting,0,0,0,0
+20060130MTCMG,2006,Winter,C M Russell High School,Great Falls,MT,Victims Targeted,,0,0,0
+20060127TXLAG,2006,Winter,Lakeview Centennial High School,Garland,TX,Random Shooting,0,0,0,0
+20060123CAWIV,2006,Winter,Will C. Wood High School,Vacaville,CA,Random Shooting,0,0,0,0
+20060119OHWIC,2006,Winter,Withrow High School,Cincinnati,OH,Victims Targeted,0,0,0,0
+20060118VAINC,2006,Winter,Indian River High School,Chesapeake,VA,Victims Targeted,0,0,0,0
+20060118TXPAA,2006,Winter,Passmore Elementary School,Alvin,TX,Random Shooting,0,0,0,0
+20060118MTFRA,2006,Winter,Fred Moodry Middle School,Anaconda,MT,Victims Targeted,0,unknown,0,0
+20060113MIOSD,2006,Winter,Osborn High School,Detroit,MI,Neither,0,0,0,0
+20060113FLMIL,2006,Winter,Milwee Middle School,Longwood,FL,Victims Targeted,0,0,0,0
+20060113ALPIP,2006,Winter,Pinson Valley High School,Pinson,AL,Victims Targeted,0,0,unknown,0
+20060111WIMAM,2006,Winter,Mary McLeod Bethune Academy,Milwaukee,WI,Random Shooting,0,0,0,0
+20060110DEMOW,2006,Winter,Mount Pleasant High School,Wilmington,DE,Victims Targeted,0,0,0,0
+20060103NJLIJ,2006,Winter,Lincoln High School,Jersey City,NJ,null,0,0,1,0
+20051206MICED,2005,Winter,Central High School,Detroit,MI,Victims Targeted,0,0,unknown,0
+20051206CASAG,2005,Winter,Santiago High School,Garden Grove,CA,Victims Targeted,0,0,1,0
+20051205MABOR,2005,Winter,Boston Day and Evening Academy (High School),Roxbury,MA,Neither,0,0,0,0
+20051116TXIRS,2005,Fall,Irving Middle School,San Antonio,TX,Victims Targeted,,unknown,unknown,
+20051115FLPAM,2005,Fall,Parkway Academy Charter High School (bus),Miramar,FL,Victims Targeted,0,0,0,0
+20051108TNCAJ,2005,Fall,Campbell County High School,"Jacksboro, TN",TN,Random Shooting,0,0,0,0
+20051028NYFAF,2005,Fall,Farmingdale High School,Farmingdale,NY,Victims Targeted,0,0,0,0
+20051028MDANA,2005,Fall,Annapolis High School,Annapolis,MD,Random Shooting,0,0,0,0
+20051027CABIF,2005,Fall,Birney Elementary School,Fresno,CA,Victims Targeted,0,0,1,0
+20051020MISAS,2005,Fall,Saginaw High School,Saginaw,MI,Victims Targeted,,0,1,0
+20051019CASAS,2005,Fall,San Gorgonio High School,San Bernardino,CA,Victims Targeted,0,0,0,0
+20051014NYSAN,2005,Fall,Samula Tilden High School,New York,NY,Victims Targeted,0,0,0,0
+20051011MIFAF,2005,Fall,Farmington High School,Farmington,MI,Neither,,unknown,0,0
+20050924MISAS,2005,Fall,Saginaw High School,Saginaw,MI,null,0,0,1,0
+20050913ILHAC,2005,Fall,Harlan Community Academy High School,Chicago,IL,Victims Targeted,,0,0,0
+20050902FLSOJ,2005,Fall,Sojourner Truth High School,Jacksonville,FL,Victims Targeted,,0,0,0
+20050901AKDIA,2005,Fall,Dimond High School,Anchorage,AK,Victims Targeted,0,0,0,0
+20050825TNMAD,2005,Summer,Maury Middle School,Dandridge,TN,Random Shooting,0,0,0,1
+20050819GAMOM,2005,Summer,Morrow High School,Morrow,GA,Victims Targeted,0,0,unknown,0
+20050817CAPLB,2005,Summer,Planatation Elementary School,Bakersfield,CA,Victims Targeted,0,0,0,0
+20050816VICOE,2005,Summer,Country Day High School,Estate Concordia,VI,Victims Targeted,0,0,0,0
+20050718NJWEN,2005,Summer,Weequahic High School,Newark,NJ,Random Shooting,0,0,0,0
+20050612NJBAA,2005,Summer,Bangs Avenue Elementary School,Asbury Park,NJ,null,0,0,0,0
+20050608NYARP,2005,Summer,Arlington High School,Poughkeepsi,NY,null,0,0,0,0
+20050524LABOS,2005,Spring,Booker T. Washington High School,Shreveport,LA,Neither,0,0,0,0
+20050524COACD,2005,Spring,Academia Ana Marie Sandoval Montessori School,Denver,CO,Random Shooting,0,0,0,0
+20050520ILLOM,2005,Spring,Locust Elementary School,Marengo,IL,Random Shooting,0,0,0,0
+20050517PAHIL,2005,Spring,Highland Elementary School,Lower Allen Township,PA,Victims Targeted,0,1,0,0
+20050514TXBER,2005,Spring,Berkner High School,Richardson,TX,Victims Targeted,0,0,0,0
+20050429OHDAC,2005,Spring,Daniel E. Morgan Elementary School,Cleveland,OH,null,0,0,0,0
+20050427LALER,2005,Spring,Leon Godchaux Junior High School,Reserve,LA,Neither,0,0,0,0
+20050407TXCAC,2005,Spring,Canton High School,Canton,TX,Victims Targeted,0,0,0,0
+20050330TNEAM,2005,Spring,East High School,Memphis,TN,Random Shooting,0,0,0,0
+20050324TNFAM,2005,Spring,Fairly High School,Memphis,TN,Random Shooting,0,0,0,0
+20050321NYNEB,2005,Spring,New Utrecht High School,Brooklyn,NY,Random Shooting,0,0,0,0
+20050321MNRER,2005,Spring,Red Lake Senior High School,Red Lake,MN,Random Shooting,1,0,0,1
+20050317LAOPA,2005,Spring,O Perry Walker High School,Algiers,LA,Random Shooting,0,0,0,0
+20050317CALOL,2005,Spring,Locke High School,Los Angeles,CA,null,0,0,1,0
+20050316PACAP,2005,Spring,Carrick High School,Pittsburgh,PA,Victims Targeted,0,0,1,0
+20050314OHLEC,2005,Spring,Leawood Elementary School,Columbus,OH,Random Shooting,0,0,0,0
+20050310TXZAD,2005,Spring,Zaragoza Elementary School,Dallas,TX,null,0,0,unknown,0
+20050309TNMAN,2005,Spring,Maplewood Comprehensive High School,Nashville,TN,Victims Targeted,0,0,0,0
+20050302TNSTD,2005,Spring,Stewart County High School (bus),Dover,TN,Victims Targeted,0,0,0,0
+20050208ILBOC,2005,Winter,Bowen High School,Chicago,IL,null,,0,0,0
+20050204GAMCA,2005,Winter,McNair High School,Atlanta,GA,Random Shooting,0,0,0,0
+20050126ILWOP,2005,Winter,Woodruff High School,Peoria,IL,Victims Targeted,0,0,0,0
+20050105PAMUN,2005,Winter,Murrell Dobbins Vocational-Technical High School,North Philadelphia,PA,Victims Targeted,0,0,1,0
+20041231TXRIR,2004,Winter,Richmond State School,Richmond,TX,Victims Targeted,0,unknown,0,0
+20041213LALAL,2004,Winter,La Grange High School,Lake Charles,LA,Victims Targeted,0,0,unknown,0
+20041209WALAS,2004,Winter,Lakeside High School,Spokane,WA,Victims Targeted,1,0,0,
+20041119FLTEJ,2004,Fall,Terry Parker High School,Jacksonville,FL,Random Shooting,0,0,0,0
+20041117FLAPA,2004,Fall,Apopka Memorial Middle School,Apopka,FL,Neither,0,0,0,0
+20041116SCBAB,2004,Fall,Battery Creek High School,Beaufort,SC,Victims Targeted,0,0,0,0
+20041115INBRG,2004,Fall,Brunswick Elementary School,Gary,IN,Both,0,0,0,0
+20041115ALPAB,2004,Fall,Parker High School,Birmingham,AL,Victims Targeted,0,0,0,0
+20041022CATYH,2004,Fall,Tyrrell Elementary School,Hayward,CA,Victims Targeted,0,0,1,0
+20041021MDTHB,2004,Fall,Thurgood Marshall High School,Baltimore,MD,Both,0,0,0,0
+20041015CABIB,2004,Fall,Biggs High School,Biggs,CA,Victims Targeted,0,0,1,0
+20041012CALAS,2004,Fall,Lakewood Elementary School,Sunnyvale,CA,Victims Targeted,0,1,0,0
+20041007MANEN,2004,Fall,Newburyport High School,Newburyport,MA,Victims Targeted,0,1,0,0
+20041002NEJEG,2004,Fall,Jefferson Elementary School,Grand Island,NE,Victims Targeted,0,1,0,0
+20040915INWIG,2004,Fall,Wirt High School,Gary,IN,Victims Targeted,0,0,0,0
+20040912LABON,2004,Fall,Booker T. Washington High School,New Orleans,LA,Victims Targeted,0,0,0,0
+20040830ILPRM,2004,Summer,Proviso East High School,Maywood,IL,Victims Targeted,0,0,1,0
+20040824TNHAM,2004,Summer,Hamilton High School,Memphis,TN,Victims Targeted,0,0,0,0
+20040803ALHUB,2004,Summer,Huffman High School,Birmingham,AL,Victims Targeted,0,0,0,0
+20040609CACAO,2004,Summer,Castlemont High School,Oakland,CA,Victims Targeted,0,0,1,0
+20040524UTWES,2004,Spring,West High School,Salt Lake City,UT,Victims Targeted,0,1,0,0
+20040512CAEAM,2004,Spring,East Campus Educational Center,Merced,CA,Both,0,0,1,0
+20040507MDRAR,2004,Spring,Randallstown High School,Randallstown,MD,Both,0,0,1,0
+20040504TXKAH,2004,Spring,Kashmere High School,Houston,TX,null,,unknown,unknown,0
+20040317WACRJ,2004,Spring,Crescent Junior-Senior High School,Joyce,WA,Victims Targeted,0,0,0,0
+20040305CASAL,2004,Spring,Saledad Enrichment Action Charter High School,Los Angeles,CA,Both,0,0,1,0
+20040220LAGAS,2004,Winter,Gathway Christian Academy,St. Martinville,LA,Victims Targeted,0,1,0,0
+20040213OHCOD,2004,Winter,Colonel White High School,Dayton,OH,Victims Targeted,0,0,0,0
+20040211PATMP,2004,Winter,T M Peirce Elementary School,Philadelphia,PA,Both,0,0,1,0
+20040209NYCOE,2004,Winter,Columbia High School,East Greenbush,NY,null,0,0,0,1
+20040206LAFAS,2004,Winter,Fair Park High School,Shreveport,LA,Victims Targeted,N/A,N/A,N/A,N/A
+20040203TXYOH,2004,Winter,Youens Elementary School,Houston,TX,Neither,0,0,0,0
+20040202DCBAW,2004,Winter,Ballou Senior High School,Washington,DC,Victims Targeted,0,0,0,0
+20040121NVFAH,2004,Winter,Fay Galloway Elementary School,Henderson,NV,Victims Targeted,0,1,0,0
+20040115CAPOP,2004,Winter,Pomona High School,Pomona,CA,Random Shooting,0,0,0,0
+20031229FLABE,2003,Winter,Abess Park Elementary School,East Arlington,FL,Victims Targeted,0,0,1,0
+20031222NJCOW,2003,Winter,Colonia High School,Woodbridge,NJ,Victims Targeted,0,0,0,0
+20031217MDOLM,2003,Winter,Old Mill High School,Millersville,MD,null,,unknown,0,
+20031205ILCAC,2003,Winter,Carbondale Community High School,Carbondale,IL,Victims Targeted,0,0,0,0
+20031204OKDOO,2003,Winter,Douglas High School,Oklahoma City,OK,Random Shooting,0,0,0,0
+20031202ILFEC,2003,Winter,Fermi Elementary School,Chicago,IL,Victims Targeted,0,0,unknown,0
+20031113NCEAC,2003,Fall,East Mecklenburg High School,Charlotte,NC,Neither,0,0,0,0
+20031108TXHIS,2003,Fall,Hightower High School,Sugarland,TX,Random Shooting,0,0,0,0
+20031030DCANW,2003,Fall,Anacostia High School,Washington,DC,Both,0,0,1,0
+20031029LAMAM,2003,Fall,Marion High School,Marion,LA,null,0,0,0,0
+20031007OHKEA,2003,Fall,Kenmore High School,Akron,OH,Victims Targeted,0,0,0,0
+20031001CARIS,2003,Fall,Rio Cazadero High School,Sacramento,CA,Victims Targeted,0,1,0,0
+20030925NCBUL,2003,Fall,Burns Middle School,Lawndale,NC,Victims Targeted,0,unknown,0,
+20030924MNROC,2003,Fall,Rocori High School,Cold Spring,MN,Victims Targeted,1,0,0,0
+20030922WALES,2003,Fall,Lewis and Clark High School,Spokane,WA,null,,0,0,0
+20030917MDOKE,2003,Fall,Oklahoma Road Middle School,Eldersburg,MD,null,0,0,0,0
+20030917MACHB,2003,Fall,Charlestown High School,Boston,MA,Both,0,0,1,0
+20030910MSVIV,2003,Fall,Vicksburg High School,Vicksburg,MS,Victims Targeted,0,0,0,0
+20030604PAROW,2003,Summer,Rock L. Butler Middle School,Wellsboro,PA,null,0,0,0,1
+20030513PAFOJ,2003,Spring,Forest Hills High School,Johnstown,PA,Victims Targeted,0,0,0,0
+20030424PARER,2003,Spring,Red Lion Area Junior High School,Red Lion,PA,Victims Targeted,0,0,0,0
+20030416TXGRA,2003,Spring,Greenhill Middle School,Addison,TX,Victims Targeted,,0,0,0
+20030414LAJON,2003,Spring,John McDonogh High School,New Orleans,LA,Both,0,0,1,0
+20030414LAFAS,2003,Spring,Fair Park High School,Shereveport,LA,Random Shooting,0,0,0,0
+20030410CAWAW,2003,Spring,Walnut High School,Walnut,CA,Victims Targeted,0,0,0,0
+20030401DCCAW,2003,Spring,Cardozo High School,Washington,DC,Victims Targeted,0,0,1,0
+20030330CAROW,2003,Spring,Rolling Hills Middle School,Watsonville,CA,Victims Targeted,0,0,1,0
+20030321MSNOM,2003,Spring,Northeast High School,Meridian,MS,Victims Targeted,,0,0,0
+20030318IACLG,2003,Spring,Clayton Ridge High School,Guttenberg,IA,Victims Targeted,0,0,0,0
+20030205CORAW,2003,Winter,Ranum High School,Westminster,CO,Victims Targeted,0,0,0,0
+20030130OKJEJ,2003,Winter,Jenks High School,Jenks,OK,Victims Targeted,,0,0,0
+20030121KYWEO,2003,Winter,West Carter Middle School,Olive Hill,KY,Victims Targeted,0,0,0,0
+20021216ILENC,2002,Winter,Englewood High School,Chicago,IL,Both,0,1,0,0
+20021212WAWIC,2002,Winter,Wind River Middle School,Carson,WA,null,,0,0,
+20021202MIOSD,2002,Winter,Osborn High School,Detroit,MI,Neither,0,0,0,0
+20021115TXSCS,2002,Fall,Scurry-Rosser High School,Scurry,TX,Victims Targeted,0,0,0,
+20021115CAAML,2002,Fall,Ambler Avenue Elementary School,Los Angeles,CA,null,0,0,unknown,0
+20021107MOSTL,2002,Fall,St. James Catholic School,Liberty,MO,Victims Targeted,0,1,0,0
+20021029NJLIJ,2002,Fall,Lincoln High School,Jersey City,NJ,Victims Targeted,0,0,0,0
+20021007MDBEB,2002,Fall,Benjamin Tasker Middle School,Bowie,MD,Random Shooting,0,0,0,0
+20021004TXPAS,2002,Fall,Page Middle School,San Antonio,TX,Victims Targeted,1,0,0,0
+20021004MTCMG,2002,Fall,C M Russell HIgh School,Great Falls,MT,Victims Targeted,0,0,1,0
+20020426LAABN,2002,Spring,Abramson High School,New Orleans,LA,Random Shooting,0,0,0,0
+20020406MDLEB,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,No,Yes,N/A,null,,unknown,unknown,
+20020322CAJOC,2002,Spring,John Barrett Middle School,Carmichael,CA,Victims Targeted,0,0,0,1
+20020207ILROC,2002,Winter,Roosevelt High School,Chicago,IL,Both,0,0,0,0
+20020206CAGAL,2002,Winter,Gardena High School,Los Angeles,CA,Victims Targeted,0,0,0,0
+20020201TXBRB,2002,Winter,Brock High School,Brock,TX,Victims Targeted,0,1,0,0
+20020124PAOLO,2002,Winter,Oley High School (bus),Oley,PA,Neither,0,0,0,0
+20020115NYMAN,2002,Winter,"Martin Luther King, Jr. High School",New York,NY,Victims Targeted,1,0,1,0
+20020111MSRAJ,2002,Winter,Raymond High School,Jackson,MS,Victims Targeted,0,0,0,1
+20011130TXFRF,2001,Fall,Friendswood Junior High School,Friendswood,TX,null,0,0,0,0
+20011112MICAC,2001,Fall,Caro Learning Center,Caro,MI,Victims Targeted,0,0,0,0
+20011026MIBES,2001,Fall,Benito Juarez Academy,Siginaw,MI,Random Shooting,0,0,0,0
+20011026CARER,2001,Fall,Redondo Union High School,Redondo Beach,CA,Random Shooting,0,0,0,0
+20011012UTTAT,2001,Fall,Taylorsville High School,Taylorsville,UT,Victims Targeted,0,0,0,0
+20010921MDLAB,2001,Fall,Lake Clifton Eastern High School,Baltimore,MD,Victims Targeted,0,0,1,0
+20010912KYLAC,2001,Fall,Latonia Elementary School,Covington,KY,Victims Targeted,0,0,0,0
+20010730CABEL,2001,Summer,Belmont High School,Los Angeles,CA,null,0,0,unknown,0
+20010607TXOUA,2001,Summer,Ousley Junior High School,Arlington,TX,Random Shooting,N/A,N/A,N/A,N/A
+20010515TXENE,2001,Spring,Ennis High School,Ennis,TX,Neither,0,0,0,0
+20010425OHJOC,2001,Spring,John Marshall High School,Cleveland,OH,null,0,0,unknown,0
+20010420LAMOM,2001,Spring,Monroe City Alternative Center,Monroe,LA,null,0,0,0,
+20010410WAWAM,2001,Spring,Wahluke High School,Mattawa,WA,Neither,0,0,0,0
+20010402TXKLH,2001,Spring,Kleb Intermediate School,Houston,TX,Victims Targeted,0,0,0,0
+20010330INLEG,2001,Spring,Lew Wallace High School,Gary,IN,Victims Targeted,1,0,1,0
+20010322CAGRE,2001,Spring,Granite Hills High School,El Cajon,CA,Random Shooting,0,0,0,0
+20010307WAKEC,2001,Spring,Kentwood High School,Covington,WA,Neither,0,0,0,0
+20010307PABIW,2001,Spring,Bishop Neumann High School,Williamsport,PA,Victims Targeted,1,0,0,0
+20010306MDLAL,2001,Spring,Largo High School,Largo,MD,Victims Targeted,0,0,0,0
+20010305CASAS,2001,Spring,Santana High School,Santee,CA,Random Shooting,1,0,0,1
+20010302CAHOS,2001,Spring,Hoover High School,San Diego,CA,Victims Targeted,0,0,0,0
+20010202MIOSD,2001,Winter,Osborn High School,Detroit,MI,null,0,0,0,0
+20010117MDLAB,2001,Winter,Lake Clifton Eastern High School,Baltimore,MD,Victims Targeted,0,0,0,0
+20010110CAHUO,2001,Winter,Hueneme High School,Oxnard,CA,Random Shooting,0,0,1,0
+20010103CABAS,2001,Winter,Balboa High School,San Francisco,CA,Neither,0,0,0,0
+20001221FLNOM,2000,Winter,Norland Elementary School,Miami,FL,Victims Targeted,0,0,0,0
+20001207CARIR,2000,Winter,Richmond High School,Richmond,CA,null,0,0,1,0
+20001201CAJUS,2000,Winter,Junipero Serra High School,San Diego,CA,Victims Targeted,0,0,0,0
+20001201CAGRL,2000,Winter,Granada Hills High School,Los Angeles,CA,Victims Targeted,0,0,0,0
+20001101TXNEC,2000,Fall,Newman Smith High School,Carrollton,TX,null,0,0,0,0
+20001024AZPIG,2000,Fall,Pioneer Elementary School,Glendale,AZ,Random Shooting,0,0,0,0
+20001005MNMIM,2000,Fall,Minneapolis North High School,Minneapolis,MN,null,0,0,1,0
+20000926LACAN,2000,Fall,Carter G. Woodson Middle School,New Orleans,LA,Victims Targeted,0,0,0,0
+20000918OHMOM,2000,Fall,Mount Healthy North Junior High,Mount Healthy,OH,Neither,0,0,0,0
+20000907ILLOR,2000,Fall,Longfellow Elementary School,Rock Island,IL,Victims Targeted,0,0,0,0
+20000905OHBIB,2000,Fall,Bidwell Porter Elementary School,Bidwell,OH,Victims Targeted,0,1,0,0
+20000726OHTIC,2000,Summer,Timken Senior High School,Canton,OH,Victims Targeted,0,0,0,0
+20000717WADIR,2000,Summer,Dimmitt Middle School,Renton,WA,Neither,,0,0,1
+20000526FLLAL,2000,Spring,Lake Worth Middle School,Lake Worth,FL,Victims Targeted,0,0,0,0
+20000510AZCAS,2000,Spring,Carmichael Elementary School,Sierra Vista,AZ,Victims Targeted,0,1,0,0
+20000502COTHD,2000,Spring,Thomas Jefferson High School,Denver,CO,Victims Targeted,0,0,0,0
+20000410AZLAT,2000,Spring,La Cima Middle School,Tucson,AZ,Victims Targeted,0,0,0,0
+20000406OKHUH,2000,Spring,Hugo High School,Hugo,OK,Victims Targeted,0,0,0,0
+20000323OHMCL,2000,Spring,McKinley Elementary School,Lisbon,OH,null,,0,0,0
+20000310GABES,2000,Spring,Beach High School,Savannah,GA,null,,0,0,0
+20000229MIBUF,2000,Winter,Buell Elementary School,Flint,MI,Victims Targeted,0,0,0,0
+20000214ILDUC,2000,Winter,Duke Ellington Elementary School,Chicago,IL,Random Shooting,0,0,0,0
+20000210PAPEY,2000,Winter,Penn Wood East Junior High School,Yeadon,PA,Victims Targeted,0,0,0,0
+20000126NESOO,2000,Winter,South High School,Omaha,NE,Both,0,0,0,0
+20000126CAALM,2000,Winter,Alicia Reyes Elementary School,Merced,CA,Victims Targeted,1,0,0,0
+20000120NCERA,2000,Winter,Erwin High School,Asheville,NC,Random Shooting,0,0,0,1
+20000119FLRIN,2000,Winter,Ridgewood High School,New Port Richey,FL,Random Shooting,0,0,0,0
+20000113NMALA,2000,Winter,Albuquerque High School,Albuquerque,NM,Victims Targeted,0,0,1,0
+20000110AKBAA,2000,Winter,Bartlett High School,Anchorage,AK,Victims Targeted,0,0,0,0
+19991206OKFOF,1999,Winter,Fort Gibson Middle School,Fort Gibson,OK,Random Shooting,0,0,0,0
+19991119NMDED,1999,Fall,Deming Middle School,Deming,NM,Victims Targeted,0,0,0,0
+19991117TXDID,1999,Fall,Dickinson High School,Dickinson,TX,Random Shooting,0,0,0,0
+19991026WVGUB,1999,Fall,Guyan Valley High School,Branchland,WV,Victims Targeted,0,1,0,0
+19991026PAMAP,1999,Fall,Martin Luther King High School,Philadelphia,PA,Victims Targeted,0,0,0,0
+19991021CASAP,1999,Fall,San Fernando High School,Pacoima,CA,Victims Targeted,0,0,unknown,0
+19991011NVCLL,1999,Fall,Clark High School,Las Vegas,NV,Both,0,0,1,0
+19991004SDJOP,1999,Fall,John Bartram High School,Philadelphia City,SD,Random Shooting,0,0,0,0
+19990927FLEGT,1999,Fall,Egypt Lake Elementary School,Tampa,FL,Random Shooting,0,0,0,0
+19990909CASAS,1999,Fall,Santa Teresa High School,San Jose,CA,Victims Targeted,0,0,0,0
+19990825GAJAM,1999,Summer,Jasper County High School,Monticello,GA,Victims Targeted,0,0,0,0
+19990520GAHEC,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,Conyers,GA,null,null,0,0,1,unknown
+19990422LASCB,1999,Spring,Scotlandville Middle School,Baton Rouge,LA,Both,0,0,0,0
+19990422GAMAA,1999,Spring,Martin Luther King Jr. Middle School,Atlanta,GA,Victims Targeted,0,0,0,0
+19990420COCOL,1999,Spring,Columbine High School,Littleton,CO,Both,1,0,0,1
+19990416IDNON,1999,Spring,Notus Jr. Sr. High School,Notus,ID,Random Shooting,0,0,0,0
+19990304ILNIS,1999,Spring,Niles West High School,Skokie,IL,Victims Targeted,0,1,0,0
+19990211MSJEP,1999,Winter,Jefferson-Todd Educational Center,Purvis,MS,Random Shooting,0,0,0,0
+19990211ILOME,1999,Winter,Ombudsman Educational Service Center,Elgin,IL,Victims Targeted,0,0,1,0
+19990121TXRIN,1999,Winter,Richland High School,North Richland Hills,TX,Victims Targeted,,0,0,0
+19990114NYHAN,1999,Winter,Harry S. Truman High School,New York,NY,Victims Targeted,0,0,0,0
+19990108GACEC,1999,Winter,Central High School,Carrollton,GA,Victims Targeted,0,1,0,0
+19981211INBEI,1998,Winter,Ben Davis Junior High School,Indianapolis,IN,Random Shooting,0,0,0,0
+19981203INERG,1998,Winter,Ernie Elementary School,Gary,IN,Victims Targeted,0,0,0,0
+19981130NYHAH,1998,Fall,Hancock Middle High School,Hancock,NY,Victims Targeted,,unknown,0,0
+19981103PAMAP,1998,Fall,Martin Luther King High School,Philadelphia,PA,Victims Targeted,0,0,0,0
+19980930FLNOM,1998,Fall,North Miami High School,Miami,FL,Both,0,0,1,0
+19980930FLLEL,1998,Fall,Leesburg High School,Leesburg,FL,Victims Targeted,0,0,0,0
+19980911CAHEG,1998,Fall,Herbert Hoover High School,Glendale,CA,Victims Targeted,0,0,1,0
+19980615VAARR,1998,Summer,Armstrong High School,Richmond,VA,Both,,0,1,0
+19980529FLSTF,1998,Spring,Stranahan High School,Ft. Lauderdale,FL,Victims Targeted,0,1,0,0
+19980527CAWAP,1998,Spring,Washington Middle School,Pasadena,CA,Victims Targeted,0,0,1,0
+19980521WAONO,1998,Spring,Onalaska High School,Onalaska,WA,Victims Targeted,0,1,0,0
+19980521ORTHS,1998,Spring,Thurston High School,Springfield,OR,Random Shooting,0,0,0,1
+19980521CARIR,1998,Spring,Rialta High School,Rialto,CA,Victims Targeted,1,0,0,0
+19980519TNLIF,1998,Spring,Lincoln County High School,Fayetteville,TN,Victims Targeted,0,1,0,0
+19980501NYPUB,1998,Spring,Public School 18,Buffalo,NY,Victims Targeted,0,1,0,0
+19980501FLNOM,1998,Spring,North Miami Senior High School,Miami,FL,Victims Targeted,0,0,1,0
+19980428WIPAP,1998,Spring,Pardeeville Elementary School,Pardeeville,WI,Victims Targeted,0,0,0,0
+19980428CAPHP,1998,Spring,Philadelphia Elementary School,Pomona,CA,Victims Targeted,0,0,1,0
+19980424PAPAE,1998,Spring,Parker Middle School,Edinboro,PA,Random Shooting,0,0,0,0
+19980423CACUL,1998,Spring,Culver City High School,Los Angeles,CA,null,0,0,1,0
+19980331WIOAO,1998,Spring,Oakfield Middle School,Oakfield,WI,Random Shooting,0,0,0,0
+19980330NCGRC,1998,Spring,Grey Culbreth Middle School,Chapel Hill,NC,Victims Targeted,0,0,0,0
+19980325MICOC,1998,Spring,Coldwater High School,Coldwater,MI,Victims Targeted,0,0,0,0
+19980325CAFED,1998,Spring,Fernando Rivera Middle School,Daly City,CA,Victims Targeted,0,0,0,0
+19980324ARWEJ,1998,Spring,Westside Middle School,Jonesboro,AR,Random Shooting,0,0,0,1
+19980227VAMAF,1998,Winter,Marshall High School,Fairfax,VA,Victims Targeted,0,0,1,0
+19980225MIRER,1998,Winter,Reed City High School,Reed City,MI,Victims Targeted,,0,0,0
+19980212NJHOH,1998,Winter,Hoboken High School,Hoboken,NJ,Victims Targeted,0,1,0,0
+19971215ARSTS,1997,Winter,Stamps High School,Stamps,AR,Random Shooting,,0,0,0
+19971201KYHEW,1997,Winter,Heath High School,West Paducah,KY,Random Shooting,1,0,0,1
+19971113CACRS,1997,Fall,Creekside Elementary School,Sacramento,CA,Victims Targeted,0,1,0,0
+19971107FLRIJ,1997,Fall,Ribault High School,Jacksonville,FL,Victims Targeted,0,0,0,0
+19971022CAJON,1997,Fall,John Glenn High School,Norwalk,CA,Victims Targeted,0,1,0,0
+19971020CAMCO,1997,Fall,McClymonds High School,Oakland,CA,Victims Targeted,0,unknown,0,0
+19971015FLLIP,1997,Fall,Lincoln Middle School,Palmetto,FL,null,,0,0,0
+19971014TXLAG,1997,Fall,Lakeview Centennial High School,Garland,TX,Victims Targeted,0,0,0,0
+19971010INWAG,1997,Fall,Wallace High School,Gary,IN,Both,0,0,1,0
+19971005OKMOO,1997,Fall,Moore West Junior High School,Oklahoma City,OK,Victims Targeted,0,0,0,0
+19971001MSPEP,1997,Fall,Pearl High School,Pearl,MS,Both,1,1,0,1
+19970624ALJEM,1997,Summer,Jefferson Davis High School,Montgomery,AL,Victims Targeted,,0,0,
+19970520OHDUD,1997,Spring,Dunbar High School,Dayton,OH,Random Shooting,0,0,0,0
+19970513FLNOM,1997,Spring,Northwestern High School,Miami,FL,Victims Targeted,0,0,0,0
+19970430NYCIN,1997,Spring,City-as-School High School,New York,NY,null,,0,unknown,0
+19970428CAJOL,1997,Spring,John Marshall High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+19970403CAMAM,1997,Spring,Maria Del Rey Junior High School,Mar Vista,CA,null,0,0,1,0
+19970317MIPED,1997,Spring,Pershing High School,Detroit,MI,Victims Targeted,0,0,0,0
+19970221NVRAL,1997,Winter,Rancho High School,Las Vegas,NV,Victims Targeted,0,0,1,0
+19970220FLFIJ,1997,Winter,First Coast High School,Jacksonville,FL,Victims Targeted,0,0,0,0
+19970219AKBEB,1997,Winter,Bethel Regional High School,Bethel,AK,Random Shooting,1,0,0,1
+19970213NYSAB,1997,Winter,Samuel Gompers High School,Bronx,NY,Victims Targeted,0,0,0,0
+19970213NYMOB,1997,Winter,Morris High School,Bronx,NY,Random Shooting,0,0,0,0
+19970206MSWIJ,1997,Winter,Wingfield High School,Jackson,MS,Victims Targeted,0,0,0,0
+19970127FLCOW,1997,Winter,Conniston Middle School,West Palm Beach,FL,Victims Targeted,0,0,0,0
+19970108NYCRN,1997,Winter,Crown Heights High School,New York,NY,Both,0,0,1,0
+19961127CAHIS,1996,Fall,Highlands High School,Sacramento,CA,Victims Targeted,N/A,N/A,N/A,N/A
+19961014MOSUS,1996,Fall,Sumner High School,St. Louis,MO,Victims Targeted,0,0,unknown,0
+19961009ARJAS,1996,Fall,Jacksonville High School bus,Sherwood,AR,Victims Targeted,0,0,0,0
+19961004CASTP,1996,Fall,St. Bernard High School,Playa Del Rey,CA,null,0,0,unknown,0
+19961002PASMP,1996,Fall,Smedley Elementary School,Philadelphia,PA,Victims Targeted,0,1,0,0
+19960925GADED,1996,Fall,Dekalb Alternative School,Decatur,GA,Victims Targeted,0,0,0,0
+19960726CAJOL,1996,Summer,John Marshall High School,Los Angeles,CA,Both,0,0,0,0
+19960604CAWEH,1996,Summer,West Valley High School,Hemet,CA,Victims Targeted,0,0,0,0
+19960522CACOC,1996,Spring,Colton High School,Colton,CA,Victims Targeted,,0,1,0
+19960514UTBIT,1996,Spring,Bingham Middle School,Taylorsville,UT,Victims Targeted,0,0,0,0
+19960415DCMCW,1996,Spring,McKinley High School,Washington,DC,null,0,0,unknown,0
+19960411ALTAT,1996,Spring,Talladega High School,Talladega,AL,Victims Targeted,0,0,unknown,0
+19960319NVSWL,1996,Spring,Swainston Middle School,Las Vegas,NV,null,,0,0,0
+19960311NCNON,1996,Spring,North Stanley High School,New Longdon,NC,Victims Targeted,0,0,0,0
+19960229MOBES,1996,Winter,Beaumont High School (bus),St. Louis,MO,Victims Targeted,0,0,0,0
+19960222GAJES,1996,Winter,Jenkins High School,Savannah,GA,Victims Targeted,0,0,0,0
+19960208CAMIM,1996,Winter,Mid-Peninsula High School,Menlo Park,CA,Random Shooting,0,0,0,0
+19960202WAFRM,1996,Winter,Frontier Middle School,Moses Lake,WA,Both,1,1,0,1
+19960126TNEAM,1996,Winter,East High School,Memphis,TN,Random Shooting,0,0,0,0
+19960119DCWIW,1996,Winter,Winston Education Center,Washington,DC,Victims Targeted,0,0,0,0
+19960102PAGIG,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,null,null,null,null,,unknown,unknown,
+19951128NYTHN,1995,Fall,Thomas A. Edison Vocational and Technical High School,New York,NY,Victims Targeted,0,0,0,0
+19951115TNRIL,1995,Fall,Richland High School,Lynnville,TN,Both,1,0,0,1
+19951102FLBLM,1995,Fall,Blue Lake Elementary School (bus),Miami Beach,FL,Random Shooting,0,0,0,0
+19951030VAJOR,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,null,null,null,null,,unknown,unknown,
+19951023FLLAC,1995,Fall,Lake Howell High School,Casselberry,FL,Victims Targeted,0,0,0,0
+19951012SCBLB,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,null,null,null,null,,unknown,unknown,
+19950929FLTAT,1995,Fall,Tavares Middle School,Tavares,FL,Victims Targeted,1,0,1,0
+19950927ALBLP,1995,Fall,Blount High School,Prichard,AL,Victims Targeted,0,0,0,0
+19950915KYGEW,1995,Fall,George Rogers Clark High School,Winchester,KY,Victims Targeted,,0,0,0
+19950914KSOLO,1995,Fall,Olathe North High School,Olathe,KS,Victims Targeted,0,0,1,0
+19950912TNCYM,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,null,null,null,null,,unknown,unknown,
+19950829TXMEL,1995,Summer,Memorial Middle School,Laredo,TX,Victims Targeted,0,1,0,0
+19950614FLLAL,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,null,null,null,null,,unknown,unknown,
+19950327MIRED,1995,Spring,Redford High School,Detroit,MI,Victims Targeted,0,0,1,0
+19950303MIPED,1995,Spring,Pershing High School,Detroit,MI,Victims Targeted,0,0,unknown,0
+19950208NECHS,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,No,null,null,null,,unknown,unknown,
+19950202CAJOL,1995,Winter,Jordan High School,Long Beach,CA,Victims Targeted,0,0,1,0
+19950124DCSPW,1995,Winter,Spingarn High School,Washington,DC,Victims Targeted,0,0,unknown,0
+19950123CASAR,1995,Winter,Sacred Heart Middle School,Redlands,CA,Victims Targeted,0,0,0,0
+19950112WAGAS,1995,Winter,Garfield High School,Seattle,WA,Victims Targeted,,0,0,0
+19950110FLPAP,1995,Winter,Palm Beach Gardens High School,Palm Beach Gardens,FL,Victims Targeted,0,0,0,0
+19950105DCCAW,1995,Winter,Cardozo Senior High School,Washington,DC,Both,0,0,1,0
+19941115WASTT,1994,Fall,Stadium High School,Tacoma,WA,Victims Targeted,0,0,0,0
+19941108IAWEM,1994,Fall,West Delaware High School,Manchester,IA,Random Shooting,0,0,0,0
+19941107OHWIW,1994,Fall,Wickliffe Middle School,Wickliffe,OH,Random Shooting,0,0,0,0
+19941105CATHS,1994,Fall,Thomas Jefferson Elementary School,San Leandro,CA,Victims Targeted,0,unknown,0,0
+19941031CAALA,1994,Fall,Aliso Niguel High school,Aliso Veijo,CA,Victims Targeted,0,1,0,0
+19941017ILHUC,1994,Fall,Hubbard High School,Chicago,IL,Both,0,0,1,0
+19941012NCGRG,1994,Fall,Grimsley High School,Greensboro,NC,Victims Targeted,0,0,0,0
+19940922ORLEL,1994,Fall,Lebanon Union High School,Lebanon,OR,Random Shooting,0,0,0,0
+19940919CALOL,1994,Fall,Locke High School,Los Angeles,CA,Both,0,0,1,0
+19940908NYSWA,1994,Fall,Sweet Home High School,Albany,NY,Victims Targeted,1,0,0,0
+19940907CAHOL,1994,Fall,Hollywood High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+19940725IAOTO,1994,Summer,Ottumwa High School,Ottumwa,IA,Victims Targeted,0,0,0,0
+19940724PAMAM,1994,Summer,Manchester Elementary School,Manchester,PA,Victims Targeted,0,0,0,0
+19940526KYLAU,1994,Spring,Larry A. Ryle High School,Union,KY,Neither,0,0,0,0
+19940525NJLAW,1994,Spring,Lakeland Regional High School,Wanaque,NJ,Victims Targeted,0,0,0,0
+19940525INLAS,1994,Spring,LaSalle High School,South Bend,IN,Victims Targeted,0,0,0,0
+19940502FLNON,1994,Spring,North Miami High School,North Miami,FL,Random Shooting,0,0,0,0
+19940421TNJTN,1994,Spring,J T Moore Middle School,Nashville,TN,Neither,0,0,0,0
+19940420INDIS,1994,Spring,Dickinson Middle School,South Bend,IN,Random Shooting,0,0,unknown,0
+19940419DCELW,1994,Spring,Eliot Junior High School,Washington,DC,null,0,0,unknown,0
+19940413CA49L,1994,Spring,49th Street Elementary School,Los Angeles,CA,Victims Targeted,0,0,0,0
+19940412MTMAB,1994,Spring,Margaret Leary Elementary School,Butte,MT,Random Shooting,1,0,0,0
+19940408MDLAU,1994,Spring,Largo High School,Upper Marlboro,MD,Random Shooting,0,0,0,0
+19940405TXMCA,1994,Spring,McNeil High School,Austin,TX,Random Shooting,0,0,0,0
+19940325GAETC,1994,Spring,Etowah High School,Cherokee County,GA,Victims Targeted,1,0,0,0
+19940323WABAS,1994,Spring,Ballard High School,Seattle,WA,Random Shooting,0,0,1,0
+19940315SCGOC,1994,Spring,Goose Creek High School,Charleston,SC,Random Shooting,0,0,0,0
+19940309DCEAW,1994,Spring,Eastern High School,Washington,DC,Victims Targeted,0,0,0,0
+19940303ALENB,1994,Spring,Ensley High School,Birmingham,AL,Victims Targeted,0,0,1,0
+19940301MOKEB,1994,Spring,Kemper Military School and College,Boonville,MO,Both,0,1,0,0
+19940218SCSPS,1994,Winter,Spartanburg High School,Spartanburg,SC,Victims Targeted,0,0,0,0
+19940208MIOSD,1994,Winter,Osborn High School,Detroit,MI,null,0,0,0,0
+19940131WAWHS,1994,Winter,Whitman Middle School,Seattle,WA,Victims Targeted,0,0,0,0
+19940127CAWAS,1994,Winter,Washington Elementary School,San Jose,CA,Victims Targeted,0,0,1,0
+19940126DCPAW,1994,Winter,Paul Lawrence Dunbar High School,Washington,DC,null,0,0,0,0
+19940126DCELW,1994,Winter,Eliot Junior High School,Washington,DC,null,0,0,unknown,0
+19940124SCEAC,1994,Winter,Eau Claire High School,Columbia,SC,Victims Targeted,1,0,0,0
+19940121TXKEK,1994,Winter,Kennard High School,Kennard,TX,Victims Targeted,0,0,0,0
+19940120CALOH,1994,Winter,Los Altos High School,Hacienda Heights,CA,Victims Targeted,0,0,1,0
+19931217MICHC,1993,Winter,Chelsea High School,Chelsea,MI,Victims Targeted,0,0,0,0
+19931215CACHS,1993,Winter,Chatsworth High School,San Fernando Valley,CA,Victims Targeted,0,0,0,0
+19931208GABES,1993,Winter,Beach High School,Savannah,GA,Victims Targeted,0,0,1,0
+19931202CTNEN,1993,Winter,New Britain High School,New Britain,CT,Victims Targeted,0,0,1,0
+19931201WIWAW,1993,Winter,Wauwatosa West High School,Wauwatosa,WI,Victims Targeted,0,0,0,0
+19931111ILRIS,1993,Fall,Ridgely Elementary School,Springfield,IL,Victims Targeted,0,0,1,0
+19931104MSBAB,1993,Fall,Bay Springs High School,Bay Springs,MS,Victims Targeted,,unknown,0,0
+19931104FLTEJ,1993,Fall,Terry Parker High School,Jacksonville,FL,Victims Targeted,0,0,0,0
+19931104CTNEN,1993,Fall,New Britain High School,New Britain,CT,Victims Targeted,0,0,1,0
+19931101ILSUC,1993,Fall,Sullivan High School,Chicago,IL,Victims Targeted,0,0,0,0
+19931018DCJHW,1993,Fall,J H Johnson Junior High School,Washington,DC,Victims Targeted,,0,unknown,0
+19931012DEDON,1993,Fall,Dover High School,New Castle,DE,Victims Targeted,,0,0,0
+19930928MSCOG,1993,Fall,Coleman Junior High School,Greenville,MS,Victims Targeted,0,0,0,0
+19930925DCWEW,1993,Fall,Weatherless Elementary School,Washington,DC,Both,0,0,1,0
+19930917WYCES,1993,Fall,Central Junior High School,Sheridan,WY,Random Shooting,0,0,0,0
+19930917ILDOD,1993,Fall,Downers South High School,Downers Grove,IL,Victims Targeted,0,0,0,0
+19930916ILROC,1993,Fall,Roosevelt High School,Chicago,IL,null,,unknown,1,0
+19930912ALFAF,1993,Fall,Fairfield High School,Fairfield,AL,Neither,0,0,0,0
+19930902TXROD,1993,Fall,Roosevelt High School,Dallas,TX,Victims Targeted,0,0,0,0
+19930901KSJUJ,1993,Fall,Junction City High School,Junction City,KS,Both,0,0,0,0
+19930831GAHAA,1993,Summer,Harper High School,Atlanta,GA,Victims Targeted,,0,unknown,0
+19930803NYTHN,1993,Summer,Theodore Roosevelt High School,New York,NY,Victims Targeted,,unknown,unknown,0
+19930707CADOL,1993,Summer,Dorsey High School,Los Angeles,CA,Both,0,0,1,0
+19930527LAFRN,1993,Spring,Francis T. Nicholls High School,New Orleans,LA,Victims Targeted,0,0,0,0
+19930524PAUPP,1993,Spring,Upper Perkiomen High School,Pennsburg,PA,Victims Targeted,1,0,0,0
+19930514TXNII,1993,Spring,Nimitz High School,Irving,TX,Victims Targeted,0,0,0,0
+19930416WAMOT,1993,Spring,Mount Tahoma High School,Tacoma,WA,Victims Targeted,0,0,0,0
+19930416CAGRS,1993,Spring,Grant High School,Sacramento,CA,null,0,0,unknown,0
+19930415MAFOA,1993,Spring,Ford Middle School,Acushnet,MA,Random Shooting,0,0,0,0
+19930403CAGRS,1993,Spring,Grant High School,Sacramento,CA,null,0,0,unknown,0
+19930325MOSUS,1993,Spring,Sumner High School,St. Louis,MO,Victims Targeted,0,1,0,0
+19930318GAHAH,1993,Spring,Harlem High School,Harlem,GA,Victims Targeted,1,0,0,0
+19930308VADOD,1993,Spring,Dozier Middle School,Denbigh,VA,Victims Targeted,0,0,0,0
+19930226MAGLG,1993,Winter,Gloucester High School,Gloucester,MA,Victims Targeted,0,0,0,0
+19930222CAREL,1993,Winter,Reseda High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+19930208MNMIM,1993,Winter,Middle River Middle School,Middle River,MN,Victims Targeted,,0,0,0
+19930208DCWAW,1993,Winter,Washington-Dix Street Academy (High School),Washington,DC,Victims Targeted,0,0,0,0
+19930204GACLA,1993,Winter,Clayton High School,Atlanta,GA,Victims Targeted,0,0,0,0
+19930203SCGAC,1993,Winter,Garrett High School,Charleston,SC,Victims Targeted,0,0,unknown,0
+19930203SCLEL,1993,Winter,Lexington High School,Lexington,SC,Victims Targeted,0,0,unknown,0
+19930201WARER,1993,Winter,Redmond Junior High School,Redmond,WA,Victims Targeted,,0,0,0
+19930201NYAMA,1993,Winter,Amityville High School,Amityville,NY,Victims Targeted,,0,0,0
+19930121CAFAL,1993,Winter,Fairfax High School,Los Angeles,CA,Random Shooting,0,0,0,0
+19930118KYEAG,1993,Winter,East Carter High School,Grayson,KY,Both,1,0,0,0
+19930112FLNOM,1993,Winter,Norland Senior High School,Miami,FL,Victims Targeted,0,0,1,0
+19930108PACRM,1993,Winter,Crawford County Joint Vocational Technical School,Meadville,PA,Victims Targeted,0,0,unknown,0
+19930105NYBRB,1993,Winter,Brentwood High School,Brentwood,NY,Victims Targeted,0,0,1,0
+19921214NYWAW,1992,Winter,Walton High School,Walton,NY,Victims Targeted,0,0,0,0
+19921203ILWOC,1992,Winter,Woodson High School,Chicago,IL,Victims Targeted,0,0,1,0
+19921130ILORC,1992,Fall,Orr High School,Chicago,IL,Victims Targeted,0,0,0,0
+19921124ALROM,1992,Fall,Robert E. Lee High School,Montgomery,AL,Victims Targeted,0,0,0,0
+19921120ILTIC,1992,Fall,Tilden High School,Chicago,IL,Random Shooting,0,0,0,0
+19921116ALFAB,1992,Fall,Fairfield High School,Birmingham,AL,Victims Targeted,0,0,0,0
+19921113TXLAC,1992,Fall,Langham Creek High School,Cypress,TX,Victims Targeted,0,1,0,0
+19921110ILSHC,1992,Fall,Sherman Elementary School,Chicago,IL,Victims Targeted,0,0,0,0
+19921104MIMUD,1992,Fall,Mumford High School,Detroit,MI,null,0,0,1,0
+19921104MIMAD,1992,Fall,Marcus Garvey Academy,Detroit,MI,null,0,0,1,0
+19921104MIFID,1992,Fall,Finney High School,Detroit,MI,Both,0,0,1,0
+19921019NYEVB,1992,Fall,Evander Childs High School,Bronx,NY,Victims Targeted,0,0,1,0
+19921013AZDET,1992,Fall,Desert View High School,Tucson,AZ,Victims Targeted,0,0,1,0
+19920930TXHOH,1992,Fall,Hollibrook Elementary School,Houston,TX,Victims Targeted,0,0,1,0
+19920930CAPAL,1992,Fall,Paramount High School,Los Angeles,CA,Both,0,0,1,0
+19920928CAHIS,1992,Fall,Hiram Johnson High School,Sacramento,CA,Victims Targeted,0,0,0,0
+19920911TXPAA,1992,Fall,Palo Duro High School,Amarillo,TX,Both,0,0,0,0
+19920606CAMEM,1992,Summer,Merced High School,Merced,CA,Victims Targeted,0,0,0,0
+19920530DCARW,1992,Spring,Archbishop Carroll High School,Washington,DC,Both,0,0,unknown,0
+19920529CAVEL,1992,Spring,Venice High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+19920514TXHUH,1992,Spring,Huntsville Junior High School,Huntsville,TX,Victims Targeted,0,0,0,0
+19920514CASIN,1992,Spring,Silverado Middle School,Napa,CA,null,1,0,0,1
+19920501CALIO,1992,Spring,Lindhurst High School,Olivehurst,CA,Both,0,0,0,1
+19920417TXLID,1992,Spring,Lincoln High School,Dallas,TX,Random Shooting,0,0,0,0
+19920409FLFOF,1992,Spring,Fort Myers High School,Fort Myers,FL,Victims Targeted,0,0,0,0
+19920331LAOPA,1992,Spring,O Perry Walker High School,Algiers,LA,Victims Targeted,0,0,0,0
+19920305OHHAO,1992,Spring,Hamilton Middle School,Obetz,OH,Victims Targeted,,0,0,0
+19920226NYTHB,1992,Winter,Thomas Jefferson High School,Brooklyn,NY,Victims Targeted,,0,0,0
+19920207VABON,1992,Winter,Booker T. Washington High School,Norfolk,VA,Victims Targeted,0,0,0,0
+19920206OKDOO,1992,Winter,Douglass High School,Oklahoma City,OK,Victims Targeted,0,0,0,0
+19920131LAFRG,1992,Winter,Francis W. Gregory Junior High School,Gentilly,LA,Victims Targeted,0,0,0,0
+19920128LAFRG,1992,Winter,Francis W. Gregory Junior High School,Gentilly,LA,Victims Targeted,0,0,0,0
+19920117SCGRG,1992,Winter,Greenwood High School,Greenwood,SC,Victims Targeted,0,0,0,0
+19911226NCWHW,1991,Winter,Whiteville High School,Whiteville,NC,Victims Targeted,0,0,unknown,0
+19911125NYTHB,1991,Fall,Thomas Jefferson High School,Brooklyn,NY,Both,0,0,0,0
+19911114TXMIH,1991,Fall,Milby High School,Houston,TX,null,,0,0,0
+19911111TXYSE,1991,Fall,Ysleta High School,El Paso,TX,null,0,0,1,0
+19911106LAWAN,1991,Fall,Walter L. Cohen Senior High School,New Orleans,LA,Victims Targeted,0,0,0,0
+19911023TXOAD,1991,Fall,Oak Cliff High School,Dallas,TX,Victims Targeted,1,0,0,0
+19911015TXGEP,1991,Fall,Genevieve Sparks Elementary School,Pasadena,TX,Random Shooting,0,0,0,0
+19911015SCWOW,1991,Fall,Woodruff High School,Woodruff,SC,Victims Targeted,1,0,0,0
+19911015NHMOS,1991,Fall,Monadnock Regional High School,Swanzey,NH,Random Shooting,0,unknown,0,1
+19911011MAMAR,1991,Fall,Madison Park High School,Roxbury,MA,Victims Targeted,0,0,1,0
+19911009NYJAB,1991,Fall,James Monroe High School,Bronx,NY,Victims Targeted,0,0,0,0
+19911004CAROL,1991,Fall,Roosevelt High School,Los Angeles,CA,null,0,0,1,0
+19911004CADOL,1991,Fall,Dorsey High School,Los Angeles,CA,Random Shooting,0,0,1,0
+19911002TXSPH,1991,Fall,Spring Woods High School (bus),Houston,TX,Random Shooting,0,0,0,0
+19910918TXCRC,1991,Fall,Crosby High School,Crosby,TX,Victims Targeted,0,0,0,0
+19910917ILWOC,1991,Fall,Woodson High School,Chicago,IL,Random Shooting,0,0,1,0
+19910913TXMAH,1991,Fall,Madison High School,Houston,TX,Random Shooting,0,0,1,0
+19910730CAENC,1991,Summer,Enterprise Middle School,Compton,CA,Victims Targeted,0,0,1,0
+19910722CAWEL,1991,Summer,Westchester High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+19910521FLSCP,1991,Spring,School of Choice,Pahokee,FL,Both,0,0,0,0
+19910521CAROS,1991,Spring,Robert A. Millikan Junior High School,Sherman Oaks,CA,Victims Targeted,0,0,1,0
+19910516KSCOK,1991,Spring,Coronado Middle School,Kansas City,KS,null,0,0,1,0
+19910510OHFRC,1991,Spring,Franklin Alternative Middle School,Columbus,OH,Victims Targeted,0,0,unknown,0
+19910423MSHUB,1991,Spring,Humphrey's County High School,Belzoni,MS,Random Shooting,0,0,0,0
+19910423CARAC,1991,Spring,Ralph J. Bunche Middle School,Compton,CA,Random Shooting,0,0,1,0
+19910411SCNOR,1991,Spring,Northwest High School,Rock Hill,SC,Victims Targeted,0,0,0,0
+19910325NCGAC,1991,Spring,Garinger High School,Charlotte,NC,Victims Targeted,0,0,unknown,0
+19910314SCWOP,1991,Spring,Woodmont High School,Piedmont,SC,Both,0,0,0,0
+19910313ALSES,1991,Spring,Selma High School,Selma,AL,Both,0,0,0,0
+19910219LABON,1991,Winter,Booker T. Washington High School,New Orleans,LA,Both,0,0,0,0
+19910117TXHOD,1991,Winter,Hood Middle School,Dallas,TX,Random Shooting,0,0,1,0
+19910108TXRIR,1991,Winter,Richardson High School,Richardson,TX,Victims Targeted,0,0,0,0
+19901213LASAS,1990,Winter,Salmen High School,Slidell,LA,Victims Targeted,0,0,1,0
+19901110TXJUD,1990,Fall,Justin Kimball High School,Dallas,TX,Both,0,0,unknown,0
+19901030TXNAG,1990,Fall,Naaman Forest High School,Garland,TX,Victims Targeted,0,0,0,0
+19901029INCHC,1990,Fall,Charlestown High School,Charlestown,IN,Neither,0,0,0,0
+19901002TXWHD,1990,Fall,W H Adamson High School,Dallas,TX,Random Shooting,0,0,unknown,0
+19900922ALLEB,1990,Fall,Legion Field Statium (high school game),Birmingham,AL,null,0,0,unknown,0
+19900911TXSAS,1990,Fall,Sam Houston High School,San Antonio,TX,Victims Targeted,0,0,1,0
+19900906GASOC,1990,Fall,South Forsyth Middle School - High School,Cumming,GA,Both,,0,0,1
+19900827TXWHD,1990,Summer,W H Adamson High School,Dallas,TX,Victims Targeted,0,0,1,0
+19900827NVELL,1990,Summer,Eldorado High School,Las Vegas,NV,Victims Targeted,0,0,1,0
+19900824NCMYC,1990,Summer,Myers Park High School,Charlotte,NC,null,0,0,unknown,0
+19900531TXSUF,1990,Spring,Sunrise Elementary School,Fort Worth,TX,Random Shooting,0,0,0,0
+19900520TNHIC,1990,Spring,Hickman County High School,Centerville,TN,Victims Targeted,0,0,0,0
+19900504CAMOE,1990,Spring,Mount Pleasant High School,East San Jose,CA,Both,0,0,0,0
+19900403TXSKD,1990,Spring,Skyline High School,Dallas,TX,Victims Targeted,0,0,0,0
+19900327NYNEB,1990,Spring,New Utrecht High School,Brooklyn,NY,Victims Targeted,0,0,0,0
+19900220OHTAC,1990,Winter,Taft High School,Cincinnati,OH,Both,0,0,0,0
+19900116RICEP,1990,Winter,Central High School,Providence,RI,Random Shooting,1,0,0,0
+19891212SCCHC,1989,Winter,Chester High School,Chester,SC,Victims Targeted,0,0,0,0
+19891205TXWWD,1989,Winter,W W Samuell High School,Dallas,TX,Both,0,0,1,0
+19891205PASEM,1989,Winter,Serra Catholic High School bus,McKeesport,PA,Victims Targeted,0,0,0,0
+19891204LACAS,1989,Winter,Caddo Magnet High School,Shreveport,LA,Victims Targeted,0,0,0,0
+19891122CACHO,1989,Fall,Channel Islands High School,Oxnard,CA,Victims Targeted,0,0,1,0
+19891115TXWOA,1989,Fall,Workman Junior High School,Arlington,TX,Victims Targeted,0,0,0,1
+19891113NYALN,1989,Fall,Alfred E. Smith High School,New York,NY,Random Shooting,0,0,0,0
+19891031TXOLD,1989,Fall,Oliver Wendell Holmes Middle School,Dallas,TX,Random Shooting,0,0,0,0
+19891005CALOA,1989,Fall,Loara High School,Anaheim,CA,Victims Targeted,0,0,0,1
+19890918KYJAM,1989,Fall,Jackson County High School,McKee,KY,Random Shooting,1,0,0,0
+19890911AZDYE,1989,Fall,Dysart High School,El Mirage,AZ,Random Shooting,0,0,0,0
+19890901VASAV,1989,Fall,Salem High School,Virginia Beach,VA,Victims Targeted,0,0,0,0
+19890426TXAMD,1989,Spring,A Maceo Smith High School,Dallas,TX,Victims Targeted,0,1,0,0
+19890303INWIG,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,null,null,null,null,,unknown,unknown,
+19890210UTTHK,1989,Winter,Thomas Jefferson Junior High School,Kearns,UT,Neither,,0,0,0
+19890209IDRIR,1989,Fall,Rigby Junior High School,Rigby,ID,null,unknown,unknown,0,unknown
+19890126DCWOW,1989,Winter,Woodrow Wilson HIgh School,Washington,DC,Victims Targeted,0,0,0,0
+19890117CACLS,1989,Winter,Cleveland Elementary School,Stockton,CA,Random Shooting,,0,0,1
+19890105ARHEL,1989,Winter,Henderson Junior High School,Little Rock,AR,Victims Targeted,0,0,unknown,0
+19881216VAATV,1988,Winter,Atlantic Shores Christian School,Virginia Beach,VA,Both,1,0,0,1
+19881122TXABA,1988,Fall,Abilene Cooper High School,Abilene,TX,Victims Targeted,,0,0,0
+19881107UTGLS,1988,Fall,Glendale Intermediate School,Salt Lake City,UT,null,,0,0,0
+19881101FLPAJ,1988,Fall,Paxon High School,Jacksonville,FL,Victims Targeted,,unknown,0,0
+19881007TXDIP,1988,Fall,Dick Dowling Elementary School,Port Arthur,TX,Victims Targeted,0,0,0,0
+19881007MDSOB,1988,Fall,Southwestern Senior High School,Baltimore,MD,Random Shooting,0,0,1,0
+19881006ALMOM,1988,Fall,Most Pure Heart of Mary School,Mobile,AL,Victims Targeted,0,1,0,0
+19881005MDEDB,1988,Fall,Edmondson Westside Senior High School,Baltimore,MD,Random Shooting,0,0,0,0
+19881004LAISB,1988,Fall,Istrouma Senior High School,Baton Rouge,LA,Victims Targeted,0,0,0,0
+19881004FLJEJ,1988,Fall,J E B Stuart Junior High School (bus),Jacksonville,FL,Both,0,0,unknown,0
+19881003FLMAM,1988,Fall,Mascotte Elementary School ,Mascotte,FL,null,,0,0,0
+19880926SCOAG,1988,Fall,Oakland Elementary School,Greenwood,SC,Random Shooting,1,0,0,0
+19880922ILMOC,1988,Fall,Moses Montefoire Public School,Chicago,IL,Random Shooting,0,0,0,0
+19880903TXLID,1988,Fall,Lincoln High School,Dallas,TX,Both,0,0,unknown,0
+19880902NCGAC,1988,Fall,Garinger High School,Charlotte,NC,Both,0,0,0,0
+19880902GAGLA,1988,Fall,Glen Hills High School,Augusta,GA,Both,0,0,0,0
+19880831SCWEA,1988,Summer,West Franklin Elementary School,Anderson,SC,Victims Targeted,0,0,0,0
+19880831MICED,1988,Summer,Central High School,Detroit,MI,Victims Targeted,0,0,1,0
+19880711MSLAJ,1988,Summer,Lanier High School,Jackson,MS,Victims Targeted,,0,1,0
+19880710WISIM,1988,Summer,Siefert Elementary School,Milwaukee,WI,Victims Targeted,,0,1,0
+19880630HIAIO,1988,Summer,Aiea High School,Oahu,HI,Victims Targeted,0,0,0,0
+19880617MIJOD,1988,Summer,Joy Middle School,Detroit,MI,Victims Targeted,0,0,0,0
+19880602MSWIJ,1988,Summer,Wingfield High School,Jackson,MS,Victims Targeted,0,0,1,0
+19880531NYPUB,1988,Spring,Public School 67,Bronx,NY,Random Shooting,0,0,0,0
+19880520ILHUW,1988,Spring,Hubbard Woods Elementary School,Winnetka,IL,Both,0,0,0,0
+19880516FLFOF,1988,Spring,Fort Myers Middle School,Fort Myers,FL,Victims Targeted,,0,0,0
+19880505ILMAC,1988,Spring,Martin Luther King High School,Chicago,IL,Random Shooting,0,0,0,0
+19880324TXTRA,1988,Spring,Travis High School,Austin,TX,null,,unknown,0,0
+19880323CACAS,1988,Spring,Cajon High School,San Bernadino,CA,null,,unknown,0,0
+19880304MILED,1988,Spring,Lessenger Junior High,Detroit,MI,Random Shooting,0,0,0,0
+19880226RIBRB,1988,Winter,Bristol High School,Bristol,RI,Victims Targeted,0,0,0,0
+19880211FLPIL,1988,Winter,Pinellas Park High School,Largo,FL,Neither,0,0,0,0
+19880202ALWET,1988,Winter,West End Christian Elementary School,Tuscaloosa,AL,Random Shooting,0,0,0,0
+19880129TXREA,1988,Winter,Reagan High School,Austin,TX,Victims Targeted,0,0,0,0
+19880120LASIR,1988,Winter,Simsboro High School,Ruston,LA,Victims Targeted,0,0,0,0
+19880108PACRM,1988,Winter,Crawford County Joint Vocational Technical School,Meadville,PA,null,,unknown,0,
+19880106FLGAT,1988,Winter,Gaither High School,Tampa,FL,Victims Targeted,0,0,0,0
+19880105PASPS,1988,Winter,Springfield High School,Springfield,PA,Victims Targeted,0,0,0,0
+19871216TXMAK,1987,Winter,Mayde Creek High School,Katy,TX,null,,0,0,0
+19871215NYGRB,1987,Winter,Grady Vocational-Technical School,Brighton Beach,NY,Random Shooting,0,0,0,0
+19871204NYEAN,1987,Winter,East New York High School of Transit Technology,New York,NY,Victims Targeted,0,0,0,0
+19871202FLENJ,1987,Winter,Englewood High School,Jacksonville,FL,NA,,unknown,0,
+19871130TXPES,1987,Fall,Perales Elementary School,San Antonio,TX,Victims Targeted,0,1,0,0
+19871114FLCLC,1987,Fall,Clearwater High School,Clearwater,FL,Victims Targeted,0,0,0,0
+19871104MISOD,1987,Fall,Southwestern High School,Detroit,MI,Victims Targeted,0,0,0,0
+19871031SCANA,1987,Fall,Andrews High School,Andrews,SC,Random Shooting,unknown,0,0,unknown
+19871030NCSOK,1987,Fall,Southwood Elementary School,Kingston,NC,null,0,0,0,0
+19871014ILDUC,1987,Fall,DuSable High School,Chicago,IL,null,,unknown,1,0
+19870928ILILL,1987,Fall,Illiana Christian High School,Lansing,IL,null,,0,0,0
+19870513ILOAO,1987,Spring,Oak Lawn Community High School,Oak Lawn,IL,Victims Targeted,0,0,0,0
+19870506FLLET,1987,Spring,Leto High School,Tampa,FL,Victims Targeted,0,0,0,0
+19870506ARMAJ,1987,Spring,MacAuthur Junior High,Jonesboro,AR,Victims Targeted,0,0,0,0
+19870503INPII,1987,Spring,Pike Township High School,Indianapolis,IN,Random Shooting,0,0,0,0
+19870430ORGRP,1987,Spring,Grant High School,Portland,OR,Victims Targeted,0,0,0,0
+19870416MIMUD,1987,Spring,Murray-Wright High School,Detroit,MI,Both,,0,0,0
+19870330CAPAS,1987,Spring,Panorama Elementary School,Santa Ana,CA,Victims Targeted,0,0,0,0
+19870306TXRIE,1987,Spring,Riverside High School,El Paso,TX,Random Shooting,0,0,0,0
+19870302MODED,1987,Spring,Dekalb High School,De Kalb,MO,Neither,1,0,0,0
+19870224NYMON,1987,Winter,Mount Tom Country Day School,New Rochelle,NY,Victims Targeted,0,0,0,0
+19870213AZORM,1987,Winter,Orme School,Mayer,AZ,Victims Targeted,0,0,0,1
+19870210ARDAD,1987,Winter,Dardanelle High School,Dardanelle,AR,Victims Targeted,0,0,0,0
+19870123MIRED,1987,Winter,Redford High School,Detroit,MI,Victims Targeted,0,0,0,0
+19870114CALOL,1987,Winter,Los Angeles High School,Los Angeles,CA,Victims Targeted,0,0,0,0
+19861204MTFEL,1986,Winter,Fergus High School,Lewistown,MT,Victims Targeted,,0,0,0
+19861008TXSOD,1986,Fall,South Oak Cliff High School,Dallas,TX,Victims Targeted,0,0,0,0
+19861003CAMOM,1986,Fall,Monrovia High School,Monrovia,CA,Both,0,0,1,0
+19860918CABEB,1986,Fall,Benicia High School ,Benicia,CA,Victims Targeted,0,1,0,0
+19860912CAFAL,1986,Fall,Fairfax High School,Los Angeles,CA,Both,0,0,1,0
+19860517TNMAN,1986,Spring,Maplewood High School,Nashville,TN,Victims Targeted,0,0,0,0
+19860516WYCOC,1986,Spring,Cokeville Elementary School,Cokeville,WY,Neither,0,0,0,1
+19860515GACAA,1986,Spring,Carver High School,Atlanta,GA,Random Shooting,0,0,0,0
+19860509NCPIF,1986,Spring,Pine Forest High School,Fayetteville,NC,Both,1,0,0,0
+19860429MOSES,1986,Spring,Senath-Hornersville High School,Senath,MO,Victims Targeted,,0,0,0
+19860423FLCHM,1986,Spring,Charles Drew Middle School,Miami,FL,Victims Targeted,0,0,0,0
+19860306ILTHD,1986,Spring,Thornridge High School,Dolton,IL,Victims Targeted,,0,0,0
+19860224LABOS,1986,Winter,Boyet Junior High School,Slidell,LA,Victims Targeted,0,0,0,0
+19860129MDLAB,1986,Winter,Lake Clifton High School,Baltimore,MD,Victims Targeted,1,0,0,0
+19860117CAVAL,1986,Winter,Vanguard Junior High School,Los Angeles,CA,Victims Targeted,0,0,0,0
+19860109NCNOD,1986,Winter,Northern High School,Durham,NC,Victims Targeted,0,1,0,0
+19851210CTPOP,1985,Winter,Portland Junior High School,Portland,CT,Both,0,0,0,0
+19851209PAARP,1985,Winter,Archbishop Ryan High School,Philadelphia,PA,Neither,,0,0,0
+19851203NHCOC,1985,Winter,Concord High School,Concord,NH,Victims Targeted,1,0,0,
+19851127ALCHB,1985,Fall,Chelsea School,Birmingham,AL,Both,,0,0,0
+19851126WASPS,1985,Fall,Spanaway Junior High School,Spanaway,WA,Both,0,0,0,0
+19851022OHSOG,1985,Fall,Southern Hills Joint Vocational High School,Georgetown,OH,Random Shooting,N/A,N/A,N/A,N/A
+19851018MIMUD,1985,Fall,Murray-Wright High School,Detroit,MI,null,0,0,0,0
+19851008MDLAB,1985,Fall,Lake Clifton High School,Baltimore,MD,Victims Targeted,0,0,0,0
+19850925OHTRT,1985,Fall,Trotwood-Madison Senior High,Trotwood,OH,Random Shooting,0,0,0,0
+19850920TXLAC,1985,Fall,Langham Creek High School,Cypress,TX,Both,0,0,0,0
+19850909TXWHH,1985,Fall,Wheatley High School,Houston,TX,Victims Targeted,0,0,0,0
+19850904VAEAR,1985,Fall,East End Middle School (bus),Richmond,VA,Random Shooting,,0,0,0
+19850724TXHIH,1985,Summer,Highland Park High School,Highland Park,TX,Victims Targeted,0,0,0,0
+19850516FLPAB,1985,Spring,Parrott Junior High School,Brookville,FL,Victims Targeted,0,0,0,0
+19850418TNSOS,1985,Spring,South Pittsburg High School,South Pittsburg,TN,Victims Targeted,0,1,0,0
+19850416TXMAA,1985,Spring,MacArthur Senior High School,Aldine,TX,Victims Targeted,0,0,0,0
+19850205CTAIH,1985,Winter,A I Prince Technical High School,Hartford,CT,Victims Targeted,0,0,0,0
+19850126MASTB,1985,Winter,St. Gregory's High School,Boston,MA,Both,0,0,0,0
+19850121KSGOG,1985,Winter,Goddard Junior High School,Goddard,KS,Both,1,0,0,1
+19850118TXARA,1985,Winter,Arlington High School,Arlington,TX,Victims Targeted,0,0,0,0
+19841207MOEDS,1984,Winter,Edwardsville High School,St. Louis,MO,Random Shooting,0,0,0,0
+19841126MDMIR,1984,Fall,Millford Mill High School,Rockdale,MD,Victims Targeted,0,0,0,0
+19841109CTWIN,1984,Fall,Wilbur Cross High School,New Haven,CT,Victims Targeted,0,0,0,0
+19841031LAEAG,1984,Fall,East Ascension High School,Gonzales,LA,Victims Targeted,0,0,0,0
+19841030SCPEP,1984,Fall,Pendleton High School,Pendleton,SC,Both,0,0,0,0
+19841024OHWEC,1984,Fall,West Elementary School Bus,Celina,OH,Victims Targeted,0,1,0,0
+19841024MISOD,1984,Fall,Southeastern High School,Detroit,MI,Random Shooting,0,0,0,
+19841022MICED,1984,Fall,Central High School,Detroit,MI,Random Shooting,0,0,0,0
+19841021PAWYE,1984,Fall,Wyoming Area High School,Exeter,PA,null,0,0,0,0
+19840928TXRIN,1984,Fall,Richland High School,North Richland Hills,TX,Both,,0,0,1
+19840928TXMIH,1984,Fall,Millsap Elementary School,Houston,TX,Random Shooting,0,0,0,
+19840831LABOS,1984,Summer,Booker T. Washington High School,Shreveport,LA,Random Shooting,0,0,1,0
+19840710MIMUD,1984,Summer,Mumford High School,Detroit,MI,Random Shooting,0,0,1,0
+19840522OHCLC,1984,Spring,Cleveland Heights High School,Cleveland Heights,OH,Random Shooting,0,0,0,0
+19840518CANON,1984,Spring,Norco High School,Norco,CA,Both,0,0,0,0
+19840517TXBOH,1984,Spring,Booker T. Washington High School,Houston,TX,Victims Targeted,0,1,0,0
+19840517IASOP,1984,Spring,Southeast Polk High School,Pleasant Hill,IA,Victims Targeted,0,0,0,
+19840515MTCMG,1984,Spring,C M Russell High School,Great Falls,MT,Victims Targeted,0,0,0,0
+19840426NCROW,1984,Spring,Rose Hill Magnolia Elementary School,Wallace,NC,Victims Targeted,0,0,0,0
+19840420MIPRD,1984,Spring,Precious Blood School,Detroit,MI,Random Shooting,0,0,0,0
+19840405LACLC,1984,Spring,Clinton High School,Clinton,LA,Victims Targeted,,0,0,0
+19840224CA49L,1984,Winter,49th Street Elementary School,Los Angeles,CA,Random Shooting,0,0,0,1
+19840221TXSHH,1984,Winter,Sharpstown High School,Houston,TX,Victims Targeted,0,0,0,0
+19840206KYCEL,1984,Winter,Central High School,Louisville,KY,Victims Targeted,0,0,0,0
+19840105MDLAB,1984,Winter,Lake Clifton Senior HIgh School,Baltimore,MD,Victims Targeted,0,0,0,0
+19831216ILBOR,1983,Winter,Boylan Central Catholic High School,Rockford,IL,Victims Targeted,0,0,0,1
+19831202INCRC,1983,Winter,Crawfordsville High School,Crawfordsville,IN,Victims Targeted,0,0,0,0
+19831118MDHAB,1983,Fall,Harlem Park Junior High School,Baltimore,MD,Victims Targeted,0,0,0,0
+19831117ILJAC,1983,Fall,James G. Blaine Elementary School,Chicago,IL,Victims Targeted,0,0,1,0
+19831108MIHIH,1983,Fall,Highland Park High School,Highland Park,MI,Victims Targeted,,0,0,0
+19831022MDCAB,1983,Fall,Carver Vocational-Technical Senior High,Baltimore,MD,Victims Targeted,0,0,0,0
+19831007CACOL,1983,Fall,Compton High School,Los Angeles,CA,Random Shooting,0,0,1,0
+19830930TXTET,1983,Fall,Temple High School,Temple,TX,Victims Targeted,0,0,0,0
+19830921MDWAB,1983,Fall,Walbrook High School,Baltimore,MD,Random Shooting,0,0,0,0
+19830912MIHED,1983,Fall,Henry Ford High School,Detroit,MI,Victims Targeted,0,0,0,0
+19830912CAMAC,1983,Fall,Manuel Dominguez High School,Compton,CA,Both,0,0,1,0
+19830526PAGRJ,1983,Spring,Greater Johnstown High School,Johnstown,PA,Neither,0,0,0,0
+19830523OHMAM,1983,Spring,Mansfield Senior High School,Mansfield,OH,Victims Targeted,0,0,0,0
+19830518FLNOM,1983,Spring,North Miami Senior High School,Miami,FL,Victims Targeted,0,0,0,0
+19830516TXLAD,1983,Spring,Lake Highland High School,Dallas,TX,Neither,0,0,0,0
+19830516NYBRN,1983,Spring,Brentwood High School,New York,NY,Both,0,0,0,1
+19830421MOBES,1983,Spring,Beaumont High School,St. Louis,MO,Random Shooting,0,0,0,0
+19830331ILSAC,1983,Spring,Santa Maria InCornata-Santa Lucia School,Chicago,IL,Victims Targeted,0,0,0,0
+19830202NMALA,1983,Winter,Albuquerque High School,Alburquerque,NM,null,0,0,unknown,
+19830201TNRIM,1983,Winter,Riverdale High School,Murfreesboro,TN,Random Shooting,0,0,0,0
+19830131FLDED,1983,Winter,DeLand High School,DeLand,FL,Victims Targeted,0,0,0,0
+19830130TXWEC,1983,Winter,West Ward School,Coleman,TX,Victims Targeted,0,0,0,
+19830128MDWIB,1983,Winter,William H. Lemmel Middle School,Baltimore,MD,Random Shooting,0,0,0,0
+19830120MOPAB,1983,Winter,Parkway South Middle School,Baldwin,MO,Victims Targeted,1,0,0,0
+19830118TXJOH,1983,Winter,John H. Reagan High School,Houston,TX,Victims Targeted,0,1,0,0
+19821220MIFID,1982,Winter,Finney High School,Detroit,MI,Victims Targeted,0,0,0,0
+19821206ALHUH,1982,Winter,Huntsville High School,Huntsville,AL,Victims Targeted,0,0,0,0
+19821112MSWIJ,1982,Fall,Wingfield High School,Jackson,MS,Victims Targeted,0,1,0,0
+19821108MICOD,1982,Fall,Cooley High School,Detroit,MI,Random Shooting,0,0,0,0
+19821101NYELE,1982,Fall,Elmont Memorial High School,Elmont,NY,Victims Targeted,0,0,0,0
+19820915ARSOP,1982,Fall,South West Middle School,Pine Bluff,AR,Victims Targeted,,unknown,0,0
+19820910VALAB,1982,Fall,Lake Braddock Secondary School,Burke,VA,Random Shooting,0,0,0,0
+19820527NVGAL,1982,Spring,Garside Junior High School,Las Vegas,NV,null,,unknown,0,
+19820430FLANA,1982,Spring,Anniston High School,Anniston,FL,Victims Targeted,0,0,0,0
+19820429GARUE,1982,Spring,Russell High School,East Point,GA,Random Shooting,0,0,0,0
+19820415MDFOB,1982,Spring,Forest Park Senior High School,Baltimore,MD,Random Shooting,0,0,0,0
+19820407CODEL,1982,Spring,Deer Creek Junior High School,Littleton,CO,Victims Targeted,0,0,0,0
+19820319NVVAL,1982,Spring,Valley High School,Las Vegas,NV,Both,0,0,0,0
+19820317OHLOL,1982,Spring,Lorain High School,Lorain,OH,Victims Targeted,,unknown,0,0
+19820315ORSPS,1982,Spring,Springfield High School,Springfield,OR,Victims Targeted,,unknown,0,
+19820209LAJON,1982,Winter,John McDonough Senior High,New Orleans,LA,Victims Targeted,,unknown,0,0
+19820208MADOD,1982,Winter,Dorchester High School,Dorchester,MA,Random Shooting,0,0,0,0
+19820205TNHAM,1982,Winter,Hamilton High School,Memphis,TN,Victims Targeted,0,0,0,0
+19811223NYJAB,1981,Winter,James Madison High School,Brooklyn,NY,Random Shooting,0,0,0,0
+19811216TXUNH,1981,Winter,Unnamed school,Houston,TX,Victims Targeted,0,0,0,0
+19811209NYGEB,1981,Winter,George W. Wingate High School,Brooklyn,NY,Victims Targeted,0,0,0,0
+19811013CTHAH,1981,Fall,Hartford Public High School,Hartford,CT,Victims Targeted,,unknown,0,0
+19810913MDABA,1981,Fall,Aberdeen High School,Aberdeen,MD,Victims Targeted,N/A,N/A,N/A,N/A
+19810908FLSTW,1981,Fall,Stuart Middle School,West Palm Beach,FL,Victims Targeted,,unknown,0,0
+19810904NMHOS,1981,Fall,Hobbs High School,Santa Fe,NM,Victims Targeted,,0,unknown,0
+19810901PAWIP,1981,Fall,William Longstreth Elementary School,Philadelphia,PA,Both,0,0,1,0
+19810515LANEN,1981,Spring,New Iberia Junior HIgh School,New Iberia,LA,Victims Targeted,0,1,0,0
+19810407MSPOP,1981,Spring,Poplarville High School,Poplarville,MS,null,0,0,unknown,0
+19810402OHALC,1981,Spring,Alexander Hamilton Junior High School,Cleveland,OH,Victims Targeted,0,0,0,0
+19810328FLDIF,1981,Spring,Dillard High School,Fort Lauderdale,FL,Victims Targeted,0,0,0,0
+19810303INMAI,1981,Spring,Marshall High School ,Indianapolis,IN,Victims Targeted,,0,0,0
+19810210CAMAL,1981,Winter,Manuel Arts High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+19810210ARLIL,1981,Winter,Little Rock Hall High School,Little Rock,AR,Victims Targeted,0,unknown,0,0
+19810122MDFRB,1981,Winter,Francis M. Wood Senior High School,Baltimore,MD,Victims Targeted,0,0,0,0
+19810121OHWIB,1981,Winter,Willetts Middle School,Brunswick,OH,Victims Targeted,,0,0,0
+19801212OHLOL,1980,Winter,Longfellow Junior HIgh School,Lorain,OH,Random Shooting,,0,0,
+19801212ALPAB,1980,Winter,Parker High School,Birmingham,AL,Both,0,0,unknown,0
+19801117TXEAF,1980,Fall,Eastern Hills High School,Fort Worth,TX,Victims Targeted,,0,0,0
+19801031ALHUH,1980,Fall,Hueytown High School,Hueytown,AL,Victims Targeted,,0,0,0
+19801013ALCET,1980,Fall,Central High School,Tuscaloosa,AL,Victims Targeted,,0,0,0
+19800926CTBRB,1980,Fall,Bridgeport Central High School,Bridgeport,CT,Both,0,1,0,0
+19800911ALJOM,1980,Fall,John S. Shaw High School,Mobile,AL,Victims Targeted,0,0,0,0
+19800910DCSPW,1980,Fall,Springarn High School,Washington,DC,Random Shooting,0,0,0,0
+19800908FLFOJ,1980,Fall,Forrest High School,Jacksonville,FL,Victims Targeted,0,0,0,0
+19800902CAWHL,1980,Fall,Whittier High School,Los Angeles,CA,Both,,0,1,0
+19800530NYCLB,1980,Spring,Clara Barton High School,Brooklyn,NY,Random Shooting,0,0,0,0
+19800417VACAC,1980,Spring,Capeville Elementary School,Capeville,VA,Victims Targeted,0,1,0,0
+19800331MDFRB,1980,Spring,Frederick Douglass Senior High School,Baltimore,MD,Victims Targeted,0,0,0,0
+19800320TXJLD,1980,Spring,J Leslie Patton School,Dallas,TX,Victims Targeted,,1,0,0
+19800215MSHUM,1980,Winter,Hughes School,McComb,MS,Victims Targeted,0,1,0,0
+19800211INARI,1980,Winter,Arsenal Technical High School,Indianapolis,IN,Victims Targeted,0,0,0,0
+19800207TXVAL,1980,Winter,Valley View Elementary School,Longview,TX,Random Shooting,0,0,0,0
+19800201DCLAW,1980,Winter,Langdon Elementary School,"Washington, DC",DC,Neither,0,0,0,0
+19800129VALAW,1980,Winter,Lafayette High School,Williamsburg,VA,Victims Targeted,,0,0,0
+19800107ARSTS,1980,Winter,Stamps High School,Stamps,AR,Victims Targeted,,0,0,0
+19791221MOBLS,1979,Winter,Blewett Middle School,St. Louis,MO,Victims Targeted,0,0,0,0
+19791203MDEAB,1979,Winter,Eastern High School,Baltimore,MD,Both,0,0,1,0
+19791130TXUNL,null,null,null,null,null,null,,unknown,unknown,
+null,null,null,null,null,null,null,,unknown,unknown,1
+19791105INWAI,1979,Fall,Washington High School,Indianapolis,IN,Victims Targeted,,0,unknown,0
+19791023MOOFS,1979,Fall,O Fallen Technical High School,St. Louis,MO,Victims Targeted,0,0,0,0
+19790928MACHC,1979,Fall,Charlestown High School,Charlestown,MA,Victims Targeted,0,0,0,0
+19790926LACAN,1979,Fall,Carter G. Woodson Middle School,New Orleans,LA,Victims Targeted,0,0,0,0
+19790614OHNEN,1979,Summer,New Carlisle Elementary School,New Carlisle,OH,Neither,0,0,0,0
+19790426TXAZA,1979,Spring,Azle Junior High School,Azle,TX,Victims Targeted,0,0,0,0
+19790425PAMAH,1979,Spring,Martin L. Mattei Junior High School,Hughestown,PA,Random Shooting,0,0,0,0
+19790416WIWIM,1979,Spring,Wisconsin Lutheran High School,Milwaukee,WI,Victims Targeted,0,0,0,0
+19790328CALOL,1979,Spring,Los Angeles High School,Los Angeles,CA,Victims Targeted,0,0,0,0
+19790314FLMCM,1979,Spring,McArthur High School North,Miami,FL,Victims Targeted,0,0,0,0
+19700226CABAB,1979,Winter,Barstow High School,Barstow,CA,Both,1,0,0,1
+19790226CABAB,1979,Winter,Barstow High School,Barstow,CA,Both,1,0,0,1
+19790129CAGRS,1979,Winter,Grover Cleveland Elementary School,San Diego,CA,Random Shooting,0,0,0,0
+19781214CTWIN,1978,Winter,Wilbur Cross High School,New Haven,CT,Victims Targeted,0,0,0,0
+19781129NYPAN,1978,Fall,Park West High School,New York,NY,Random Shooting,0,0,0,0
+19781017MOUNU,1978,Fall,University City High School,University City,MO,Victims Targeted,0,0,0,0
+19781017ALLAL,1978,Fall,Lanett Junior High School,Lanett,AL,Victims Targeted,0,0,0,0
+19780610MAWEW,1978,Summer,Weymouth South High School,Weymouth,MA,Victims Targeted,0,0,0,0
+19780607DEDOD,1978,Summer,Dover Air High,Dover,DE,Neither,0,0,0,0
+19780519PADOP,1978,Spring,Downtown Junior High School,Philadelphia,PA,null,,unknown,unknown,
+19780518TXMUA,1978,Spring,Murchison Junior High School,Austin,TX,Victims Targeted,0,0,0,1
+19780428ILRIN,1978,Spring,Ridgewood High School,Norridge,IL,null,,0,0,0
+19780426TXPAD,1978,Spring,Paul Dunbar Elementary School,Dallas,TX,Victims Targeted,0,0,0,0
+19780414MIFOD,1978,Spring,Fordson High School,Detroit,MI,Victims Targeted,,unknown,unknown,0
+19780329TNGAN,1978,Spring,Gallatin Junior High School,Nashville,TN,Victims Targeted,0,0,0,0
+19780309CAMOS,1978,Spring,Monroe Elementary School,Santa Rosa,CA,Random Shooting,0,0,0,0
+19780222MIEVL,1978,Winter,Everett High School,Lansing,MI,Victims Targeted,1,0,0,0
+19780209WVHAS,1978,Winter,Hayes Junior High School,St. Albans,WV,Victims Targeted,1,0,0,0
+19780111KYCHH,1978,Winter,Christian County Middle School,Hopkinsville,KY,Victims Targeted,,0,0,0
+19771215MABLC,1977,Winter,Blue Hills Vocational High School,Canton,MA,null,,0,0,1
+19771212FLWEW,1977,Winter,West Orange High School,Winter Garden,FL,Victims Targeted,0,0,0,0
+19771209CAPES,1977,Winter,Petaluma McNear Elementary,Santa Rosa,CA,Victims Targeted,0,1,0,0
+19771129MOVAS,1977,Fall,Vashon High School,St. Louis,MO,Victims Targeted,,unknown,0,0
+19771129MOHAS,1977,Fall,Hazelwood Central Senior High School,St. Louis,MO,Neither,,unknown,0,
+19770711COSOC,1977,Summer,South Junior High School,Colorado Springs,CO,null,0,0,0,0
+19770622ILHOC,1977,Summer,Holy Trinity High School,Chicago,IL,Victims Targeted,0,0,0,0
+19770517FLSTC,1977,Spring,Stone Middle School,Cocoa,FL,null,,unknown,0,0
+19770418TNPIN,1977,Spring,Pioneer Christian Academy,Nashville,TN,Victims Targeted,0,1,0,0
+19770407TXWHW,1977,Spring,Whitharral High School,Whitharral,TX,Victims Targeted,0,0,0,1
+19770321NYPAH,1977,Spring,Parochial School,Hamburg,NY,Neither,0,0,0,0
+19770308ILCOE,1977,Spring,Collinsville High School,Edwardsville,IL,Both,0,0,0,0
+19770228TXHOA,1977,Winter,Horace Mann Junior High School,Amarillo,TX,Victims Targeted,0,0,0,0
+19770228MOROS,1977,Winter,Roosevelt High School,St. Louis,MO,Victims Targeted,0,0,0,0
+19770209ILFEC,1977,Winter,Fenger High School,Chicago,IL,Both,0,0,0,0
+19770113ILOLB,1977,Winter,Old Main Eisenhower High School,Blue Island,IL,Victims Targeted,0,0,0,0
+19761210MOFRS,1976,Winter,Fremont School,St. Louis,MO,Victims Targeted,0,0,0,0
+19761110MIBUD,1976,Fall,Burt Elementary School,Detroit,MI,Victims Targeted,0,1,0,0
+19760920NCGUG,1976,Fall,Guildord County School Bus,Greensboro,NC,Random Shooting,0,0,0,0
+19760602MDMTC,1976,Summer,Mt. Savage High School,Cumberland,MD,null,,0,0,0
+19760514FLPAW,1976,Spring,Palm Beach Gardens High School,West Palm Beach,FL,Victims Targeted,0,0,0,0
+19760513MOMAS,1976,Spring,Mark Twain School,St. Louis,MO,Random Shooting,0,0,0,0
+19760412TXODF,1976,Spring,O D Wyatt High School,Fort Worth,TX,Both,,0,0,0
+19760212MIMUD,1976,Winter,Murray-Wright High School,Detroit,MI,Random Shooting,0,1,0,0
+19760206FLESP,1976,Winter,Escambia High School,Pensacola,FL,Neither,0,0,0,0
+19760123OHCOC,1976,Winter,Columbus Central High School,Columbus,OH,Victims Targeted,,unknown,0,0
+19760101AZCAP,1976,Winter,Camelback High School,Phoenix,AZ,null,0,0,0,0
+19751218CAORS,1975,Winter,Orange High School,Santa Ana,CA,Victims Targeted,0,0,0,0
+19751024GAMUA,1975,Fall,Murphy High School,Atlanta,GA,Victims Targeted,0,0,0,0
+19751001NMHEA,1975,Fall,Hermosa Elementary School,Artesia,NM,Victims Targeted,0,0,0,0
+19750911OKGRO,1975,Fall,Grant High School,Oklahoma City,OK,Both,0,0,0,0
+19750711MOCES,1975,Summer,Central High School,St. Louis,MO,Victims Targeted,0,0,0,0
+19750709ILDEC,1975,Summer,Dett Elementary School,Chicago,IL,Victims Targeted,0,1,0,0
+19750527MIPID,1975,Spring,Pitcher School,Detroit,MI,Victims Targeted,0,0,0,0
+19750515MOROS,1975,Spring,Rock Junior High School,St. Louis,MO,Victims Targeted,0,0,0,0
+19750321VAFAR,1975,Spring,Fairmount Elementary School,Richmond,VA,Random Shooting,0,0,0,0
+19750321OHPAD,1975,Spring,Patterson Cooperative High School,Dayton,OH,Victims Targeted,0,0,0,1
+19750318MOSUS,1975,Spring,Sumner High School,St. Louis,MO,Victims Targeted,0,0,0,1
+19750312TXJOH,1975,Spring,Jones High School,Houston,TX,null,0,0,0,0
+19750224NJSTP,1975,Winter,St. James School,Penns Grove,NJ,Both,unknown,0,0,1
+19750207NYBOM,1975,Winter,Board of Cooperative Educational Services,Mineola,NY,Victims Targeted,0,0,0,0
+19741230NYOLO,1974,Winter,Olean High School,Olean,NY,Random Shooting,0,0,0,1
+19741218CAMAL,1974,Winter,Manual Arts High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+19741125SCCAC,1974,Fall,C A Brown High School,Charleston,SC,Victims Targeted,0,0,1,0
+19741121ARBOL,1974,Fall,Booker Junior High School,Little Rock,AR,Both,0,0,0,0
+19741118SCCAC,1974,Fall,C A Brown High School,Charleston,SC,Victims Targeted,0,0,1,0
+19741021MDDOB,1974,Fall,Douglass High School,Baltimore,MD,Neither,0,0,0,0
+19741007LADEH,1974,Fall,Destrehan High School,Hahnville,LA,Random Shooting,0,0,0,0
+19740925CASAL,1974,Fall,San Fernando High School,Los Angeles,CA,null,,unknown,0,0
+19740923CAJED,1974,Fall,Jefferson High School,Daly City,CA,Victims Targeted,,0,0,0
+19740519FLHIO,1974,Spring,Highlands Elementary School,Orlando,FL,Victims Targeted,0,1,0,0
+19740510TNCHR,1974,Spring,Church Hill High School,Rogersville,TN,Victims Targeted,0,0,0,0
+19740402CTSTB,1974,Spring,St. Stephen's Parochial School,Bridgeport,CT,null,0,unknown,0,0
+19740322INBRB,1974,Spring,Brownstown Central High School,Brownstown,IN,Victims Targeted,0,0,0,1
+19740207CAJAO,1974,Winter,James Madison Junior High School,Oakland,CA,Neither,0,0,0,0
+19740122CALOL,1974,Winter,Locke High School,Los Angeles,CA,Random Shooting,0,0,1,0
+19740117ILBAC,1974,Winter,Barton Elementary School,Chicago,IL,Victims Targeted,,0,0,1
+19731213OHHUC,1973,Winter,Hughes High School,Cincinnati,OH,Both,0,0,0,0
+19731206CAFRL,1973,Winter,Fremont High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+19731109CALOL,1973,Fall,Long Beach Polytechnic High School,Los Angeles,CA,null,0,unknown,1,0
+19731108ILWOC,1973,Fall,Woodell Phillips High School,Chicago,IL,Victims Targeted,0,0,0,0
+19731031MONOS,1973,Fall,Northwestern High School,St. Louis,MO,Victims Targeted,0,0,unknown,0
+19731024MNCEM,1973,Fall,Central High School,Minneapolis,MN,Both,0,0,0,0
+19731023OHBAB,1973,Fall,Barberton High School,Barberton,OH,Victims Targeted,0,0,0,0
+19731023MOSUS,1973,Fall,Sumner High School,St. Louis,MO,Random Shooting,0,0,1,0
+19731019MOBES,1973,Fall,Beaumont High School,St. Louis,MO,null,0,0,1,0
+19731002ILELA,1973,Fall,Elmhurst Wood Park Community High School,Almwood Park,IL,Victims Targeted,0,1,0,0
+19730928CAWIL,1973,Fall,Wilson High School,Los Angeles,CA,Victims Targeted,0,0,0,0
+19730501OHRAY,1973,Spring,Rayen High School,Youngtown,OH,Victims Targeted,0,0,0,0
+19730405CALOL,1973,Spring,Locke High School,Los Angeles,CA,Victims Targeted,0,0,1,0
+19730226VAARR,1973,Winter,Armstrong High School,Richmond,VA,Random Shooting,0,0,0,0
+19730212ALBOM,1973,Winter,Booker T. Washington High School,Montgomery,AL,null,0,0,unknown,0
+19730131NCCUB,1973,Winter,Cumming High School,Burlington,NC,Victims Targeted,0,0,0,0
+19730118CAJOL,1973,Winter,John Marshall High School,Los Angeles,CA,Victims Targeted,0,0,0,0
+19730105NCSOS,1973,Winter,South Iredell High School,Statesville,NC,Victims Targeted,0,0,0,0
+19721129FLMIM,1972,Fall,Miami Northwest High School,Miami,FL,null,0,0,0,0
+19721127MIPOP,1972,Fall,Pontiac Central High School,Pontiac,MI,Victims Targeted,0,0,0,1
+19721111CAJEL,1972,Fall,Jefferson High School,Los Angeles,CA,Both,0,0,1,0
+19720921OHTHA,1972,Fall,Thorton Junior High,Akron,OH,Victims Targeted,0,0,0,0
+19720919TXCUH,1972,Fall,Cullen Junior High,Houston,TX,Victims Targeted,0,1,0,0
+19720915MISAS,1972,Fall,Saginaw High School,Saginaw,MI,null,,unknown,unknown,0
+19720914TXFRH,1972,Fall,Francis Scott Key Junior High,Houston,TX,Victims Targeted,0,0,0,0
+19720505INDEI,1972,Spring,Decatur Central High School,Indianapolis,IN,Victims Targeted,0,0,0,0
+19720504NVLIR,1972,Spring,Libby Booth Elementary School,Reno,NV,Victims Targeted,0,0,0,0
+19720412LAEAG,1972,Spring,East Ascension Junior High,Gonzales,LA,Victims Targeted,0,1,0,0
+19720313TXUNH,1972,Spring,Unnamed Junior High School,Houston,TX,Neither,0,0,0,0
+19720228CAMAL,1972,Winter,Markham Junior High School,Los Angeles,CA,Random Shooting,0,0,0,0
+19720215ILKEC,1972,Winter,Kenwood High School,Chicago,IL,Victims Targeted,N/A,N/A,N/A,N/A
+19720214ILCAC,1972,Winter,Camlumet High School,Chicago,IL,Victims Targeted,0,0,1,0
+19720126MDHAB,1972,Winter,Harlem Park Junior High School,Baltimore,MD,Victims Targeted,,0,0,0
+19720126MDGWB,1972,Winter,Gwynn Falls Junior High School,Baltimore,MD,Random Shooting,0,0,0,0
+19720124OHSTS,1972,Winter,Stow High School,Stow,OH,Victims Targeted,0,0,0,0
+19720105DCPAW,1972,Winter,Parkview Elementary School,Washington,DC,Victims Targeted,0,1,0,0
+19711213MDCAB,1971,Winter,Carver Vocational High School,Baltimore,MD,Victims Targeted,0,0,0,0
+19711206CALOL,1971,Winter,Louis Stevenson Junior High School,Los Angeles,CA,Both,0,0,1,0
+19711124MDEDB,1971,Fall,Edmondson Senior High School,Baltimore,MD,Victims Targeted,0,0,0,0
+19711108OKGRT,1971,Fall,Grove Elementary School,Tulsa,OK,Victims Targeted,0,0,0,0
+19711103NMCAC,1971,Fall,Carlsbad Mid-High School,Carlsbad,NM,Random Shooting,0,0,0,0
+19711029MDFRB,1971,Fall,Frederick Douglass High School,Baltimore,MD,Random Shooting,0,0,0,0
+19711029MDFOB,1971,Fall,Forest Park High School,Baltimore,MD,Neither,0,0,0,0
+19711028MDCIB,1971,Fall,City College High School,Baltimore,MD,Victims Targeted,0,0,0,0
+19710929VAPEP,1971,Fall,Peabody Junior High School,Petersburg,VA,Random Shooting,,0,0,0
+19710928MNCEM,1971,Fall,Central High School,Minneapolis,MN,Victims Targeted,0,0,0,0
+19710924NYMCB,1971,Fall,McKinley Vocational High School,Buffalo,NY,Victims Targeted,0,0,0,0
+19710909TXDUL,1971,Fall,Dunbar High School,Lubbock,TX,Victims Targeted,0,0,0,0
+19710820PAMOM,1971,Summer,Monessen High School,Monessen,PA,Victims Targeted,0,0,0,0
+19710602NYEAE,1971,Summer,East Aurora Middle School,East Aurora,NY,Neither,0,0,0,0
+19710527MIBES,1971,Spring,Benton Harbor High School,Saint Joseph,MI,Victims Targeted,1,0,0,0
+19710405PAWIH,1971,Spring,William Penn High School,Harrisburg,PA,Victims Targeted,0,1,0,0
+19710309AZROT,1971,Spring,Roskruge Junior High School,Tucson,AZ,Random Shooting,0,0,0,0
+19710225OHFRC,1971,Winter,Franklin D. Roosevelt Junior High School,Cleveland,OH,Victims Targeted,,0,0,0
+19710210TXOAD,1971,Winter,Oak Cliff High School,Dallas,TX,Both,0,0,0,0
+19710205PAJOW,1971,Winter,John F. Kennedy High School,Willingboro,PA,Victims Targeted,,unknown,0,0
+19710202PAMOP,1971,Winter,Morris E. Leeds Middle School,Philadelphia,PA,Victims Targeted,0,0,0,1
+19701212WIXAA,1970,Winter,Xavier High School,Appleton,WI,Neither,0,0,0,N/A
+19701120ILHAC,1970,Fall,Harlan High School,Chicago,IL,null,0,0,1,0
+19701027OHAPM,1970,Fall,Appleseed Junior High School,Mansfield,OH,Victims Targeted,,0,0,0
+19701020TNWAN,1970,Fall,Washington Junior High School,Nashville,TN,Victims Targeted,0,0,0,0
+19701019TNBOM,1970,Fall,Booker T. Washington High School,Memphis,TN,Victims Targeted,0,0,0,0
+19701005MIPOD,1970,Fall,Pontiac Central High School,Detroit,MI,Victims Targeted,0,0,0,0
+19700928IACED,1970,Fall,Central High School,Davenport,IA,Victims Targeted,0,1,0,0
+19700924IDMEM,1970,Fall,Meridian High School,Meridian ,ID,Random Shooting,0,0,0,0
+19700914TNHAN,1970,Fall,Hamilton High School,Nashville,TN,Both,0,0,0,0
+19700831FLALM,1970,Summer,Allapatah Elementary School,Miami,FL,Victims Targeted,0,0,0,0
+19700828TXRIE,1970,Summer,Riverside High School,El Paso,TX,Victims Targeted,0,0,0,0
+19700515UTBEO,1970,Spring,Ben Lomond High School,Ogden,UT,Random Shooting,,0,0,0
+19700508FLCAD,1970,Spring,Carver High School,Delray Beach,FL,Victims Targeted,0,0,0,0
+19700422DEPIW,1970,Spring,Pierre S. Dupont High School,Wilmington,DE,Victims Targeted,0,0,0,0
+19700415ARPIP,1970,Spring,Pine Bluff Coleman High School,Pine Bluff,AR,Both,0,0,1,0
+19700323CADAL,1970,Spring,David Starr Jordan High School,Long Beach,CA,Neither,0,0,0,0
+19700206OHJOC,1970,Winter,John F. Kennedy High School,Cleveland,OH,Victims Targeted,0,0,0,0
+19700105DCUNW,1970,Winter,Unnamed High School,Washington,DC,Victims Targeted,0,0,0,0
+19700105DCSOW,1970,Winter,Sousa Junior High,Washington,DC,Random Shooting,0,0,0,0
+19700105DCHIW,1970,Winter,Hine Junior High School,Washington,DC,Random Shooting,0,0,0,0
